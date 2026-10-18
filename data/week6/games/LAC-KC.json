@@ -1,7 +1,8 @@
-{"status":"live","clock":"Q2 7:47","score":{"LAC":3,"KC":9},
- "players":{"Patrick Mahomes":{"pass_cmp":8,"pass_yds":81,"int":1},
-  "Kenneth Walker":{"rush_att":8,"rush_yds":70,"rush_td_lengths":[33]},
+{"status":"live","clock":"Q2 1:49","score":{"LAC":3,"KC":16},
+ "players":{"Patrick Mahomes":{"pass_cmp":13,"pass_yds":146,"int":1,"rush_att":1,"rush_yds":10},
+  "Kenneth Walker":{"rush_att":10,"rush_yds":75,"rush_td_lengths":[33,2],"rec":1,"rec_yds":6},
+  "Travis Kelce":{"rec":2,"rec_yds":40},
   "Xavier Worthy":{"rec":4,"rec_yds":51}},
- "kickers":{"Harrison Butker":{"fg_made_dist":[44],"xp_made":0,"xp_missed":1},"Cameron Dicker":{"fg_made_dist":[23]}},
+ "kickers":{"Harrison Butker":{"fg_made_dist":[44],"xp_made":1,"xp_missed":1},"Cameron Dicker":{"fg_made_dist":[23]}},
  "defenses":{"LAC":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"KC":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}},
  "src":"CBS box + Sportradar scoring plays"}
