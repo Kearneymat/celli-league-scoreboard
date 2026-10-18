@@ -1,10 +1,10 @@
-{"status":"live","clock":"Q4 11:59","score":{"BAL":10,"CLE":3},
- "players":{"Derrick Henry":{"rush_att":15,"rush_yds":52,"rec":1,"rec_yds":2,"fl":1},
+{"status":"live","clock":"Q4 2:58","score":{"BAL":10,"CLE":10},
+ "players":{"Derrick Henry":{"rush_att":17,"rush_yds":58,"rec":1,"rec_yds":2,"fl":1},
   "Zay Flowers":{"rush_att":1,"rush_yds":1,"rec":6,"rec_yds":66},
   "Mark Andrews":{"rec":1,"rec_yds":4},
   "Harold Fannin":{"rec":1,"rec_yds":9},
   "Denzel Boston":{"rec":1,"rec_yds":15}},
  "kickers":{"Tyler Loop":{"fg_made_dist":[34],"fg_missed_dist":[45],"miss_label":{"45":"40-49 yd"},"xp_made":1},
-  "Andre Szmyt":{"fg_made_dist":[48]}},
+  "Andre Szmyt":{"fg_made_dist":[48],"fg_missed_dist":[45],"miss_label":{"45":"40-49 yd"},"xp_made":1}},
  "defenses":{"BAL":{"sacks":5,"int":0,"fum_rec":0,"safeties":0},"CLE":{"sacks":3,"int":0,"fum_rec":1,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}
