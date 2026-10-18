@@ -1,0 +1,5 @@
+{"status":"final","clock":"Final/OT","score":{"SEA":14,"DEN":17},
+ "players":{"Jaxon Smith-Njigba":{"rec":12,"rec_yds":134},"Emanuel Wilson":{"rush_att":14,"rush_yds":52}},
+ "kickers":{"Jason Myers":{"fg_made_dist":[55,34],"fg_missed_dist":[45],"miss_label":{"45":"40-49 yd"},"xp_made":0}},
+ "defenses":{"SEA":{"sacks":2,"int":0,"fum_rec":0,"safeties":0},"DEN":{"sacks":5,"int":2,"fum_rec":1,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}

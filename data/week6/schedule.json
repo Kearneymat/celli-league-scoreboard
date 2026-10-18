@@ -1,0 +1,16 @@
+[
+ {"away":"SEA","home":"DEN","kick":"Thu 8:15 ET","id":"f03343eb-bec5-4d70-aa42-c06d56f5cc3a","cbs":"NFL_20261015_SEA@DEN"},
+ {"away":"HOU","home":"JAX","kick":"Sun 9:30 ET","id":"0bddea0c-7e26-4dff-a967-85ef8e5156cc","cbs":"NFL_20261018_HOU@JAC"},
+ {"away":"TEN","home":"IND","kick":"Sun 1:00 ET","id":"05de40e8-fb6e-4bad-866f-1e83fc30af99","cbs":"NFL_20261018_TEN@IND"},
+ {"away":"CAR","home":"PHI","kick":"Sun 1:00 ET","id":"0ef610ad-e491-48ee-8b9a-169c034541c0","cbs":"NFL_20261018_CAR@PHI"},
+ {"away":"PIT","home":"TB","kick":"Sun 1:00 ET","id":"3ce6e74e-7f75-4f11-975c-a362d45b91a7","cbs":"NFL_20261018_PIT@TB"},
+ {"away":"BAL","home":"CLE","kick":"Sun 1:00 ET","id":"88ccd1b5-9b04-483e-8e31-fe01f1188651","cbs":"NFL_20261018_BAL@CLE"},
+ {"away":"NO","home":"NYG","kick":"Sun 1:00 ET","id":"b31d5033-99fd-42ec-bcc6-329117723008","cbs":"NFL_20261018_NO@NYG"},
+ {"away":"CHI","home":"ATL","kick":"Sun 1:00 ET","id":"d220a093-7691-43e9-aea0-81d7eb499ac9","cbs":"NFL_20261018_CHI@ATL"},
+ {"away":"NYJ","home":"NE","kick":"Sun 1:00 ET","id":"d2baaf16-f4d5-4a47-84a3-f3045a46e275","cbs":"NFL_20261018_NYJ@NE"},
+ {"away":"ARI","home":"LAR","kick":"Sun 4:05 ET","id":"711d176e-101d-40c3-9496-1288fd65d5c8","cbs":"NFL_20261018_ARI@LAR"},
+ {"away":"LAC","home":"KC","kick":"Sun 4:25 ET","id":"5553fa21-1342-4f50-a5ad-f481aea4b653","cbs":"NFL_20261018_LAC@KC"},
+ {"away":"BUF","home":"LV","kick":"Sun 4:25 ET","id":"f4b4404c-5bbd-406d-83ec-7eba5170929f","cbs":"NFL_20261018_BUF@LV"},
+ {"away":"DAL","home":"GB","kick":"Sun 8:20 ET","id":"4cb6adff-b60f-4b1b-9bf3-b11067057f1f","cbs":"NFL_20261018_DAL@GB"},
+ {"away":"WAS","home":"SF","kick":"Mon 8:15 ET","id":"1315434e-4ed1-48bb-b4ea-4ee10777e1db","cbs":"NFL_20261019_WAS@SF"}
+]

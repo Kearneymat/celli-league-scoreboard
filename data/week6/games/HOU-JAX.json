@@ -1,0 +1,8 @@
+{"status":"final","clock":"Final","score":{"HOU":34,"JAX":31},
+ "players":{"C.J. Stroud":{"pass_cmp":24,"pass_yds":312,"pass_td_lengths":[6,1,13],"int":1,"rush_att":1,"rush_yds":5},
+  "Nico Collins":{"rec":3,"rec_yds":74,"rush_att":1,"rush_yds":5},
+  "Parker Washington":{"rec":4,"rec_yds":64},
+  "Bhayshul Tuten":{"rush_att":12,"rush_yds":39,"rec":4,"rec_yds":48,"rec_td_lengths":[27,2]}},
+ "kickers":{"Ka'imi Fairbairn":{"fg_made_dist":[25,49],"xp_made":4},"Cam Little":{"fg_made_dist":[60],"xp_made":4}},
+ "defenses":{"HOU":{"sacks":0,"int":1,"fum_rec":0,"safeties":0},"JAX":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}
