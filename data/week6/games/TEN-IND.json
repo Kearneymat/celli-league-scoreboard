@@ -1,0 +1,7 @@
+{"status":"live","clock":"Q1 5:43","score":{"TEN":0,"IND":0},
+ "players":{"Jonathan Taylor":{"rush_att":2,"rush_yds":2},
+  "Keenan Allen":{"rec":2,"rec_yds":13},
+  "Josh Downs":{"rec":1,"rec_yds":8}},
+ "kickers":{},
+ "defenses":{"TEN":{"sacks":0,"int":0,"fum_rec":0,"safeties":0},"IND":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}

@@ -1,0 +1,7 @@
+{"status":"live","clock":"Q1 9:09","score":{"PIT":0,"TB":0},
+ "players":{"Aaron Rodgers":{"int":1},
+  "Jaylen Warren":{"rush_att":1,"rush_yds":2},
+  "Bucky Irving":{"rush_att":6,"rush_yds":13}},
+ "kickers":{},
+ "defenses":{"PIT":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"TB":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}

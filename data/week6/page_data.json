@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -46,8 +46,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -86,8 +86,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -136,8 +136,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -153,18 +153,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Nutting",
 "champ": false,
-"total": 19,
+"total": 41,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -304,8 +313,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -321,18 +330,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Bronson",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -404,8 +422,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -464,8 +482,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -481,18 +499,31 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
 {
 "owner": "J Cell",
 "champ": false,
-"total": 21,
+"total": 43,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -524,8 +555,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -564,8 +595,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -640,18 +671,31 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
@@ -816,8 +860,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -976,8 +1020,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1144,8 +1188,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1172,7 +1216,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 6,
+"total": 28,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1308,8 +1352,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1325,11 +1369,20 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
@@ -1500,8 +1553,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1528,7 +1581,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 19,
+"total": 63,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -1540,8 +1593,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "QB",
@@ -1668,28 +1721,50 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 }
 ]
 },
@@ -1718,8 +1793,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -1728,8 +1803,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -1788,8 +1863,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -1818,8 +1893,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -1856,7 +1931,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 39,
+"total": 59,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -1912,8 +1987,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -1922,8 +1997,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -1972,8 +2047,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -2002,8 +2077,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -2012,18 +2087,23 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Colts D",
 "team": "IND",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2116,8 +2196,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -2196,8 +2276,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2224,7 +2304,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 6,
+"total": 23,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -2233,11 +2313,16 @@
 "pos": "QB",
 "name": "Aaron Rodgers",
 "team": "PIT",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -2246,8 +2331,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -2266,8 +2351,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -2300,8 +2385,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "WR",
@@ -2320,8 +2405,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -2350,8 +2435,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -2367,11 +2452,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2388,7 +2486,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 0,
+"total": 1,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -2470,8 +2568,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -2507,11 +2605,16 @@
 "pos": "K",
 "name": "Tyler Loop",
 "team": "BAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "K",
@@ -2520,8 +2623,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2590,8 +2693,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -2600,8 +2703,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -2620,8 +2723,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "WR",
@@ -2680,8 +2783,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2740,8 +2843,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -2838,8 +2941,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -2928,8 +3031,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -2938,8 +3041,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "WR",
@@ -3060,7 +3163,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": -1,
+"total": 21,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -3082,8 +3185,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -3092,8 +3195,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -3122,8 +3225,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -3192,8 +3295,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3221,11 +3324,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
@@ -3254,8 +3370,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -3274,8 +3390,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -3304,8 +3420,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -3454,8 +3570,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -3564,7 +3680,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 6,
+"total": 29,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -3616,8 +3732,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -3626,8 +3742,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "WR",
@@ -3687,11 +3803,16 @@
 "pos": "K",
 "name": "Tyler Loop",
 "team": "BAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "K",
@@ -3700,8 +3821,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3717,11 +3838,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
@@ -3790,8 +3924,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -3820,8 +3954,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "TE",
@@ -3830,8 +3964,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "TE",
@@ -3860,8 +3994,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3888,7 +4022,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 6,
+"total": 28,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -3910,8 +4044,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -3940,8 +4074,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -3984,8 +4118,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -4014,8 +4148,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -4031,11 +4165,24 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4052,7 +4199,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -4094,8 +4241,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -4104,8 +4251,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -4174,8 +4321,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -4191,11 +4338,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4212,7 +4372,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 15,
+"total": 59,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -4264,8 +4424,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -4363,28 +4523,50 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
 {
 "owner": "Tansey",
 "champ": false,
-"total": 6,
+"total": 50,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -4490,8 +4672,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -4520,28 +4702,50 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
@@ -4600,8 +4804,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -4648,8 +4852,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -4668,8 +4872,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "K",
@@ -4728,7 +4932,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 30,
+"total": 52,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -4861,8 +5065,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -4878,11 +5082,20 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4899,7 +5112,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -4981,8 +5194,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -5031,8 +5244,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5048,11 +5261,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 },
@@ -5081,8 +5307,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -5111,8 +5337,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -5181,8 +5407,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -5219,7 +5445,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 5,
+"total": 27,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -5315,8 +5541,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -5345,8 +5571,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -5372,18 +5598,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 0,
+"total": 10,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -5445,8 +5680,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "WR",
@@ -5455,8 +5690,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -5495,8 +5730,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "K",
@@ -5532,11 +5767,20 @@
 "pos": "DEF",
 "name": "Browns D",
 "team": "CLE",
-"pts": 0,
+"pts": 10,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"7 pts allowed",
+10
+],
+[
+"Trailing",
+0
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 }
 ]
 },
@@ -5595,8 +5839,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -5673,8 +5917,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "K",
@@ -5683,8 +5927,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5711,7 +5955,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 30,
+"total": 52,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -5767,8 +6011,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -5855,8 +6099,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5872,18 +6116,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Hurls",
 "champ": false,
-"total": 39,
+"total": 61,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -5939,8 +6192,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -6029,8 +6282,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "K",
@@ -6039,8 +6292,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6056,18 +6309,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "King",
 "champ": false,
-"total": 6,
+"total": 29,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -6079,8 +6341,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "QB",
@@ -6109,8 +6371,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -6153,8 +6415,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -6193,28 +6455,42 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "K",
 "name": "Tyler Loop",
 "team": "BAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6231,7 +6507,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 21,
+"total": 43,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -6379,18 +6655,31 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6407,7 +6696,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 13,
+"total": 35,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -6507,8 +6796,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -6537,8 +6826,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -6564,18 +6853,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 6,
+"total": 50,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -6671,8 +6969,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -6718,21 +7016,43 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
@@ -6835,8 +7155,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "TE",
@@ -6855,8 +7175,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "K",
@@ -6875,8 +7195,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6903,7 +7223,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 45,
+"total": 89,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -6959,8 +7279,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -6999,8 +7319,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -7063,35 +7383,57 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 6,
+"total": 28,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -7234,11 +7576,24 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7395,8 +7750,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7455,8 +7810,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -7533,8 +7888,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "TE",
@@ -7563,8 +7918,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7635,8 +7990,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "RB",
@@ -7645,8 +8000,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "RB",
@@ -7685,8 +8040,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -7735,8 +8090,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7763,7 +8118,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -7805,8 +8160,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "RB",
@@ -7835,8 +8190,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "WR",
@@ -7885,8 +8240,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -7901,11 +8256,20 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7922,7 +8286,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 0,
+"total": 22,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -7934,8 +8298,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "QB",
@@ -8004,8 +8368,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL @ CLE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "BAL 7 @ CLE 0 \u00b7 Q1 6:31",
+"on": true
 },
 {
 "pos": "WR",
@@ -8044,8 +8408,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "K",
@@ -8071,18 +8435,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Gavin",
 "champ": false,
-"total": 12,
+"total": 34,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -8202,8 +8575,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 },
 {
 "pos": "K",
@@ -8222,8 +8595,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN @ IND \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "TEN 0 @ IND 0 \u00b7 Q1 5:43",
+"on": true
 },
 {
 "pos": "DEF",
@@ -8251,18 +8624,27 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "PIT @ TB \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "PIT 0 @ TB 0 \u00b7 Q1 9:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Moser",
 "champ": false,
-"total": 5,
+"total": 27,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -8415,11 +8797,24 @@
 "pos": "DEF",
 "name": "Panthers D",
 "team": "CAR",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CAR @ PHI \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+],
+[
+"Leading",
+0
+]
+],
+"game": "CAR 3 @ PHI 0 \u00b7 Q1 9:35",
+"on": true
 }
 ]
 }
@@ -8436,24 +8831,24 @@
 "live": false
 },
 {
-"t": "TEN @ IND",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "TEN 0 @ IND 0",
+"s": "Q1 5:43",
+"live": true
 },
 {
-"t": "CAR @ PHI",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "CAR 3 @ PHI 0",
+"s": "Q1 9:35",
+"live": true
 },
 {
-"t": "PIT @ TB",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "PIT 0 @ TB 0",
+"s": "Q1 9:09",
+"live": true
 },
 {
-"t": "BAL @ CLE",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "BAL 7 @ CLE 0",
+"s": "Q1 6:31",
+"live": true
 },
 {
 "t": "NO @ NYG",
