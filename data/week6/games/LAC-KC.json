@@ -1,5 +1,5 @@
-{"status":"live","clock":"Q4 1:26","score":{"LAC":6,"KC":22},
- "players":{"Patrick Mahomes":{"pass_cmp":23,"pass_yds":272,"int":1,"rush_att":3,"rush_yds":19},
+{"status":"final","clock":"Final","score":{"LAC":6,"KC":22},
+ "players":{"Patrick Mahomes":{"pass_cmp":23,"pass_yds":272,"int":1,"rush_att":5,"rush_yds":16},
   "Kenneth Walker":{"rush_att":19,"rush_yds":128,"rush_td_lengths":[33,2],"rec":2,"rec_yds":11},
   "Travis Kelce":{"rec":4,"rec_yds":53},
   "Xavier Worthy":{"rec":7,"rec_yds":73}},

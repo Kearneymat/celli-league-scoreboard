@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 222,
+"total": 227,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -55,8 +55,7 @@
 -5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -82,8 +81,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -249,7 +247,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -269,12 +267,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -307,7 +304,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 211,
+"total": 216,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -356,8 +353,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -383,8 +379,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -460,8 +455,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -479,8 +473,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -526,7 +519,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -546,12 +539,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -584,7 +576,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 189,
+"total": 194,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -661,8 +653,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -732,8 +723,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -797,7 +787,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -817,12 +807,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -944,8 +933,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1041,8 +1029,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1137,7 +1124,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 163,
+"total": 184,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1146,28 +1133,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 20,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"269 pass yds",
-11
+"313 pass yds",
+16
 ],
 [
 "11-yd TD pass",
 7
 ],
 [
+"44-yd TD pass",
+10
+],
+[
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -1217,8 +1207,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1289,8 +1278,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1384,7 +1372,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -1404,12 +1392,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 }
 ]
 },
@@ -1479,8 +1466,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1547,8 +1533,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1766,8 +1751,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1875,8 +1859,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1951,7 +1934,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 211,
+"total": 216,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2022,8 +2005,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2141,8 +2123,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2180,7 +2161,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -2200,12 +2181,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2238,7 +2218,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 231,
+"total": 242,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2311,8 +2291,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2338,8 +2317,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2427,8 +2405,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2444,7 +2421,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 24,
+"pts": 30,
 "comm": null,
 "bd": [
 [
@@ -2460,12 +2437,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2493,7 +2473,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -2513,12 +2493,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2616,8 +2595,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2711,8 +2689,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2833,7 +2810,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 233,
+"total": 238,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2920,8 +2897,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3004,8 +2980,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3107,7 +3082,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -3127,19 +3102,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "D Maze",
 "champ": false,
-"total": 267,
+"total": 272,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3256,8 +3230,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3335,8 +3308,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3446,7 +3418,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -3466,19 +3438,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 241,
+"total": 246,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3565,8 +3536,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3658,8 +3628,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3719,7 +3688,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -3739,12 +3708,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3777,7 +3745,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 260,
+"total": 266,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -3898,8 +3866,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3977,8 +3944,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4024,7 +3990,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 24,
+"pts": 30,
 "comm": null,
 "bd": [
 [
@@ -4040,12 +4006,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4100,7 +4069,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 182,
+"total": 187,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4149,8 +4118,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4176,8 +4144,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4265,8 +4232,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4326,7 +4292,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -4346,12 +4312,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4384,7 +4349,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 271,
+"total": 276,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -4449,8 +4414,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4644,7 +4608,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -4664,12 +4628,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4702,7 +4665,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 189,
+"total": 194,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -4773,8 +4736,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4858,8 +4820,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4919,7 +4880,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -4939,12 +4900,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4977,7 +4937,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 216,
+"total": 221,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -5026,8 +4986,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5127,8 +5086,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5200,7 +5158,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -5220,12 +5178,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5258,7 +5215,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 234,
+"total": 235,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -5361,8 +5318,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5445,8 +5401,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5478,7 +5433,7 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -5494,12 +5449,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5572,7 +5526,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 240,
+"total": 275,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -5581,28 +5535,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 20,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"269 pass yds",
-11
+"313 pass yds",
+16
 ],
 [
 "11-yd TD pass",
 7
 ],
 [
+"44-yd TD pass",
+10
+],
+[
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -5698,27 +5655,33 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Tre Tucker",
 "team": "LV",
-"pts": 12,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"53 rec yds",
+"5 catches",
 5
+],
+[
+"97 rec yds",
+9
 ],
 [
 "11-yd TD catch",
 7
+],
+[
+"44-yd TD catch",
+10
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5774,8 +5737,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5861,8 +5823,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5982,8 +5943,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6082,8 +6042,7 @@
 7
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6101,8 +6060,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6198,7 +6156,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 212,
+"total": 217,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6261,8 +6219,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6354,8 +6311,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6431,7 +6387,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -6451,12 +6407,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6562,8 +6517,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6685,20 +6639,19 @@
 "comm": null,
 "bd": [
 [
-"23 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "1 INT",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 }
 ]
 },
@@ -6786,8 +6739,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6889,8 +6841,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6964,8 +6915,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7020,7 +6970,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 247,
+"total": 248,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -7059,8 +7009,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7086,8 +7035,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7169,8 +7117,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7188,8 +7135,7 @@
 7
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7225,8 +7171,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7254,7 +7199,7 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -7270,12 +7215,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7395,8 +7339,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7505,8 +7448,7 @@
 9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7588,8 +7530,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7719,8 +7660,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7817,8 +7757,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7946,8 +7885,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7999,8 +7937,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8219,7 +8156,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 213,
+"total": 218,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -8248,8 +8185,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8313,8 +8249,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8469,7 +8404,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -8489,12 +8424,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 }
 ]
 },
@@ -8580,8 +8514,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8607,8 +8540,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8790,7 +8722,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 259,
+"total": 264,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -8869,8 +8801,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8962,8 +8893,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9039,7 +8969,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -9059,12 +8989,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9097,7 +9026,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 218,
+"total": 239,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -9106,28 +9035,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 20,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"269 pass yds",
-11
+"313 pass yds",
+16
 ],
 [
 "11-yd TD pass",
 7
 ],
 [
+"44-yd TD pass",
+10
+],
+[
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9191,8 +9123,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9274,8 +9205,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9335,7 +9265,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -9355,12 +9285,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9422,8 +9351,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9561,8 +9489,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9682,7 +9609,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 193,
+"total": 198,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -9711,8 +9638,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9766,8 +9692,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9846,8 +9771,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9865,8 +9789,7 @@
 9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9928,7 +9851,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -9948,12 +9871,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9963,27 +9885,26 @@
 "comm": null,
 "bd": [
 [
-"23 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "1 INT",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Lynn",
 "champ": false,
-"total": 254,
+"total": 259,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -10062,8 +9983,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10210,8 +10130,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10239,7 +10158,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -10259,12 +10178,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10297,7 +10215,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 219,
+"total": 224,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -10551,7 +10469,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -10571,12 +10489,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10674,8 +10591,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10815,8 +10731,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10911,7 +10826,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 154,
+"total": 170,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -10930,28 +10845,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 20,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"269 pass yds",
-11
+"313 pass yds",
+16
 ],
 [
 "11-yd TD pass",
 7
 ],
 [
+"44-yd TD pass",
+10
+],
+[
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10987,8 +10905,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11067,8 +10984,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11177,7 +11093,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 183,
+"total": 204,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -11196,28 +11112,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 20,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"269 pass yds",
-11
+"313 pass yds",
+16
 ],
 [
 "11-yd TD pass",
 7
 ],
 [
+"44-yd TD pass",
+10
+],
+[
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11267,8 +11186,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11352,8 +11270,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -11403,7 +11320,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -11423,12 +11340,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11490,8 +11406,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -11541,8 +11456,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11626,8 +11540,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11687,8 +11600,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -11818,8 +11730,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11845,8 +11756,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12006,8 +11916,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12179,8 +12088,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12274,8 +12182,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12423,8 +12330,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12450,8 +12356,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12531,8 +12436,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12614,8 +12518,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12733,8 +12636,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12830,8 +12732,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12875,8 +12776,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13036,8 +12936,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13232,7 +13131,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 248,
+"total": 253,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -13261,8 +13160,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13350,8 +13248,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13407,8 +13304,7 @@
 7
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13494,7 +13390,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -13514,12 +13410,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13552,7 +13447,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 237,
+"total": 242,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -13591,8 +13486,7 @@
 7
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13654,8 +13548,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13743,8 +13636,7 @@
 13
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13807,7 +13699,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -13827,19 +13719,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Dogga",
 "champ": false,
-"total": 208,
+"total": 213,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -13904,8 +13795,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -14067,7 +13957,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -14087,12 +13977,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14190,8 +14079,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -14293,8 +14181,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -14399,7 +14286,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 214,
+"total": 225,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -14474,8 +14361,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -14489,8 +14375,7 @@
 6
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14578,8 +14463,7 @@
 5
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14611,7 +14495,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 24,
+"pts": 30,
 "comm": null,
 "bd": [
 [
@@ -14627,18 +14511,21 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "BUF 30 @ LV 23 \u00b7 Q4 2:18",
-"on": true
+"game": "BUF 33 @ LV 30 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 27,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -14658,12 +14545,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LAC 6 @ KC 22 \u00b7 Q4 1:26",
-"on": true
+"game": "LAC 6 @ KC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14743,13 +14629,13 @@
 },
 {
 "t": "LAC 6 @ KC 22",
-"s": "Q4 1:26",
-"live": true
+"s": "Final",
+"live": false
 },
 {
-"t": "BUF 30 @ LV 23",
-"s": "Q4 2:18",
-"live": true
+"t": "BUF 33 @ LV 30",
+"s": "Final",
+"live": false
 },
 {
 "t": "DAL @ GB",
