@@ -1,7 +1,7 @@
-{"status":"live","clock":"Q1 9:09","score":{"PIT":0,"TB":0},
- "players":{"Aaron Rodgers":{"int":1},
-  "Jaylen Warren":{"rush_att":1,"rush_yds":2},
+{"status":"live","clock":"End Q1","score":{"PIT":0,"TB":3},
+ "players":{"Aaron Rodgers":{"pass_cmp":3,"pass_yds":11,"int":1},
+  "Jaylen Warren":{"rush_att":3,"rush_yds":20},
   "Bucky Irving":{"rush_att":6,"rush_yds":13}},
- "kickers":{},
- "defenses":{"PIT":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"TB":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
+ "kickers":{"Chase McLaughlin":{"fg_made_dist":[43]}},
+ "defenses":{"PIT":{"sacks":2,"int":0,"fum_rec":0,"safeties":0},"TB":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}

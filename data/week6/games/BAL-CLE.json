@@ -1,6 +1,6 @@
-{"status":"live","clock":"Q1 6:31","score":{"BAL":7,"CLE":0},
- "players":{"Derrick Henry":{"rush_att":5,"rush_yds":30},
+{"status":"live","clock":"End Q1","score":{"BAL":10,"CLE":0},
+ "players":{"Derrick Henry":{"rush_att":8,"rush_yds":41,"rec":1,"rec_yds":2},
   "Zay Flowers":{"rush_att":1,"rush_yds":1,"rec":1,"rec_yds":6}},
- "kickers":{"Tyler Loop":{"xp_made":1}},
- "defenses":{"BAL":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"CLE":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
+ "kickers":{"Tyler Loop":{"fg_made_dist":[34],"xp_made":1}},
+ "defenses":{"BAL":{"sacks":2,"int":0,"fum_rec":0,"safeties":0},"CLE":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}

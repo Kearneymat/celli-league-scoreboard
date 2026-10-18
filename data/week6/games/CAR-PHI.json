@@ -1,7 +1,8 @@
-{"status":"live","clock":"Q1 9:35","score":{"CAR":3,"PHI":0},
- "players":{"Bryce Young":{"pass_cmp":2,"pass_yds":21},
-  "Chuba Hubbard":{"rush_att":3,"rush_yds":15},
-  "Tetairoa McMillan":{"rec":2,"rec_yds":21}},
+{"status":"live","clock":"Q1 1:56","score":{"CAR":3,"PHI":0},
+ "players":{"Bryce Young":{"pass_cmp":5,"pass_yds":67},
+  "Chuba Hubbard":{"rush_att":5,"rush_yds":19},
+  "Tetairoa McMillan":{"rec":3,"rec_yds":42},
+  "Jalen Coker":{"rec":1,"rec_yds":19}},
  "kickers":{},
- "defenses":{"CAR":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"PHI":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
+ "defenses":{"CAR":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"PHI":{"sacks":1,"int":0,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}
