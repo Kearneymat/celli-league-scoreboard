@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 61,
+"total": 60,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -25,7 +25,7 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -55,7 +55,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -85,7 +85,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -104,7 +104,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -131,19 +131,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -158,7 +158,7 @@
 1
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -177,7 +177,7 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -194,12 +194,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -210,7 +210,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -218,7 +218,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 48,
+"total": 51,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -287,15 +287,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -376,7 +380,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -393,12 +397,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -409,7 +413,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -417,7 +421,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 42,
+"total": 46,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -450,11 +454,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -484,7 +488,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -494,7 +498,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -531,19 +535,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -576,7 +580,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -609,7 +613,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -617,7 +621,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 77,
+"total": 88,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -646,19 +650,23 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -669,11 +677,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -712,7 +720,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -743,19 +751,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -810,7 +818,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -833,7 +841,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -844,7 +852,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -852,7 +860,7 @@
 0
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 }
 ]
@@ -860,7 +868,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 55,
+"total": 52,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -893,11 +901,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -917,7 +925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -1026,30 +1034,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -1067,7 +1075,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 51,
+"total": 52,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1100,11 +1108,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -1124,7 +1132,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -1181,19 +1189,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1212,7 +1220,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1235,30 +1243,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -1276,7 +1284,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 93,
+"total": 97,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1295,15 +1303,19 @@
 "pos": "QB",
 "name": "Jameis Winston",
 "team": "NYG",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
 "17-yd TD pass",
 7
+],
+[
+"1 INT",
+-5
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1322,7 +1334,7 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -1367,15 +1379,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1390,7 +1406,7 @@
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -1407,19 +1423,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1462,30 +1478,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -1503,7 +1519,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 59,
+"total": 61,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1512,15 +1528,19 @@
 "pos": "QB",
 "name": "Jameis Winston",
 "team": "NYG",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
 "17-yd TD pass",
 7
+],
+[
+"1 INT",
+-5
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1541,11 +1561,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -1582,15 +1602,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1621,19 +1645,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -1676,7 +1700,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -1693,12 +1717,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -1709,7 +1733,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -1717,7 +1741,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 84,
+"total": 81,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -1822,7 +1846,7 @@
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -1899,7 +1923,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -1916,23 +1940,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -1940,7 +1964,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 87,
+"total": 86,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -1957,7 +1981,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -2027,7 +2051,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2054,19 +2078,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2107,19 +2131,19 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -2130,7 +2154,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -2153,7 +2177,7 @@
 0
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 }
 ]
@@ -2161,7 +2185,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 69,
+"total": 77,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2188,17 +2212,30 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -2219,11 +2256,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -2243,7 +2280,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2272,7 +2309,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -2289,19 +2326,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2324,7 +2361,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -2343,30 +2380,30 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -2384,7 +2421,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 104,
+"total": 115,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -2437,19 +2474,23 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -2459,7 +2500,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -2489,7 +2530,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2518,7 +2559,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -2535,19 +2576,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2570,7 +2611,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -2589,7 +2630,7 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -2600,7 +2641,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -2612,7 +2653,7 @@
 0
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -2630,7 +2671,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 78,
+"total": 88,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -2687,11 +2728,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -2708,10 +2749,15 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -2728,15 +2774,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2746,7 +2796,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -2795,7 +2845,7 @@
 3
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -2818,7 +2868,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -2835,23 +2885,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -2859,7 +2909,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 68,
+"total": 79,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -2876,7 +2926,7 @@
 -5
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -2891,7 +2941,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -2902,21 +2952,34 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -2947,15 +3010,19 @@
 "pos": "WR",
 "name": "Zay Flowers",
 "team": "BAL",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
+],
+[
+"66 rec yds",
+6
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -2984,7 +3051,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -3027,7 +3094,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -3060,30 +3127,30 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -3091,7 +3158,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 45,
+"total": 39,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -3163,7 +3230,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -3182,7 +3249,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -3219,7 +3286,7 @@
 "pos": "K",
 "name": "Tyler Loop",
 "team": "BAL",
-"pts": 7,
+"pts": 4,
 "comm": null,
 "bd": [
 [
@@ -3227,11 +3294,15 @@
 6
 ],
 [
+"missed 40-49 yd FG",
+-3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -3254,7 +3325,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -3271,23 +3342,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -3295,7 +3366,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 59,
+"total": 72,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -3334,20 +3405,38 @@
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -3376,7 +3465,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -3413,19 +3502,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -3444,7 +3533,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -3467,7 +3556,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -3484,23 +3573,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -3508,7 +3597,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 47,
+"total": 49,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -3537,10 +3626,15 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -3651,7 +3745,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -3670,7 +3764,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -3687,23 +3781,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -3711,7 +3805,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 73,
+"total": 79,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -3753,17 +3847,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -3773,7 +3872,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -3802,7 +3901,7 @@
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -3829,19 +3928,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -3898,23 +3997,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -3922,7 +4021,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 55,
+"total": 66,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -3949,17 +4048,30 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -3998,7 +4110,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -4008,7 +4120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4045,19 +4157,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4090,7 +4202,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -4135,7 +4247,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -4143,7 +4255,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 60,
+"total": 68,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -4170,7 +4282,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -4181,30 +4293,34 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -4243,7 +4359,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -4280,19 +4396,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4311,7 +4427,7 @@
 2
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -4338,23 +4454,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -4362,7 +4478,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 103,
+"total": 114,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -4383,30 +4499,30 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 21,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"25 completions",
+10
 ],
 [
-"223 pass yds",
-7
+"252 pass yds",
+10
 ],
 [
 "14-yd TD pass",
 7
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -4426,7 +4542,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -4445,7 +4561,7 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -4464,22 +4580,26 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4489,7 +4609,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4519,7 +4639,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4560,7 +4680,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4577,23 +4697,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -4601,7 +4721,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 65,
+"total": 81,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -4634,11 +4754,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -4658,37 +4778,45 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Zay Flowers",
 "team": "BAL",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
+],
+[
+"66 rec yds",
+6
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -4729,26 +4857,26 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Loop",
 "team": "BAL",
-"pts": 7,
+"pts": 4,
 "comm": null,
 "bd": [
 [
@@ -4756,11 +4884,15 @@
 6
 ],
 [
+"missed 40-49 yd FG",
+-3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -4783,7 +4915,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -4816,7 +4948,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -4857,11 +4989,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -4900,7 +5032,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -4930,7 +5062,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -4940,7 +5072,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -4975,7 +5107,7 @@
 1
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5003,7 +5135,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 102,
+"total": 100,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -5024,7 +5156,7 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -5039,7 +5171,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5060,26 +5192,26 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -5113,7 +5245,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -5132,7 +5264,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5175,7 +5307,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -5208,30 +5340,30 @@
 0
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -5239,7 +5371,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 39,
+"total": 41,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -5278,10 +5410,15 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5291,7 +5428,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -5374,7 +5511,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -5407,30 +5544,30 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -5438,7 +5575,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 67,
+"total": 74,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -5489,7 +5626,7 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -5499,7 +5636,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -5536,15 +5673,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -5561,19 +5702,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -5612,12 +5753,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -5628,7 +5769,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -5651,7 +5792,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -5659,7 +5800,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 59,
+"total": 62,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -5692,11 +5833,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -5737,15 +5878,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"51 rec yds",
-5
+"6 catches",
+6
+],
+[
+"76 rec yds",
+7
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -5775,7 +5920,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5804,7 +5949,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -5827,19 +5972,19 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -5850,7 +5995,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -5873,7 +6018,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -5881,7 +6026,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 82,
+"total": 87,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -5912,7 +6057,7 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -5941,17 +6086,22 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -5979,7 +6129,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -5999,7 +6149,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -6009,7 +6159,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -6028,7 +6178,7 @@
 5
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -6065,7 +6215,7 @@
 1
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -6093,7 +6243,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 71,
+"total": 70,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -6140,11 +6290,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -6209,19 +6359,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6253,7 +6403,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -6270,12 +6420,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -6286,7 +6436,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -6304,7 +6454,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 55,
+"total": 52,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -6395,7 +6545,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -6405,7 +6555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -6444,7 +6594,7 @@
 2
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -6463,30 +6613,30 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -6509,7 +6659,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -6517,7 +6667,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 58,
+"total": 64,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -6544,7 +6694,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -6555,11 +6705,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -6576,10 +6726,15 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -6589,7 +6744,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6636,19 +6791,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6671,7 +6826,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -6690,7 +6845,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6707,23 +6862,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -6731,7 +6886,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 57,
+"total": 60,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -6778,11 +6933,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -6799,15 +6954,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6846,7 +7005,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -6889,7 +7048,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -6908,7 +7067,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -6925,12 +7084,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -6941,7 +7100,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -6949,7 +7108,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 83,
+"total": 97,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -6980,7 +7139,7 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -7001,11 +7160,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -7022,15 +7181,19 @@
 "pos": "WR",
 "name": "Zay Flowers",
 "team": "BAL",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
+],
+[
+"66 rec yds",
+6
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -7049,7 +7212,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -7089,7 +7252,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -7108,14 +7271,14 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -7123,41 +7286,45 @@
 9
 ],
 [
+"36-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Browns D",
 "team": "CLE",
-"pts": 14,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -7165,15 +7332,19 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 }
 ]
@@ -7181,7 +7352,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 42,
+"total": 37,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -7200,15 +7371,19 @@
 "pos": "QB",
 "name": "Jameis Winston",
 "team": "NYG",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
 "17-yd TD pass",
 7
+],
+[
+"1 INT",
+-5
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -7238,7 +7413,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -7325,7 +7500,7 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -7348,7 +7523,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -7376,7 +7551,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 71,
+"total": 75,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -7429,10 +7604,15 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -7465,7 +7645,7 @@
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -7502,19 +7682,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -7547,7 +7727,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -7564,12 +7744,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -7580,7 +7760,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -7588,7 +7768,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 92,
+"total": 98,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -7641,19 +7821,23 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -7663,7 +7847,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -7674,11 +7858,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -7725,19 +7909,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -7766,7 +7950,7 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -7789,7 +7973,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -7806,12 +7990,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -7822,7 +8006,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -7830,7 +8014,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 78,
+"total": 95,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -7847,7 +8031,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -7874,10 +8058,23 @@
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -7908,15 +8105,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -7935,7 +8136,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -7952,19 +8153,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -7981,7 +8182,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 19,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -7993,22 +8194,7 @@
 9
 ],
 [
-"1 XP",
-1
-]
-],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
-"on": true
-},
-{
-"pos": "K",
-"name": "Tyler Loop",
-"team": "BAL",
-"pts": 7,
-"comm": null,
-"bd": [
-[
-"34-yd FG",
+"33-yd FG",
 6
 ],
 [
@@ -8016,19 +8202,42 @@
 1
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
+"on": true
+},
+{
+"pos": "K",
+"name": "Tyler Loop",
+"team": "BAL",
+"pts": 4,
+"comm": null,
+"bd": [
+[
+"34-yd FG",
+6
+],
+[
+"missed 40-49 yd FG",
+-3
+],
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -8039,7 +8248,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -8057,7 +8266,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 60,
+"total": 57,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -8109,7 +8318,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -8218,7 +8427,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -8241,30 +8450,30 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -8272,7 +8481,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 55,
+"total": 50,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -8305,11 +8514,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -8386,7 +8595,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -8429,7 +8638,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -8448,7 +8657,7 @@
 3
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -8465,12 +8674,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -8481,7 +8690,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -8489,7 +8698,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 70,
+"total": 69,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -8522,11 +8731,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -8599,7 +8808,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -8616,19 +8825,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -8671,19 +8880,19 @@
 0
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -8694,7 +8903,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -8702,7 +8911,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 81,
+"total": 82,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -8763,7 +8972,7 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -8816,26 +9025,26 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -8854,7 +9063,7 @@
 5
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -8887,30 +9096,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -8921,7 +9130,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -8929,7 +9138,7 @@
 0
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 }
 ]
@@ -8937,7 +9146,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 104,
+"total": 106,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -8990,10 +9199,23 @@
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -9014,11 +9236,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -9047,7 +9269,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -9110,7 +9332,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9133,7 +9355,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -9156,19 +9378,19 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -9179,7 +9401,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -9187,7 +9409,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 64,
+"total": 65,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -9300,19 +9522,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9331,7 +9553,7 @@
 1
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9364,30 +9586,30 @@
 0
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -9395,7 +9617,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 69,
+"total": 74,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -9456,7 +9678,7 @@
 6
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -9481,15 +9703,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9562,7 +9788,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -9579,23 +9805,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -9603,7 +9829,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 30,
+"total": 49,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -9632,19 +9858,23 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -9692,22 +9922,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"51 rec yds",
-5
+"6 catches",
+6
+],
+[
+"76 rec yds",
+7
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -9727,26 +9961,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9775,7 +10009,7 @@
 -3
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -9786,7 +10020,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -9794,7 +10028,7 @@
 0
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9824,7 +10058,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 54,
+"total": 69,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -9853,29 +10087,46 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"65 rush yds",
+"16 rushes",
 6
+],
+[
+"72 rush yds",
+7
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Derrick Henry",
 "team": "BAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"bd": [
+[
+"15 rushes",
+5
+],
+[
+"52 rush yds",
+5
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -9924,7 +10175,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -9951,19 +10202,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -9978,7 +10229,7 @@
 1
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -10001,7 +10252,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -10018,23 +10269,23 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 }
 ]
@@ -10042,7 +10293,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 45,
+"total": 53,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -10075,21 +10326,26 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -10109,7 +10365,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10128,7 +10384,7 @@
 6
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -10145,15 +10401,19 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 5,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"7 catches",
+7
+],
+[
+"63 rec yds",
+6
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10196,7 +10456,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -10212,12 +10472,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -10228,7 +10488,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 },
 {
@@ -10246,7 +10506,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 53,
+"total": 59,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -10263,7 +10523,7 @@
 7
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -10304,11 +10564,11 @@
 "comm": null,
 "bd": [
 [
-"53 rush yds",
+"57 rush yds",
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -10335,15 +10595,19 @@
 "pos": "WR",
 "name": "Zay Flowers",
 "team": "BAL",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
+],
+[
+"66 rec yds",
+6
 ]
 ],
-"game": "BAL 10 @ CLE 3 \u00b7 Q3 2:32",
+"game": "BAL 10 @ CLE 3 \u00b7 Q4 11:59",
 "on": true
 },
 {
@@ -10353,7 +10617,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10370,19 +10634,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"42 rec yds",
-7
+"55 rec yds",
+9
 ]
 ],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10405,7 +10669,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -10432,12 +10696,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -10448,7 +10712,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -10456,7 +10720,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 69,
+"total": 64,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -10477,7 +10741,7 @@
 6
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -10545,7 +10809,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10560,7 +10824,7 @@
 5
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -10599,7 +10863,7 @@
 5
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 },
 {
@@ -10632,7 +10896,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ IND 13 \u00b7 Q3 6:50",
+"game": "TEN 6 @ IND 13 \u00b7 Q4 14:31",
 "on": true
 },
 {
@@ -10661,12 +10925,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"16 pts allowed",
+0
 ],
 [
 "3 sacks",
@@ -10677,7 +10941,7 @@
 0
 ]
 ],
-"game": "PIT 3 @ TB 13 \u00b7 Q3 5:05",
+"game": "PIT 3 @ TB 16 \u00b7 Q3 1:40",
 "on": true
 }
 ]
@@ -10685,7 +10949,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 46,
+"total": 52,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -10694,23 +10958,23 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 21,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"25 completions",
+10
 ],
 [
-"223 pass yds",
-7
+"252 pass yds",
+10
 ],
 [
 "14-yd TD pass",
 7
 ]
 ],
-"game": "CHI 21 @ ATL 7 \u00b7 Q3 8:34",
+"game": "CHI 21 @ ATL 7 \u00b7 Q3 3:52",
 "on": true
 },
 {
@@ -10794,7 +11058,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 17 @ NYG 10 \u00b7 Q3 10:32",
+"game": "NO 24 @ NYG 10 \u00b7 Q3 3:29",
 "on": true
 },
 {
@@ -10833,7 +11097,7 @@
 2
 ]
 ],
-"game": "NYJ 10 @ NE 17 \u00b7 Q3 7:41",
+"game": "NYJ 13 @ NE 17 \u00b7 Q3 0:00",
 "on": true
 },
 {
@@ -10876,7 +11140,7 @@
 0
 ]
 ],
-"game": "CAR 10 @ PHI 7 \u00b7 Q3 12:28",
+"game": "CAR 13 @ PHI 7 \u00b7 Q3 8:16",
 "on": true
 }
 ]
@@ -10894,38 +11158,38 @@
 "live": false
 },
 {
-"t": "TEN 3 @ IND 13",
-"s": "Q3 6:50",
+"t": "TEN 6 @ IND 13",
+"s": "Q4 14:31",
 "live": true
 },
 {
-"t": "CAR 10 @ PHI 7",
-"s": "Q3 12:28",
+"t": "CAR 13 @ PHI 7",
+"s": "Q3 8:16",
 "live": true
 },
 {
-"t": "PIT 3 @ TB 13",
-"s": "Q3 5:05",
+"t": "PIT 3 @ TB 16",
+"s": "Q3 1:40",
 "live": true
 },
 {
 "t": "BAL 10 @ CLE 3",
-"s": "Q3 2:32",
+"s": "Q4 11:59",
 "live": true
 },
 {
-"t": "NO 17 @ NYG 10",
-"s": "Q3 10:32",
+"t": "NO 24 @ NYG 10",
+"s": "Q3 3:29",
 "live": true
 },
 {
 "t": "CHI 21 @ ATL 7",
-"s": "Q3 8:34",
+"s": "Q3 3:52",
 "live": true
 },
 {
-"t": "NYJ 10 @ NE 17",
-"s": "Q3 7:41",
+"t": "NYJ 13 @ NE 17",
+"s": "Q3 0:00",
 "live": true
 },
 {

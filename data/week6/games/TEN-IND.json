@@ -1,8 +1,8 @@
-{"status":"live","clock":"Q3 6:50","score":{"TEN":3,"IND":13},
- "players":{"Jonathan Taylor":{"rush_att":13,"rush_yds":65,"rec":1,"rec_yds":38,"fl":1},
+{"status":"live","clock":"Q4 14:31","score":{"TEN":6,"IND":13},
+ "players":{"Jonathan Taylor":{"rush_att":16,"rush_yds":72,"rec":1,"rec_yds":38,"fl":1},
   "Keenan Allen":{"rec":7,"rec_yds":63},
-  "Josh Downs":{"rush_att":1,"rush_yds":7,"rec":2,"rec_yds":12}},
+  "Josh Downs":{"rush_att":1,"rush_yds":7,"rec":3,"rec_yds":17}},
  "kickers":{"Spencer Shrader":{"fg_made_dist":[23,47],"xp_made":1},
-  "Joey Slye":{"fg_made_dist":[29]}},
- "defenses":{"TEN":{"sacks":3,"int":2,"fum_rec":1,"safeties":0},"IND":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
+  "Joey Slye":{"fg_made_dist":[29,56]}},
+ "defenses":{"TEN":{"sacks":4,"int":2,"fum_rec":1,"safeties":0},"IND":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}

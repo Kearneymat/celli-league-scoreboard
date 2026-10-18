@@ -1,10 +1,10 @@
-{"status":"live","clock":"Q3 12:28","score":{"CAR":10,"PHI":7},
+{"status":"live","clock":"Q3 8:16","score":{"CAR":13,"PHI":7},
  "players":{"Bryce Young":{"pass_cmp":13,"pass_yds":171,"pass_td_lengths":[12]},
-  "Chuba Hubbard":{"rush_att":10,"rush_yds":34},
+  "Chuba Hubbard":{"rush_att":14,"rush_yds":54},
   "Tetairoa McMillan":{"rec":5,"rec_yds":79},
   "Jalen Coker":{"rec":5,"rec_yds":65},
   "Dallas Goedert":{"rec":4,"rec_yds":38}},
- "kickers":{"Ryan Fitzgerald":{"fg_made_dist":[47],"xp_made":1},
+ "kickers":{"Ryan Fitzgerald":{"fg_made_dist":[47,52],"xp_made":1},
   "Jake Elliott":{"xp_made":1}},
  "defenses":{"CAR":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"PHI":{"sacks":1,"int":0,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}
