@@ -6,7 +6,7 @@ from rules import score_player, score_k, score_d
 from names import resolve
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WK = int(sys.argv[1]); FINAL = '--final' in sys.argv
-CUT = int(sys.argv[sys.argv.index('--cut') + 1]) if '--cut' in sys.argv else 6
+CUT = int(sys.argv[sys.argv.index('--cut') + 1]) if '--cut' in sys.argv else 5
 W = f'{R}/data/week{WK}'
 teams = json.load(open(f'{W}/teams.json'))
 sched = json.load(open(f'{W}/schedule.json'))
