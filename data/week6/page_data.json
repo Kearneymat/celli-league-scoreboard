@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 197,
+"total": 200,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -39,34 +39,34 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 1,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"216 pass yds",
-6
+"233 pass yds",
+8
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -78,7 +78,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -265,7 +265,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -299,7 +299,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 147,
+"total": 168,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -328,15 +328,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -348,7 +348,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -363,7 +363,7 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -428,10 +428,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -446,7 +455,7 @@
 11
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -513,7 +522,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -547,7 +556,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 153,
+"total": 179,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -590,25 +599,29 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -620,7 +633,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -679,10 +692,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -767,7 +789,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -797,7 +819,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 156,
+"total": 177,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -870,15 +892,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -890,7 +912,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -975,10 +997,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -1074,7 +1105,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 108,
+"total": 153,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1083,19 +1114,27 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"200 pass yds",
-5
+"22 completions",
+7
+],
+[
+"269 pass yds",
+11
+],
+[
+"11-yd TD pass",
+7
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -1126,15 +1165,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -1146,7 +1185,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -1206,21 +1245,38 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Tyler Higbee",
 "team": "LAR",
-"pts": 0,
+"pts": 4,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1316,7 +1372,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 }
 ]
@@ -1324,7 +1380,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 120,
+"total": 136,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1367,15 +1423,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -1387,7 +1443,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -1443,10 +1499,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -1549,11 +1614,11 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 2,
+"pts": -3,
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"18 pts allowed",
 0
 ],
 [
@@ -1561,19 +1626,18 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 172,
+"total": 198,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1632,25 +1696,29 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -1662,7 +1730,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -1759,10 +1827,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -1838,7 +1915,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 164,
+"total": 201,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1889,15 +1966,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -1909,33 +1986,40 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tyler Allgeier",
 "team": "ARI",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"18 rushes",
+8
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2009,10 +2093,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -2071,7 +2164,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -2105,7 +2198,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 168,
+"total": 194,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2166,22 +2259,22 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -2193,18 +2286,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2266,10 +2363,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -2306,7 +2412,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -2355,7 +2461,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -2389,7 +2495,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 168,
+"total": 208,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -2434,15 +2540,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -2454,18 +2560,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2491,11 +2601,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2525,10 +2643,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -2650,7 +2777,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 202,
+"total": 223,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2717,15 +2844,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -2737,7 +2864,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -2785,8 +2912,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2810,10 +2936,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -2936,7 +3071,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 }
 ]
@@ -2944,7 +3079,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 222,
+"total": 257,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3041,15 +3176,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -3061,18 +3196,26 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3120,10 +3263,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -3254,7 +3406,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 }
 ]
@@ -3262,7 +3414,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 210,
+"total": 231,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3329,15 +3481,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -3349,7 +3501,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -3430,10 +3582,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -3514,7 +3675,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -3548,7 +3709,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 234,
+"total": 255,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -3649,15 +3810,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -3669,7 +3830,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -3736,10 +3897,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -3758,8 +3928,7 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3807,7 +3976,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -3863,7 +4032,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 111,
+"total": 146,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -3900,22 +4069,22 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -3927,7 +4096,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -3944,11 +4113,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3996,10 +4173,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -4080,7 +4266,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4114,7 +4300,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 223,
+"total": 261,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -4123,16 +4309,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4148,15 +4345,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -4168,7 +4365,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4219,11 +4416,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4279,8 +4484,7 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4376,7 +4580,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4410,7 +4614,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 144,
+"total": 179,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -4461,15 +4665,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -4481,7 +4685,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4526,11 +4730,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4546,10 +4758,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -4630,7 +4851,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4664,7 +4885,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 164,
+"total": 184,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -4701,7 +4922,7 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -4790,10 +5011,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -4886,7 +5116,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -4920,7 +5150,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 177,
+"total": 230,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -4929,16 +5159,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4992,15 +5233,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -5012,18 +5253,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5064,8 +5309,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5081,10 +5325,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5117,7 +5370,7 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 10,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5129,11 +5382,15 @@
 3
 ],
 [
-"1 XP",
-1
+"23-yd FG",
+3
+],
+[
+"2 XP",
+2
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5207,7 +5464,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 178,
+"total": 230,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -5216,19 +5473,27 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"200 pass yds",
-5
+"22 completions",
+7
+],
+[
+"269 pass yds",
+11
+],
+[
+"11-yd TD pass",
+7
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5305,15 +5570,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -5325,17 +5590,26 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tre Tucker",
 "team": "LV",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"53 rec yds",
+5
+],
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5380,10 +5654,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5442,7 +5725,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -5454,6 +5737,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -5462,7 +5749,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -5506,7 +5793,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 223,
+"total": 244,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -5563,15 +5850,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -5583,7 +5870,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -5679,21 +5966,30 @@
 6
 ],
 [
-"76 rec yds",
+"75 rec yds",
 7
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -5790,7 +6086,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 181,
+"total": 202,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -5833,15 +6129,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -5853,7 +6149,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -5934,10 +6230,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -6034,7 +6339,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6064,7 +6369,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 62,
+"total": 58,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -6107,25 +6412,29 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -6137,7 +6446,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6234,11 +6543,11 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 2,
+"pts": -3,
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"18 pts allowed",
 0
 ],
 [
@@ -6246,34 +6555,29 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"23 pts allowed",
+0
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 }
 ]
@@ -6281,7 +6585,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 208,
+"total": 228,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -6342,15 +6646,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -6362,7 +6666,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6453,10 +6757,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -6475,8 +6788,7 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6504,7 +6816,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -6516,6 +6828,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -6524,7 +6840,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6580,7 +6896,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 180,
+"total": 219,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -6611,22 +6927,22 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -6638,7 +6954,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6681,11 +6997,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6709,7 +7033,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -6724,11 +7048,11 @@
 6
 ],
 [
-"76 rec yds",
+"75 rec yds",
 7
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6747,17 +7071,25 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -6786,7 +7118,7 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 10,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6798,11 +7130,15 @@
 3
 ],
 [
-"1 XP",
-1
+"23-yd FG",
+3
+],
+[
+"2 XP",
+2
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -6858,7 +7194,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 195,
+"total": 232,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -6877,30 +7213,41 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -6912,7 +7259,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -6955,11 +7302,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6978,8 +7333,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7011,7 +7365,7 @@
 7
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -7066,7 +7420,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -7078,6 +7432,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -7086,7 +7444,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -7142,7 +7500,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 126,
+"total": 168,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -7161,20 +7519,23 @@
 "pos": "QB",
 "name": "Jacoby Brissett",
 "team": "ARI",
-"pts": 3,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"23 completions",
-8
+"24 completions",
+9
+],
+[
+"218 pass yds",
+6
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7194,15 +7555,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -7214,7 +7575,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -7263,11 +7624,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7292,10 +7661,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -7395,7 +7773,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 241,
+"total": 237,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -7416,7 +7794,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -7449,15 +7827,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -7469,7 +7847,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -7656,11 +8034,11 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 2,
+"pts": -3,
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"18 pts allowed",
 0
 ],
 [
@@ -7668,12 +8046,11 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7690,7 +8067,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 170,
+"total": 185,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -7711,7 +8088,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -7756,15 +8133,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -7776,7 +8153,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -7821,11 +8198,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7944,7 +8329,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 }
 ]
@@ -7952,7 +8337,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 121,
+"total": 150,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -7961,16 +8346,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7986,25 +8382,29 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -8016,7 +8416,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -8031,7 +8431,7 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -8214,7 +8614,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 214,
+"total": 249,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -8273,15 +8673,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -8293,7 +8693,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -8356,20 +8756,37 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -8466,7 +8883,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -8500,7 +8917,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 153,
+"total": 208,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -8509,19 +8926,27 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"200 pass yds",
-5
+"22 completions",
+7
+],
+[
+"269 pass yds",
+11
+],
+[
+"11-yd TD pass",
+7
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -8566,15 +8991,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -8586,7 +9011,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -8611,11 +9036,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8649,10 +9082,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -8733,7 +9175,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -8767,7 +9209,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 169,
+"total": 174,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -8788,7 +9230,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -8821,11 +9263,15 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8919,7 +9365,7 @@
 11
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -9040,7 +9486,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 140,
+"total": 156,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -9061,7 +9507,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -9096,15 +9542,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -9116,7 +9562,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9178,17 +9624,25 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -9203,7 +9657,7 @@
 7
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9286,30 +9740,26 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"23 pts allowed",
+0
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 }
 ]
@@ -9317,7 +9767,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 215,
+"total": 238,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -9326,16 +9776,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9365,15 +9826,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -9385,7 +9846,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9453,8 +9914,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9506,7 +9966,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -9518,6 +9978,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -9526,7 +9990,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9575,7 +10039,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9609,7 +10073,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 195,
+"total": 213,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -9745,11 +10209,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9781,11 +10253,19 @@
 "pos": "TE",
 "name": "Tyler Higbee",
 "team": "LAR",
-"pts": 0,
+"pts": 4,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9867,7 +10347,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9901,7 +10381,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 217,
+"total": 243,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -9946,15 +10426,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -9966,7 +10446,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -9995,11 +10475,15 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10091,10 +10575,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10190,7 +10683,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 95,
+"total": 150,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -10209,19 +10702,27 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"200 pass yds",
-5
+"22 completions",
+7
+],
+[
+"269 pass yds",
+11
+],
+[
+"11-yd TD pass",
+7
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10238,15 +10739,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -10258,7 +10759,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -10288,11 +10789,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10318,10 +10827,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10431,7 +10949,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 132,
+"total": 173,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -10450,19 +10968,27 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"200 pass yds",
-5
+"22 completions",
+7
+],
+[
+"269 pass yds",
+11
+],
+[
+"11-yd TD pass",
+7
 ],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10493,15 +11019,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -10513,7 +11039,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -10586,10 +11112,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10660,7 +11195,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -10694,7 +11229,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 149,
+"total": 174,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -10715,7 +11250,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10746,15 +11281,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -10766,18 +11301,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10835,10 +11374,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -10871,7 +11419,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -10883,6 +11431,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -10891,7 +11443,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -10957,7 +11509,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 171,
+"total": 208,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -10966,16 +11518,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10999,22 +11562,22 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -11026,7 +11589,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11055,11 +11618,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11151,7 +11722,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11163,6 +11734,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -11171,7 +11746,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11249,7 +11824,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 169,
+"total": 190,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -11324,15 +11899,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -11344,7 +11919,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11427,10 +12002,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -11530,7 +12114,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 133,
+"total": 167,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -11559,15 +12143,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -11579,7 +12163,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11594,7 +12178,7 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -11635,11 +12219,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11655,10 +12247,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -11713,7 +12314,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11725,6 +12326,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -11733,7 +12338,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11789,7 +12394,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 142,
+"total": 167,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -11818,25 +12423,29 @@
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -11848,7 +12457,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -11933,10 +12542,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -11953,7 +12571,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 13,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11965,6 +12583,10 @@
 12
 ],
 [
+"missed 52-yd FG",
+-1
+],
+[
 "1 XP",
 1
 ],
@@ -11973,7 +12595,7 @@
 -9
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12039,7 +12661,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 141,
+"total": 165,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -12048,16 +12670,27 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 7,
+"pts": 30,
 "comm": null,
 "bd": [
 [
+"25 completions",
+10
+],
+[
+"222 pass yds",
+7
+],
+[
 "15-yd TD pass",
 7
+],
+[
+"6-yd TD pass",
+6
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12103,15 +12736,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -12123,7 +12756,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12319,7 +12952,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 218,
+"total": 219,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -12340,7 +12973,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -12409,15 +13042,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -12429,7 +13062,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12482,11 +13115,11 @@
 6
 ],
 [
-"76 rec yds",
+"75 rec yds",
 7
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12505,8 +13138,7 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12594,7 +13226,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12628,7 +13260,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 188,
+"total": 209,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -12659,7 +13291,7 @@
 7
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -12702,15 +13334,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -12722,7 +13354,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -12799,10 +13431,19 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"70 rec yds",
+13
+]
+],
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -12886,7 +13527,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 }
 ]
@@ -12894,7 +13535,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 178,
+"total": 198,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -12939,15 +13580,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -12959,18 +13600,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12990,11 +13635,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13130,7 +13783,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -13164,7 +13817,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 152,
+"total": 158,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -13209,15 +13862,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -13229,18 +13882,22 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kyren Williams",
 "team": "LAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"50 rush yds",
+5
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13324,7 +13981,7 @@
 11
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -13430,7 +14087,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 181,
+"total": 196,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -13485,15 +14142,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 31,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ],
 [
-"106 rush yds",
+"107 rush yds",
 10
 ],
 [
@@ -13505,7 +14162,7 @@
 6
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -13520,7 +14177,7 @@
 6
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -13547,11 +14204,19 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 0,
+"pts": 14,
 "comm": null,
-"bd": [],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"80 rec yds",
+8
+]
+],
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13583,8 +14248,7 @@
 9
 ]
 ],
-"game": "ARI 15 @ LAR 9 \u00b7 Q4 2:45",
-"on": true
+"game": "ARI 18 @ LAR 16 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13598,7 +14262,7 @@
 11
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -13651,7 +14315,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ LV 13 \u00b7 End Q3",
+"game": "BUF 23 @ LV 23 \u00b7 Q4 8:07",
 "on": true
 },
 {
@@ -13678,7 +14342,7 @@
 0
 ]
 ],
-"game": "LAC 6 @ KC 19 \u00b7 End Q3",
+"game": "LAC 6 @ KC 19 \u00b7 Q4 10:24",
 "on": true
 },
 {
@@ -13753,18 +14417,18 @@
 "live": false
 },
 {
-"t": "ARI 15 @ LAR 9",
-"s": "Q4 2:45",
-"live": true
+"t": "ARI 18 @ LAR 16",
+"s": "Final",
+"live": false
 },
 {
 "t": "LAC 6 @ KC 19",
-"s": "End Q3",
+"s": "Q4 10:24",
 "live": true
 },
 {
-"t": "BUF 23 @ LV 13",
-"s": "End Q3",
+"t": "BUF 23 @ LV 23",
+"s": "Q4 8:07",
 "live": true
 },
 {
