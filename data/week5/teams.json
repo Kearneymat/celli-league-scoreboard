@@ -1,0 +1,4102 @@
+[
+{
+"owner": "Romano",
+"col": 1,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Maye",
+"pts": 70
+},
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "C. Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "Warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Collins",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Watson",
+"pts": 42
+},
+{
+"pos": "WR",
+"raw": "Samuel",
+"pts": -3
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"pts": 14
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Pats",
+"pts": 13
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 298
+},
+{
+"owner": "Nutting",
+"col": 3,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "J Warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "TE",
+"raw": "Hock",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+}
+],
+"total": 329
+},
+{
+"owner": "Bronson",
+"col": 5,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Cousins",
+"pts": 16
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Shakir",
+"pts": 8
+},
+{
+"pos": "WR",
+"raw": "Tucker",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Gay",
+"pts": 8
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Browns",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Raiders",
+"pts": -21
+}
+],
+"total": 339
+},
+{
+"owner": "J Cell",
+"col": 7,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "J Allen",
+"pts": 27
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "B Allen",
+"pts": 33
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Little",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 366
+},
+{
+"owner": "Big Daddy",
+"col": 9,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Adams",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "J Williams",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Coleman",
+"pts": 7
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 329
+},
+{
+"owner": "Rich CH(2025 champ)",
+"col": 11,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "C tate",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+}
+],
+"total": 298
+},
+{
+"owner": "Sleepy Joe",
+"col": 13,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "E. WIlson",
+"pts": 19
+},
+{
+"pos": "WR",
+"raw": "Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "London",
+"pts": 18
+},
+{
+"pos": "WR",
+"raw": "Watson",
+"pts": 42
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 424
+},
+{
+"owner": "Lee",
+"col": 15,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Lamar",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "C tate",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Lemon",
+"pts": 5
+},
+{
+"pos": "TE",
+"raw": "Andrews",
+"pts": 4
+},
+{
+"pos": "TE",
+"raw": "Henry",
+"pts": 19
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"pts": 14
+},
+{
+"pos": "K",
+"raw": "Elliott",
+"pts": 10
+},
+{
+"pos": "DEF",
+"raw": "Cowboys",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Ravens",
+"pts": 13
+}
+],
+"total": 182
+},
+{
+"owner": "Duncanson",
+"col": 17,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"pts": 9
+},
+{
+"pos": "QB",
+"raw": "Shough",
+"pts": -10
+},
+{
+"pos": "RB",
+"raw": "Warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M. Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Flowers",
+"pts": 13
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Fairbain",
+"pts": 32
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 280
+},
+{
+"owner": "Paradis",
+"col": 19,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"pts": 35
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "J taylor",
+"pts": 5
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": null
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 316
+},
+{
+"owner": "Hummer",
+"col": 21,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Cousins",
+"pts": 16
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 350
+},
+{
+"owner": "Pork Chop",
+"col": 23,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Allen",
+"pts": 27
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Samuel",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "K",
+"raw": "Santos",
+"pts": -2
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 283
+},
+{
+"owner": "Danny Woodcock",
+"col": 25,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "D Adams",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "Jam Williams",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Carlson",
+"pts": -8
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 361
+},
+{
+"owner": "Cann man",
+"col": 27,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Rodgers",
+"pts": 40
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"pts": 35
+},
+{
+"pos": "RB",
+"raw": "Jav. Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Sutton",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Bates",
+"pts": 15
+},
+{
+"pos": "K",
+"raw": "Reichrd",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 307
+},
+{
+"owner": "Ben",
+"col": 29,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "B Allen",
+"pts": 33
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "P Wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 443
+},
+{
+"owner": "Svendson",
+"col": 31,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stroud",
+"pts": 35
+},
+{
+"pos": "QB",
+"raw": "Bissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "C watson",
+"pts": 42
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+},
+{
+"pos": "DEF",
+"raw": "Browns",
+"pts": 7
+}
+],
+"total": 285
+},
+{
+"owner": "Tar Heels",
+"col": 33,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Rodgers",
+"pts": 40
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Downs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 349
+},
+{
+"owner": "Tuttle",
+"col": 35,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Coleman",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Freiermuth",
+"pts": 29
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Carlson",
+"pts": -8
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 378
+},
+{
+"owner": "D Maze",
+"col": 37,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Warren",
+"pts": 54
+},
+{
+"pos": "WR",
+"raw": "Collins",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Tate",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Hockenson",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Carlson",
+"pts": -8
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+},
+{
+"pos": "DEF",
+"raw": "Jets",
+"pts": 30
+}
+],
+"total": 328
+},
+{
+"owner": "Pacman",
+"col": 39,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Briussett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Shakir",
+"pts": 8
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Smack",
+"pts": -7
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 258
+},
+{
+"owner": "Ian",
+"col": 41,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 329
+},
+{
+"owner": "Max Cat",
+"col": 43,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Rodgers",
+"pts": 40
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Henderson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Flowers",
+"pts": 13
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "J. Johnson",
+"pts": 7
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"pts": -11
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+}
+],
+"total": 224
+},
+{
+"owner": "Snipes",
+"col": 45,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Jav Wlliams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 312
+},
+{
+"owner": "kearney",
+"col": 47,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "J Allen",
+"pts": 27
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "C Tate",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Okonwko was",
+"pts": 18
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "K",
+"raw": "Rhyland",
+"pts": 2
+},
+{
+"pos": "DEF",
+"raw": "Steelers",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 298
+},
+{
+"owner": "Bella",
+"col": 49,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Allen",
+"pts": 27
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Gordon",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "St brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "TE",
+"raw": "Giseki",
+"pts": 6
+},
+{
+"pos": "K",
+"raw": "Little",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Myers",
+"pts": 50
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Jets",
+"pts": 30
+}
+],
+"total": 303
+},
+{
+"owner": "Cobb",
+"col": 51,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "B Allen",
+"pts": 33
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 435
+},
+{
+"owner": "Tansey",
+"col": 53,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Geno",
+"pts": 6
+},
+{
+"pos": "QB",
+"raw": "Brisett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Gesicki",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Stevens wash",
+"pts": 4
+},
+{
+"pos": "DEF",
+"raw": "Commanders",
+"pts": 3
+},
+{
+"pos": "DEF",
+"raw": "Jets",
+"pts": 30
+}
+],
+"total": 284
+},
+{
+"owner": "Jori",
+"col": 55,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"pts": 34
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "Boston cle",
+"pts": 8
+},
+{
+"pos": "TE",
+"raw": "Schultz",
+"pts": 10
+},
+{
+"pos": "TE",
+"raw": "Hock",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Stevens",
+"pts": 4
+},
+{
+"pos": "DEF",
+"raw": "Browns",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 226
+},
+{
+"owner": "Keoni",
+"col": 57,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "J Warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "G Wilson",
+"pts": 26
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 380
+},
+{
+"owner": "Shane H",
+"col": 59,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"pts": 35
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"pts": 39
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "P Wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "McGlaughlin",
+"pts": 12
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Jets",
+"pts": 30
+}
+],
+"total": 299
+},
+{
+"owner": "Al Cat",
+"col": 61,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "B Allen",
+"pts": 33
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+}
+],
+"total": 399
+},
+{
+"owner": "Tre/Connor",
+"col": 63,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Allen",
+"pts": 27
+},
+{
+"pos": "QB",
+"raw": "Brisett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "B Allen",
+"pts": 33
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "P Wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+}
+],
+"total": 321
+},
+{
+"owner": "Maffeo",
+"col": 65,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "T Henderson",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Evans",
+"pts": 26
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "C tate",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "TE",
+"raw": "barner",
+"pts": 5
+},
+{
+"pos": "K",
+"raw": "Myers",
+"pts": 50
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"pts": -3
+}
+],
+"total": 277
+},
+{
+"owner": "Matt CH",
+"col": 67,
+"lineup": [
+{
+"pos": "QB",
+"raw": "D watson",
+"pts": 5
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Henry",
+"pts": 33
+},
+{
+"pos": "RB",
+"raw": "C brown",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "Deebo",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "A Williams wash",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "fanin",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Browns",
+"pts": 7
+}
+],
+"total": 214
+},
+{
+"owner": "Lynn",
+"col": 69,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "Tuten",
+"pts": 19
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Boston cle",
+"pts": 8
+},
+{
+"pos": "TE",
+"raw": "Sadiq",
+"pts": -3
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "K",
+"raw": "Little",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 340
+},
+{
+"owner": "Hurls",
+"col": 71,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Jav. Williams",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "M. Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Adams",
+"pts": 22
+},
+{
+"pos": "TE",
+"raw": "Gesicki",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+}
+],
+"total": 265
+},
+{
+"owner": "King",
+"col": 73,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Darnold",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "Coleman",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "A. Williams",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "TE",
+"raw": "Schultz",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Slye",
+"pts": 6
+},
+{
+"pos": "K",
+"raw": "Folk",
+"pts": 20
+},
+{
+"pos": "DEF",
+"raw": "Dallas",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 213
+},
+{
+"owner": "TJP",
+"col": 75,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "E Wilson",
+"pts": 19
+},
+{
+"pos": "RB",
+"raw": "C Brown",
+"pts": -3
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 38
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Myers",
+"pts": 50
+},
+{
+"pos": "DEF",
+"raw": "Falcons",
+"pts": 9
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 459
+},
+{
+"owner": "Macbeth",
+"col": 77,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Tuten",
+"pts": 19
+},
+{
+"pos": "RB",
+"raw": "Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "WR",
+"raw": "Collins",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Smack",
+"pts": -7
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texas",
+"pts": 32
+}
+],
+"total": 286
+},
+{
+"owner": "Kawazoe",
+"col": 79,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "J Allen",
+"pts": 27
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Boston cle",
+"pts": 8
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Addison",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Kraft",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 10
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 344
+},
+{
+"owner": "Paul Dej",
+"col": 81,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "J warren",
+"pts": 54
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+}
+],
+"total": 334
+},
+{
+"owner": "Putin",
+"col": 83,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Allen",
+"pts": 27
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "B. Allen",
+"pts": 33
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "WR",
+"raw": "Tate",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Washington",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Watson",
+"pts": 42
+},
+{
+"pos": "TE",
+"raw": "Sadiq",
+"pts": -3
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "K",
+"raw": "Shrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jets",
+"pts": 30
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 389
+},
+{
+"owner": "Pizzi",
+"col": 85,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stafford",
+"pts": 66
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "T henderson",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "J taylor",
+"pts": 5
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"pts": 51
+},
+{
+"pos": "TE",
+"raw": "Hock",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Zvada",
+"pts": 22
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 342
+},
+{
+"owner": "Adam",
+"col": 87,
+"lineup": [
+{
+"pos": "QB",
+"raw": "J Allen",
+"pts": 27
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"pts": 35
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "E Wilson",
+"pts": 19
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "K Coleman",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Goedart",
+"pts": 16
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "K",
+"raw": "Smack",
+"pts": -7
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 280
+},
+{
+"owner": "Chi Chi",
+"col": 89,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"pts": 34
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "C brown",
+"pts": -3
+},
+{
+"pos": "RB",
+"raw": "Monty",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "T henderson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "London",
+"pts": 18
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Doubs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Iosivas",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "K",
+"raw": "Dicker",
+"pts": 11
+},
+{
+"pos": "K",
+"raw": "Little",
+"pts": 10
+},
+{
+"pos": "DEF",
+"raw": "Eagles",
+"pts": 1
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 250
+},
+{
+"owner": "Boogie man",
+"col": 91,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "C Watson",
+"pts": 42
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "DK",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "K allen",
+"pts": 5
+},
+{
+"pos": "TE",
+"raw": "Goedart",
+"pts": 16
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "Folk",
+"pts": 20
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 352
+},
+{
+"owner": "Finger",
+"col": 93,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 22
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "A Jones",
+"pts": 29
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"pts": 10
+},
+{
+"pos": "WR",
+"raw": "P Wash",
+"pts": 38
+},
+{
+"pos": "WR",
+"raw": "Downs",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Smack",
+"pts": -7
+},
+{
+"pos": "DEF",
+"raw": "Broncos",
+"pts": 21
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+}
+],
+"total": 303
+},
+{
+"owner": "Dogga",
+"col": 95,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Stoud",
+"pts": 35
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"pts": 36
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 33
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"pts": 14
+},
+{
+"pos": "DEF",
+"raw": "Browns",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Bengals",
+"pts": 17
+}
+],
+"total": 354
+},
+{
+"owner": "Gavin",
+"col": 97,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 42
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"pts": 18
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "RB",
+"raw": "Jones",
+"pts": 29
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"pts": 22
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 2
+},
+{
+"pos": "TE",
+"raw": "Hockenson",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"pts": 35
+},
+{
+"pos": "K",
+"raw": "McPherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"pts": 18
+}
+],
+"total": 265
+},
+{
+"owner": "Moser",
+"col": 99,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"pts": 9
+},
+{
+"pos": "QB",
+"raw": "Brissett",
+"pts": 42
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"pts": 15
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "M Wash mia",
+"pts": 6
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Goedert",
+"pts": 16
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"pts": 34
+},
+{
+"pos": "K",
+"raw": "Schrader",
+"pts": 40
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 7
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"pts": 32
+}
+],
+"total": 286
+}
+]

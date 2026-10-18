@@ -1,0 +1,698 @@
+{
+ "games": [
+  {
+   "away": "DEN",
+   "home": "LAC",
+   "away_pts": 23,
+   "home_pts": 17,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110sdg.htm"
+  },
+  {
+   "away": "DET",
+   "home": "ARI",
+   "away_pts": 45,
+   "home_pts": 21,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110crd.htm"
+  },
+  {
+   "away": "CHI",
+   "home": "GB",
+   "away_pts": 7,
+   "home_pts": 31,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110gnb.htm"
+  },
+  {
+   "away": "HOU",
+   "home": "TEN",
+   "away_pts": 26,
+   "home_pts": 3,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110oti.htm"
+  },
+  {
+   "away": "IND",
+   "home": "PIT",
+   "away_pts": 22,
+   "home_pts": 34,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110pit.htm"
+  },
+  {
+   "away": "PHI",
+   "home": "JAX",
+   "away_pts": 17,
+   "home_pts": 19,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110jax.htm"
+  },
+  {
+   "away": "BUF",
+   "home": "LAR",
+   "away_pts": 37,
+   "home_pts": 34,
+   "source": "https://www.pro-football-reference.com/boxscores/202610120ram.htm"
+  }
+ ],
+ "players": [
+  {
+   "name": "Courtland Sutton",
+   "team": "DEN",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 2,
+   "rec_yds": 18,
+   "rec_td_lengths": [
+    5
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "3 tgt; @LAC W 23-17"
+  },
+  {
+   "name": "Jared Goff",
+   "team": "DET",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 19,
+   "pass_att": 30,
+   "pass_yds": 271,
+   "pass_td_lengths": [
+    38,
+    8,
+    39
+   ],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 1,
+   "rush_td_lengths": [
+    1
+   ],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 1,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "fumble recovered by DET; @ARI W 45-21"
+  },
+  {
+   "name": "Jahmyr Gibbs",
+   "team": "DET",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 25,
+   "rush_yds": 151,
+   "rush_td_lengths": [
+    1,
+    3
+   ],
+   "rec": 5,
+   "rec_yds": 56,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "6 tgt"
+  },
+  {
+   "name": "Amon-Ra St. Brown",
+   "team": "DET",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 6,
+   "rec_yds": 69,
+   "rec_td_lengths": [],
+   "fumbles": 2,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "11 tgt; 2 fumbles, 0 lost"
+  },
+  {
+   "name": "Jameson Williams",
+   "team": "DET",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 2,
+   "rec_yds": 47,
+   "rec_td_lengths": [
+    8,
+    39
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "4 tgt"
+  },
+  {
+   "name": "Sam LaPorta",
+   "team": "DET",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 88,
+   "rec_td_lengths": [
+    38
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "5 tgt"
+  },
+  {
+   "name": "Matthew Golden",
+   "team": "GB",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 6,
+   "rec_yds": 123,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 1,
+   "ret_td_lengths": [],
+   "note": "7 tgt; 2-pt reception from Love Q4 15:00; vs CHI W 31-7"
+  },
+  {
+   "name": "Christian Watson",
+   "team": "GB",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 6,
+   "rec_yds": 143,
+   "rec_td_lengths": [
+    42,
+    53
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "8 tgt"
+  },
+  {
+   "name": "Tucker Kraft",
+   "team": "GB",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 2,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 64,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "5 tgt"
+  },
+  {
+   "name": "C.J. Stroud",
+   "team": "HOU",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 26,
+   "pass_att": 34,
+   "pass_yds": 261,
+   "pass_td_lengths": [
+    9
+   ],
+   "int": 0,
+   "rush_att": 6,
+   "rush_yds": 5,
+   "rush_td_lengths": [
+    2
+   ],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 1,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "pass TD to J.Noel; fumble not lost; @TEN W 26-3"
+  },
+  {
+   "name": "David Montgomery",
+   "team": "HOU",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 5,
+   "rush_yds": 11,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "0 targets per PFR"
+  },
+  {
+   "name": "Nico Collins",
+   "team": "HOU",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 56,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "7 tgt"
+  },
+  {
+   "name": "Dalton Schultz",
+   "team": "HOU",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 30,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "4 tgt"
+  },
+  {
+   "name": "Jonathan Taylor",
+   "team": "IND",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 15,
+   "rush_yds": 45,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 37,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "4 tgt; @PIT L 22-34"
+  },
+  {
+   "name": "Josh Downs",
+   "team": "IND",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 47,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "6 tgt"
+  },
+  {
+   "name": "Keenan Allen",
+   "team": "IND",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 45,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "9 tgt"
+  },
+  {
+   "name": "Trevor Lawrence",
+   "team": "JAX",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 24,
+   "pass_att": 39,
+   "pass_yds": 331,
+   "pass_td_lengths": [
+    51,
+    27
+   ],
+   "int": 1,
+   "rush_att": 3,
+   "rush_yds": 25,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 2,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "2 fumbles, 0 lost; vs PHI W 19-17"
+  },
+  {
+   "name": "Bhayshul Tuten",
+   "team": "JAX",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 22,
+   "rush_yds": 72,
+   "rush_td_lengths": [],
+   "rec": 2,
+   "rec_yds": 24,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "3 tgt"
+  },
+  {
+   "name": "Parker Washington",
+   "team": "JAX",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 6,
+   "rec_yds": 124,
+   "rec_td_lengths": [
+    51,
+    27
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "9 tgt"
+  },
+  {
+   "name": "Matthew Stafford",
+   "team": "LAR",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 40,
+   "pass_att": 54,
+   "pass_yds": 383,
+   "pass_td_lengths": [
+    4,
+    2,
+    5
+   ],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "failed 2-pt (sacked) not credited; vs BUF L 34-37 OT"
+  },
+  {
+   "name": "Kyren Williams",
+   "team": "LAR",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 16,
+   "rush_yds": 49,
+   "rush_td_lengths": [
+    1
+   ],
+   "rec": 6,
+   "rec_yds": 27,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "8 tgt"
+  },
+  {
+   "name": "Puka Nacua",
+   "team": "LAR",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 2,
+   "rush_yds": 9,
+   "rush_td_lengths": [],
+   "rec": 17,
+   "rec_yds": 138,
+   "rec_td_lengths": [
+    2
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "24 tgt"
+  },
+  {
+   "name": "Davante Adams",
+   "team": "LAR",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 51,
+   "rec_td_lengths": [
+    4,
+    5
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "7 tgt"
+  }
+ ],
+ "kickers": [
+  {
+   "name": "Wil Lutz",
+   "team": "DEN",
+   "fg_made_dist": [
+    34,
+    19,
+    36
+   ],
+   "fg_missed_dist": [
+    42
+   ],
+   "xp_made": 2,
+   "xp_missed": 0,
+   "note": "miss distance 42 from fantasyfootballers (single source); Sportradar confirms 3/4 with miss in 40-49 range"
+  },
+  {
+   "name": "Jake Bates",
+   "team": "DET",
+   "fg_made_dist": [
+    46
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 6,
+   "xp_missed": 0
+  },
+  {
+   "name": "Trey Smack",
+   "team": "GB",
+   "fg_made_dist": [
+    35
+   ],
+   "fg_missed_dist": [
+    43,
+    47
+   ],
+   "xp_made": 2,
+   "xp_missed": 1
+  },
+  {
+   "name": "Ka'imi Fairbairn",
+   "team": "HOU",
+   "fg_made_dist": [
+    45,
+    35,
+    26,
+    53
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 2,
+   "xp_missed": 0
+  },
+  {
+   "name": "Spencer Shrader",
+   "team": "IND",
+   "fg_made_dist": [
+    57,
+    56,
+    22,
+    40,
+    28
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 1,
+   "xp_missed": 0
+  },
+  {
+   "name": "Cam Little",
+   "team": "JAX",
+   "fg_made_dist": [
+    34,
+    57
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 1,
+   "xp_missed": 1
+  },
+  {
+   "name": "Cameron Dicker",
+   "team": "LAC",
+   "fg_made_dist": [
+    42
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 2,
+   "xp_missed": 0
+  }
+ ],
+ "defenses": [
+  {
+   "team": "DEN",
+   "opp_points": 17,
+   "sacks": 5,
+   "int": 1,
+   "fum_rec": 2,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "W"
+  },
+  {
+   "team": "HOU",
+   "opp_points": 3,
+   "sacks": 4,
+   "int": 1,
+   "fum_rec": 1,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "W"
+  },
+  {
+   "team": "JAX",
+   "opp_points": 17,
+   "sacks": 1,
+   "int": 0,
+   "fum_rec": 0,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "W"
+  }
+ ]
+}

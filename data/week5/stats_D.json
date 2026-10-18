@@ -1,0 +1,462 @@
+{
+ "games": [
+  {
+   "away": "IND",
+   "home": "PIT",
+   "away_pts": 22,
+   "home_pts": 34,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110pit.htm"
+  },
+  {
+   "away": "SF",
+   "home": "SEA",
+   "away_pts": 32,
+   "home_pts": 29,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110sea.htm"
+  },
+  {
+   "away": "TB",
+   "home": "DAL",
+   "away_pts": 24,
+   "home_pts": 16,
+   "source": "https://www.pro-football-reference.com/boxscores/202610080dal.htm"
+  },
+  {
+   "away": "HOU",
+   "home": "TEN",
+   "away_pts": 26,
+   "home_pts": 3,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110oti.htm"
+  },
+  {
+   "away": "NYG",
+   "home": "WAS",
+   "away_pts": 27,
+   "home_pts": 27,
+   "source": "https://www.pro-football-reference.com/boxscores/202610110was.htm"
+  }
+ ],
+ "players": [
+  {
+   "name": "Aaron Rodgers",
+   "team": "PIT",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 22,
+   "pass_att": 31,
+   "pass_yds": 235,
+   "pass_td_lengths": [
+    80,
+    1,
+    17
+   ],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 6,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs IND; sacked 1x"
+  },
+  {
+   "name": "Jaylen Warren",
+   "team": "PIT",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 15,
+   "rush_yds": 101,
+   "rush_td_lengths": [
+    50
+   ],
+   "rec": 6,
+   "rec_yds": 87,
+   "rec_td_lengths": [
+    80
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs IND"
+  },
+  {
+   "name": "DK Metcalf",
+   "team": "PIT",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 11,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 12,
+   "rec_td_lengths": [],
+   "fumbles": 1,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs IND; fumble recovered by PIT (not lost)"
+  },
+  {
+   "name": "Pat Freiermuth",
+   "team": "PIT",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 1,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 44,
+   "rec_td_lengths": [
+    1,
+    17
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs IND"
+  },
+  {
+   "name": "Sam Darnold",
+   "team": "SEA",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 18,
+   "pass_att": 29,
+   "pass_yds": 195,
+   "pass_td_lengths": [
+    16
+   ],
+   "int": 2,
+   "rush_att": 1,
+   "rush_yds": 5,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs SF; sacked 5x, no fumbles"
+  },
+  {
+   "name": "Emanuel Wilson",
+   "team": "SEA",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 20,
+   "rush_yds": 61,
+   "rush_td_lengths": [
+    2
+   ],
+   "rec": 2,
+   "rec_yds": 11,
+   "rec_td_lengths": [],
+   "fumbles": 1,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs SF; fumble lost"
+  },
+  {
+   "name": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 1,
+   "rush_yds": 16,
+   "rush_td_lengths": [],
+   "rec": 5,
+   "rec_yds": 102,
+   "rec_td_lengths": [
+    16
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs SF"
+  },
+  {
+   "name": "AJ Barner",
+   "team": "SEA",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 20,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs SF"
+  },
+  {
+   "name": "Brock Purdy",
+   "team": "SF",
+   "pos": "QB",
+   "played": true,
+   "pass_cmp": 19,
+   "pass_att": 29,
+   "pass_yds": 189,
+   "pass_td_lengths": [
+    2,
+    7
+   ],
+   "int": 1,
+   "rush_att": 5,
+   "rush_yds": 6,
+   "rush_td_lengths": [],
+   "rec": 0,
+   "rec_yds": 0,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 1,
+   "ret_td_lengths": [],
+   "note": "at SEA; threw successful 2-pt conversion to Mike Evans (Q4) - two_pt counts the 2-pt pass; adjust if league only credits receiver"
+  },
+  {
+   "name": "Deebo Samuel",
+   "team": "SF",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 2,
+   "rush_yds": 4,
+   "rush_td_lengths": [],
+   "rec": 2,
+   "rec_yds": 21,
+   "rec_td_lengths": [],
+   "fumbles": 1,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "at SEA; fumble lost"
+  },
+  {
+   "name": "Mike Evans",
+   "team": "SF",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 7,
+   "rec_yds": 113,
+   "rec_td_lengths": [
+    2
+   ],
+   "fumbles": 0,
+   "two_pt": 1,
+   "ret_td_lengths": [],
+   "note": "at SEA; caught 2-pt conversion Q4"
+  },
+  {
+   "name": "Bucky Irving",
+   "team": "TB",
+   "pos": "RB",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 21,
+   "rush_yds": 165,
+   "rush_td_lengths": [
+    1
+   ],
+   "rec": 2,
+   "rec_yds": 10,
+   "rec_td_lengths": [
+    5
+   ],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "at DAL (Thu)"
+  },
+  {
+   "name": "Carnell Tate",
+   "team": "TEN",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 1,
+   "rec_yds": 6,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs HOU; 5 targets"
+  },
+  {
+   "name": "Chig Okonkwo",
+   "team": "WAS",
+   "pos": "TE",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 4,
+   "rec_yds": 60,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs NYG (27-27 OT tie)"
+  },
+  {
+   "name": "Antonio Williams",
+   "team": "WAS",
+   "pos": "WR",
+   "played": true,
+   "pass_cmp": 0,
+   "pass_att": 0,
+   "pass_yds": 0,
+   "pass_td_lengths": [],
+   "int": 0,
+   "rush_att": 0,
+   "rush_yds": 0,
+   "rush_td_lengths": [],
+   "rec": 3,
+   "rec_yds": 31,
+   "rec_td_lengths": [],
+   "fumbles": 0,
+   "two_pt": 0,
+   "ret_td_lengths": [],
+   "note": "vs NYG; only Washington player named Williams in the box score - matches 'A Williams wash'"
+  }
+ ],
+ "kickers": [
+  {
+   "name": "Jason Myers",
+   "team": "SEA",
+   "fg_made_dist": [
+    49,
+    50,
+    43,
+    48,
+    40
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 2,
+   "xp_missed": 0
+  },
+  {
+   "name": "Chase McLaughlin",
+   "team": "TB",
+   "fg_made_dist": [
+    41
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 3,
+   "xp_missed": 0
+  },
+  {
+   "name": "Joey Slye",
+   "team": "TEN",
+   "fg_made_dist": [
+    30
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 0,
+   "xp_missed": 0
+  },
+  {
+   "name": "Drew Stevens",
+   "team": "WAS",
+   "fg_made_dist": [
+    28,
+    40
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 1,
+   "xp_missed": 1
+  }
+ ],
+ "defenses": [
+  {
+   "team": "PIT",
+   "opp_points": 22,
+   "sacks": 1,
+   "int": 0,
+   "fum_rec": 0,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "W"
+  },
+  {
+   "team": "SEA",
+   "opp_points": 32,
+   "sacks": 3,
+   "int": 1,
+   "fum_rec": 2,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "L",
+   "note": "fum_rec=2: SF lost 2 fumbles (Samuel, Cowing); feed credits 1 to defense + 1 special-teams recovery. opp_points includes 7 from SF defensive fumble-recovery TD (Halton)."
+  },
+  {
+   "team": "WAS",
+   "opp_points": 27,
+   "sacks": 2,
+   "int": 0,
+   "fum_rec": 2,
+   "safeties": 0,
+   "def_st_td_lengths": [],
+   "result": "T"
+  }
+ ]
+}
