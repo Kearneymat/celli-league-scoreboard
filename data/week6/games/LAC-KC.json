@@ -1,0 +1,7 @@
+{"status":"live","clock":"Q1 7:29","score":{"LAC":0,"KC":3},
+ "players":{"Patrick Mahomes":{"pass_cmp":6,"pass_yds":73},
+  "Kenneth Walker":{"rush_att":4,"rush_yds":22},
+  "Xavier Worthy":{"rec":4,"rec_yds":51}},
+ "kickers":{"Harrison Butker":{"fg_made_dist":[44]}},
+ "defenses":{"LAC":{"sacks":0,"int":0,"fum_rec":0,"safeties":0},"KC":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}
