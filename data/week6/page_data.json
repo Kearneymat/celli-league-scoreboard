@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 173,
+"total": 172,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -39,29 +39,34 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -228,7 +233,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -236,11 +241,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -274,7 +283,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 114,
+"total": 118,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -303,19 +312,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -325,7 +334,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -393,7 +402,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -408,7 +417,7 @@
 7
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -455,7 +464,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -463,11 +472,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -501,7 +514,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 130,
+"total": 134,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -547,26 +560,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -628,7 +641,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -693,7 +706,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -701,11 +714,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -735,7 +752,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 139,
+"total": 141,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -808,19 +825,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -908,7 +925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1004,7 +1021,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 85,
+"total": 89,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1016,7 +1033,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1047,19 +1064,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -1122,7 +1139,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1132,7 +1149,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -1209,7 +1226,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -1217,11 +1234,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 }
 ]
@@ -1229,7 +1250,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 118,
+"total": 115,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1272,19 +1293,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -1343,7 +1364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1446,23 +1467,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"9 pts allowed",
+10
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 }
 ]
@@ -1470,7 +1487,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 155,
+"total": 157,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1532,26 +1549,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -1651,7 +1668,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1727,7 +1744,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 135,
+"total": 139,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1778,19 +1795,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -1800,7 +1817,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -1810,7 +1827,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -1888,7 +1905,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -1927,7 +1944,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -1935,11 +1952,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -1973,7 +1994,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 128,
+"total": 133,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2029,26 +2050,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -2058,7 +2079,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -2124,7 +2145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -2141,7 +2162,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 12,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -2151,9 +2172,13 @@
 [
 "28-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -2182,7 +2207,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2190,11 +2215,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -2228,7 +2257,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 151,
+"total": 153,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -2273,19 +2302,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -2295,7 +2324,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -2325,7 +2354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -2359,7 +2388,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -2481,7 +2510,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 179,
+"total": 183,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2548,19 +2577,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -2608,7 +2637,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -2636,7 +2665,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -2739,7 +2768,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2747,11 +2776,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 }
 ]
@@ -2759,7 +2792,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 199,
+"total": 203,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -2856,19 +2889,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -2878,7 +2911,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -2930,7 +2963,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -3041,7 +3074,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -3049,11 +3082,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 }
 ]
@@ -3061,7 +3098,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 187,
+"total": 191,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3128,19 +3165,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3224,7 +3261,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -3285,7 +3322,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -3293,11 +3330,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3331,7 +3372,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 196,
+"total": 199,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -3432,19 +3473,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3514,7 +3555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -3533,7 +3574,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -3562,7 +3603,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 12,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -3572,9 +3613,13 @@
 [
 "28-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -3630,7 +3675,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 82,
+"total": 86,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -3662,26 +3707,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3701,7 +3746,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -3753,7 +3798,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -3814,7 +3859,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -3822,11 +3867,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3860,7 +3909,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 190,
+"total": 194,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -3877,7 +3926,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -3894,19 +3943,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -3960,7 +4009,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4017,7 +4066,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4094,7 +4143,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -4102,11 +4151,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -4140,7 +4193,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 121,
+"total": 125,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -4191,19 +4244,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -4251,7 +4304,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4271,7 +4324,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4332,7 +4385,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -4340,11 +4393,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -4378,7 +4435,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 152,
+"total": 154,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -4410,7 +4467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4502,7 +4559,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4575,7 +4632,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -4583,11 +4640,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -4621,7 +4682,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 151,
+"total": 153,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -4638,7 +4699,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4693,19 +4754,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -4715,7 +4776,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4757,7 +4818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -4777,7 +4838,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4818,7 +4879,7 @@
 1
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4892,7 +4953,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 148,
+"total": 150,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -4904,7 +4965,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -4981,19 +5042,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5003,7 +5064,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -5051,7 +5112,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -5122,7 +5183,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5166,7 +5227,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 198,
+"total": 200,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -5223,19 +5284,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5331,7 +5392,7 @@
 5
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5341,7 +5402,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -5438,7 +5499,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 158,
+"total": 162,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -5481,19 +5542,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5577,7 +5638,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -5654,7 +5715,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -5662,11 +5723,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5696,7 +5761,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 63,
+"total": 60,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -5742,26 +5807,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -5858,23 +5923,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"9 pts allowed",
+10
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -5889,11 +5950,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 }
 ]
@@ -5901,7 +5962,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 168,
+"total": 170,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -5962,19 +6023,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6068,7 +6129,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6087,7 +6148,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6128,7 +6189,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6184,7 +6245,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 116,
+"total": 124,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -6203,29 +6264,34 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6271,7 +6337,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6291,7 +6357,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6306,7 +6372,7 @@
 5
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6325,7 +6391,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6335,7 +6401,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6372,7 +6438,7 @@
 1
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6428,7 +6494,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 158,
+"total": 160,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -6455,26 +6521,26 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6520,7 +6586,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6540,7 +6606,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6568,7 +6634,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6635,7 +6701,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6691,7 +6757,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 101,
+"total": 103,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -6718,7 +6784,7 @@
 -5
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6739,19 +6805,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -6803,7 +6869,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -6832,7 +6898,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6932,7 +6998,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 226,
+"total": 229,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -6941,10 +7007,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -6977,19 +7048,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -7176,23 +7247,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"9 pts allowed",
+10
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -7210,7 +7277,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 134,
+"total": 144,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -7219,10 +7286,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -7267,19 +7339,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -7327,7 +7399,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -7427,7 +7499,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -7435,11 +7507,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 }
 ]
@@ -7447,7 +7523,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 98,
+"total": 100,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -7464,7 +7540,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -7484,26 +7560,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -7513,7 +7589,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -7696,7 +7772,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 191,
+"total": 195,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -7755,19 +7831,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -7833,7 +7909,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -7843,7 +7919,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -7920,7 +7996,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -7928,11 +8004,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -7966,7 +8046,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 130,
+"total": 134,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -7978,7 +8058,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8023,19 +8103,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8063,7 +8143,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -8101,7 +8181,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8162,7 +8242,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -8170,11 +8250,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8208,7 +8292,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 152,
+"total": 158,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -8217,10 +8301,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8256,7 +8345,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -8351,7 +8440,7 @@
 7
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8472,7 +8561,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 100,
+"total": 110,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -8481,10 +8570,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8519,19 +8613,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8593,7 +8687,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -8603,7 +8697,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -8613,7 +8707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8676,7 +8770,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -8684,11 +8778,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8703,11 +8801,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 }
 ]
@@ -8715,7 +8813,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 179,
+"total": 183,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -8732,7 +8830,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -8763,19 +8861,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8843,7 +8941,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -8908,7 +9006,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8937,7 +9035,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -8945,11 +9043,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -8983,7 +9085,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 189,
+"total": 191,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -9122,7 +9224,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -9158,7 +9260,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -9221,7 +9323,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -9229,11 +9331,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -9267,7 +9373,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 200,
+"total": 202,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -9312,19 +9418,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -9356,7 +9462,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -9452,7 +9558,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -9548,7 +9654,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 78,
+"total": 80,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -9570,7 +9676,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -9587,19 +9693,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -9632,7 +9738,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -9662,7 +9768,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -9772,7 +9878,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 109,
+"total": 113,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -9794,7 +9900,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -9825,19 +9931,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -9913,7 +10019,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -9964,7 +10070,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -9972,11 +10078,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10010,7 +10120,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 106,
+"total": 114,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -10019,10 +10129,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -10053,19 +10168,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10075,7 +10190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -10137,7 +10252,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -10182,7 +10297,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10248,7 +10363,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 135,
+"total": 137,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -10265,7 +10380,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -10285,26 +10400,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10336,7 +10451,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -10441,7 +10556,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10519,7 +10634,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 152,
+"total": 154,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -10594,19 +10709,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10692,7 +10807,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -10792,7 +10907,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 97,
+"total": 99,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -10821,19 +10936,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -10843,7 +10958,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -10887,7 +11002,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -10907,7 +11022,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -10974,7 +11089,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11030,7 +11145,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 112,
+"total": 114,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -11062,26 +11177,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11169,7 +11284,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -11198,7 +11313,7 @@
 -9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11264,7 +11379,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 124,
+"total": 126,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -11281,7 +11396,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -11328,19 +11443,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11536,7 +11651,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 164,
+"total": 174,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -11545,10 +11660,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -11617,19 +11737,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11682,7 +11802,7 @@
 5
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11701,7 +11821,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -11770,7 +11890,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -11778,11 +11898,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11816,7 +11940,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 152,
+"total": 162,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -11835,10 +11959,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -11881,19 +12010,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -11973,7 +12102,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -12037,7 +12166,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -12045,11 +12174,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 }
 ]
@@ -12057,7 +12190,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 155,
+"total": 159,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -12102,19 +12235,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -12124,7 +12257,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -12148,7 +12281,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -12265,7 +12398,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -12273,11 +12406,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -12311,7 +12448,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 131,
+"total": 133,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -12356,19 +12493,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -12378,7 +12515,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -12463,7 +12600,7 @@
 7
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -12569,7 +12706,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 133,
+"total": 138,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -12624,19 +12761,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"55 rush yds",
-5
+"70 rush yds",
+7
 ],
 [
 "33-yd TD run",
 9
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -12651,7 +12788,7 @@
 6
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -12681,7 +12818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -12714,7 +12851,7 @@
 7
 ]
 ],
-"game": "ARI 6 @ LAR 9 \u00b7 Q2 6:49",
+"game": "ARI 9 @ LAR 9 \u00b7 Q2 0:46",
 "on": true
 },
 {
@@ -12729,7 +12866,7 @@
 7
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
@@ -12762,7 +12899,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 12,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -12772,16 +12909,20 @@
 [
 "28-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 6 @ LV 7 \u00b7 Q2 13:51",
+"game": "BUF 13 @ LV 7 \u00b7 Q2 3:54",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -12789,11 +12930,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "LAC 3 @ KC 9 \u00b7 Q2 15:00",
+"game": "LAC 3 @ KC 9 \u00b7 Q2 7:47",
 "on": true
 },
 {
@@ -12868,18 +13013,18 @@
 "live": false
 },
 {
-"t": "ARI 6 @ LAR 9",
-"s": "Q2 6:49",
+"t": "ARI 9 @ LAR 9",
+"s": "Q2 0:46",
 "live": true
 },
 {
 "t": "LAC 3 @ KC 9",
-"s": "Q2 15:00",
+"s": "Q2 7:47",
 "live": true
 },
 {
-"t": "BUF 6 @ LV 7",
-"s": "Q2 13:51",
+"t": "BUF 13 @ LV 7",
+"s": "Q2 3:54",
 "live": true
 },
 {
