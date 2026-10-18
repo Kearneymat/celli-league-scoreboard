@@ -1,0 +1,9 @@
+{"status":"live","clock":"Q1 7:43","score":{"ARI":0,"LAR":3},
+ "players":{"Jacoby Brissett":{"pass_cmp":2,"pass_yds":30,"int":1},
+  "Tyler Allgeier":{"rush_att":3,"rush_yds":4},
+  "Trey McBride":{"rec":1,"rec_yds":26},
+  "Matthew Stafford":{"pass_cmp":1,"pass_yds":6},
+  "Kyren Williams":{"rush_att":1,"rush_yds":3}},
+ "kickers":{"Blake Grupe":{"fg_made_dist":[44]}},
+ "defenses":{"ARI":{"sacks":1,"int":0,"fum_rec":0,"safeties":0},"LAR":{"sacks":0,"int":1,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}

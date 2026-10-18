@@ -1,8 +1,8 @@
-{"status":"live","clock":"Q4 2:00","score":{"NYJ":16,"NE":23},
+{"status":"final","clock":"Final","score":{"NYJ":19,"NE":26},
  "players":{"Garrett Wilson":{"rec":4,"rec_yds":44},
-  "Drake Maye":{"pass_cmp":18,"pass_yds":235,"pass_td_lengths":[42,9,7],"rush_att":3,"rush_yds":25},
+  "Drake Maye":{"pass_cmp":18,"pass_yds":235,"pass_td_lengths":[42,9,7],"rush_att":4,"rush_yds":24},
   "Rhamondre Stevenson":{"rush_att":14,"rush_yds":36},
   "Hunter Henry":{"rec":4,"rec_yds":48,"rec_td_lengths":[7]}},
- "kickers":{"Jason Sanders":{"fg_made_dist":[42,36,40],"xp_made":1},"Andres Borregales":{"fg_made_dist":[32],"xp_made":2,"xp_missed":1}},
+ "kickers":{"Jason Sanders":{"fg_made_dist":[42,36,40,36],"xp_made":1},"Andres Borregales":{"fg_made_dist":[32,27],"xp_made":2,"xp_missed":1}},
  "defenses":{"NYJ":{"sacks":0,"int":0,"fum_rec":2,"safeties":0,"def_st_td_lengths":[]},"NE":{"sacks":3,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}},
  "src":"CBS box + Sportradar scoring plays"}
