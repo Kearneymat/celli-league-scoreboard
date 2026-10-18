@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 22,
+"total": 34,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -16,8 +16,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "QB",
@@ -76,8 +76,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -113,11 +113,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -126,8 +135,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "K",
@@ -245,8 +254,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -350,7 +359,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 22,
+"total": 34,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -382,8 +391,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -412,8 +421,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -459,11 +468,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -523,7 +541,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 43,
+"total": 75,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -565,8 +583,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -626,11 +644,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -701,18 +728,23 @@
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 }
 ]
 },
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 23,
+"total": 38,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -744,8 +776,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -764,8 +796,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "WR",
@@ -867,11 +899,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -888,7 +929,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -920,8 +961,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -940,8 +981,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "WR",
@@ -997,11 +1038,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -1010,8 +1060,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -1027,11 +1077,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1048,7 +1107,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 25,
+"total": 52,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1070,8 +1129,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "RB",
@@ -1080,8 +1139,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -1128,8 +1187,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -1138,8 +1197,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -1155,11 +1214,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -1195,11 +1263,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1216,7 +1293,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 28,
+"total": 40,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1228,8 +1305,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "QB",
@@ -1248,8 +1325,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -1288,8 +1365,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -1319,11 +1396,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -1389,7 +1475,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 52,
+"total": 67,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -1489,8 +1575,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -1570,18 +1656,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Paradis",
 "champ": false,
-"total": 63,
+"total": 75,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -1663,8 +1758,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -1690,11 +1785,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -1771,7 +1875,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -1823,8 +1927,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -1843,8 +1947,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -1880,11 +1984,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -1903,18 +2016,27 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1931,7 +2053,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 59,
+"total": 71,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -2027,8 +2149,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -2064,11 +2186,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -2120,7 +2251,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 39,
+"total": 55,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -2176,8 +2307,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -2216,8 +2347,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -2226,8 +2357,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -2263,11 +2394,16 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "K",
@@ -2293,18 +2429,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Cann man",
 "champ": false,
-"total": 23,
+"total": 38,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -2341,8 +2486,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -2475,18 +2620,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Ben",
 "champ": false,
-"total": 1,
+"total": 16,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -2558,8 +2712,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -2640,18 +2794,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Cobb",
 "champ": false,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -2760,11 +2923,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -2773,8 +2945,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -2800,18 +2972,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 13,
+"total": 28,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -2951,8 +3132,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2968,18 +3149,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 42,
+"total": 69,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -3021,8 +3211,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "RB",
@@ -3065,8 +3255,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -3092,11 +3282,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -3152,18 +3351,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Kearney",
 "champ": false,
-"total": 21,
+"total": 33,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -3235,8 +3443,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -3272,11 +3480,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -3348,7 +3565,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -3380,8 +3597,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -3457,11 +3674,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -3470,8 +3696,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "K",
@@ -3497,18 +3723,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 16,
+"total": 38,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -3520,18 +3755,23 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"14-yd TD pass",
+7
+]
+],
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -3550,8 +3790,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "RB",
@@ -3560,8 +3800,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -3580,8 +3820,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -3590,8 +3830,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -3620,8 +3860,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -3652,8 +3892,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3669,18 +3909,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 29,
+"total": 41,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -3712,8 +3961,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -3752,8 +4001,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -3793,11 +4042,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -3894,8 +4152,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -4022,7 +4280,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 28,
+"total": 43,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -4034,8 +4292,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "QB",
@@ -4064,8 +4322,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -4108,8 +4366,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -4188,18 +4446,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Pacman",
 "champ": false,
-"total": 22,
+"total": 37,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -4361,18 +4628,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Svendson",
 "champ": false,
-"total": 59,
+"total": 71,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -4414,8 +4690,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -4464,8 +4740,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -4481,11 +4757,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -4598,8 +4883,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -4642,8 +4927,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -4692,8 +4977,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -4774,8 +5059,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "RB",
@@ -4794,8 +5079,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -4832,8 +5117,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -4862,8 +5147,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "TE",
@@ -4904,8 +5189,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4932,7 +5217,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 52,
+"total": 64,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -4978,8 +5263,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -5043,11 +5328,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -5112,7 +5406,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 22,
+"total": 37,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -5204,8 +5498,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "TE",
@@ -5234,8 +5528,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "K",
@@ -5251,11 +5545,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5285,7 +5588,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -5317,8 +5620,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -5347,8 +5650,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -5394,11 +5697,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -5417,8 +5729,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5434,11 +5746,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
@@ -5491,8 +5812,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -5511,8 +5832,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -5581,8 +5902,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5618,7 +5939,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 10,
+"total": 34,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -5640,8 +5961,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "RB",
@@ -5660,8 +5981,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -5740,28 +6061,42 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5809,8 +6144,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "RB",
@@ -5955,7 +6290,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 52,
+"total": 64,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -6039,8 +6374,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -6076,11 +6411,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -6136,7 +6480,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 61,
+"total": 73,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -6202,8 +6546,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "RB",
@@ -6212,8 +6556,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -6259,11 +6603,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -6329,7 +6682,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 29,
+"total": 41,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -6405,8 +6758,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -6432,11 +6785,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -6507,7 +6869,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 43,
+"total": 58,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -6559,8 +6921,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "WR",
@@ -6685,18 +7047,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 35,
+"total": 36,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -6728,8 +7099,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -6833,11 +7204,16 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6873,7 +7249,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 50,
+"total": 62,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -6905,8 +7281,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -6986,11 +7362,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -7059,7 +7444,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 7,
+"total": 54,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -7111,8 +7496,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -7162,11 +7547,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -7202,21 +7596,35 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 }
 ]
 },
@@ -7299,8 +7707,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -7373,8 +7781,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -7433,7 +7841,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 28,
+"total": 55,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -7546,11 +7954,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -7559,8 +7976,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -7599,18 +8016,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Adam",
 "champ": false,
-"total": 25,
+"total": 40,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -7662,8 +8088,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -7690,8 +8116,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -7767,18 +8193,27 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 1,
+"total": 33,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -7858,8 +8293,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "WR",
@@ -7868,8 +8303,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -7895,11 +8330,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -7925,11 +8369,16 @@
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7958,7 +8407,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 0,
+"total": 27,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -8067,11 +8516,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -8080,8 +8538,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "K",
@@ -8107,11 +8565,20 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
+]
+],
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 }
 ]
 },
@@ -8150,8 +8617,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "RB",
@@ -8180,8 +8647,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -8210,8 +8677,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -8286,7 +8753,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 22,
+"total": 34,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -8338,8 +8805,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -8378,8 +8845,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -8395,11 +8862,20 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"3 catches",
+5
+],
+[
+"42 rec yds",
+7
+]
+],
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "K",
@@ -8467,8 +8943,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "QB",
@@ -8535,8 +9011,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "WR",
@@ -8545,8 +9021,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "WR",
@@ -8644,7 +9120,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 27,
+"total": 34,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -8653,11 +9129,16 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CHI @ ATL \u00b7 Sun 1:00 ET",
-"yet": true
+"bd": [
+[
+"14-yd TD pass",
+7
+]
+],
+"game": "CHI 7 @ ATL 0 \u00b7 Q1 6:34",
+"on": true
 },
 {
 "pos": "QB",
@@ -8740,8 +9221,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO @ NYG \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NO 0 @ NYG 0 \u00b7 Q1 6:07",
+"on": true
 },
 {
 "pos": "TE",
@@ -8770,8 +9251,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ NE \u00b7 Sun 1:00 ET",
-"yet": true
+"game": "NYJ 3 @ NE 0 \u00b7 Q1 6:40",
+"on": true
 },
 {
 "pos": "K",
@@ -8851,19 +9332,19 @@
 "live": true
 },
 {
-"t": "NO @ NYG",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "NO 0 @ NYG 0",
+"s": "Q1 6:07",
+"live": true
 },
 {
-"t": "CHI @ ATL",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "CHI 7 @ ATL 0",
+"s": "Q1 6:34",
+"live": true
 },
 {
-"t": "NYJ @ NE",
-"s": "Sun 1:00 ET",
-"live": false
+"t": "NYJ 3 @ NE 0",
+"s": "Q1 6:40",
+"live": true
 },
 {
 "t": "ARI @ LAR",

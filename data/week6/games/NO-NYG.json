@@ -1,0 +1,7 @@
+{"status":"live","clock":"Q1 6:07","score":{"NO":0,"NYG":0},
+ "players":{"Jameis Winston":{"pass_cmp":4,"pass_yds":40,"rush_att":1,"rush_yds":3},
+  "Isaiah Likely":{"rec":3,"rec_yds":42},
+  "Malik Nabers":{"rec":1,"rec_yds":-2}},
+ "kickers":{},
+ "defenses":{"NO":{"sacks":0,"int":0,"fum_rec":0,"safeties":0},"NYG":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
+ "src":"CBS box + Sportradar scoring plays"}
