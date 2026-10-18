@@ -1,8 +1,8 @@
-{"status":"live","clock":"Q2 5:24","score":{"NO":0,"NYG":7},
- "players":{"Jameis Winston":{"pass_cmp":8,"pass_yds":81,"pass_td_lengths":[17],"rush_att":1,"rush_yds":3},
+{"status":"live","clock":"Q2 1:18","score":{"NO":3,"NYG":10},
+ "players":{"Jameis Winston":{"pass_cmp":9,"pass_yds":100,"pass_td_lengths":[17],"rush_att":2,"rush_yds":4},
   "Isaiah Likely":{"rec":3,"rec_yds":42},
-  "Malik Nabers":{"rec":4,"rec_yds":22},
-  "Chris Olave":{"rec":1,"rec_yds":3}},
- "kickers":{"Dominik Zvada":{"xp_made":1}},
+  "Malik Nabers":{"rec":5,"rec_yds":41},
+  "Chris Olave":{"rec":2,"rec_yds":15}},
+ "kickers":{"Dominik Zvada":{"fg_made_dist":[34],"xp_made":1}},
  "defenses":{"NO":{"sacks":3,"int":0,"fum_rec":0,"safeties":0},"NYG":{"sacks":0,"int":0,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}

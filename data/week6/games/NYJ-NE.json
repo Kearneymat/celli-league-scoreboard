@@ -1,7 +1,7 @@
-{"status":"live","clock":"Q2 6:43","score":{"NYJ":3,"NE":7},
+{"status":"live","clock":"Q2 1:23","score":{"NYJ":3,"NE":10},
  "players":{"Garrett Wilson":{"rec":1,"rec_yds":15},
-  "Drake Maye":{"pass_cmp":1,"pass_yds":42,"pass_td_lengths":[42],"rush_att":1,"rush_yds":3},
-  "Rhamondre Stevenson":{"rush_att":5,"rush_yds":18}},
- "kickers":{"Jason Sanders":{"fg_made_dist":[42]},"Andres Borregales":{"xp_made":1}},
+  "Drake Maye":{"pass_cmp":4,"pass_yds":69,"pass_td_lengths":[42],"rush_att":1,"rush_yds":3},
+  "Rhamondre Stevenson":{"rush_att":8,"rush_yds":30}},
+ "kickers":{"Jason Sanders":{"fg_made_dist":[42]},"Andres Borregales":{"fg_made_dist":[32],"xp_made":1}},
  "defenses":{"NYJ":{"sacks":0,"int":0,"fum_rec":0,"safeties":0},"NE":{"sacks":2,"int":0,"fum_rec":0,"safeties":0}},
  "src":"CBS box + Sportradar scoring plays"}

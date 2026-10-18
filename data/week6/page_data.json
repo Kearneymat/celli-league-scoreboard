@@ -21,7 +21,7 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -51,7 +51,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -81,17 +81,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -130,27 +135,37 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Nick Folk",
 "team": "ATL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -167,23 +182,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -191,7 +206,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 34,
+"total": 48,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -260,10 +275,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -328,15 +348,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -353,23 +381,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -377,7 +405,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 35,
+"total": 47,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -409,7 +437,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -439,7 +467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -449,7 +477,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -498,7 +526,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -515,15 +543,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -556,7 +592,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -564,7 +600,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 76,
+"total": 93,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -593,10 +629,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -606,7 +647,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -633,10 +674,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -679,7 +725,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -718,15 +764,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -749,26 +803,26 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 }
 ]
@@ -776,7 +830,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 43,
+"total": 55,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -808,7 +862,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -828,7 +882,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -921,15 +975,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -952,7 +1014,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -970,7 +1032,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 33,
+"total": 51,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1002,7 +1064,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -1022,7 +1084,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -1091,37 +1153,49 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1144,7 +1218,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -1162,7 +1236,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 70,
+"total": 93,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1189,22 +1263,26 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -1249,10 +1327,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1262,7 +1345,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -1291,7 +1374,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1318,15 +1401,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1349,7 +1440,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -1367,7 +1458,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 40,
+"total": 54,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -1384,7 +1475,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1404,7 +1495,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -1441,10 +1532,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1487,7 +1583,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1514,15 +1610,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1539,23 +1643,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -1563,7 +1667,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 72,
+"total": 84,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -1663,7 +1767,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -1724,15 +1828,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1765,7 +1877,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -1773,7 +1885,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 70,
+"total": 88,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -1782,10 +1894,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -1855,7 +1972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1894,7 +2011,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -1919,45 +2036,53 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -1965,15 +2090,15 @@
 20
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 }
 ]
@@ -1981,7 +2106,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 33,
+"total": 63,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2000,10 +2125,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2013,7 +2143,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -2033,7 +2163,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -2053,7 +2183,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -2070,10 +2200,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2102,37 +2237,49 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -2155,7 +2302,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -2173,7 +2320,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 72,
+"total": 93,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -2226,10 +2373,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2239,7 +2391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2269,7 +2421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -2286,10 +2438,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2318,39 +2475,52 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Colts D",
 "team": "IND",
-"pts": 20,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -2358,11 +2528,15 @@
 20
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2380,7 +2554,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 60,
+"total": 78,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -2436,7 +2610,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -2456,7 +2630,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2473,10 +2647,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -2486,7 +2665,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -2523,7 +2702,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
@@ -2531,26 +2710,34 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2583,7 +2770,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -2591,7 +2778,7 @@
 {
 "owner": "Cann man",
 "champ": false,
-"total": 43,
+"total": 67,
 "comm": null,
 "prev": 1376,
 "alive": true,
@@ -2608,17 +2795,22 @@
 -5
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2628,7 +2820,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -2638,7 +2830,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -2672,7 +2864,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -2689,10 +2881,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2719,15 +2916,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2760,7 +2965,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2783,7 +2988,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -2791,7 +2996,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 27,
+"total": 44,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -2863,17 +3068,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -2922,22 +3132,30 @@
 1
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2970,7 +3188,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -2978,7 +3196,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 33,
+"total": 56,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -3020,7 +3238,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -3030,7 +3248,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3047,10 +3265,15 @@
 "pos": "WR",
 "name": "Keenan Allen",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3099,37 +3322,49 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3162,7 +3397,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -3170,7 +3405,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 34,
+"total": 52,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -3202,7 +3437,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3297,30 +3532,42 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -3353,7 +3600,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -3403,7 +3650,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -3413,7 +3660,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3423,7 +3670,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -3447,7 +3694,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -3486,7 +3733,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -3559,7 +3806,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -3567,7 +3814,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 34,
+"total": 58,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -3586,10 +3833,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3599,7 +3851,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -3626,10 +3878,15 @@
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3639,7 +3896,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -3688,7 +3945,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -3705,15 +3962,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3758,7 +4023,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -3766,7 +4031,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 32,
+"total": 55,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -3785,10 +4050,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3798,17 +4068,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3835,10 +4110,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -3887,22 +4167,26 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"32-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -3945,7 +4229,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -3953,7 +4237,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 59,
+"total": 81,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -3970,7 +4254,7 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -3985,7 +4269,7 @@
 7
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -4005,42 +4289,56 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4050,7 +4348,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4080,7 +4378,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4109,15 +4407,19 @@
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4150,7 +4452,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -4158,7 +4460,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 48,
+"total": 65,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -4190,7 +4492,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -4210,7 +4512,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4220,17 +4522,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4283,7 +4590,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -4302,22 +4609,30 @@
 1
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4350,7 +4665,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -4358,7 +4673,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 0,
+"total": 5,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -4390,7 +4705,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -4417,10 +4732,15 @@
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4450,7 +4770,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4460,7 +4780,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -4490,7 +4810,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4518,7 +4838,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 60,
+"total": 86,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -4535,17 +4855,22 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4565,7 +4890,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -4575,7 +4900,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4609,17 +4934,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4646,15 +4976,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4671,7 +5009,7 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4679,15 +5017,15 @@
 20
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -4710,7 +5048,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -4718,7 +5056,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 42,
+"total": 54,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -4760,7 +5098,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4770,7 +5108,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4837,15 +5175,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4878,7 +5224,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -4901,7 +5247,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -4909,7 +5255,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 69,
+"total": 77,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -4948,15 +5294,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -4966,7 +5316,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5003,10 +5353,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -5035,7 +5390,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -5074,23 +5429,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5113,7 +5468,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -5121,7 +5476,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 44,
+"total": 59,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -5153,7 +5508,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5197,7 +5552,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5227,7 +5582,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5244,53 +5599,65 @@
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5313,7 +5680,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -5321,7 +5688,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 62,
+"total": 76,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -5348,7 +5715,7 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -5365,15 +5732,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5383,7 +5754,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5411,7 +5782,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -5431,7 +5802,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5441,22 +5812,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Dallas Goedert",
 "team": "PHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5485,10 +5860,15 @@
 "pos": "K",
 "name": "Nick Folk",
 "team": "ATL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5516,7 +5896,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 57,
+"total": 66,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -5562,7 +5942,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5639,7 +6019,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -5655,15 +6035,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5680,23 +6068,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5714,7 +6102,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 42,
+"total": 50,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -5793,10 +6181,15 @@
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5806,7 +6199,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5833,25 +6226,34 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"32-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5874,7 +6276,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -5897,7 +6299,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -5905,7 +6307,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 33,
+"total": 58,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -5924,10 +6326,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5937,7 +6344,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -5957,7 +6364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -5967,7 +6374,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6026,37 +6433,49 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6089,7 +6508,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -6097,7 +6516,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 21,
+"total": 46,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -6143,7 +6562,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -6160,10 +6579,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6190,10 +6614,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -6220,30 +6649,42 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6260,23 +6701,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -6284,7 +6725,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 49,
+"total": 64,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -6311,7 +6752,7 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -6331,7 +6772,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -6351,17 +6792,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"59 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -6401,22 +6847,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6431,7 +6881,7 @@
 9
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -6454,14 +6904,14 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Browns D",
 "team": "CLE",
-"pts": 10,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6469,11 +6919,15 @@
 10
 ],
 [
+"2 sacks",
+4
+],
+[
 "Trailing",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 }
 ]
@@ -6481,7 +6935,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 21,
+"total": 30,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -6508,7 +6962,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6538,7 +6992,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6613,25 +7067,38 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6659,7 +7126,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 57,
+"total": 66,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -6715,7 +7182,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -6743,7 +7210,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -6792,7 +7259,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -6809,15 +7276,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6834,23 +7309,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -6858,7 +7333,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 66,
+"total": 77,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -6911,10 +7386,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6924,7 +7404,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -6934,7 +7414,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -6993,7 +7473,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -7010,25 +7490,38 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7045,23 +7538,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -7069,7 +7562,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 49,
+"total": 72,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -7078,10 +7571,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7111,7 +7609,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -7142,20 +7640,30 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7184,7 +7692,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -7201,7 +7709,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 10,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -7209,11 +7717,15 @@
 9
 ],
 [
+"47-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7232,30 +7744,30 @@
 1
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7273,7 +7785,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 63,
+"total": 75,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -7325,7 +7837,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -7418,15 +7930,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7449,7 +7969,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7472,7 +7992,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -7480,7 +8000,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 29,
+"total": 44,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -7512,7 +8032,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -7577,10 +8097,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7607,22 +8132,30 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
@@ -7630,11 +8163,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -7651,23 +8184,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -7675,7 +8208,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 56,
+"total": 60,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -7707,7 +8240,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -7768,10 +8301,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7800,7 +8338,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -7827,7 +8365,7 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -7835,38 +8373,38 @@
 20
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -7874,7 +8412,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 70,
+"total": 95,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -7923,15 +8461,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -7972,10 +8514,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -7994,22 +8541,26 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Dallas Goedert",
 "team": "PHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -8026,15 +8577,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8057,26 +8616,26 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 }
 ]
@@ -8084,7 +8643,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 83,
+"total": 103,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -8140,7 +8699,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -8160,7 +8719,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -8177,10 +8736,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -8231,30 +8795,42 @@
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8277,30 +8853,30 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -8308,7 +8884,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 62,
+"total": 70,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -8433,22 +9009,26 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Dominik Zvada",
 "team": "NYG",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"34-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -8465,7 +9045,7 @@
 "pos": "DEF",
 "name": "Ravens D",
 "team": "BAL",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -8473,15 +9053,15 @@
 20
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -8504,7 +9084,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -8512,7 +9092,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 51,
+"total": 74,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -8561,15 +9141,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "4-yd TD run",
 6
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -8594,10 +9178,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -8654,15 +9243,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8695,7 +9292,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -8703,7 +9300,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 33,
+"total": 30,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -8732,10 +9329,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8783,7 +9385,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -8793,7 +9395,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -8813,7 +9415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -8832,7 +9434,7 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -8849,29 +9451,34 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"bd": [
+[
+"missed 48-yd FG",
+-3
+]
+],
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -8901,7 +9508,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 32,
+"total": 55,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -8930,10 +9537,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"bd": [
+[
+"53 rush yds",
+5
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8943,7 +9555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -8980,10 +9592,15 @@
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -9022,23 +9639,13 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Nick Folk",
 "team": "ATL",
-"pts": 0,
-"comm": null,
-"bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
-"on": true
-},
-{
-"pos": "K",
-"name": "Spencer Shrader",
-"team": "IND",
 "pts": 1,
 "comm": null,
 "bd": [
@@ -9047,7 +9654,30 @@
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
+"on": true
+},
+{
+"pos": "K",
+"name": "Spencer Shrader",
+"team": "IND",
+"pts": 13,
+"comm": null,
+"bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
+[
+"1 XP",
+1
+]
+],
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9080,7 +9710,7 @@
 0
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 }
 ]
@@ -9088,7 +9718,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 15,
+"total": 34,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -9120,7 +9750,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -9130,7 +9760,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -9150,17 +9780,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Jalen Coker",
 "team": "CAR",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"51 rec yds",
+5
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -9177,10 +9812,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -9207,15 +9847,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9231,23 +9879,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9265,7 +9913,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 27,
+"total": 43,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -9274,10 +9922,15 @@
 "pos": "QB",
 "name": "Bryce Young",
 "team": "CAR",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"bd": [
+[
+"12-yd TD pass",
+7
+]
+],
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -9317,7 +9970,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -9347,7 +10000,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ CLE 0 \u00b7 Q2 6:32",
+"game": "BAL 10 @ CLE 0 \u00b7 Q2 0:13",
 "on": true
 },
 {
@@ -9357,7 +10010,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -9386,22 +10039,30 @@
 7
 ]
 ],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9428,23 +10089,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -9452,7 +10113,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 42,
+"total": 58,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -9469,7 +10130,7 @@
 10
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -9537,7 +10198,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -9547,7 +10208,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -9574,15 +10235,19 @@
 "pos": "TE",
 "name": "Dallas Goedert",
 "team": "PHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 },
 {
@@ -9599,15 +10264,23 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"23-yd FG",
+3
+],
+[
+"47-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "TEN 0 @ IND 7 \u00b7 Q2 7:07",
+"game": "TEN 0 @ IND 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9636,23 +10309,23 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 14,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "PIT 0 @ TB 10 \u00b7 Q2 10:10",
+"game": "PIT 0 @ TB 13 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -9660,7 +10333,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 35,
+"total": 41,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -9677,7 +10350,7 @@
 7
 ]
 ],
-"game": "CHI 14 @ ATL 0 \u00b7 Q2 7:19",
+"game": "CHI 21 @ ATL 7 \u00b7 Q2 1:26",
 "on": true
 },
 {
@@ -9761,7 +10434,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ NYG 7 \u00b7 Q2 5:24",
+"game": "NO 3 @ NYG 10 \u00b7 Q2 1:18",
 "on": true
 },
 {
@@ -9788,15 +10461,19 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 1,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"32-yd FG",
+6
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "NYJ 3 @ NE 7 \u00b7 Q2 6:43",
+"game": "NYJ 3 @ NE 10 \u00b7 Q2 1:23",
 "on": true
 },
 {
@@ -9839,7 +10516,7 @@
 0
 ]
 ],
-"game": "CAR 3 @ PHI 0 \u00b7 Q2 12:12",
+"game": "CAR 10 @ PHI 0 \u00b7 Q2 6:11",
 "on": true
 }
 ]
@@ -9857,38 +10534,38 @@
 "live": false
 },
 {
-"t": "TEN 0 @ IND 7",
-"s": "Q2 7:07",
+"t": "TEN 0 @ IND 13",
+"s": "Halftime",
 "live": true
 },
 {
-"t": "CAR 3 @ PHI 0",
-"s": "Q2 12:12",
+"t": "CAR 10 @ PHI 0",
+"s": "Q2 6:11",
 "live": true
 },
 {
-"t": "PIT 0 @ TB 10",
-"s": "Q2 10:10",
+"t": "PIT 0 @ TB 13",
+"s": "Q2 2:00",
 "live": true
 },
 {
 "t": "BAL 10 @ CLE 0",
-"s": "Q2 6:32",
+"s": "Q2 0:13",
 "live": true
 },
 {
-"t": "NO 0 @ NYG 7",
-"s": "Q2 5:24",
+"t": "NO 3 @ NYG 10",
+"s": "Q2 1:18",
 "live": true
 },
 {
-"t": "CHI 14 @ ATL 0",
-"s": "Q2 7:19",
+"t": "CHI 21 @ ATL 7",
+"s": "Q2 1:26",
 "live": true
 },
 {
-"t": "NYJ 3 @ NE 7",
-"s": "Q2 6:43",
+"t": "NYJ 3 @ NE 10",
+"s": "Q2 1:23",
 "live": true
 },
 {
