@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 227,
+"total": 232,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -104,7 +104,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -114,7 +114,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -153,10 +153,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -166,7 +171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -304,7 +309,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 217,
+"total": 222,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -335,7 +340,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -397,7 +402,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -407,7 +412,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -442,10 +447,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -594,10 +604,15 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -710,15 +725,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -777,7 +796,7 @@
 1
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -859,7 +878,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 188,
+"total": 193,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -868,10 +887,15 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -890,7 +914,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -967,10 +991,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -995,15 +1024,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1157,7 +1190,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 191,
+"total": 201,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1208,7 +1241,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1281,32 +1314,41 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1450,7 +1492,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 147,
+"total": 157,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1471,7 +1513,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1537,25 +1579,34 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1565,7 +1616,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1719,7 +1770,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 208,
+"total": 213,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1872,15 +1923,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -1934,7 +1989,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2000,7 +2055,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 218,
+"total": 223,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2039,7 +2094,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2136,10 +2191,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2212,7 +2272,7 @@
 1
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2298,7 +2358,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 248,
+"total": 253,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2463,15 +2523,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2615,7 +2679,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 213,
+"total": 218,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -2662,7 +2726,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2712,17 +2776,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -2904,7 +2973,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 239,
+"total": 244,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -2925,7 +2994,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -3020,10 +3089,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -3216,7 +3290,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 272,
+"total": 277,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3371,10 +3445,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -3552,7 +3631,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 253,
+"total": 258,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3607,7 +3686,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -3679,7 +3758,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -3718,15 +3797,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4186,7 +4269,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 194,
+"total": 199,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4217,7 +4300,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4279,7 +4362,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4336,15 +4419,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4480,7 +4567,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 283,
+"total": 288,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -4527,7 +4614,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4650,15 +4737,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4810,7 +4901,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 201,
+"total": 206,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -4831,7 +4922,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4899,7 +4990,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -4952,15 +5043,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -5105,10 +5200,15 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -5127,7 +5227,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -5232,15 +5332,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -5388,7 +5492,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 241,
+"total": 246,
 "comm": null,
 "prev": 1383,
 "alive": true,
@@ -5552,15 +5656,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -5704,7 +5812,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 275,
+"total": 280,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -5886,17 +5994,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6334,7 +6447,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 218,
+"total": 223,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6365,7 +6478,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6476,10 +6589,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6636,10 +6754,15 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6658,7 +6781,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6737,10 +6860,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6788,7 +6916,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -6854,7 +6982,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 244,
+"total": 249,
 "comm": null,
 "prev": 1408,
 "alive": false,
@@ -6983,15 +7111,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -7475,7 +7607,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 251,
+"total": 256,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -7600,10 +7732,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -7786,7 +7923,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 173,
+"total": 178,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -7807,7 +7944,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -7879,7 +8016,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -7936,10 +8073,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -8366,7 +8508,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 218,
+"total": 223,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -8483,10 +8625,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -8645,7 +8792,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 186,
+"total": 191,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -8759,22 +8906,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -8821,7 +8972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -8937,7 +9088,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 271,
+"total": 281,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -8958,7 +9109,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -9067,25 +9218,34 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -9255,7 +9415,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 245,
+"total": 250,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -9394,15 +9554,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -9556,7 +9720,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 199,
+"total": 204,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -9648,7 +9812,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -9694,17 +9858,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -9843,7 +10012,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 204,
+"total": 209,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -9974,15 +10143,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10143,7 +10316,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 260,
+"total": 265,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -10190,7 +10363,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10304,10 +10477,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10463,7 +10641,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 231,
+"total": 241,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -10518,7 +10696,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10578,15 +10756,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10596,17 +10778,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -10948,7 +11135,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11097,7 +11284,7 @@
 0
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 }
 ]
@@ -11105,7 +11292,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 176,
+"total": 181,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11157,7 +11344,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11234,22 +11421,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11377,7 +11568,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 204,
+"total": 209,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -11443,7 +11634,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11504,10 +11695,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11661,7 +11857,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 208,
+"total": 213,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -11784,15 +11980,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11898,7 +12098,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -11954,7 +12154,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 244,
+"total": 249,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -12091,10 +12291,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12282,7 +12487,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 195,
+"total": 200,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -12337,7 +12542,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12406,10 +12611,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12437,7 +12647,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12461,7 +12671,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12579,7 +12789,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 210,
+"total": 215,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -12610,7 +12820,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12672,7 +12882,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12721,15 +12931,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -12885,7 +13099,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 184,
+"total": 194,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -12916,7 +13130,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13021,25 +13235,34 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13167,7 +13390,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 175,
+"total": 180,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -13289,7 +13512,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13323,15 +13546,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13376,7 +13603,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13462,7 +13689,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 260,
+"total": 270,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -13509,7 +13736,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13594,25 +13821,34 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13792,7 +14028,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 249,
+"total": 254,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -13813,7 +14049,7 @@
 -5
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -13940,15 +14176,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -14089,7 +14329,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 219,
+"total": 224,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -14206,15 +14446,19 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -14378,7 +14622,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 169,
+"total": 174,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -14466,7 +14710,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -14523,10 +14767,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -14650,7 +14899,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 231,
+"total": 241,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -14745,25 +14994,34 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"55 rec yds",
+5
+]
+],
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"50 rec yds",
+5
+],
 [
 "9-yd TD catch",
 6
 ]
 ],
-"game": "DAL 0 @ GB 7 \u00b7 Q2 15:00",
+"game": "DAL 0 @ GB 7 \u00b7 Q2 7:24",
 "on": true
 },
 {
@@ -15008,7 +15266,7 @@
 },
 {
 "t": "DAL 0 @ GB 7",
-"s": "Q2 15:00",
+"s": "Q2 7:24",
 "live": true
 },
 {

@@ -1,12 +1,12 @@
-{"status":"live","clock":"Q2 15:00","score":{"DAL":0,"GB":7},
+{"status":"live","clock":"Q2 7:24","score":{"DAL":0,"GB":7},
  "players":{
-  "Dak Prescott":{"pass_cmp":7,"pass_yds":42},
+  "Dak Prescott":{"pass_cmp":7,"pass_yds":42,"int":1},
   "Javonte Williams":{"rush_att":3,"rush_yds":10,"rec":1},
   "CeeDee Lamb":{"rec":2,"rec_yds":22},
-  "Jordan Love":{"pass_cmp":6,"pass_yds":109,"pass_td_lengths":[9],"int":1},
+  "Jordan Love":{"pass_cmp":10,"pass_yds":158,"pass_td_lengths":[9],"int":1,"rush_att":1,"rush_yds":13},
   "MarShawn Lloyd":{"rush_att":3,"rush_yds":-2},
-  "Matthew Golden":{"rec":2,"rec_yds":46,"rec_td_lengths":[9]},
-  "Christian Watson":{"rec":1,"rec_yds":27}
+  "Matthew Golden":{"rec":3,"rec_yds":50,"rec_td_lengths":[9]},
+  "Christian Watson":{"rec":2,"rec_yds":55}
  },
  "kickers":{"Trey Smack":{"fg_made_dist":[],"fg_missed_dist":[],"miss_label":{},"xp_made":1,"xp_missed":0}},
- "defenses":{"DAL":{"sacks":2,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"GB":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
+ "defenses":{"DAL":{"sacks":2,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"GB":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
