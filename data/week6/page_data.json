@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 258,
+"total": 269,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -109,26 +109,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -175,22 +175,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Tucker Kraft",
 "team": "GB",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
+],
+[
+"37 rec yds",
+5
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -328,7 +332,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 253,
+"total": 266,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -347,16 +351,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -371,7 +375,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -438,17 +442,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 0,
+"pts": 11,
 "comm": null,
-"bd": [],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"66 rec yds",
+6
+]
+],
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -491,7 +504,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -631,7 +644,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 233,
+"total": 249,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -640,19 +653,23 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"32 completions",
+17
+],
+[
+"245 pass yds",
+9
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -781,7 +798,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -852,7 +869,7 @@
 2
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -934,7 +951,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 234,
+"total": 252,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -943,35 +960,39 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"32 completions",
+17
+],
+[
+"245 pass yds",
+9
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -986,7 +1007,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1071,7 +1092,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1112,7 +1133,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1266,7 +1287,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1305,16 +1326,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -1329,7 +1350,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1399,19 +1420,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1426,7 +1447,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1449,7 +1470,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1593,7 +1614,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 205,
+"total": 211,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1602,16 +1623,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -1626,7 +1647,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1708,7 +1729,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -1723,26 +1744,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2065,7 +2086,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2124,7 +2145,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2190,7 +2211,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 264,
+"total": 266,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2217,16 +2238,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -2241,7 +2262,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2346,7 +2367,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2431,7 +2452,7 @@
 2
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2698,7 +2719,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2842,7 +2863,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 249,
+"total": 251,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -2877,16 +2898,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -2901,7 +2922,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2956,7 +2977,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -2971,7 +2992,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -3153,7 +3174,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 269,
+"total": 271,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -3162,16 +3183,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -3186,7 +3207,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -3289,7 +3310,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -3645,7 +3666,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -3823,7 +3844,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 305,
+"total": 311,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3866,16 +3887,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -3890,7 +3911,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -3959,19 +3980,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -4026,7 +4047,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -4486,7 +4507,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 240,
+"total": 242,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4505,16 +4526,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -4529,7 +4550,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -4596,7 +4617,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -4669,7 +4690,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -4805,7 +4826,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 323,
+"total": 325,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -4840,16 +4861,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -4864,7 +4885,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5003,7 +5024,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5155,7 +5176,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 247,
+"total": 249,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -5164,16 +5185,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -5188,7 +5209,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5261,7 +5282,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5330,7 +5351,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5466,7 +5487,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 268,
+"total": 286,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -5475,35 +5496,39 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"32 completions",
+17
+],
+[
+"245 pass yds",
+9
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -5518,7 +5543,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5639,7 +5664,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -5967,7 +5992,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -6111,7 +6136,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 293,
+"total": 297,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6290,19 +6315,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -6317,7 +6342,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -6755,7 +6780,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 248,
+"total": 250,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6774,16 +6799,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -6798,7 +6823,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -6917,7 +6942,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -7065,7 +7090,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 94,
+"total": 112,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -7074,35 +7099,39 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 0,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"32 completions",
+17
+],
+[
+"245 pass yds",
+9
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -7117,7 +7146,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -7204,7 +7233,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -7257,7 +7286,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -7468,7 +7497,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -8085,7 +8114,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -8268,7 +8297,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 209,
+"total": 211,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -8277,16 +8306,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -8301,7 +8330,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -8378,7 +8407,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -8443,7 +8472,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -8995,7 +9024,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9154,7 +9183,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 209,
+"total": 227,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -9265,10 +9294,19 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 0,
+"pts": 11,
 "comm": null,
-"bd": [],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"66 rec yds",
+6
+]
+],
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9291,7 +9329,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9335,15 +9373,19 @@
 "pos": "TE",
 "name": "Tucker Kraft",
 "team": "GB",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
+],
+[
+"37 rec yds",
+5
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9459,7 +9501,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 317,
+"total": 319,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -9468,16 +9510,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -9492,7 +9534,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9617,7 +9659,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9632,7 +9674,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -9957,7 +9999,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10111,7 +10153,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 211,
+"total": 222,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -10208,7 +10250,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10251,10 +10293,19 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 0,
+"pts": 11,
 "comm": null,
-"bd": [],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"66 rec yds",
+6
+]
+],
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10269,7 +10320,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10555,7 +10606,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10716,7 +10767,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 290,
+"total": 292,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -10751,16 +10802,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -10775,7 +10826,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -10897,7 +10948,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11053,7 +11104,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 289,
+"total": 295,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -11096,16 +11147,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -11120,7 +11171,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11196,26 +11247,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11230,7 +11281,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11412,7 +11463,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 267,
+"total": 271,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11569,19 +11620,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11730,7 +11781,7 @@
 0
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 }
 ]
@@ -11738,7 +11789,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 204,
+"total": 208,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11790,7 +11841,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11864,19 +11915,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -11899,7 +11950,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12098,7 +12149,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12167,7 +12218,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12460,7 +12511,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12571,7 +12622,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12772,7 +12823,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -12960,7 +13011,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 244,
+"total": 257,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -13003,16 +13054,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -13027,7 +13078,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13104,7 +13155,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13129,19 +13180,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13162,15 +13213,19 @@
 "pos": "TE",
 "name": "Tucker Kraft",
 "team": "GB",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
+],
+[
+"37 rec yds",
+5
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13288,7 +13343,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 256,
+"total": 258,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -13307,16 +13362,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -13331,7 +13386,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13398,7 +13453,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13463,7 +13518,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13619,7 +13674,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 230,
+"total": 232,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13638,16 +13693,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -13662,7 +13717,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13775,7 +13830,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13798,7 +13853,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -13926,7 +13981,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 204,
+"total": 208,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -14045,19 +14100,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"54 rec yds",
-5
+"70 rec yds",
+7
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14107,7 +14162,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14157,7 +14212,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14243,7 +14298,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 306,
+"total": 308,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -14278,16 +14333,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -14302,7 +14357,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14395,7 +14450,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14418,7 +14473,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14598,7 +14653,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 289,
+"total": 291,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -14607,16 +14662,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 25,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"268 pass yds",
-11
+"276 pass yds",
+12
 ],
 [
 "9-yd TD pass",
@@ -14631,7 +14686,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -14774,7 +14829,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15048,7 +15103,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15305,7 +15360,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15370,7 +15425,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15597,7 +15652,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15620,7 +15675,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 1:05",
 "on": true
 },
 {
@@ -15865,7 +15920,7 @@
 },
 {
 "t": "DAL 7 @ GB 23",
-"s": "Q4 6:31",
+"s": "Q4 1:05",
 "live": true
 },
 {
