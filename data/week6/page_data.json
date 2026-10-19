@@ -109,7 +109,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -119,7 +119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -166,7 +166,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -176,7 +176,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -353,7 +353,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -420,7 +420,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -430,7 +430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -473,7 +473,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -613,7 +613,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 202,
+"total": 211,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -630,7 +630,7 @@
 -10
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -755,7 +755,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -806,7 +806,7 @@
 "pos": "K",
 "name": "Trey Smack",
 "team": "GB",
-"pts": 5,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -814,11 +814,15 @@
 3
 ],
 [
+"44-yd FG",
+9
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -917,7 +921,7 @@
 -10
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -944,7 +948,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1029,7 +1033,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1066,7 +1070,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1279,7 +1283,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1352,7 +1356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1367,7 +1371,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1386,7 +1390,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1559,7 +1563,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1637,7 +1641,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1652,7 +1656,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1662,7 +1666,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -1981,7 +1985,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2040,7 +2044,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2106,7 +2110,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 239,
+"total": 248,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2153,7 +2157,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2258,7 +2262,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2323,7 +2327,7 @@
 "pos": "K",
 "name": "Trey Smack",
 "team": "GB",
-"pts": 5,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -2331,11 +2335,15 @@
 3
 ],
 [
+"44-yd FG",
+9
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2598,7 +2606,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2797,7 +2805,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2852,7 +2860,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -2867,7 +2875,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3078,7 +3086,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3181,7 +3189,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3537,7 +3545,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3778,7 +3786,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3850,7 +3858,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -3901,7 +3909,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -4400,7 +4408,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -4467,7 +4475,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -4536,7 +4544,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -4727,7 +4735,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -4862,7 +4870,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5043,7 +5051,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5116,7 +5124,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5181,7 +5189,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5334,7 +5342,7 @@
 -10
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5361,7 +5369,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5478,7 +5486,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -5802,7 +5810,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6128,7 +6136,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6143,7 +6151,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6620,7 +6628,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6739,7 +6747,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6904,7 +6912,7 @@
 -10
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -6931,7 +6939,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -7018,7 +7026,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -7071,7 +7079,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -7278,7 +7286,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -7895,7 +7903,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -8107,7 +8115,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -8184,7 +8192,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -8249,7 +8257,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -8801,7 +8809,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9074,7 +9082,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9093,7 +9101,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9140,7 +9148,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9285,7 +9293,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9406,7 +9414,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9421,7 +9429,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9742,7 +9750,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -9993,7 +10001,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10039,7 +10047,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10054,7 +10062,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10336,7 +10344,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10552,7 +10560,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10674,7 +10682,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10893,7 +10901,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10965,7 +10973,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10975,7 +10983,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -10990,7 +10998,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11172,7 +11180,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 253,
+"total": 255,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11332,7 +11340,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11461,16 +11469,16 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"20 pts allowed",
 0
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 INT",
@@ -11481,7 +11489,7 @@
 0
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 }
 ]
@@ -11541,7 +11549,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11618,7 +11626,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11637,7 +11645,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11836,7 +11844,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -11905,7 +11913,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12194,7 +12202,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12305,7 +12313,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12506,7 +12514,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12757,7 +12765,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12834,7 +12842,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12862,7 +12870,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -12886,7 +12894,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13043,7 +13051,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13110,7 +13118,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13171,7 +13179,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13366,7 +13374,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13479,7 +13487,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13498,7 +13506,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13748,7 +13756,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13794,7 +13802,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13844,7 +13852,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -13985,7 +13993,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14078,7 +14086,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14097,7 +14105,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14306,7 +14314,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14445,7 +14453,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14715,7 +14723,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -14972,7 +14980,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -15037,7 +15045,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -15264,7 +15272,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -15283,7 +15291,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
+"game": "DAL 7 @ GB 20 \u00b7 Q3 1:11",
 "on": true
 },
 {
@@ -15527,8 +15535,8 @@
 "live": false
 },
 {
-"t": "DAL 7 @ GB 17",
-"s": "Q3 7:42",
+"t": "DAL 7 @ GB 20",
+"s": "Q3 1:11",
 "live": true
 },
 {
