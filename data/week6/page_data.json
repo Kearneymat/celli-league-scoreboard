@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 232,
+"total": 239,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -101,10 +101,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -114,7 +119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -153,15 +158,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -171,7 +176,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -309,7 +314,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 228,
+"total": 240,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -328,9 +333,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -344,7 +353,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -403,10 +412,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -416,7 +430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -451,15 +465,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -616,7 +630,7 @@
 -10
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -741,7 +755,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -804,7 +818,7 @@
 2
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -886,7 +900,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 196,
+"total": 202,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -903,16 +917,20 @@
 -10
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -926,7 +944,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1003,15 +1021,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1048,7 +1066,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1202,7 +1220,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 209,
+"total": 215,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1241,9 +1259,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -1257,7 +1279,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1330,22 +1352,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1364,7 +1386,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1508,7 +1530,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 165,
+"total": 171,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1517,9 +1539,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -1533,7 +1559,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1611,22 +1637,22 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1636,7 +1662,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -1790,7 +1816,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 215,
+"total": 216,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1955,7 +1981,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2006,10 +2032,15 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2075,7 +2106,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 233,
+"total": 239,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2102,9 +2133,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -2118,7 +2153,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2215,15 +2250,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2300,7 +2335,7 @@
 2
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2563,7 +2598,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2707,7 +2742,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 224,
+"total": 236,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -2742,9 +2777,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -2758,7 +2797,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -2805,25 +2844,30 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3005,7 +3049,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 250,
+"total": 256,
 "comm": null,
 "prev": 1483,
 "alive": true,
@@ -3014,9 +3058,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -3030,7 +3078,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3125,15 +3173,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3326,7 +3374,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 277,
+"total": 278,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3481,15 +3529,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3667,7 +3715,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 266,
+"total": 271,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3710,9 +3758,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -3726,7 +3778,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3798,7 +3850,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -3849,7 +3901,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4309,7 +4361,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 207,
+"total": 218,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4328,9 +4380,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -4344,7 +4400,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4403,10 +4459,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4475,7 +4536,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4611,7 +4672,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 296,
+"total": 301,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -4646,9 +4707,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -4662,7 +4727,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4797,7 +4862,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -4949,7 +5014,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 214,
+"total": 225,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -4958,9 +5023,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -4974,7 +5043,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5039,10 +5108,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5107,7 +5181,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5243,7 +5317,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 231,
+"total": 236,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -5260,16 +5334,20 @@
 -10
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -5283,7 +5361,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5400,7 +5478,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5724,7 +5802,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -5868,7 +5946,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 280,
+"total": 281,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6050,22 +6128,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -6503,7 +6581,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 229,
+"total": 235,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6522,9 +6600,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -6538,7 +6620,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -6649,15 +6731,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -6805,7 +6887,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 64,
+"total": 71,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -6822,16 +6904,20 @@
 -10
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -6845,7 +6931,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -6924,15 +7010,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -6977,10 +7063,15 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -7187,7 +7278,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -7671,7 +7762,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 256,
+"total": 257,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -7796,15 +7887,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -7987,7 +8078,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 184,
+"total": 196,
 "comm": null,
 "prev": 1449,
 "alive": false,
@@ -7996,9 +8087,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -8012,7 +8107,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -8081,10 +8176,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -8141,15 +8241,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -8576,7 +8676,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 223,
+"total": 224,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -8693,15 +8793,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -8974,7 +9074,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -8993,7 +9093,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9040,7 +9140,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9156,7 +9256,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 289,
+"total": 295,
 "comm": null,
 "prev": 1441,
 "alive": false,
@@ -9165,9 +9265,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -9181,7 +9285,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9302,22 +9406,22 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9638,7 +9742,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9792,7 +9896,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 204,
+"total": 211,
 "comm": null,
 "prev": 1292,
 "alive": false,
@@ -9881,10 +9985,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -9930,22 +10039,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10227,7 +10336,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10388,7 +10497,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 271,
+"total": 277,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -10423,9 +10532,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -10439,7 +10552,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10553,15 +10666,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10717,7 +10830,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -10760,9 +10873,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -10776,7 +10893,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10848,7 +10965,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -10858,22 +10975,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11215,7 +11332,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11364,7 +11481,7 @@
 0
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 }
 ]
@@ -11424,7 +11541,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11501,7 +11618,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11520,7 +11637,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11648,7 +11765,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 209,
+"total": 216,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -11711,10 +11828,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11775,15 +11897,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -11937,7 +12059,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 215,
+"total": 216,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -12072,7 +12194,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12175,10 +12297,15 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12234,7 +12361,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 249,
+"total": 250,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -12371,15 +12498,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12567,7 +12694,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 206,
+"total": 212,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -12610,9 +12737,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -12626,7 +12757,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12695,15 +12826,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12731,7 +12862,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12755,7 +12886,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12873,7 +13004,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 223,
+"total": 234,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -12892,9 +13023,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -12908,7 +13043,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -12967,10 +13102,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13031,7 +13171,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13187,7 +13327,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 202,
+"total": 208,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13206,9 +13346,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -13222,7 +13366,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13327,15 +13471,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13354,7 +13498,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13482,7 +13626,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 182,
+"total": 183,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -13604,7 +13748,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13650,7 +13794,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13692,10 +13836,15 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13781,7 +13930,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 278,
+"total": 284,
 "comm": null,
 "prev": 1367,
 "alive": false,
@@ -13816,9 +13965,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -13832,7 +13985,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13917,15 +14070,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -13944,7 +14097,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14124,7 +14277,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 262,
+"total": 267,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -14133,9 +14286,13 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 7,
+"pts": 12,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "9-yd TD pass",
 6
@@ -14149,7 +14306,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14288,7 +14445,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14558,7 +14715,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14722,7 +14879,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 174,
+"total": 181,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -14807,10 +14964,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14867,15 +15029,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -14999,7 +15161,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 243,
+"total": 244,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -15094,15 +15256,15 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"64 rec yds",
+6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -15121,7 +15283,7 @@
 6
 ]
 ],
-"game": "DAL 0 @ GB 17 \u00b7 Halftime",
+"game": "DAL 7 @ GB 17 \u00b7 Q3 7:42",
 "on": true
 },
 {
@@ -15365,8 +15527,8 @@
 "live": false
 },
 {
-"t": "DAL 0 @ GB 17",
-"s": "Halftime",
+"t": "DAL 7 @ GB 17",
+"s": "Q3 7:42",
 "live": true
 },
 {

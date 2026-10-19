@@ -1,14 +1,17 @@
-{"status":"live","clock":"Halftime","score":{"DAL":0,"GB":17},
+{"status":"live","clock":"Q3 7:42","score":{"DAL":7,"GB":17},
  "players":{
-  "Dak Prescott":{"pass_cmp":11,"pass_yds":86,"int":2},
-  "Javonte Williams":{"rush_att":6,"rush_yds":21,"rec":2,"rec_yds":9},
-  "CeeDee Lamb":{"rec":2,"rec_yds":22},
+  "Dak Prescott":{"pass_cmp":14,"pass_yds":110,"int":2,"rush_att":1,"rush_yds":7},
+  "Javonte Williams":{"rush_att":10,"rush_yds":36,"rush_td_lengths":[1],"rec":2,"rec_yds":9},
+  "CeeDee Lamb":{"rec":4,"rec_yds":40},
   "George Pickens":{"rec":1,"rec_yds":16},
-  "Jordan Love":{"pass_cmp":14,"pass_yds":190,"pass_td_lengths":[9],"int":1,"rush_att":2,"rush_yds":14,"rush_td_lengths":[1]},
+  "Jordan Love":{"pass_cmp":17,"pass_yds":208,"pass_td_lengths":[9],"int":1,"rush_att":2,"rush_yds":14,"rush_td_lengths":[1]},
   "MarShawn Lloyd":{"rush_att":3,"rush_yds":-2},
   "Matthew Golden":{"rec":4,"rec_yds":71,"rec_td_lengths":[9]},
-  "Christian Watson":{"rec":2,"rec_yds":55},
+  "Christian Watson":{"rec":3,"rec_yds":64},
   "Tucker Kraft":{"rec":2,"rec_yds":9}
  },
- "kickers":{"Trey Smack":{"fg_made_dist":[25],"fg_missed_dist":[],"miss_label":{},"xp_made":2,"xp_missed":0}},
+ "kickers":{
+  "Trey Smack":{"fg_made_dist":[25],"fg_missed_dist":[],"miss_label":{},"xp_made":2,"xp_missed":0},
+  "Brandon Aubrey":{"fg_made_dist":[],"fg_missed_dist":[],"miss_label":{},"xp_made":1,"xp_missed":0}
+ },
  "defenses":{"DAL":{"sacks":2,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"GB":{"sacks":0,"int":2,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
