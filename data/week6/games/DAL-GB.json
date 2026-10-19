@@ -1,9 +1,9 @@
-{"status":"live","clock":"Q4 10:13","score":{"DAL":7,"GB":20},
+{"status":"live","clock":"Q4 6:31","score":{"DAL":7,"GB":23},
  "players":{
-  "Dak Prescott":{"pass_cmp":20,"pass_yds":146,"int":2,"rush_att":2,"rush_yds":7},
+  "Dak Prescott":{"pass_cmp":25,"pass_yds":190,"int":2,"rush_att":2,"rush_yds":7},
   "Javonte Williams":{"rush_att":10,"rush_yds":36,"rush_td_lengths":[1],"rec":2,"rec_yds":9},
-  "CeeDee Lamb":{"rec":6,"rec_yds":54},
-  "George Pickens":{"rec":2,"rec_yds":23},
+  "CeeDee Lamb":{"rec":7,"rec_yds":54},
+  "George Pickens":{"rec":4,"rec_yds":45},
   "Jordan Love":{"pass_cmp":22,"pass_yds":268,"pass_td_lengths":[9],"int":1,"rush_att":2,"rush_yds":14,"rush_td_lengths":[1]},
   "MarShawn Lloyd":{"rush_att":5,"rush_yds":4},
   "Matthew Golden":{"rec":6,"rec_yds":104,"rec_td_lengths":[9]},
@@ -11,7 +11,7 @@
   "Tucker Kraft":{"rec":4,"rec_yds":29}
  },
  "kickers":{
-  "Trey Smack":{"fg_made_dist":[25,44],"fg_missed_dist":[],"miss_label":{},"xp_made":2,"xp_missed":0},
+  "Trey Smack":{"fg_made_dist":[25,44,29],"fg_missed_dist":[],"miss_label":{},"xp_made":2,"xp_missed":0},
   "Brandon Aubrey":{"fg_made_dist":[],"fg_missed_dist":[],"miss_label":{},"xp_made":1,"xp_missed":0}
  },
  "defenses":{"DAL":{"sacks":3,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"GB":{"sacks":0,"int":2,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}

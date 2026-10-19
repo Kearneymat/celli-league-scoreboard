@@ -4,7 +4,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 257,
+"total": 258,
 "comm": null,
 "prev": 1327,
 "alive": true,
@@ -109,26 +109,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -175,7 +175,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -190,7 +190,7 @@
 7
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -371,7 +371,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -438,7 +438,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -448,7 +448,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -491,7 +491,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -631,7 +631,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 225,
+"total": 233,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -640,19 +640,19 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -5,
+"pts": 0,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"25 completions",
+10
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -781,7 +781,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -832,7 +832,7 @@
 "pos": "K",
 "name": "Trey Smack",
 "team": "GB",
-"pts": 14,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -844,11 +844,15 @@
 9
 ],
 [
+"29-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -930,7 +934,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 229,
+"total": 234,
 "comm": null,
 "prev": 1564,
 "alive": true,
@@ -939,19 +943,19 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -5,
+"pts": 0,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"25 completions",
+10
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -982,7 +986,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1067,7 +1071,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1108,7 +1112,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1262,7 +1266,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 248,
+"total": 249,
 "comm": null,
 "prev": 1513,
 "alive": true,
@@ -1325,7 +1329,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1395,19 +1399,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1422,7 +1426,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1445,7 +1449,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1589,7 +1593,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 204,
+"total": 205,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1622,7 +1626,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1704,7 +1708,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -1719,26 +1723,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2061,7 +2065,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2120,7 +2124,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2186,7 +2190,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 261,
+"total": 264,
 "comm": null,
 "prev": 1389,
 "alive": true,
@@ -2237,7 +2241,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2342,7 +2346,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2407,7 +2411,7 @@
 "pos": "K",
 "name": "Trey Smack",
 "team": "GB",
-"pts": 14,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2419,11 +2423,15 @@
 9
 ],
 [
+"29-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2690,7 +2698,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2893,7 +2901,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2948,7 +2956,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -2963,7 +2971,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -3178,7 +3186,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -3281,7 +3289,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -3637,7 +3645,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -3815,7 +3823,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 304,
+"total": 305,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -3882,7 +3890,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -3951,19 +3959,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4018,7 +4026,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4521,7 +4529,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4588,7 +4596,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4661,7 +4669,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4856,7 +4864,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -4995,7 +5003,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5180,7 +5188,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5253,7 +5261,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5322,7 +5330,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5458,7 +5466,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 263,
+"total": 268,
 "comm": null,
 "prev": 1579,
 "alive": true,
@@ -5467,19 +5475,19 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -5,
+"pts": 0,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"25 completions",
+10
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5510,7 +5518,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5631,7 +5639,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -5959,7 +5967,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -6103,7 +6111,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 292,
+"total": 293,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6282,19 +6290,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -6309,7 +6317,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -6790,7 +6798,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -6909,7 +6917,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -7057,7 +7065,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 89,
+"total": 94,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -7066,19 +7074,19 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -5,
+"pts": 0,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"25 completions",
+10
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -7109,7 +7117,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -7196,7 +7204,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -7249,7 +7257,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -7460,7 +7468,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -8077,7 +8085,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -8293,7 +8301,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -8370,7 +8378,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -8435,7 +8443,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -8987,7 +8995,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9260,7 +9268,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9283,7 +9291,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9335,7 +9343,7 @@
 7
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9484,7 +9492,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9609,7 +9617,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9624,7 +9632,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -9949,7 +9957,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10200,7 +10208,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10246,7 +10254,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10261,7 +10269,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10547,7 +10555,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10767,7 +10775,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -10889,7 +10897,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11045,7 +11053,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 288,
+"total": 289,
 "comm": null,
 "prev": 1324,
 "alive": false,
@@ -11112,7 +11120,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11188,26 +11196,26 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11222,7 +11230,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11404,7 +11412,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 266,
+"total": 267,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11561,19 +11569,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11706,7 +11714,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -11722,7 +11730,7 @@
 0
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 }
 ]
@@ -11730,7 +11738,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 203,
+"total": 204,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11782,7 +11790,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11856,19 +11864,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -11891,7 +11899,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12090,7 +12098,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12159,7 +12167,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12452,7 +12460,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12563,7 +12571,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12764,7 +12772,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -12952,7 +12960,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 243,
+"total": 244,
 "comm": null,
 "prev": 1358,
 "alive": false,
@@ -13019,7 +13027,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13096,7 +13104,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13121,19 +13129,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13162,7 +13170,7 @@
 7
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13323,7 +13331,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13390,7 +13398,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13455,7 +13463,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13654,7 +13662,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13767,7 +13775,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13790,7 +13798,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -13918,7 +13926,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 203,
+"total": 204,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -14037,19 +14045,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
 "54 rec yds",
 5
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14099,7 +14107,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14149,7 +14157,7 @@
 1
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14294,7 +14302,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14387,7 +14395,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14410,7 +14418,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14623,7 +14631,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -14766,7 +14774,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15040,7 +15048,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15297,7 +15305,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15362,7 +15370,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15589,7 +15597,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15612,7 +15620,7 @@
 6
 ]
 ],
-"game": "DAL 7 @ GB 20 \u00b7 Q4 10:13",
+"game": "DAL 7 @ GB 23 \u00b7 Q4 6:31",
 "on": true
 },
 {
@@ -15856,8 +15864,8 @@
 "live": false
 },
 {
-"t": "DAL 7 @ GB 20",
-"s": "Q4 10:13",
+"t": "DAL 7 @ GB 23",
+"s": "Q4 6:31",
 "live": true
 },
 {
