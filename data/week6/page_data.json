@@ -353,8 +353,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -500,8 +499,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -705,8 +703,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -806,8 +803,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1694,8 +1690,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1812,8 +1807,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1956,7 +1950,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 255,
+"total": 262,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1981,8 +1975,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2250,7 +2243,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -2258,16 +2251,15 @@
 0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 }
 ]
 },
@@ -2623,8 +2615,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2832,8 +2823,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3121,8 +3111,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3613,8 +3602,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4182,8 +4170,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -4452,8 +4439,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4639,8 +4625,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4848,8 +4833,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5135,8 +5119,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5364,8 +5347,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5535,8 +5517,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6292,7 +6273,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 303,
+"total": 310,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6607,7 +6588,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -6615,16 +6596,15 @@
 0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6657,7 +6637,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 255,
+"total": 262,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -6910,7 +6890,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -6918,16 +6898,15 @@
 0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6985,8 +6964,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7440,8 +7418,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7481,8 +7458,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7910,8 +7886,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8031,8 +8006,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8232,8 +8206,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8834,7 +8807,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 274,
+"total": 281,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -9005,8 +8978,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9128,7 +9100,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -9136,16 +9108,15 @@
 0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 }
 ]
 },
@@ -9203,8 +9174,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9304,8 +9274,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9402,8 +9371,7 @@
 -9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9517,8 +9485,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9673,8 +9640,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10202,8 +10168,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10373,8 +10338,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10865,8 +10829,7 @@
 5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11318,8 +11281,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11870,8 +11832,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12181,8 +12142,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12368,8 +12328,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12493,8 +12452,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12660,8 +12618,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12837,8 +12794,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12920,8 +12876,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13159,8 +13114,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13806,8 +13760,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13931,8 +13884,7 @@
 9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14127,7 +14079,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 289,
+"total": 296,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -14152,8 +14104,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -14357,8 +14308,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14420,7 +14370,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -14428,16 +14378,15 @@
 0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14521,8 +14470,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -15364,8 +15312,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -15528,8 +15475,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -15677,8 +15623,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -15748,8 +15693,7 @@
 -9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -15863,8 +15807,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -16040,8 +15983,7 @@
 -9
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -16165,8 +16107,7 @@
 7
 ]
 ],
-"game": "WAS 17 @ SF 23 \u00b7 Q4 0:06",
-"on": true
+"game": "WAS 17 @ SF 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -16505,8 +16446,8 @@
 },
 {
 "t": "WAS 17 @ SF 23",
-"s": "Q4 0:06",
-"live": true
+"s": "Final",
+"live": false
 }
 ]
 }
