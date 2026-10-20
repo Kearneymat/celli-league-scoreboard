@@ -345,7 +345,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -487,7 +487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -684,7 +684,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -780,7 +780,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -1660,7 +1660,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -1773,7 +1773,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -1917,7 +1917,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 247,
+"total": 249,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1934,7 +1934,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -2203,7 +2203,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2211,11 +2211,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 }
 ]
@@ -2564,7 +2568,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -2765,7 +2769,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -3049,7 +3053,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -3533,7 +3537,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -4094,7 +4098,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -4364,7 +4368,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -4543,7 +4547,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -4744,7 +4748,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -5026,7 +5030,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -5247,7 +5251,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -5410,7 +5414,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -6167,7 +6171,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 312,
+"total": 314,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6482,7 +6486,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -6490,11 +6494,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -6528,7 +6536,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 264,
+"total": 266,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -6781,7 +6789,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -6789,11 +6797,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -6844,7 +6856,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -7294,7 +7306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -7327,7 +7339,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -7748,7 +7760,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -7864,7 +7876,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -8057,7 +8069,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -8659,7 +8671,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 274,
+"total": 276,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -8825,7 +8837,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -8948,7 +8960,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -8956,11 +8968,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 }
 ]
@@ -9011,7 +9027,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -9107,7 +9123,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -9201,7 +9217,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -9308,7 +9324,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -9456,7 +9472,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -9977,7 +9993,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -10140,7 +10156,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -10612,7 +10628,7 @@
 6
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -11057,7 +11073,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -11601,7 +11617,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -11904,7 +11920,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12083,7 +12099,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12200,7 +12216,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12359,7 +12375,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12528,7 +12544,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12606,7 +12622,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -12837,7 +12853,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -13476,7 +13492,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -13596,7 +13612,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -13792,7 +13808,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 261,
+"total": 263,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13809,7 +13825,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -14006,7 +14022,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -14069,7 +14085,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -14077,11 +14093,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -14158,7 +14178,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -14993,7 +15013,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15149,7 +15169,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15290,7 +15310,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15357,7 +15377,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15464,7 +15484,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15637,7 +15657,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -15754,7 +15774,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"game": "WAS 3 @ SF 13 \u00b7 Q2 13:02",
 "on": true
 },
 {
@@ -16094,7 +16114,7 @@
 },
 {
 "t": "WAS 3 @ SF 13",
-"s": "Q1 4:09",
+"s": "Q2 13:02",
 "live": true
 }
 ]
