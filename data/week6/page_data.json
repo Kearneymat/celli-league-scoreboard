@@ -328,7 +328,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 275,
+"total": 281,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -337,15 +337,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -487,7 +491,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -641,7 +645,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 265,
+"total": 271,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -676,15 +680,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -780,7 +788,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1613,7 +1621,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 218,
+"total": 224,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1652,15 +1660,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1773,7 +1785,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1917,7 +1929,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 251,
+"total": 257,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1926,15 +1938,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2219,7 +2235,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -2551,7 +2567,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 278,
+"total": 284,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2560,15 +2576,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2769,7 +2789,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3053,7 +3073,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3520,7 +3540,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 285,
+"total": 291,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3529,15 +3549,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4098,7 +4122,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4368,7 +4392,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4530,7 +4554,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 256,
+"total": 262,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4539,15 +4563,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4748,7 +4776,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5030,7 +5058,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5204,7 +5232,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 263,
+"total": 269,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -5243,15 +5271,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5414,7 +5446,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6502,7 +6534,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6805,7 +6837,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6839,7 +6871,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 257,
+"total": 263,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6848,15 +6880,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7306,7 +7342,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7339,7 +7375,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7743,7 +7779,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 255,
+"total": 261,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -7752,15 +7788,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7876,7 +7916,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8052,7 +8092,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 264,
+"total": 270,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -8061,15 +8101,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8837,7 +8881,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8976,7 +9020,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -8984,7 +9028,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 223,
+"total": 230,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -9019,15 +9063,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9123,7 +9171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9205,19 +9253,19 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": -8,
+"pts": -7,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ],
 [
 "1 missed XP",
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9281,7 +9329,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 243,
+"total": 249,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -9316,15 +9364,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9472,7 +9524,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9946,7 +9998,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 275,
+"total": 281,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -9985,15 +10037,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10156,7 +10212,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10567,7 +10623,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 226,
+"total": 232,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -10620,15 +10676,19 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
 "1-yd TD run",
 6
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11073,7 +11133,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11574,7 +11634,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 273,
+"total": 279,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11609,15 +11669,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11903,7 +11967,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 222,
+"total": 228,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11912,15 +11976,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12099,7 +12167,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12199,7 +12267,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 230,
+"total": 236,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -12208,15 +12276,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12375,7 +12447,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12501,7 +12573,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 232,
+"total": 238,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -12536,15 +12608,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12622,7 +12698,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12810,7 +12886,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 257,
+"total": 263,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -12845,15 +12921,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13475,7 +13555,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 265,
+"total": 271,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -13484,15 +13564,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13612,7 +13696,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13808,7 +13892,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 265,
+"total": 271,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13817,15 +13901,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14022,7 +14110,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14101,7 +14189,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14135,7 +14223,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 215,
+"total": 221,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -14170,15 +14258,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15013,7 +15105,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15126,7 +15218,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 241,
+"total": 248,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -15161,15 +15253,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15310,7 +15406,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15365,19 +15461,19 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": -8,
+"pts": -7,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ],
 [
 "1 missed XP",
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15441,7 +15537,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 180,
+"total": 187,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -15476,15 +15572,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15645,19 +15745,19 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": -8,
+"pts": -7,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ],
 [
 "1 missed XP",
 -9
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15735,7 +15835,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 260,
+"total": 266,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -15766,15 +15866,19 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"214 pass yds",
+6
+],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 13 \u00b7 Q2 5:43",
+"game": "WAS 3 @ SF 20 \u00b7 Halftime",
 "on": true
 },
 {
@@ -16113,8 +16217,8 @@
 "live": false
 },
 {
-"t": "WAS 3 @ SF 13",
-"s": "Q2 5:43",
+"t": "WAS 3 @ SF 20",
+"s": "Halftime",
 "live": true
 }
 ]
