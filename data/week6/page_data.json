@@ -328,7 +328,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 268,
+"total": 275,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -337,11 +337,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -482,8 +487,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -636,7 +641,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 258,
+"total": 265,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -671,11 +676,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -770,8 +780,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -1603,7 +1613,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 211,
+"total": 218,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1642,11 +1652,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -1758,8 +1773,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -1902,7 +1917,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 225,
+"total": 247,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1911,11 +1926,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -2183,11 +2203,20 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Leading",
+0
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 }
 ]
 },
@@ -2518,7 +2547,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 264,
+"total": 278,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2527,11 +2556,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -2723,11 +2757,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -3010,8 +3049,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -3477,7 +3516,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 278,
+"total": 285,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3486,11 +3525,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -3817,7 +3861,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 311,
+"total": 318,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -4042,11 +4086,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -4315,8 +4364,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -4477,7 +4526,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 242,
+"total": 256,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4486,11 +4535,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -4682,11 +4736,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -4967,8 +5026,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -5141,7 +5200,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 249,
+"total": 263,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -5180,11 +5239,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -5338,11 +5402,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -6098,7 +6167,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 297,
+"total": 312,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6413,11 +6482,20 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Leading",
+0
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6450,7 +6528,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 249,
+"total": 264,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -6703,11 +6781,20 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Leading",
+0
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6740,7 +6827,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 250,
+"total": 257,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6749,11 +6836,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -7048,7 +7140,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 121,
+"total": 128,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -7202,8 +7294,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -7227,11 +7319,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -7634,7 +7731,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 248,
+"total": 255,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -7643,11 +7740,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -7762,8 +7864,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -7938,7 +8040,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 257,
+"total": 264,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -7947,11 +8049,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -8552,7 +8659,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 259,
+"total": 274,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -8718,8 +8825,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -8841,18 +8948,27 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Leading",
+0
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 }
 ]
 },
 {
 "owner": "Keoni",
 "champ": false,
-"total": 224,
+"total": 223,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -8887,11 +9003,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -8986,8 +9107,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -9068,11 +9189,20 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 0,
+"pts": -8,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+],
+[
+"1 missed XP",
+-9
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -9135,7 +9265,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 229,
+"total": 243,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -9170,11 +9300,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -9313,11 +9448,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -9790,7 +9930,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 261,
+"total": 275,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -9829,11 +9969,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -9987,11 +10132,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -10401,7 +10551,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 220,
+"total": 226,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -10454,11 +10604,16 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -10708,7 +10863,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 292,
+"total": 299,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -10894,11 +11049,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -11398,7 +11558,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 266,
+"total": 273,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11433,11 +11593,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -11722,7 +11887,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 208,
+"total": 222,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11731,11 +11896,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -11905,11 +12075,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -12008,7 +12183,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 216,
+"total": 230,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -12017,11 +12192,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -12171,11 +12351,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -12300,7 +12485,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 225,
+"total": 232,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -12335,11 +12520,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -12416,8 +12606,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -12604,7 +12794,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 250,
+"total": 257,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -12639,11 +12829,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -13264,7 +13459,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 258,
+"total": 265,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -13273,11 +13468,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -13396,8 +13596,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "WR",
@@ -13592,7 +13792,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 232,
+"total": 261,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13601,11 +13801,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "QB",
@@ -13793,11 +13998,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -13859,11 +14069,20 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 15,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"Leading",
+0
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -13896,7 +14115,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 208,
+"total": 215,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -13931,11 +14150,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -14562,7 +14786,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 291,
+"total": 298,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -14761,11 +14985,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -14877,7 +15106,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 235,
+"total": 241,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -14912,11 +15141,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -15048,11 +15282,16 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "TE",
@@ -15106,11 +15345,20 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 0,
+"pts": -8,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+],
+[
+"1 missed XP",
+-9
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "DEF",
@@ -15173,7 +15421,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 181,
+"total": 180,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -15208,11 +15456,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -15372,11 +15625,20 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 0,
+"pts": -8,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"1 XP",
+1
+],
+[
+"1 missed XP",
+-9
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "K",
@@ -15453,7 +15715,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 253,
+"total": 260,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -15484,11 +15746,16 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "WAS @ SF \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "WAS 3 @ SF 13 \u00b7 Q1 4:09",
+"on": true
 },
 {
 "pos": "RB",
@@ -15826,9 +16093,9 @@
 "live": false
 },
 {
-"t": "WAS @ SF",
-"s": "Mon 8:15 ET",
-"live": false
+"t": "WAS 3 @ SF 13",
+"s": "Q1 4:09",
+"live": true
 }
 ]
 }

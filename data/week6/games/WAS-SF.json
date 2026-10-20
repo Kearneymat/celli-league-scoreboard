@@ -1,0 +1,7 @@
+{"status":"live","clock":"Q1 4:09","score":{"WAS":3,"SF":13},
+ "players":{"Brock Purdy":{"pass_cmp":8,"pass_yds":114,"pass_td_lengths":[11]},
+            "George Kittle":{"rec_td_lengths":[11]},
+            "Christian McCaffrey":{"rush_td_lengths":[1]}},
+ "kickers":{"Eddy Pineiro":{"xp_made":1,"xp_missed":1}},
+ "defenses":{"WAS":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},
+             "SF":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
