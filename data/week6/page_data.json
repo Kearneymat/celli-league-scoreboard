@@ -328,7 +328,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 294,
+"total": 300,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -337,19 +337,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -496,7 +500,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -650,7 +654,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 284,
+"total": 290,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -685,19 +689,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -798,7 +806,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -1631,7 +1639,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 237,
+"total": 243,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1670,19 +1678,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -1800,7 +1812,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -1944,7 +1956,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 263,
+"total": 264,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1953,19 +1965,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -2234,12 +2250,12 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 21,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -2250,7 +2266,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 }
 ]
@@ -2582,7 +2598,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 308,
+"total": 314,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2591,19 +2607,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -2812,7 +2832,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -3101,7 +3121,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -3568,7 +3588,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 295,
+"total": 301,
 "comm": null,
 "prev": 1500,
 "alive": true,
@@ -3577,19 +3597,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -4158,7 +4182,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -4428,7 +4452,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -4590,7 +4614,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 286,
+"total": 292,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4599,19 +4623,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -4820,7 +4848,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -5107,7 +5135,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -5281,7 +5309,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 293,
+"total": 299,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -5320,19 +5348,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -5503,7 +5535,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -6260,7 +6292,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 318,
+"total": 313,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6575,12 +6607,12 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 21,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -6591,7 +6623,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -6625,7 +6657,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 270,
+"total": 265,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -6878,12 +6910,12 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 21,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -6894,7 +6926,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -6928,7 +6960,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 267,
+"total": 273,
 "comm": null,
 "prev": 1208,
 "alive": false,
@@ -6937,19 +6969,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -7404,7 +7440,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -7445,7 +7481,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -7849,7 +7885,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 274,
+"total": 280,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -7858,19 +7894,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -7991,7 +8031,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -8167,7 +8207,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 274,
+"total": 280,
 "comm": null,
 "prev": 1621,
 "alive": false,
@@ -8176,19 +8216,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -8790,7 +8834,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 289,
+"total": 284,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -8961,7 +9005,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -9084,12 +9128,12 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 21,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -9100,7 +9144,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 }
 ]
@@ -9108,7 +9152,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -9143,19 +9187,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -9256,7 +9304,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -9354,7 +9402,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -9418,7 +9466,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 273,
+"total": 279,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -9453,19 +9501,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -9621,7 +9673,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -10095,7 +10147,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 305,
+"total": 311,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -10134,19 +10186,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -10317,7 +10373,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -10728,7 +10784,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 244,
+"total": 250,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -10781,7 +10837,7 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 24,
+"pts": 30,
 "comm": null,
 "bd": [
 [
@@ -10797,11 +10853,15 @@
 6
 ],
 [
-"7 catches",
-7
+"8 catches",
+8
+],
+[
+"50 rec yds",
+5
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -11254,7 +11314,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -11755,7 +11815,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 283,
+"total": 289,
 "comm": null,
 "prev": 1137,
 "alive": false,
@@ -11790,19 +11850,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12088,7 +12152,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 252,
+"total": 258,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -12097,19 +12161,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12296,7 +12364,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12396,7 +12464,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 260,
+"total": 266,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -12405,19 +12473,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12584,7 +12656,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12710,7 +12782,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 251,
+"total": 257,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -12745,19 +12817,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -12840,7 +12916,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -13028,7 +13104,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 267,
+"total": 273,
 "comm": null,
 "prev": 1307,
 "alive": false,
@@ -13063,19 +13139,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -13697,7 +13777,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 284,
+"total": 290,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -13706,19 +13786,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -13843,7 +13927,7 @@
 9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -14039,7 +14123,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 297,
+"total": 298,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -14048,19 +14132,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -14265,7 +14353,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -14328,12 +14416,12 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 21,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -14344,7 +14432,7 @@
 0
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -14378,7 +14466,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 225,
+"total": 231,
 "comm": null,
 "prev": 1286,
 "alive": false,
@@ -14413,19 +14501,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15268,7 +15360,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15381,7 +15473,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 278,
+"total": 284,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -15416,19 +15508,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15577,7 +15673,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15648,7 +15744,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15712,7 +15808,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 197,
+"total": 203,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -15747,19 +15843,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -15936,7 +16036,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -16014,7 +16114,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 270,
+"total": 276,
 "comm": null,
 "prev": 1278,
 "alive": false,
@@ -16045,19 +16145,23 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"253 pass yds",
-10
+"20 completions",
+5
+],
+[
+"261 pass yds",
+11
 ],
 [
 "11-yd TD pass",
 7
 ]
 ],
-"game": "WAS 3 @ SF 23 \u00b7 Q3 1:56",
+"game": "WAS 10 @ SF 23 \u00b7 Q4 12:28",
 "on": true
 },
 {
@@ -16396,8 +16500,8 @@
 "live": false
 },
 {
-"t": "WAS 3 @ SF 23",
-"s": "Q3 1:56",
+"t": "WAS 10 @ SF 23",
+"s": "Q4 12:28",
 "live": true
 }
 ]
