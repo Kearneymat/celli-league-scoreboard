@@ -328,7 +328,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 281,
+"total": 290,
 "comm": null,
 "prev": 1590,
 "alive": true,
@@ -349,7 +349,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -488,10 +488,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -645,7 +650,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 271,
+"total": 280,
 "comm": null,
 "prev": 1403,
 "alive": true,
@@ -692,7 +697,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -785,10 +790,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -1621,7 +1631,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 224,
+"total": 233,
 "comm": null,
 "prev": 1441,
 "alive": true,
@@ -1672,7 +1682,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -1782,10 +1792,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -1929,7 +1944,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 257,
+"total": 259,
 "comm": null,
 "prev": 1722,
 "alive": true,
@@ -1950,7 +1965,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -2219,7 +2234,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 19,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2227,15 +2242,15 @@
 15
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 }
 ]
@@ -2567,7 +2582,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 284,
+"total": 296,
 "comm": null,
 "prev": 1532,
 "alive": true,
@@ -2588,7 +2603,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -2781,15 +2796,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -2905,7 +2928,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 251,
+"total": 260,
 "comm": null,
 "prev": 1574,
 "alive": true,
@@ -3070,10 +3093,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -3561,7 +3589,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -3889,7 +3917,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 318,
+"total": 330,
 "comm": null,
 "prev": 1474,
 "alive": true,
@@ -4114,15 +4142,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -4392,7 +4428,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -4554,7 +4590,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 262,
+"total": 274,
 "comm": null,
 "prev": 1421,
 "alive": true,
@@ -4575,7 +4611,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -4768,15 +4804,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -4884,7 +4928,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 325,
+"total": 334,
 "comm": null,
 "prev": 1520,
 "alive": true,
@@ -5055,10 +5099,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -5232,7 +5281,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 269,
+"total": 281,
 "comm": null,
 "prev": 1530,
 "alive": true,
@@ -5283,7 +5332,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -5438,15 +5487,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -6203,7 +6260,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 316,
+"total": 318,
 "comm": null,
 "prev": 1341,
 "alive": true,
@@ -6518,7 +6575,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 19,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6526,15 +6583,15 @@
 15
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -6568,7 +6625,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 268,
+"total": 270,
 "comm": null,
 "prev": 1322,
 "alive": false,
@@ -6821,7 +6878,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 19,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6829,15 +6886,15 @@
 15
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -6892,7 +6949,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -7188,7 +7245,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 128,
+"total": 149,
 "comm": null,
 "prev": 1162,
 "alive": false,
@@ -7339,10 +7396,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -7367,15 +7429,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -7779,7 +7849,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 261,
+"total": 270,
 "comm": null,
 "prev": 1366,
 "alive": false,
@@ -7800,7 +7870,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -7913,10 +7983,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -8113,7 +8188,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -8715,7 +8790,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 278,
+"total": 289,
 "comm": null,
 "prev": 970,
 "alive": false,
@@ -8878,10 +8953,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9004,7 +9084,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 19,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -9012,15 +9092,15 @@
 15
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 }
 ]
@@ -9028,7 +9108,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 230,
+"total": 239,
 "comm": null,
 "prev": 1383,
 "alive": false,
@@ -9075,7 +9155,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9168,10 +9248,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9265,7 +9350,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9329,7 +9414,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 249,
+"total": 261,
 "comm": null,
 "prev": 1361,
 "alive": false,
@@ -9376,7 +9461,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9516,15 +9601,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -9998,7 +10091,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 281,
+"total": 293,
 "comm": null,
 "prev": 1335,
 "alive": false,
@@ -10049,7 +10142,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -10204,15 +10297,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -10623,7 +10724,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 232,
+"total": 238,
 "comm": null,
 "prev": 1126,
 "alive": false,
@@ -10676,7 +10777,7 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -10686,9 +10787,13 @@
 [
 "1-yd TD run",
 6
+],
+[
+"6 catches",
+6
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -10939,7 +11044,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 299,
+"total": 311,
 "comm": null,
 "prev": 1318,
 "alive": false,
@@ -11125,15 +11230,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -11681,7 +11794,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -11967,7 +12080,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 228,
+"total": 240,
 "comm": null,
 "prev": 1484,
 "alive": false,
@@ -11988,7 +12101,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12159,15 +12272,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12267,7 +12388,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 236,
+"total": 248,
 "comm": null,
 "prev": 1254,
 "alive": false,
@@ -12288,7 +12409,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12439,15 +12560,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12573,7 +12702,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 238,
+"total": 247,
 "comm": null,
 "prev": 1223,
 "alive": false,
@@ -12620,7 +12749,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12695,10 +12824,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -12933,7 +13067,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -13555,7 +13689,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 271,
+"total": 280,
 "comm": null,
 "prev": 1376,
 "alive": false,
@@ -13576,7 +13710,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -13693,10 +13827,15 @@
 "pos": "WR",
 "name": "Mike Evans",
 "team": "SF",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"bd": [
+[
+"94 rec yds",
+9
+]
+],
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -13892,7 +14031,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 271,
+"total": 285,
 "comm": null,
 "prev": 1280,
 "alive": false,
@@ -13913,7 +14052,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -14102,15 +14241,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -14173,7 +14320,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 19,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -14181,15 +14328,15 @@
 15
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -14270,7 +14417,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -14898,7 +15045,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 298,
+"total": 310,
 "comm": null,
 "prev": 1321,
 "alive": false,
@@ -15097,15 +15244,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15218,7 +15373,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 248,
+"total": 260,
 "comm": null,
 "prev": 1355,
 "alive": false,
@@ -15265,7 +15420,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15398,15 +15553,23 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
+[
+"4 catches",
+7
+],
+[
+"34 rec yds",
+5
+],
 [
 "11-yd TD catch",
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15473,7 +15636,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15584,7 +15747,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15757,7 +15920,7 @@
 -9
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -15878,7 +16041,7 @@
 7
 ]
 ],
-"game": "WAS 3 @ SF 20 \u00b7 Halftime",
+"game": "WAS 3 @ SF 20 \u00b7 Q3 12:01",
 "on": true
 },
 {
@@ -16218,7 +16381,7 @@
 },
 {
 "t": "WAS 3 @ SF 20",
-"s": "Halftime",
+"s": "Q3 12:01",
 "live": true
 }
 ]
