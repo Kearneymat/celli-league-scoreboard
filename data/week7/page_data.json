@@ -1,0 +1,10327 @@
+{
+"week": 7,
+"teams": [
+{
+"owner": "Romano",
+"champ": false,
+"total": 205,
+"comm": 205,
+"prev": 1596,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 29,
+"comm": 29,
+"bd": [
+[
+"Official score",
+29
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Rhamondre Stevenson",
+"team": "NE",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Garrett Wilson",
+"team": "NYJ",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Hunter Henry",
+"team": "NE",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Trey Smack",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Sanders",
+"team": "NYJ",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Nutting",
+"champ": false,
+"total": 175,
+"comm": 175,
+"prev": 1891,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Aaron Rodgers",
+"team": "PIT",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jaxon Smith-Njigba",
+"team": "SEA",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tetairoa McMillan",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Juwan Johnson",
+"team": "NO",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NO \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Andre Szmyt",
+"team": "CLE",
+"pts": 9,
+"comm": 9,
+"bd": [
+[
+"Official score",
+9
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Daniel Carlson",
+"team": "NO",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "NO \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Panthers D",
+"team": "CAR",
+"pts": -20,
+"comm": -20,
+"bd": [
+[
+"Official score",
+-20
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Bronson",
+"champ": false,
+"total": 224,
+"comm": 224,
+"prev": 1694,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Geno Smith",
+"team": "NYJ",
+"pts": 38,
+"comm": 38,
+"bd": [
+[
+"Official score",
+38
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Puka Nacua",
+"team": "LAR",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "DK Metcalf",
+"team": "PIT",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Keenan Allen",
+"team": "IND",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "IND \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Brock Bowers",
+"team": "LV",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Trey Smack",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Hummer",
+"champ": false,
+"total": 182,
+"comm": 182,
+"prev": 1754,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Chris Godwin",
+"team": "TB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Myers",
+"team": "SEA",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Titans D",
+"team": "TEN",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "D Maze",
+"champ": false,
+"total": 214,
+"comm": 214,
+"prev": 1802,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Chris Godwin",
+"team": "TB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Isaiah Likely",
+"team": "NYG",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Wil Lutz",
+"team": "DEN",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "DEN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"champ": false,
+"total": 275,
+"comm": 275,
+"prev": 1812,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Cann Man",
+"champ": false,
+"total": 225,
+"comm": 225,
+"prev": 1642,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Sam Darnold",
+"team": "SEA",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Marvin Harrison Jr.",
+"team": "HOU",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Garrett Wilson",
+"team": "NYJ",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Trey McBride",
+"team": "ARI",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Trey Smack",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Snipes",
+"champ": false,
+"total": 278,
+"comm": 278,
+"prev": 1655,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 37,
+"comm": 37,
+"bd": [
+[
+"Official score",
+37
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Ian",
+"champ": false,
+"total": 256,
+"comm": 256,
+"prev": 1847,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Malik Washington",
+"team": "MIA",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Wil Lutz",
+"team": "DEN",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "DEN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Bella",
+"champ": false,
+"total": 246,
+"comm": 246,
+"prev": 1651,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Joe Burrow",
+"team": "CIN",
+"pts": 47,
+"comm": 47,
+"bd": [
+[
+"Official score",
+47
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Tony Pollard",
+"team": "TEN",
+"pts": 49,
+"comm": 49,
+"bd": [
+[
+"Official score",
+49
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Konata Mumpfield",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Brock Bowers",
+"team": "LV",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Joey Slye",
+"team": "TEN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Cobb",
+"champ": false,
+"total": 179,
+"comm": 179,
+"prev": 1854,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bijan Robinson",
+"team": "ATL",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Chris Godwin",
+"team": "TB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Sanders",
+"team": "NYJ",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Titans D",
+"team": "TEN",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Ben",
+"champ": false,
+"total": 288,
+"comm": 288,
+"prev": 1714,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 29,
+"comm": 29,
+"bd": [
+[
+"Official score",
+29
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Tony Pollard",
+"team": "TEN",
+"pts": 49,
+"comm": 49,
+"bd": [
+[
+"Official score",
+49
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Kirk",
+"team": "SF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Andres Borregales",
+"team": "NE",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Joey Slye",
+"team": "TEN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Tar Heels",
+"champ": false,
+"total": 191,
+"comm": 191,
+"prev": 1830,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Aaron Rodgers",
+"team": "PIT",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bijan Robinson",
+"team": "ATL",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Garrett Wilson",
+"team": "NYJ",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ryan Fitzgerald",
+"team": "CAR",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon McManus",
+"team": "",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": ""
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Tuttle",
+"champ": false,
+"total": 236,
+"comm": 236,
+"prev": 1874,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "J.K. Dobbins",
+"team": "DEN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "DEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chase McLaughlin",
+"team": "TB",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "J Cell",
+"champ": false,
+"total": 206,
+"comm": 206,
+"prev": 1825,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Chris Godwin",
+"team": "TB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Xavier Worthy",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Nick Folk",
+"team": "ATL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chase McLaughlin",
+"team": "TB",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Big Daddy",
+"champ": false,
+"total": 218,
+"comm": 218,
+"prev": 1768,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Kyler Murray",
+"team": "MIN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Evan McPherson",
+"team": "CIN",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Rich CH",
+"champ": true,
+"total": 206,
+"comm": 206,
+"prev": 1685,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Michael Wilson",
+"team": "ARI",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Kyle Pitts",
+"team": "ATL",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Juwan Johnson",
+"team": "NO",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NO \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Sleepy Joe",
+"champ": false,
+"total": 241,
+"comm": 241,
+"prev": 1984,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 33,
+"comm": 33,
+"bd": [
+[
+"Official score",
+33
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Kyle Pitts",
+"team": "ATL",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Trey Smack",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Kearney",
+"champ": false,
+"total": 175,
+"comm": 175,
+"prev": 1640,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 33,
+"comm": 33,
+"bd": [
+[
+"Official score",
+33
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Garrett Wilson",
+"team": "NYJ",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ryan Flournoy",
+"team": "DAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Eli Raridon",
+"team": "NE",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Isaiah Likely",
+"team": "NYG",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Blake Grupe",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Nick Folk",
+"team": "ATL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Paradis",
+"champ": false,
+"total": 292,
+"comm": 292,
+"prev": 1834,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Brock Purdy",
+"team": "SF",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Zay Flowers",
+"team": "BAL",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Broncos D",
+"team": "DEN",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DEN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Max Cat",
+"champ": false,
+"total": 212,
+"comm": 212,
+"prev": 1584,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 37,
+"comm": 37,
+"bd": [
+[
+"Official score",
+37
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Rhamondre Stevenson",
+"team": "NE",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "D'Andre Swift",
+"team": "CHI",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Malik Nabers",
+"team": "NYG",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 13,
+"comm": 13,
+"bd": [
+[
+"Official score",
+13
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Kyle Pitts",
+"team": "ATL",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Isaiah Likely",
+"team": "NYG",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chase McLaughlin",
+"team": "TB",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Joey Slye",
+"team": "TEN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Panthers D",
+"team": "CAR",
+"pts": -20,
+"comm": -20,
+"bd": [
+[
+"Official score",
+-20
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Duncanson",
+"champ": false,
+"total": 167,
+"comm": 167,
+"prev": 1482,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Isaiah Likely",
+"team": "NYG",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Lee",
+"champ": false,
+"total": 183,
+"comm": 183,
+"prev": 1319,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 29,
+"comm": 29,
+"bd": [
+[
+"Official score",
+29
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bijan Robinson",
+"team": "ATL",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tetairoa McMillan",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Mike Evans",
+"team": "SF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Josh Downs",
+"team": "IND",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "IND \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Mark Andrews",
+"team": "BAL",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jake Elliott",
+"team": "PHI",
+"pts": 3,
+"comm": 3,
+"bd": [
+[
+"Official score",
+3
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Rams D",
+"team": "LAR",
+"pts": 9,
+"comm": 9,
+"bd": [
+[
+"Official score",
+9
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Bills D",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Pork Chop",
+"champ": false,
+"total": 186,
+"comm": 186,
+"prev": 1668,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Denzel Boston",
+"team": "CLE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Kyle Pitts",
+"team": "ATL",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon McManus",
+"team": "",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": ""
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Pacman",
+"champ": false,
+"total": 195,
+"comm": 195,
+"prev": 1647,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 33,
+"comm": 33,
+"bd": [
+[
+"Official score",
+33
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Konata Mumpfield",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Mike Gesicki",
+"team": "CIN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Nick Folk",
+"team": "ATL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Svendson",
+"champ": false,
+"total": 241,
+"comm": 241,
+"prev": 1902,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Joe Burrow",
+"team": "CIN",
+"pts": 47,
+"comm": 47,
+"bd": [
+[
+"Official score",
+47
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Zay Flowers",
+"team": "BAL",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Michael Mayer",
+"team": "LV",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Evan McPherson",
+"team": "CIN",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Tansey",
+"champ": false,
+"total": 207,
+"comm": 207,
+"prev": 1660,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Brock Purdy",
+"team": "SF",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "KC Concepcion",
+"team": "CLE",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Joey Slye",
+"team": "TEN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon McManus",
+"team": "",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": ""
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Jori",
+"champ": false,
+"total": 206,
+"comm": 206,
+"prev": 1251,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 37,
+"comm": 37,
+"bd": [
+[
+"Official score",
+37
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Aaron Jones",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Zay Flowers",
+"team": "BAL",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dalton Schultz",
+"team": "HOU",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chad Ryland",
+"team": "ARI",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Nick Folk",
+"team": "ATL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Keoni",
+"champ": false,
+"total": 202,
+"comm": 202,
+"prev": 1639,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Kyler Murray",
+"team": "MIN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bijan Robinson",
+"team": "ATL",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Rob Gronkowski (retired)",
+"team": "",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": ""
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Shane H",
+"champ": false,
+"total": 171,
+"comm": 171,
+"prev": 1641,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 37,
+"comm": 37,
+"bd": [
+[
+"Official score",
+37
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Kyler Murray",
+"team": "MIN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jordan Mason",
+"team": "MIN",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Evan McPherson",
+"team": "CIN",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Andre Szmyt",
+"team": "CLE",
+"pts": 9,
+"comm": 9,
+"bd": [
+[
+"Official score",
+9
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Al Cat",
+"champ": false,
+"total": 196,
+"comm": 196,
+"prev": 1760,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Sanders",
+"team": "NYJ",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"champ": false,
+"total": 211,
+"comm": 211,
+"prev": 1647,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ryan Fitzgerald",
+"team": "CAR",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Maffeo",
+"champ": false,
+"total": 138,
+"comm": 138,
+"prev": 1516,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chase Brown",
+"team": "CIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jameson Williams",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tre Tucker",
+"team": "LV",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tetairoa McMillan",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Mike Gesicki",
+"team": "CIN",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dalton Schultz",
+"team": "HOU",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Myers",
+"team": "SEA",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Panthers D",
+"team": "CAR",
+"pts": -20,
+"comm": -20,
+"bd": [
+[
+"Official score",
+-20
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Matt CH",
+"champ": false,
+"total": 295,
+"comm": 295,
+"prev": 1384,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Aaron Rodgers",
+"team": "PIT",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tre Tucker",
+"team": "LV",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Rams D",
+"team": "LAR",
+"pts": 9,
+"comm": 9,
+"bd": [
+[
+"Official score",
+9
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Lynn",
+"champ": false,
+"total": 266,
+"comm": 266,
+"prev": 1637,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jaxon Smith-Njigba",
+"team": "SEA",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Denzel Boston",
+"team": "CLE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Dallas Goedert",
+"team": "PHI",
+"pts": 16,
+"comm": 16,
+"bd": [
+[
+"Official score",
+16
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ryan Fitzgerald",
+"team": "CAR",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Harrison Butker",
+"team": "KC",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Hurls",
+"champ": false,
+"total": 270,
+"comm": 270,
+"prev": 1619,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "DK Metcalf",
+"team": "PIT",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Nico Collins",
+"team": "HOU",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Trey McBride",
+"team": "ARI",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Titans D",
+"team": "TEN",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "King",
+"champ": false,
+"total": 159,
+"comm": 159,
+"prev": 1427,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Bryce Young",
+"team": "CAR",
+"pts": -1,
+"comm": -1,
+"bd": [
+[
+"Official score",
+-1
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "RJ Harvey",
+"team": "DEN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "DEN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Tetairoa McMillan",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Denzel Boston",
+"team": "CLE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Hunter Henry",
+"team": "NE",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Matt Gay",
+"team": "LV",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Spencer Shrader",
+"team": "IND",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "IND \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Panthers D",
+"team": "CAR",
+"pts": -20,
+"comm": -20,
+"bd": [
+[
+"Official score",
+-20
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "TJP",
+"champ": false,
+"total": 225,
+"comm": 225,
+"prev": 1743,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Denzel Boston",
+"team": "CLE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Puka Nacua",
+"team": "LAR",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Trey McBride",
+"team": "ARI",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ryan Fitzgerald",
+"team": "CAR",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Harrison Butker",
+"team": "KC",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Chiefs D",
+"team": "KC",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Cowboys D",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Macbeth",
+"champ": false,
+"total": 184,
+"comm": 184,
+"prev": 1521,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Geno Smith",
+"team": "NYJ",
+"pts": 38,
+"comm": 38,
+"bd": [
+[
+"Official score",
+38
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Kyle Pitts",
+"team": "ATL",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Cameron Dicker",
+"team": "LAC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAC \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Sanders",
+"team": "NYJ",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Kawazoe",
+"champ": false,
+"total": 244,
+"comm": 244,
+"prev": 1481,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Brock Purdy",
+"team": "SF",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bijan Robinson",
+"team": "ATL",
+"pts": 26,
+"comm": 26,
+"bd": [
+[
+"Official score",
+26
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 13,
+"comm": 13,
+"bd": [
+[
+"Official score",
+13
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ka'imi Fairbairn",
+"team": "HOU",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Titans D",
+"team": "TEN",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Paul Dej",
+"champ": false,
+"total": 266,
+"comm": 266,
+"prev": 1581,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Joe Burrow",
+"team": "CIN",
+"pts": 47,
+"comm": 47,
+"bd": [
+[
+"Official score",
+47
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Zay Flowers",
+"team": "BAL",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Brandon McManus",
+"team": "",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": ""
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Titans D",
+"team": "TEN",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Putin",
+"champ": false,
+"total": 229,
+"comm": 229,
+"prev": 1615,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Brock Purdy",
+"team": "SF",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Aaron Rodgers",
+"team": "PIT",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Puka Nacua",
+"team": "LAR",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Tyler Loop",
+"team": "BAL",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Evan McPherson",
+"team": "CIN",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Pizzi",
+"champ": false,
+"total": 263,
+"comm": 263,
+"prev": 1667,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Braelon Allen",
+"team": "NYJ",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Nico Collins",
+"team": "HOU",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Chris Boswell",
+"team": "PIT",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jason Myers",
+"team": "SEA",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "SEA \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Adam",
+"champ": false,
+"total": 208,
+"comm": 208,
+"prev": 1576,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Saquon Barkley",
+"team": "PHI",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Jalen Coker",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Chi Chi",
+"champ": false,
+"total": 189,
+"comm": 189,
+"prev": 1518,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 33,
+"comm": 33,
+"bd": [
+[
+"Official score",
+33
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Christian McCaffrey",
+"team": "SF",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jaylen Warren",
+"team": "PIT",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Chris Olave",
+"team": "NO",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "NO \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Michael Wilson",
+"team": "ARI",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "ARI \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "KC Concepcion",
+"team": "CLE",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Pat Freiermuth",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Nick Folk",
+"team": "ATL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "ATL \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Daniel Carlson",
+"team": "NO",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "NO \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Jets D",
+"team": "NYJ",
+"pts": -6,
+"comm": -6,
+"bd": [
+[
+"Official score",
+-6
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Boogie man",
+"champ": false,
+"total": 276,
+"comm": 276,
+"prev": 1675,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 33,
+"comm": 33,
+"bd": [
+[
+"Official score",
+33
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Bucky Irving",
+"team": "TB",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "TB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ka'imi Fairbairn",
+"team": "HOU",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Finger",
+"champ": false,
+"total": 314,
+"comm": 314,
+"prev": 1639,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Joe Burrow",
+"team": "CIN",
+"pts": 47,
+"comm": 47,
+"bd": [
+[
+"Official score",
+47
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Germie Bernard",
+"team": "PIT",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PIT \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 17,
+"comm": 17,
+"bd": [
+[
+"Official score",
+17
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Carnell Tate",
+"team": "TEN",
+"pts": 8,
+"comm": 8,
+"bd": [
+[
+"Official score",
+8
+]
+],
+"game": "TEN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Spencer Shrader",
+"team": "IND",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "IND \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Dogga",
+"champ": false,
+"total": 241,
+"comm": 241,
+"prev": 1640,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Brock Purdy",
+"team": "SF",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": 34,
+"comm": 34,
+"bd": [
+[
+"Official score",
+34
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ollie Gordon II",
+"team": "MIA",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "MIA \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 36,
+"comm": 36,
+"bd": [
+[
+"Official score",
+36
+]
+],
+"game": "DAL \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Puka Nacua",
+"team": "LAR",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Denzel Boston",
+"team": "CLE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CLE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Zay Flowers",
+"team": "BAL",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Will Reichard",
+"team": "MIN",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Trey Smack",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Gavin",
+"champ": false,
+"total": 138,
+"comm": 138,
+"prev": 1525,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Drake Maye",
+"team": "NE",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Kyren Williams",
+"team": "LAR",
+"pts": 19,
+"comm": 19,
+"bd": [
+[
+"Official score",
+19
+]
+],
+"game": "LAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Woody Marks",
+"team": "HOU",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "A.J. Brown",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Garrett Wilson",
+"team": "NYJ",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Christian Watson",
+"team": "GB",
+"pts": 10,
+"comm": 10,
+"bd": [
+[
+"Official score",
+10
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Tucker Kraft",
+"team": "GB",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "GB \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Ryan Fitzgerald",
+"team": "CAR",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Browns D",
+"team": "CLE",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "CLE \u00b7 Week 7 final"
+}
+]
+},
+{
+"owner": "Moser",
+"champ": false,
+"total": 162,
+"comm": 162,
+"prev": 1555,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Tanner McKee",
+"team": "PHI",
+"pts": 15,
+"comm": 15,
+"bd": [
+[
+"Official score",
+15
+]
+],
+"game": "PHI \u00b7 Week 7 final"
+},
+{
+"pos": "QB",
+"name": "C.J. Stroud",
+"team": "HOU",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Derrick Henry",
+"team": "BAL",
+"pts": 7,
+"comm": 7,
+"bd": [
+[
+"Official score",
+7
+]
+],
+"game": "BAL \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CAR \u00b7 Week 7 final"
+},
+{
+"pos": "RB",
+"name": "Ashton Jeanty",
+"team": "LV",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "LV \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Pop Douglas",
+"team": "NE",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NE \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Omar Cooper",
+"team": "NYJ",
+"pts": 22,
+"comm": 22,
+"bd": [
+[
+"Official score",
+22
+]
+],
+"game": "NYJ \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Justin Jefferson",
+"team": "MIN",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "MIN \u00b7 Week 7 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 24,
+"comm": 24,
+"bd": [
+[
+"Official score",
+24
+]
+],
+"game": "DET \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "Isaiah Likely",
+"team": "NYG",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "NYG \u00b7 Week 7 final"
+},
+{
+"pos": "TE",
+"name": "George Kittle",
+"team": "SF",
+"pts": 27,
+"comm": 27,
+"bd": [
+[
+"Official score",
+27
+]
+],
+"game": "SF \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Spencer Shrader",
+"team": "IND",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "IND \u00b7 Week 7 final"
+},
+{
+"pos": "K",
+"name": "Evan McPherson",
+"team": "CIN",
+"pts": 5,
+"comm": 5,
+"bd": [
+[
+"Official score",
+5
+]
+],
+"game": "CIN \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "HOU \u00b7 Week 7 final"
+},
+{
+"pos": "DEF",
+"name": "Vikings D",
+"team": "MIN",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "MIN \u00b7 Week 7 final"
+}
+]
+}
+],
+"games": [
+{
+"t": "Week 7",
+"s": "Official",
+"live": false
+}
+]
+}

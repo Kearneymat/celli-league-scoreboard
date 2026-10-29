@@ -34,6 +34,31 @@ DF = {'chiefs': 'KC', 'kc': 'KC', 'steelers': 'PIT', 'carolina': 'CAR', 'panther
 TEAMNAME = {'KC': 'Chiefs', 'PIT': 'Steelers', 'CAR': 'Panthers', 'NYG': 'Giants', 'NE': 'Patriots', 'LAR': 'Rams', 'SF': '49ers', 'BAL': 'Ravens', 'IND': 'Colts', 'SEA': 'Seahawks', 'BUF': 'Bills',
             'CLE': 'Browns', 'DAL': 'Cowboys', 'JAX': 'Jaguars', 'HOU': 'Texans', 'PHI': 'Eagles', 'TB': 'Buccaneers', 'NO': 'Saints', 'ATL': 'Falcons', 'CHI': 'Bears', 'TEN': 'Titans', 'NYJ': 'Jets',
             'LV': 'Raiders', 'LAC': 'Chargers', 'ARI': 'Cardinals', 'GB': 'Packers', 'WAS': 'Commanders', 'DEN': 'Broncos', 'MIN': 'Vikings', 'DET': 'Lions', 'MIA': 'Dolphins', 'CIN': 'Bengals'}
+
+PL.update({
+ 'burrow': ('Joe Burrow', 'CIN'), 'calebw': ('Caleb Williams', 'CHI'), 'darnold': ('Sam Darnold', 'SEA'), 'geno': ('Geno Smith', 'NYJ'),
+ 'goff': ('Jared Goff', 'DET'), 'kmurray': ('Kyler Murray', 'MIN'), 'murray': ('Kyler Murray', 'MIN'), 'mckee': ('Tanner McKee', 'PHI'),
+ 'ajones': ('Aaron Jones', 'MIN'), 'ballen': ('Braelon Allen', 'NYJ'), 'barkley': ('Saquon Barkley', 'PHI'), 'birving': ('Bucky Irving', 'TB'),
+ 'cbrown': ('Chase Brown', 'CIN'), 'dobbins': ('J.K. Dobbins', 'DEN'), 'gibbs': ('Jahmyr Gibbs', 'DET'), 'harvey': ('RJ Harvey', 'DEN'),
+ 'jmason': ('Jordan Mason', 'MIN'), 'marks': ('Woody Marks', 'HOU'), 'ogordon': ('Ollie Gordon II', 'MIA'), 'ogrdon': ('Ollie Gordon II', 'MIA'),
+ 'pollard': ('Tony Pollard', 'TEN'), 'stephenson': ('Rhamondre Stevenson', 'NE'),
+ 'eriordan': ('Eli Raridon', 'NE'), 'eraridon': ('Eli Raridon', 'NE'), 'raridon': ('Eli Raridon', 'NE'), 'friermuth': ('Pat Freiermuth', 'PIT'),
+ 'gesicki': ('Mike Gesicki', 'CIN'), 'gisecki': ('Mike Gesicki', 'CIN'), 'hhenry': ('Hunter Henry', 'NE'), 'laporta': ('Sam LaPorta', 'DET'),
+ 'loveland': ('Colston Loveland', 'CHI'), 'mayer': ('Michael Mayer', 'LV'), 'mmayer': ('Michael Mayer', 'LV'), 'pitts': ('Kyle Pitts', 'ATL'), 'schultz': ('Dalton Schultz', 'HOU'),
+ 'ajbrown': ('A.J. Brown', 'NE'), 'asbrown': ('Amon-Ra St. Brown', 'DET'), 'stbrown': ('Amon-Ra St. Brown', 'DET'), 'bernard': ('Germie Bernard', 'PIT'),
+ 'gbernard': ('Germie Bernard', 'PIT'), 'boston': ('Denzel Boston', 'CLE'), 'bostoncle': ('Denzel Boston', 'CLE'), 'chase': ("Ja'Marr Chase", 'CIN'),
+ 'jchase': ("Ja'Marr Chase", 'CIN'), 'concepcion': ('KC Concepcion', 'CLE'), 'ctate': ('Carnell Tate', 'TEN'), 'flournoydallas': ('Ryan Flournoy', 'DAL'),
+ 'flournoy': ('Ryan Flournoy', 'DAL'), 'godwin': ('Chris Godwin', 'TB'), 'jamwill': ('Jameson Williams', 'DET'), 'jefferson': ('Justin Jefferson', 'MIN'),
+ 'kirk': ('Christian Kirk', 'SF'), 'mgolden': ('Matthew Golden', 'GB'), 'mharrison': ('Marvin Harrison Jr.', 'HOU'), 'mumpfield': ('Konata Mumpfield', 'LAR'),
+ 'mwashmiami': ('Malik Washington', 'MIA'), 'ocooperjets': ('Omar Cooper', 'NYJ'), 'ocooper': ('Omar Cooper', 'NYJ'), 'pop': ('Pop Douglas', 'NE'),
+ 'tucker': ('Tre Tucker', 'LV'), 'wilson': ('Garrett Wilson', 'NYJ'), 'gwilson': ('Garrett Wilson', 'NYJ'),
+ 'bates': ('Jake Bates', 'DET'), 'dcarlson': ('Daniel Carlson', 'NO'), 'carlson': ('Daniel Carlson', 'NO'), 'dicker': ('Cameron Dicker', 'LAC'),
+ 'fitzgerald': ('Ryan Fitzgerald', 'CAR'), 'grupe': ('Blake Grupe', 'LAR'), 'lutz': ('Wil Lutz', 'DEN'), 'mcmanus': ('Brandon McManus', ''),
+ 'mcpherson': ('Evan McPherson', 'CIN'), 'ryland': ('Chad Ryland', 'ARI'), 'sanders': ('Jason Sanders', 'NYJ'), 'slye': ('Joey Slye', 'TEN'),
+ 'smytzbrowns': ('Andre Szmyt', 'CLE'), 'szmytbrowns': ('Andre Szmyt', 'CLE'), 'szmyt': ('Andre Szmyt', 'CLE'),
+})
+DF.update({'dallas': 'DAL', 'detroit': 'DET', 'lions': 'DET'})
+
 def resolve(pos, raw):
     k = key(raw)
     if pos == 'DEF':
