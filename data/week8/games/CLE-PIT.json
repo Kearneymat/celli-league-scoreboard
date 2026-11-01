@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 8:33",
+"clock": "Q4 2:36",
 "score": {
 "PIT": 27,
 "CLE": 6
@@ -13,8 +13,8 @@
 "rec_yds": 24
 },
 "Harold Fannin": {
-"rec": 8,
-"rec_yds": 117,
+"rec": 10,
+"rec_yds": 154,
 "fl": 1
 },
 "KC Concepcion": {
@@ -27,8 +27,8 @@
 "int": 1
 },
 "Jaylen Warren": {
-"rush_att": 16,
-"rush_yds": 134,
+"rush_att": 17,
+"rush_yds": 143,
 "rec": 1,
 "rush_td_lengths": [
 1
@@ -72,7 +72,7 @@
 },
 "defenses": {
 "PIT": {
-"sacks": 6,
+"sacks": 8,
 "fum_rec": 2,
 "int": 0,
 "safeties": 0,

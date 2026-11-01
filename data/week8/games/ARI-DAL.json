@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 4:08",
+"clock": "Q4 2:23",
 "score": {
-"DAL": 24,
+"DAL": 27,
 "ARI": 17
 },
 "players": {
@@ -14,16 +14,16 @@
 "rush_yds": 7
 },
 "Michael Wilson": {
-"rec": 4,
-"rec_yds": 41
+"rec": 5,
+"rec_yds": 50
 },
 "Trey McBride": {
-"rec": 2,
-"rec_yds": 20
+"rec": 5,
+"rec_yds": 50
 },
 "Dak Prescott": {
-"pass_cmp": 18,
-"pass_yds": 194,
+"pass_cmp": 19,
+"pass_yds": 195,
 "rush_att": 6,
 "rush_yds": 21,
 "pass_td_lengths": [
@@ -60,7 +60,8 @@
 "kickers": {
 "Brandon Aubrey": {
 "fg_made_dist": [
-31
+31,
+35
 ],
 "fg_missed_dist": [
 61

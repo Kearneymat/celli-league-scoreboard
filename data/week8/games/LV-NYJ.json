@@ -1,16 +1,16 @@
 {
 "status": "live",
-"clock": "Q4 4:31",
+"clock": "Q4 0:27",
 "score": {
 "NYJ": 33,
-"LV": 35
+"LV": 38
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 18,
-"pass_yds": 240,
-"rush_att": 3,
-"rush_yds": 3,
+"pass_cmp": 19,
+"pass_yds": 247,
+"rush_att": 4,
+"rush_yds": 4,
 "pass_td_lengths": [
 12,
 2,
@@ -75,8 +75,10 @@
 "xp_missed": 0
 },
 "Matt Gay": {
+"fg_made_dist": [
+53
+],
 "xp_made": 5,
-"fg_made_dist": [],
 "fg_missed_dist": [],
 "xp_missed": 0
 }

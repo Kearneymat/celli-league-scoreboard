@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 8:44",
+"clock": "Q4 2:00",
 "score": {
-"DET": 12,
+"DET": 19,
 "MIN": 15
 },
 "players": {
 "Kyler Murray": {
-"pass_cmp": 16,
-"pass_yds": 206,
+"pass_cmp": 17,
+"pass_yds": 210,
 "int": 1,
 "rush_att": 4,
 "rush_yds": 35,
@@ -18,8 +18,8 @@
 ]
 },
 "Jordan Mason": {
-"rush_att": 7,
-"rush_yds": 19
+"rush_att": 8,
+"rush_yds": 20
 },
 "T.J. Hockenson": {
 "rec": 4,
@@ -36,8 +36,8 @@
 ]
 },
 "Jahmyr Gibbs": {
-"rush_att": 17,
-"rush_yds": 90,
+"rush_att": 22,
+"rush_yds": 147,
 "rec": 2,
 "rec_yds": 15,
 "rush_td_lengths": [
@@ -51,8 +51,11 @@
 "rec_yds": 46
 },
 "Jameson Williams": {
-"rec": 3,
-"rec_yds": 63
+"rec": 4,
+"rec_yds": 70,
+"rec_td_lengths": [
+7
+]
 }
 },
 "kickers": {
@@ -64,7 +67,7 @@
 "fg_missed_dist": [
 46
 ],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Will Reichard": {
