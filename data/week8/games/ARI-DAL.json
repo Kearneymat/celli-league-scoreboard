@@ -1,9 +1,9 @@
 {
-"status": "live",
-"clock": "OT 5:43",
+"status": "final",
+"clock": "Final/OT",
 "score": {
 "DAL": 30,
-"ARI": 30
+"ARI": 33
 },
 "players": {
 "Jacoby Brissett": {
@@ -14,6 +14,8 @@
 "rush_yds": 7
 },
 "Michael Wilson": {
+"rush_att": 1,
+"rush_yds": 17,
 "rec": 8,
 "rec_yds": 111,
 "rec_td_lengths": [
@@ -78,7 +80,8 @@
 },
 "Chad Ryland": {
 "fg_made_dist": [
-37
+37,
+42
 ],
 "xp_made": 3,
 "xp_missed": 1,

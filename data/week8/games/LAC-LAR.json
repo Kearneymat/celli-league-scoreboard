@@ -1,18 +1,19 @@
 {
 "status": "live",
-"clock": "Q1 5:42",
+"clock": "Q2 13:31",
 "score": {
 "LAR": 3,
-"LAC": 0
+"LAC": 3
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 3,
+"pass_cmp": 5,
+"pass_yds": 40,
 "int": 1
 },
 "Ladd McConkey": {
-"rec": 2,
-"rec_yds": 2
+"rec": 3,
+"rec_yds": 32
 },
 "Matthew Stafford": {
 "pass_cmp": 4,
@@ -20,8 +21,8 @@
 "int": 1
 },
 "Blake Corum": {
-"rush_att": 2,
-"rush_yds": 6
+"rush_att": 3,
+"rush_yds": 8
 },
 "Kyren Williams": {
 "rush_att": 1,
@@ -51,8 +52,8 @@
 "def_st_td_lengths": []
 },
 "LAC": {
+"sacks": 1,
 "int": 1,
-"sacks": 0,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

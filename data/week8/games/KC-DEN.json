@@ -1,17 +1,52 @@
 {
 "status": "live",
-"clock": "Q1 10:37",
+"clock": "Q1 5:57",
 "score": {
-"DEN": 0,
-"KC": 0
+"DEN": 3,
+"KC": 7
 },
 "players": {
+"Patrick Mahomes": {
+"pass_cmp": 5,
+"pass_yds": 48,
+"rush_att": 1,
+"rush_yds": 2,
+"pass_td_lengths": [
+11
+]
+},
 "Kenneth Walker": {
-"rush_att": 2,
-"rush_yds": 4
+"rush_att": 3,
+"rush_yds": 8
+},
+"Rashee Rice": {
+"rec": 3,
+"rec_yds": 26,
+"rec_td_lengths": [
+11
+]
+},
+"Travis Kelce": {
+"rec": 1,
+"rec_yds": 15
 }
 },
-"kickers": {},
+"kickers": {
+"Wil Lutz": {
+"fg_made_dist": [
+39
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
+"Harrison Butker": {
+"xp_made": 1,
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_missed": 0
+}
+},
 "defenses": {
 "DEN": {
 "sacks": 0,

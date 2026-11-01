@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 231,
+"total": 226,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -16,7 +16,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -89,8 +89,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -177,8 +176,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -254,23 +252,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 }
 ]
@@ -278,7 +272,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 285,
+"total": 290,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -327,8 +321,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -342,8 +335,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -378,7 +370,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -424,8 +416,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -465,8 +456,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -501,7 +491,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -552,7 +542,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -572,19 +562,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Bronson",
 "champ": false,
-"total": 165,
+"total": 169,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -635,8 +624,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -645,7 +633,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -669,7 +657,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -679,7 +667,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -720,8 +708,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -771,14 +758,14 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -786,11 +773,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -828,7 +819,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 279,
+"total": 278,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -897,8 +888,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -933,7 +923,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -998,8 +988,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -1047,8 +1036,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -1083,14 +1071,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -1098,34 +1086,34 @@
 20
 ],
 [
-"1 sacks",
-2
-]
-],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
-"on": true
-},
-{
-"pos": "DEF",
-"name": "Rams D",
-"team": "LAR",
-"pts": 22,
-"comm": null,
-"bd": [
-[
-"0 pts allowed",
-20
-],
-[
-"1 INT",
-2
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
+"on": true
+},
+{
+"pos": "DEF",
+"name": "Rams D",
+"team": "LAR",
+"pts": 17,
+"comm": null,
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"1 INT",
+2
+]
+],
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 }
 ]
@@ -1133,7 +1121,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 333,
+"total": 334,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1196,8 +1184,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -1215,8 +1202,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -1315,7 +1301,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -1338,17 +1324,21 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"39-yd FG",
+6
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -1363,7 +1353,7 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -1404,23 +1394,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 }
 ]
@@ -1483,8 +1469,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -1572,8 +1557,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -1649,8 +1633,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -1682,7 +1665,7 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -1734,7 +1717,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 184,
+"total": 195,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -1905,8 +1888,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -1915,17 +1897,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"39-yd FG",
+6
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -1935,14 +1922,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -1962,12 +1949,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -2008,7 +1994,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 256,
+"total": 265,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2090,7 +2076,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -2100,7 +2086,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -2156,8 +2142,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -2179,8 +2164,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -2208,12 +2192,16 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
 [
 "37-yd FG",
 6
+],
+[
+"42-yd FG",
+9
 ],
 [
 "3 XP",
@@ -2224,8 +2212,7 @@
 -9
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -2351,8 +2338,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -2370,8 +2356,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -2491,7 +2476,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -2514,8 +2499,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -2577,8 +2561,7 @@
 5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -2645,7 +2628,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 264,
+"total": 269,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -2694,8 +2677,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -2713,8 +2695,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -2759,7 +2740,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -2786,8 +2767,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -2825,7 +2805,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -2848,8 +2828,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -2887,7 +2866,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -2907,12 +2886,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -2945,7 +2923,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 271,
+"total": 280,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -2994,8 +2972,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -3009,8 +2986,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -3028,8 +3004,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -3055,8 +3030,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -3110,8 +3084,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -3152,8 +3125,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -3217,7 +3189,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -3225,18 +3197,22 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -3256,19 +3232,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Nutting",
 "champ": false,
-"total": 254,
+"total": 249,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3299,8 +3274,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -3419,8 +3393,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -3438,8 +3411,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -3462,7 +3434,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -3501,23 +3473,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -3559,7 +3527,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 153,
+"total": 162,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3631,7 +3599,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -3663,7 +3631,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -3738,7 +3706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -3781,7 +3749,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -3789,18 +3757,22 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -3820,19 +3792,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Romano",
 "champ": false,
-"total": 247,
+"total": 256,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3841,10 +3812,15 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"11-yd TD pass",
+7
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -3933,8 +3909,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -3956,8 +3931,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -3981,10 +3955,15 @@
 "pos": "WR",
 "name": "Rashee Rice",
 "team": "KC",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"11-yd TD catch",
+7
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -3994,7 +3973,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -4004,7 +3983,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -4065,23 +4044,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -4123,7 +4098,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 290,
+"total": 294,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4172,8 +4147,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -4192,7 +4166,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -4237,8 +4211,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -4269,8 +4242,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -4311,8 +4283,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -4350,12 +4321,16 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
 [
 "37-yd FG",
 6
+],
+[
+"42-yd FG",
+9
 ],
 [
 "3 XP",
@@ -4366,30 +4341,25 @@
 -9
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -4431,7 +4401,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 175,
+"total": 184,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -4448,8 +4418,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -4528,7 +4497,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -4597,8 +4566,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -4607,7 +4575,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -4646,7 +4614,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4654,18 +4622,22 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -4685,19 +4657,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 274,
+"total": 279,
 "comm": null,
 "prev": 1900,
 "alive": false,
@@ -4758,8 +4729,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -4842,8 +4812,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -4901,8 +4870,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -4911,7 +4879,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -4942,8 +4910,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -4963,7 +4930,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -4983,12 +4950,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -5021,7 +4987,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 161,
+"total": 166,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5042,8 +5008,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -5057,8 +5022,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -5081,7 +5045,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -5126,8 +5090,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -5146,7 +5109,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -5227,14 +5190,13 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -5254,12 +5216,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -5300,7 +5261,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 229,
+"total": 234,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5349,8 +5310,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -5368,8 +5328,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -5426,7 +5385,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -5455,8 +5414,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -5496,8 +5454,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -5506,7 +5463,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -5521,7 +5478,7 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -5558,7 +5515,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -5578,12 +5535,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -5600,7 +5556,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 206,
+"total": 219,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5671,7 +5627,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -5707,8 +5663,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -5726,8 +5681,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -5785,12 +5739,16 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
 [
 "37-yd FG",
 6
+],
+[
+"42-yd FG",
+9
 ],
 [
 "3 XP",
@@ -5801,14 +5759,13 @@
 -9
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -5816,11 +5773,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -5854,7 +5815,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 276,
+"total": 280,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -5913,8 +5874,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -6031,8 +5991,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -6041,7 +6000,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -6136,7 +6095,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -6144,11 +6103,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 }
 ]
@@ -6177,8 +6140,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -6221,7 +6183,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -6257,7 +6219,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -6276,8 +6238,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -6336,8 +6297,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -6393,30 +6353,26 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -6436,19 +6392,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Lee",
 "champ": false,
-"total": 165,
+"total": 150,
 "comm": null,
 "prev": 1501,
 "alive": false,
@@ -6503,8 +6458,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -6513,7 +6467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -6546,8 +6500,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -6570,7 +6523,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -6603,8 +6556,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -6613,7 +6565,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -6653,8 +6605,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -6668,42 +6619,38 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 9,
+"pts": -1,
 "comm": null,
 "bd": [
 [
-"30 pts allowed",
--5
+"33 pts allowed",
+-10
 ],
 [
 "5 sacks",
@@ -6716,17 +6663,20 @@
 [
 "1 fum rec",
 2
+],
+[
+"Loss",
+-5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 250,
+"total": 254,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -6824,7 +6774,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -6878,7 +6828,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -6920,7 +6870,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -6935,8 +6885,7 @@
 5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -6950,14 +6899,14 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -6965,11 +6914,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -7011,7 +6964,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 225,
+"total": 230,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -7062,8 +7015,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -7137,8 +7089,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -7175,8 +7126,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -7207,8 +7157,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -7217,7 +7166,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -7266,8 +7215,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -7307,7 +7255,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -7327,19 +7275,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Svendson",
 "champ": false,
-"total": 292,
+"total": 297,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -7388,8 +7335,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -7428,7 +7374,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -7451,8 +7397,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -7532,8 +7477,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -7610,7 +7554,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -7630,12 +7574,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -7676,7 +7619,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 91,
+"total": 81,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -7763,7 +7706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -7799,8 +7742,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -7900,12 +7842,12 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 9,
+"pts": -1,
 "comm": null,
 "bd": [
 [
-"30 pts allowed",
--5
+"33 pts allowed",
+-10
 ],
 [
 "5 sacks",
@@ -7918,17 +7860,20 @@
 [
 "1 fum rec",
 2
+],
+[
+"Loss",
+-5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Jori",
 "champ": false,
-"total": 91,
+"total": 95,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -7940,7 +7885,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -7980,7 +7925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -8010,7 +7955,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -8020,7 +7965,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -8070,7 +8015,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -8131,7 +8076,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -8139,11 +8084,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 }
 ]
@@ -8199,7 +8148,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -8299,8 +8248,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -8333,8 +8281,7 @@
 5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -8427,7 +8374,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 254,
+"total": 259,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -8501,8 +8448,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -8520,8 +8466,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -8543,8 +8488,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -8571,8 +8515,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -8618,8 +8561,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -8687,7 +8629,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -8707,19 +8649,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 313,
+"total": 318,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -8802,8 +8743,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -8821,8 +8761,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -8929,8 +8868,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -8995,8 +8933,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -9036,7 +8973,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -9056,19 +8993,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 284,
+"total": 293,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -9117,8 +9053,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -9189,7 +9124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -9212,8 +9147,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -9273,7 +9207,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -9320,7 +9254,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -9340,18 +9274,17 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -9359,11 +9292,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 }
 ]
@@ -9371,7 +9308,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 203,
+"total": 204,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -9383,7 +9320,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -9491,8 +9428,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -9542,8 +9478,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -9552,17 +9487,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -9587,30 +9527,26 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -9630,19 +9566,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 268,
+"total": 272,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -9659,7 +9594,7 @@
 -5
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -9706,8 +9641,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -9716,7 +9650,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -9735,8 +9669,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -9796,7 +9729,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -9833,8 +9766,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -9864,8 +9796,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -9879,8 +9810,7 @@
 5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -9912,7 +9842,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -9920,11 +9850,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 }
 ]
@@ -9932,7 +9866,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 166,
+"total": 161,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -9944,7 +9878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -9959,8 +9893,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -9969,7 +9902,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -9988,8 +9921,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -10114,8 +10046,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -10129,7 +10060,7 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -10170,23 +10101,19 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 }
 ]
@@ -10194,7 +10121,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 198,
+"total": 203,
 "comm": null,
 "prev": 1891,
 "alive": false,
@@ -10211,8 +10138,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -10230,8 +10156,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -10240,7 +10165,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10280,7 +10205,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10307,8 +10232,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -10344,8 +10268,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -10367,8 +10290,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -10377,7 +10299,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10422,8 +10344,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -10463,7 +10384,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -10483,19 +10404,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "King",
 "champ": false,
-"total": 91,
+"total": 95,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -10507,7 +10427,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10547,7 +10467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10601,7 +10521,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10650,7 +10570,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10685,7 +10605,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -10693,11 +10613,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10727,7 +10651,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 200,
+"total": 196,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -10739,7 +10663,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10758,8 +10682,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -10790,7 +10713,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -10854,7 +10777,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -10877,8 +10800,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -10916,33 +10838,34 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -11001,8 +10924,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -11041,7 +10963,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -11086,8 +11008,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -11145,8 +11066,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -11182,8 +11102,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -11229,30 +11148,26 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -11272,12 +11187,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
@@ -11301,8 +11215,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -11330,8 +11243,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -11411,8 +11323,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -11444,8 +11355,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -11527,30 +11437,26 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -11570,19 +11476,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 140,
+"total": 145,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -11613,8 +11518,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -11623,7 +11527,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -11668,8 +11572,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -11760,8 +11663,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -11777,7 +11679,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -11797,12 +11699,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -11860,8 +11761,7 @@
 -5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -11879,8 +11779,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -11898,8 +11797,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -11998,7 +11896,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -12021,8 +11919,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -12046,7 +11943,7 @@
 6
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -12083,30 +11980,26 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 INT",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -12126,19 +12019,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 185,
+"total": 196,
 "comm": null,
 "prev": 1925,
 "alive": false,
@@ -12159,8 +12051,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -12192,7 +12083,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -12264,8 +12155,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -12303,10 +12193,15 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "KC 0 @ DEN 0 \u00b7 Q1 10:37",
+"bd": [
+[
+"39-yd FG",
+6
+]
+],
+"game": "KC 7 @ DEN 3 \u00b7 Q1 5:57",
 "on": true
 },
 {
@@ -12365,7 +12260,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -12385,12 +12280,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
@@ -12418,8 +12312,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -12478,7 +12371,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -12498,7 +12391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -12517,8 +12410,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -12527,7 +12419,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -12586,8 +12478,7 @@
 3
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -12650,7 +12541,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 199,
+"total": 204,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -12671,8 +12562,7 @@
 6
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "QB",
@@ -12686,7 +12576,7 @@
 -5
 ]
 ],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -12718,7 +12608,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -12777,8 +12667,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -12809,8 +12698,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -12877,14 +12765,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -12904,12 +12792,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -12950,7 +12837,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 223,
+"total": 232,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -13070,7 +12957,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13130,8 +13017,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -13195,7 +13081,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -13203,18 +13089,22 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -13234,19 +13124,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Finger",
 "champ": false,
-"total": 266,
+"total": 270,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -13322,7 +13211,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13453,8 +13342,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -13496,7 +13384,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 22,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -13504,11 +13392,15 @@
 20
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13562,7 +13454,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13609,8 +13501,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -13681,8 +13572,7 @@
 7
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -13728,8 +13618,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -13738,7 +13627,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13808,7 +13697,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 153,
+"total": 158,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -13848,8 +13737,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -13920,8 +13808,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -13930,7 +13817,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 3 \u00b7 Q1 5:42",
+"game": "LAC 3 @ LAR 3 \u00b7 Q2 13:31",
 "on": true
 },
 {
@@ -13950,7 +13837,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -13996,7 +13883,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -14037,7 +13924,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -14057,19 +13944,18 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Moser",
 "champ": false,
-"total": 334,
+"total": 339,
 "comm": null,
 "prev": 1717,
 "alive": false,
@@ -14081,7 +13967,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 0 @ MIA 0 \u00b7 Q1 9:22",
+"game": "NE 3 @ MIA 0 \u00b7 Q1 5:48",
 "on": true
 },
 {
@@ -14148,8 +14034,7 @@
 5
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -14220,8 +14105,7 @@
 7
 ]
 ],
-"game": "ARI 30 @ DAL 30 \u00b7 OT 5:43",
-"on": true
+"game": "ARI 33 @ DAL 30 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -14243,8 +14127,7 @@
 9
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -14372,7 +14255,7 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": -2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -14392,12 +14275,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 36 @ CIN 43 \u00b7 OT 7:00",
-"on": true
+"game": "TEN 36 @ CIN 43 \u00b7 Final/OT"
 }
 ]
 }
@@ -14415,8 +14297,8 @@
 },
 {
 "t": "TEN 36 @ CIN 43",
-"s": "OT 7:00",
-"live": true
+"s": "Final/OT",
+"live": false
 },
 {
 "t": "CLE 6 @ PIT 27",
@@ -14434,9 +14316,9 @@
 "live": false
 },
 {
-"t": "ARI 30 @ DAL 30",
-"s": "OT 5:43",
-"live": true
+"t": "ARI 33 @ DAL 30",
+"s": "Final/OT",
+"live": false
 },
 {
 "t": "LV 38 @ NYJ 33",
@@ -14449,18 +14331,18 @@
 "live": false
 },
 {
-"t": "LAC 0 @ LAR 3",
-"s": "Q1 5:42",
+"t": "LAC 3 @ LAR 3",
+"s": "Q2 13:31",
 "live": true
 },
 {
-"t": "NE 0 @ MIA 0",
-"s": "Q1 9:22",
+"t": "NE 3 @ MIA 0",
+"s": "Q1 5:48",
 "live": true
 },
 {
-"t": "KC 0 @ DEN 0",
-"s": "Q1 10:37",
+"t": "KC 7 @ DEN 3",
+"s": "Q1 5:57",
 "live": true
 },
 {
