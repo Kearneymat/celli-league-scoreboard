@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 13:31",
+"clock": "Q2 10:01",
 "score": {
 "LAR": 3,
-"LAC": 3
+"LAC": 6
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 5,
-"pass_yds": 40,
+"pass_cmp": 8,
+"pass_yds": 76,
 "int": 1
 },
 "Ladd McConkey": {
@@ -16,8 +16,8 @@
 "rec_yds": 32
 },
 "Matthew Stafford": {
-"pass_cmp": 4,
-"pass_yds": 12,
+"pass_cmp": 5,
+"pass_yds": 14,
 "int": 1
 },
 "Blake Corum": {

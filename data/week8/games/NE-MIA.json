@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q1 5:48",
+"clock": "Q1 1:20",
 "score": {
-"MIA": 0,
+"MIA": 3,
 "NE": 3
 },
 "players": {
 "Drake Maye": {
-"pass_cmp": 3,
-"pass_yds": 31
+"pass_cmp": 4,
+"pass_yds": 35
 },
 "Rhamondre Stevenson": {
 "rush_att": 3,
@@ -23,16 +23,25 @@
 "rec_yds": 5
 },
 "Ollie Gordon II": {
-"rush_att": 2,
-"rush_yds": 6
+"rush_att": 4,
+"rush_yds": 3
 }
 },
-"kickers": {},
+"kickers": {
+"Andres Borregales": {
+"fg_made_dist": [
+34
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "MIA": {
-"sacks": 0,
+"sacks": 1,
+"fum_rec": 1,
 "int": 0,
-"fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
