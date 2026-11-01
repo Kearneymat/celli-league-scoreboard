@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 9:48",
+"clock": "Q3 4:40",
 "score": {
-"DET": 6,
+"DET": 12,
 "MIN": 7
 },
 "players": {
@@ -32,18 +32,23 @@
 "rec_yds": 22
 },
 "Jahmyr Gibbs": {
-"rush_att": 14,
-"rush_yds": 47,
+"rush_att": 17,
+"rush_yds": 90,
 "rec": 2,
-"rec_yds": 15
+"rec_yds": 15,
+"rush_td_lengths": [
+30
+]
+},
+"Amon-Ra St. Brown": {
+"rush_att": 1,
+"rush_yds": 10,
+"rec": 7,
+"rec_yds": 46
 },
 "Jameson Williams": {
 "rec": 3,
 "rec_yds": 63
-},
-"Amon-Ra St. Brown": {
-"rec": 7,
-"rec_yds": 46
 }
 },
 "kickers": {
@@ -69,7 +74,7 @@
 },
 "defenses": {
 "DET": {
-"sacks": 1,
+"sacks": 3,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 10:23",
+"clock": "Q3 7:56",
 "score": {
-"PIT": 20,
+"PIT": 27,
 "CLE": 6
 },
 "players": {
@@ -20,12 +20,15 @@
 "rec_yds": 24
 },
 "Aaron Rodgers": {
-"pass_cmp": 9,
-"pass_yds": 95
+"pass_cmp": 10,
+"pass_yds": 153
 },
 "Jaylen Warren": {
-"rush_att": 13,
-"rush_yds": 118
+"rush_att": 14,
+"rush_yds": 119,
+"rush_td_lengths": [
+1
+]
 },
 "Pat Freiermuth": {
 "rush_att": 1,
@@ -50,7 +53,7 @@
 "fg_missed_dist": [
 57
 ],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Andre Szmyt": {

@@ -1,18 +1,19 @@
 {
 "status": "live",
-"clock": "Q3 12:25",
+"clock": "Q3 7:47",
 "score": {
 "CIN": 21,
-"TEN": 13
+"TEN": 21
 },
 "players": {
 "Tony Pollard": {
-"rush_att": 10,
-"rush_yds": 70,
+"rush_att": 14,
+"rush_yds": 85,
 "rec": 2,
 "rec_yds": 13,
 "rush_td_lengths": [
-40
+40,
+1
 ]
 },
 "Wan'Dale Robinson": {

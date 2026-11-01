@@ -1,19 +1,22 @@
 {
 "status": "live",
-"clock": "Q3 7:28",
+"clock": "Q3 1:33",
 "score": {
 "NYJ": 30,
-"LV": 21
+"LV": 28
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 10,
-"pass_yds": 120,
-"rush_att": 2,
-"rush_yds": 2,
+"pass_cmp": 13,
+"pass_yds": 160,
+"rush_att": 3,
+"rush_yds": 3,
 "pass_td_lengths": [
 12,
 2
+],
+"rush_td_lengths": [
+1
 ]
 },
 "Ashton Jeanty": {
@@ -23,16 +26,16 @@
 "rec_yds": 19
 },
 "Brock Bowers": {
-"rec": 5,
-"rec_yds": 69,
+"rec": 6,
+"rec_yds": 78,
 "rec_td_lengths": [
 12,
 2
 ]
 },
 "Geno Smith": {
-"pass_cmp": 13,
-"pass_yds": 183,
+"pass_cmp": 15,
+"pass_yds": 207,
 "rush_att": 1,
 "rush_yds": 4,
 "pass_td_lengths": [
@@ -52,8 +55,8 @@
 "rec_yds": 53
 },
 "Mason Taylor": {
-"rec": 2,
-"rec_yds": 12
+"rec": 3,
+"rec_yds": 19
 }
 },
 "kickers": {
@@ -68,7 +71,7 @@
 "xp_missed": 0
 },
 "Matt Gay": {
-"xp_made": 3,
+"xp_made": 4,
 "fg_made_dist": [],
 "fg_missed_dist": [],
 "xp_missed": 0
@@ -83,7 +86,7 @@
 "def_st_td_lengths": []
 },
 "LV": {
-"sacks": 1,
+"sacks": 2,
 "def_st_td_lengths": [
 95
 ],

@@ -1,30 +1,33 @@
 {
 "status": "live",
-"clock": "Q3 7:09",
+"clock": "Q3 1:06",
 "score": {
-"TB": 9,
+"TB": 16,
 "ATL": 0
 },
 "players": {
 "Michael Penix Jr.": {
-"pass_cmp": 4,
-"pass_yds": 28,
+"pass_cmp": 5,
+"pass_yds": 37,
 "int": 3,
-"rush_att": 2,
-"rush_yds": 2
+"rush_att": 3,
+"rush_yds": 9
 },
 "Bijan Robinson": {
-"rush_att": 18,
-"rush_yds": 78
+"rush_att": 19,
+"rush_yds": 76
 },
 "Kyle Pitts": {
 "rec": 2,
 "rec_yds": 6
 },
 "Bucky Irving": {
-"rush_att": 22,
-"rush_yds": 112,
-"fl": 1
+"rush_att": 26,
+"rush_yds": 173,
+"fl": 1,
+"rush_td_lengths": [
+4
+]
 }
 },
 "kickers": {
@@ -34,8 +37,8 @@
 34,
 42
 ],
+"xp_made": 1,
 "fg_missed_dist": [],
-"xp_made": 0,
 "xp_missed": 0
 },
 "Nick Folk": {
