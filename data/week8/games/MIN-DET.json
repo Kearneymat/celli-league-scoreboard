@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 14:29",
 "score": {
 "DET": 12,
 "MIN": 7
 },
 "players": {
 "Kyler Murray": {
-"pass_cmp": 11,
-"pass_yds": 126,
+"pass_cmp": 12,
+"pass_yds": 136,
 "int": 1,
 "rush_att": 3,
 "rush_yds": 26,
@@ -21,8 +21,8 @@
 "rush_yds": 17
 },
 "T.J. Hockenson": {
-"rec": 2,
-"rec_yds": 40
+"rec": 3,
+"rec_yds": 50
 },
 "Justin Jefferson": {
 "rec": 4,

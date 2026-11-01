@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 8:11",
+"clock": "Q3 2:02",
 "score": {
 "BUF": 23,
 "BAL": 10
@@ -24,8 +24,8 @@
 "rec_yds": 6
 },
 "Josh Allen": {
-"pass_cmp": 11,
-"pass_yds": 181,
+"pass_cmp": 14,
+"pass_yds": 195,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 30,
@@ -34,10 +34,10 @@
 ]
 },
 "James Cook": {
-"rush_att": 16,
-"rush_yds": 62,
-"rec": 1,
-"rec_yds": 12,
+"rush_att": 18,
+"rush_yds": 67,
+"rec": 2,
+"rec_yds": 21,
 "rush_td_lengths": [
 5
 ]
@@ -50,8 +50,8 @@
 "fl": 1
 },
 "Khalil Shakir": {
-"rec": 4,
-"rec_yds": 57
+"rec": 5,
+"rec_yds": 64
 },
 "Dalton Kincaid": {
 "rec": 2,
@@ -89,9 +89,9 @@
 "def_st_td_lengths": []
 },
 "BAL": {
+"sacks": 1,
 "int": 1,
 "fum_rec": 1,
-"sacks": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 }

@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 13:21",
 "score": {
 "JAX": 42,
 "IND": 7
 },
 "players": {
 "Keenan Allen": {
-"rec": 4,
-"rec_yds": 39
+"rec": 6,
+"rec_yds": 62
 },
 "Trevor Lawrence": {
 "pass_cmp": 10,
@@ -71,7 +71,7 @@
 "defenses": {
 "JAX": {
 "sacks": 3,
-"int": 1,
+"int": 2,
 "fum_rec": 1,
 "def_st_td_lengths": [
 92

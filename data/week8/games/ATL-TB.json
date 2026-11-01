@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 11:13",
+"clock": "Q4 5:29",
 "score": {
 "TB": 16,
 "ATL": 0
@@ -22,8 +22,8 @@
 "rec_yds": 6
 },
 "Bucky Irving": {
-"rush_att": 26,
-"rush_yds": 173,
+"rush_att": 27,
+"rush_yds": 170,
 "fl": 1,
 "rush_td_lengths": [
 4

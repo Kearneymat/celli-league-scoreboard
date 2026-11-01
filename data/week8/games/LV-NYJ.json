@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 11:33",
+"clock": "Q4 9:09",
 "score": {
 "NYJ": 30,
 "LV": 35
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 17,
-"pass_yds": 234,
+"pass_cmp": 18,
+"pass_yds": 240,
 "rush_att": 3,
 "rush_yds": 3,
 "pass_td_lengths": [
@@ -45,8 +45,8 @@
 ]
 },
 "Braelon Allen": {
-"rush_att": 19,
-"rush_yds": 142,
+"rush_att": 21,
+"rush_yds": 147,
 "rush_td_lengths": [
 21
 ]

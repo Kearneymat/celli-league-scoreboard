@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 5:05",
+"clock": "Q4 15:00",
 "score": {
-"CIN": 21,
+"CIN": 23,
 "TEN": 21
 },
 "players": {
 "Tony Pollard": {
-"rush_att": 15,
-"rush_yds": 83,
+"rush_att": 17,
+"rush_yds": 82,
 "rec": 2,
 "rec_yds": 13,
 "rush_td_lengths": [
@@ -22,9 +22,9 @@
 "fl": 1
 },
 "Joe Burrow": {
-"pass_cmp": 20,
-"pass_yds": 214,
-"int": 2,
+"pass_cmp": 21,
+"pass_yds": 216,
+"int": 3,
 "rush_att": 2,
 "rush_yds": 1,
 "pass_td_lengths": [
@@ -34,10 +34,10 @@
 ]
 },
 "Chase Brown": {
-"rush_att": 7,
-"rush_yds": 42,
-"rec": 5,
-"rec_yds": 27
+"rush_att": 9,
+"rush_yds": 48,
+"rec": 6,
+"rec_yds": 29
 },
 "Tee Higgins": {
 "rec": 6,
@@ -66,13 +66,13 @@
 "CIN": {
 "sacks": 1,
 "fum_rec": 2,
+"safeties": 1,
 "int": 0,
-"safeties": 0,
 "def_st_td_lengths": []
 },
 "TEN": {
 "sacks": 2,
-"int": 2,
+"int": 3,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
