@@ -65,3 +65,21 @@ def resolve(pos, raw):
         t = DF[k]; return TEAMNAME[t] + ' D', t
     if pos == 'TE' and 'TE:' + k in PL: return PL['TE:' + k]
     return PL[k]
+
+# Week 8 shorthands
+PL.update({
+ 'arodgers': ('Aaron Rodgers', 'PIT'), 'brisset': ('Jacoby Brissett', 'ARI'), 'daniels': ('Jayden Daniels', 'WAS'), 'jdaniels': ('Jayden Daniels', 'WAS'),
+ 'herbert': ('Justin Herbert', 'LAC'), 'lamar': ('Lamar Jackson', 'BAL'), 'larence': ('Trevor Lawrence', 'JAX'), 'lawrence': ('Trevor Lawrence', 'JAX'),
+ 'penix': ('Michael Penix Jr.', 'ATL'), 'smith': ('Geno Smith', 'NYJ'),
+ 'chasebrown': ('Chase Brown', 'CIN'), 'corum': ('Blake Corum', 'LAR'), 'jacobs': ('Josh Jacobs', 'GB'), 'judkins': ('Quinshon Judkins', 'CLE'),
+ 'mason': ('Jordan Mason', 'MIN'), 'rwhite': ('Rachaad White', 'WAS'), 'rodriguezjags': ('Chris Rodriguez Jr.', 'JAX'),
+ 'hock': ('T.J. Hockenson', 'MIN'), 'hockenson': ('T.J. Hockenson', 'MIN'), 'loveand': ('Colston Loveland', 'CHI'), 'okonkwo': ('Chig Okonkwo', 'WAS'),
+ 'okonwo': ('Chig Okonkwo', 'WAS'), 'riordan': ('Eli Raridon', 'NE'), 'strange': ('Brenton Strange', 'JAX'), 'taylorjets': ('Mason Taylor', 'NYJ'),
+ 'bateman': ('Rashod Bateman', 'BAL'), 'cooperjets': ('Omar Cooper', 'NYJ'), 'diggs': ('Stefon Diggs', 'WAS'), 'djmoore': ('DJ Moore', 'BUF'),
+ 'douglasmiami': ('Pop Douglas', 'NE'), 'flournay': ('Ryan Flournoy', 'DAL'), 'jamwilliams': ('Jameson Williams', 'DET'), 'lemonphi': ('Makai Lemon', 'PHI'),
+ 'lemon': ('Makai Lemon', 'PHI'), 'mcconkey': ('Ladd McConkey', 'LAC'), 'rrice': ('Rashee Rice', 'KC'), 'shakir': ('Khalil Shakir', 'BUF'),
+ 'thiggins': ('Tee Higgins', 'CIN'), 'wrobinson': ("Wan'Dale Robinson", 'TEN'), 'wenrob': ("Wan'Dale Robinson", 'TEN'),
+ 'borregeales': ('Andres Borregales', 'NE'), 'smytz': ('Andre Szmyt', 'CLE'), 'stevens': ('Drew Stevens', 'WAS'), 'szmytcle': ('Andre Szmyt', 'CLE'), 'szmythcle': ('Andre Szmyt', 'CLE'),
+})
+DF.update({'cincy': 'CIN'})
+PL.update({'mcmanus': ('Brandon McManus', 'LAR')})

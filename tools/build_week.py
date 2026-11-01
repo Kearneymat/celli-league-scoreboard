@@ -25,7 +25,9 @@ def label(d):
 prev = {}
 pw = f'{R}/data/week{WK-1}/page_data.json'
 norm = lambda o: re.sub(r'\(.*?\)|[^a-z]', '', o.lower())
-if os.path.exists(pw):
+if os.path.exists(f'{W}/prev.json'):
+    prev = json.load(open(f'{W}/prev.json'))
+elif os.path.exists(pw):
     for t in json.load(open(pw))['teams']: prev[norm(t['owner'])] = t['prev'] + t['total']
 
 out = []
@@ -50,6 +52,8 @@ for t in teams:
                     s['opp_points'] = d['score'][opp]
                     s['result'] = 'W' if d['score'][tm] > d['score'][opp] else 'L' if d['score'][tm] < d['score'][opp] else 'T'
                     pts, br = score_d(s, final=fin)
+                elif name in d.get('override', {}):
+                    pts = d['override'][name]; br = [('Commissioner sheet', pts)]
                 else:
                     s = d.get('players', {}).get(name)
                     pts, br = score_player(x['pos'], s) if s else (0, [])
@@ -65,7 +69,7 @@ for g in sched:
     d = games[g['away']]; lab, st = label(d)
     glist.append(dict(t=lab, s=st, live=d['status'] == 'live'))
 nlive = sum(g['live'] for g in glist); nfin = sum(games[g['away']]['status'] == 'final' for g in sched)
-now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4)))
+now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4 if datetime.datetime.utcnow() < datetime.datetime(2026,11,1,6) else -5)))
 stamp = now.strftime('%a %b %-d, %-I:%M %p ET')
 final = FINAL or nfin == len(sched)
 alive_n = sum(t['alive'] for t in out)
