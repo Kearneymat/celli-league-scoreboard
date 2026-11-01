@@ -1,21 +1,21 @@
 {
 "status": "live",
-"clock": "Q2 0:19",
+"clock": "Halftime",
 "score": {
 "LAR": 10,
 "LAC": 9
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 12,
-"pass_yds": 122,
+"pass_cmp": 14,
+"pass_yds": 181,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 4
 },
 "Ladd McConkey": {
-"rec": 3,
-"rec_yds": 32
+"rec": 4,
+"rec_yds": 86
 },
 "Matthew Stafford": {
 "pass_cmp": 10,

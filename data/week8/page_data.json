@@ -16,7 +16,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -268,7 +268,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -276,7 +276,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 296,
+"total": 293,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -374,7 +374,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -492,15 +492,19 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -582,7 +586,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 174,
+"total": 184,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -642,7 +646,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -671,17 +675,22 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Ladd McConkey",
 "team": "LAC",
-"pts": 0,
+"pts": 8,
 "comm": null,
-"bd": [],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"bd": [
+[
+"86 rec yds",
+8
+]
+],
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -776,14 +785,14 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -791,15 +800,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -837,7 +846,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 276,
+"total": 275,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -941,7 +950,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -1086,22 +1095,26 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -1109,15 +1122,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -1140,7 +1153,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -1337,7 +1350,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -1378,7 +1391,7 @@
 9
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -1397,7 +1410,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1454,7 +1467,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -1717,7 +1730,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1769,7 +1782,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 220,
+"total": 217,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -1958,7 +1971,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -1977,22 +1990,26 @@
 9
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -2146,7 +2163,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -2156,7 +2173,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -2546,7 +2563,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -2810,7 +2827,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -2884,7 +2901,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3002,7 +3019,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 277,
+"total": 279,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3268,7 +3285,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -3276,15 +3293,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3513,7 +3530,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3568,7 +3585,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3610,7 +3627,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 169,
+"total": 171,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3682,7 +3699,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -3714,7 +3731,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3798,7 +3815,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3841,7 +3858,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -3849,15 +3866,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -3895,7 +3912,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 251,
+"total": 271,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3904,15 +3921,19 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 7,
+"pts": 19,
 "comm": null,
 "bd": [
 [
 "11-yd TD pass",
 7
+],
+[
+"73-yd TD pass",
+12
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -4055,17 +4076,22 @@
 7
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Ladd McConkey",
 "team": "LAC",
-"pts": 0,
+"pts": 8,
 "comm": null,
-"bd": [],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"bd": [
+[
+"86 rec yds",
+8
+]
+],
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4075,7 +4101,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -4152,7 +4178,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4262,7 +4288,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -4459,7 +4485,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4501,7 +4527,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 191,
+"total": 193,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -4597,7 +4623,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -4684,7 +4710,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -4723,7 +4749,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -4731,15 +4757,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -4997,7 +5023,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -5163,7 +5189,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -5232,7 +5258,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5508,7 +5534,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5586,7 +5612,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -5605,7 +5631,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5683,7 +5709,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 216,
+"total": 218,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5754,7 +5780,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -5892,7 +5918,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -5900,15 +5926,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -5942,7 +5968,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 277,
+"total": 279,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6127,7 +6153,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -6222,7 +6248,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -6230,15 +6256,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 }
 ]
@@ -6310,7 +6336,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -6346,7 +6372,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -6496,7 +6522,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6598,7 +6624,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6659,7 +6685,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6701,7 +6727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -6759,7 +6785,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6782,7 +6808,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6820,7 +6846,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 269,
+"total": 271,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -6918,7 +6944,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -6977,7 +7003,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7028,7 +7054,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -7061,14 +7087,14 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -7076,15 +7102,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -7337,7 +7363,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -7545,7 +7571,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -7882,7 +7908,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8049,7 +8075,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 109,
+"total": 111,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8061,7 +8087,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -8101,7 +8127,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -8131,7 +8157,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -8146,7 +8172,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8205,7 +8231,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -8266,7 +8292,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -8274,15 +8300,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 }
 ]
@@ -8338,7 +8364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -9194,7 +9220,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 300,
+"total": 302,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -9314,7 +9340,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -9406,7 +9432,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -9483,7 +9509,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -9491,15 +9517,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 }
 ]
@@ -9507,7 +9533,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 209,
+"total": 210,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -9519,7 +9545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -9695,22 +9721,22 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -9751,7 +9777,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9789,7 +9815,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 275,
+"total": 277,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -9806,7 +9832,7 @@
 -5
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9867,7 +9893,7 @@
 6
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9946,7 +9972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10059,7 +10085,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -10067,15 +10093,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 }
 ]
@@ -10095,7 +10121,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10119,7 +10145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -10281,7 +10307,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10338,7 +10364,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -10390,7 +10416,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10430,7 +10456,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10533,7 +10559,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10649,7 +10675,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 102,
+"total": 104,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -10661,7 +10687,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10701,7 +10727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10755,7 +10781,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10813,7 +10839,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10848,7 +10874,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -10856,15 +10882,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10894,7 +10920,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 198,
+"total": 199,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -10906,7 +10932,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -10956,7 +10982,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -11025,7 +11051,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11086,15 +11112,15 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -11117,7 +11143,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11215,7 +11241,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -11416,7 +11442,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11709,7 +11735,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11787,7 +11813,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -12156,7 +12182,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -12207,7 +12233,7 @@
 1
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12260,7 +12286,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12351,7 +12377,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -12473,7 +12499,7 @@
 9
 ]
 ],
-"game": "KC 7 @ DEN 6 \u00b7 Q2 11:15",
+"game": "KC 14 @ DEN 6 \u00b7 Q2 7:40",
 "on": true
 },
 {
@@ -12643,7 +12669,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -12668,7 +12694,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12705,7 +12731,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -12827,7 +12853,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 210,
+"total": 207,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -12862,7 +12888,7 @@
 -5
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12894,7 +12920,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13048,15 +13074,19 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13128,7 +13158,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 229,
+"total": 231,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -13248,7 +13278,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13372,7 +13402,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -13380,15 +13410,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13426,7 +13456,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 267,
+"total": 269,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -13502,7 +13532,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13675,7 +13705,7 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -13683,15 +13713,15 @@
 15
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "Trailing",
 0
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13733,7 +13763,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 230,
+"total": 227,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -13745,7 +13775,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13915,15 +13945,19 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -13993,7 +14027,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 181,
+"total": 178,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -14118,7 +14152,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 10 \u00b7 Q2 0:19",
+"game": "LAC 9 @ LAR 10 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14147,7 +14181,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -14190,15 +14224,19 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 6,
+"pts": 3,
 "comm": null,
 "bd": [
 [
 "34-yd FG",
 6
+],
+[
+"missed 40-yd FG",
+-3
 ]
 ],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -14282,7 +14320,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 6 \u00b7 Q2 4:17",
+"game": "NE 3 @ MIA 6 \u00b7 Q2 1:11",
 "on": true
 },
 {
@@ -14647,17 +14685,17 @@
 },
 {
 "t": "LAC 9 @ LAR 10",
-"s": "Q2 0:19",
+"s": "Halftime",
 "live": true
 },
 {
 "t": "NE 3 @ MIA 6",
-"s": "Q2 4:17",
+"s": "Q2 1:11",
 "live": true
 },
 {
-"t": "KC 7 @ DEN 6",
-"s": "Q2 11:15",
+"t": "KC 14 @ DEN 6",
+"s": "Q2 7:40",
 "live": true
 },
 {
