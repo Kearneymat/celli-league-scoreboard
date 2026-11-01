@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 0:32",
+"clock": "OT 7:00",
 "score": {
-"CIN": 36,
+"CIN": 43,
 "TEN": 36
 },
 "players": {
@@ -25,37 +25,40 @@
 ]
 },
 "Joe Burrow": {
-"pass_cmp": 34,
-"pass_yds": 401,
+"pass_cmp": 38,
+"pass_yds": 462,
 "int": 3,
-"rush_att": 2,
-"rush_yds": 1,
+"rush_att": 3,
+"rush_yds": 10,
 "pass_td_lengths": [
 30,
 1,
 17,
 25,
 18
+],
+"rush_td_lengths": [
+9
 ]
 },
 "Chase Brown": {
-"rush_att": 11,
-"rush_yds": 47,
+"rush_att": 12,
+"rush_yds": 55,
 "rec": 8,
 "rec_yds": 46,
 "fl": 1
 },
 "Tee Higgins": {
-"rec": 9,
-"rec_yds": 134,
+"rec": 10,
+"rec_yds": 155,
 "rec_td_lengths": [
 17,
 18
 ]
 },
 "Ja'Marr Chase": {
-"rec": 9,
-"rec_yds": 110,
+"rec": 11,
+"rec_yds": 141,
 "rec_td_lengths": [
 30
 ]
@@ -63,7 +66,7 @@
 },
 "kickers": {
 "Evan McPherson": {
-"xp_made": 4,
+"xp_made": 5,
 "fg_made_dist": [],
 "fg_missed_dist": [],
 "xp_missed": 0
@@ -71,7 +74,7 @@
 },
 "defenses": {
 "CIN": {
-"sacks": 1,
+"sacks": 2,
 "fum_rec": 2,
 "safeties": 1,
 "int": 0,

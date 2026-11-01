@@ -1,0 +1,32 @@
+{
+"status": "live",
+"clock": "Q1 10:37",
+"score": {
+"DEN": 0,
+"KC": 0
+},
+"players": {
+"Kenneth Walker": {
+"rush_att": 2,
+"rush_yds": 4
+}
+},
+"kickers": {},
+"defenses": {
+"DEN": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"KC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

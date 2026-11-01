@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "End of Q4",
+"clock": "OT 5:43",
 "score": {
 "DAL": 30,
 "ARI": 30
@@ -21,8 +21,8 @@
 ]
 },
 "Trey McBride": {
-"rec": 6,
-"rec_yds": 64,
+"rec": 7,
+"rec_yds": 72,
 "rec_td_lengths": [
 14
 ]
@@ -40,8 +40,8 @@
 ]
 },
 "Javonte Williams": {
-"rush_att": 23,
-"rush_yds": 54,
+"rush_att": 24,
+"rush_yds": 56,
 "rec": 1,
 "rec_yds": 1
 },
@@ -87,14 +87,14 @@
 },
 "defenses": {
 "DAL": {
-"sacks": 4,
+"sacks": 5,
 "int": 1,
 "fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "ARI": {
-"sacks": 3,
+"sacks": 4,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
