@@ -1,11 +1,11 @@
-{"status":"live","clock":"End Q1","score":{"TEN":13,"CIN":0},
+{"status":"live","clock":"Q2 8:16","score":{"TEN":13,"CIN":7},
  "players":{
-  "Tony Pollard":{"rush_att":7,"rush_yds":62,"rush_td_lengths":[40],"rec":2,"rec_yds":13},
-  "Wan'Dale Robinson":{"rec":2,"rec_yds":22},
-  "Joe Burrow":{"pass_cmp":4,"pass_yds":37,"int":1},
-  "Chase Brown":{"rush_att":4,"rush_yds":30,"rec":1,"rec_yds":5},
-  "Ja'Marr Chase":{"rec":1,"rec_yds":13},
-  "Tee Higgins":{"rec":2,"rec_yds":19}
+  "Tony Pollard":{"rush_att":8,"rush_yds":62,"rush_td_lengths":[40],"rec":2,"rec_yds":13},
+  "Wan'Dale Robinson":{"rec":4,"rec_yds":35,"fl":1},
+  "Joe Burrow":{"pass_cmp":7,"pass_yds":82,"pass_td_lengths":[30],"int":1},
+  "Chase Brown":{"rush_att":5,"rush_yds":32,"rec":2,"rec_yds":9},
+  "Ja'Marr Chase":{"rec":3,"rec_yds":53,"rec_td_lengths":[30]},
+  "Tee Higgins":{"rec":2,"rec_yds":20}
  },
- "kickers":{},
- "defenses":{"TEN":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"CIN":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
+ "kickers":{"Evan McPherson":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":1,"xp_missed":0}},
+ "defenses":{"TEN":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"CIN":{"sacks":0,"int":0,"fum_rec":1,"safeties":0,"def_st_td_lengths":[]}}}

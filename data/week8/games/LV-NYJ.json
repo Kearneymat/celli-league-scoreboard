@@ -1,11 +1,11 @@
-{"status":"live","clock":"Q2 11:34","score":{"LV":7,"NYJ":6},
+{"status":"live","clock":"Q2 5:46","score":{"LV":14,"NYJ":20},
  "players":{
-  "Kirk Cousins":{"pass_cmp":4,"pass_yds":59,"pass_td_lengths":[12],"rush_att":1,"rush_yds":3},
+  "Kirk Cousins":{"pass_cmp":5,"pass_yds":74,"pass_td_lengths":[12],"rush_att":1,"rush_yds":3},
   "Brock Bowers":{"rec":2,"rec_yds":35,"rec_td_lengths":[12]},
-  "Geno Smith":{"pass_cmp":7,"pass_yds":104},
+  "Geno Smith":{"pass_cmp":11,"pass_yds":146,"pass_td_lengths":[18,12]},
   "Braelon Allen":{"rush_att":8,"rush_yds":42},
   "Garrett Wilson":{"rec":3,"rec_yds":39}
  },
- "kickers":{"Jason Sanders":{"fg_made_dist":[21,36],"fg_missed_dist":[],"xp_made":0,"xp_missed":0},
-            "Matt Gay":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":1,"xp_missed":0}},
- "defenses":{"LV":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"NYJ":{"sacks":1,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
+ "kickers":{"Jason Sanders":{"fg_made_dist":[21,36],"fg_missed_dist":[],"xp_made":2,"xp_missed":0},
+            "Matt Gay":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":2,"xp_missed":0}},
+ "defenses":{"LV":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[95]},"NYJ":{"sacks":1,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
