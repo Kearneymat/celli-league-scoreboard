@@ -1,20 +1,21 @@
 {
 "status": "live",
-"clock": "Q2 1:51",
+"clock": "Halftime",
 "score": {
-"JAX": 21,
+"JAX": 28,
 "IND": 0
 },
 "players": {
 "Keenan Allen": {
-"rec": 3,
-"rec_yds": 30
+"rec": 4,
+"rec_yds": 39
 },
 "Trevor Lawrence": {
 "pass_cmp": 7,
 "pass_yds": 138,
 "rush_att": 2,
 "rush_yds": 5,
+"fl": 1,
 "pass_td_lengths": [
 12,
 31
@@ -44,7 +45,7 @@
 },
 "kickers": {
 "Cam Little": {
-"xp_made": 3,
+"xp_made": 4,
 "fg_made_dist": [],
 "fg_missed_dist": [],
 "xp_missed": 0
@@ -53,15 +54,17 @@
 "defenses": {
 "JAX": {
 "sacks": 2,
+"int": 1,
 "fum_rec": 1,
-"int": 0,
-"safeties": 0,
-"def_st_td_lengths": []
+"def_st_td_lengths": [
+92
+],
+"safeties": 0
 },
 "IND": {
-"sacks": 1,
+"sacks": 2,
+"fum_rec": 1,
 "int": 0,
-"fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 }

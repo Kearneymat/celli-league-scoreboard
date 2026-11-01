@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:09",
+"clock": "Halftime",
 "score": {
 "NYJ": 23,
 "LV": 14
@@ -9,8 +9,8 @@
 "Kirk Cousins": {
 "pass_cmp": 6,
 "pass_yds": 79,
-"rush_att": 1,
-"rush_yds": 3,
+"rush_att": 2,
+"rush_yds": 2,
 "pass_td_lengths": [
 12
 ]

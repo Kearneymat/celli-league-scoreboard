@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 0:44",
+"clock": "Halftime",
 "score": {
 "DAL": 14,
 "ARI": 3
 },
 "players": {
 "Jacoby Brissett": {
-"pass_cmp": 6,
-"pass_yds": 77,
+"pass_cmp": 8,
+"pass_yds": 104,
 "int": 1,
 "rush_att": 3,
 "rush_yds": 7
@@ -31,8 +31,8 @@
 ]
 },
 "Javonte Williams": {
-"rush_att": 9,
-"rush_yds": 26,
+"rush_att": 10,
+"rush_yds": 30,
 "rec": 1,
 "rec_yds": 1
 },
@@ -50,9 +50,11 @@
 },
 "kickers": {
 "Brandon Aubrey": {
+"fg_missed_dist": [
+61
+],
 "xp_made": 2,
 "fg_made_dist": [],
-"fg_missed_dist": [],
 "xp_missed": 0
 },
 "Chad Ryland": {
@@ -68,7 +70,7 @@
 "DAL": {
 "sacks": 2,
 "int": 1,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
