@@ -24,3 +24,6 @@ For EACH game you are told to update:
    - Missed FG with unknown exact distance: use the bucket midpoint (20-29 -> 25, 30-39 -> 35, 40-49 -> 45, 50+ -> 55) and set miss_label.
    - Return/defensive TDs by a team's defense or special teams go in that team's def_st_td_lengths.
 4. Reply with ONE short line per game: "AWAY-HOME status clock score; anything uncertain". Nothing else.
+
+
+WEEK 8 NOTE: CBS is not reachable from agents. Use statsniper.com live box score pages for per-player stats: find the game page via WebSearch, then WebFetch it WITH a cache-buster query (e.g. ?live=1&r=<random>) — the plain URL shows pregame only; retry once if still pregame.

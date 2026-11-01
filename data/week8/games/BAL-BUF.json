@@ -1,0 +1,12 @@
+{"status":"live","clock":"Q1 1:32","score":{"BAL":7,"BUF":10},
+ "players":{
+  "Derrick Henry":{"rush_att":4,"rush_yds":23,"rush_td_lengths":[2],"rec":1,"rec_yds":1},
+  "Josh Allen":{"pass_cmp":5,"pass_yds":72,"int":1,"rush_att":2,"rush_yds":1,"rush_td_lengths":[1]},
+  "James Cook":{"rush_att":3,"rush_yds":13},
+  "DJ Moore":{"rush_att":1,"rush_yds":4},
+  "Khalil Shakir":{"rec":3,"rec_yds":49},
+  "Dalton Kincaid":{"rec":2,"rec_yds":23}
+ },
+ "kickers":{"Tyler Bass":{"fg_made_dist":[56],"fg_missed_dist":[],"xp_made":1,"xp_missed":0},
+            "Tyler Loop":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":1,"xp_missed":0}},
+ "defenses":{"BAL":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"BUF":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}

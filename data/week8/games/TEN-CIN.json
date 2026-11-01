@@ -1,0 +1,11 @@
+{"status":"live","clock":"End Q1","score":{"TEN":13,"CIN":0},
+ "players":{
+  "Tony Pollard":{"rush_att":7,"rush_yds":62,"rush_td_lengths":[40],"rec":2,"rec_yds":13},
+  "Wan'Dale Robinson":{"rec":2,"rec_yds":22},
+  "Joe Burrow":{"pass_cmp":4,"pass_yds":37,"int":1},
+  "Chase Brown":{"rush_att":4,"rush_yds":30,"rec":1,"rec_yds":5},
+  "Ja'Marr Chase":{"rec":1,"rec_yds":13},
+  "Tee Higgins":{"rec":2,"rec_yds":19}
+ },
+ "kickers":{},
+ "defenses":{"TEN":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"CIN":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
