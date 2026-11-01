@@ -1,23 +1,25 @@
 {
 "status": "live",
-"clock": "Q2 10:01",
+"clock": "Q2 2:00",
 "score": {
 "LAR": 3,
 "LAC": 6
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 8,
-"pass_yds": 76,
-"int": 1
+"pass_cmp": 12,
+"pass_yds": 122,
+"int": 1,
+"rush_att": 1,
+"rush_yds": 4
 },
 "Ladd McConkey": {
 "rec": 3,
 "rec_yds": 32
 },
 "Matthew Stafford": {
-"pass_cmp": 5,
-"pass_yds": 14,
+"pass_cmp": 6,
+"pass_yds": 20,
 "int": 1
 },
 "Blake Corum": {
@@ -29,8 +31,8 @@
 "rush_yds": 1
 },
 "Puka Nacua": {
-"rec": 4,
-"rec_yds": 12
+"rec": 5,
+"rec_yds": 18
 }
 },
 "kickers": {

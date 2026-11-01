@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q1 2:07",
+"clock": "Q2 14:08",
 "score": {
-"DEN": 3,
+"DEN": 6,
 "KC": 7
 },
 "players": {
@@ -34,7 +34,8 @@
 "kickers": {
 "Wil Lutz": {
 "fg_made_dist": [
-39
+39,
+45
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
