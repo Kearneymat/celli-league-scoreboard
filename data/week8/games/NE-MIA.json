@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:08",
+"clock": "Halftime",
 "score": {
 "MIA": 13,
 "NE": 3
@@ -45,7 +45,7 @@
 },
 "defenses": {
 "MIA": {
-"sacks": 1,
+"sacks": 2,
 "fum_rec": 1,
 "int": 0,
 "safeties": 0,
