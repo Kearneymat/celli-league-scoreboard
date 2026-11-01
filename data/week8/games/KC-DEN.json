@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 14:08",
+"clock": "Q2 11:15",
 "score": {
 "DEN": 6,
 "KC": 7
@@ -57,7 +57,7 @@
 "def_st_td_lengths": []
 },
 "KC": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Q2 0:19",
 "score": {
-"LAR": 3,
-"LAC": 6
+"LAR": 10,
+"LAC": 9
 },
 "players": {
 "Justin Herbert": {
@@ -18,8 +18,8 @@
 "rec_yds": 32
 },
 "Matthew Stafford": {
-"pass_cmp": 6,
-"pass_yds": 20,
+"pass_cmp": 10,
+"pass_yds": 85,
 "int": 1
 },
 "Blake Corum": {
@@ -27,12 +27,17 @@
 "rush_yds": 8
 },
 "Kyren Williams": {
-"rush_att": 1,
-"rush_yds": 1
+"rush_att": 2,
+"rush_yds": 2,
+"rec": 1,
+"rec_yds": 3,
+"rush_td_lengths": [
+1
+]
 },
 "Puka Nacua": {
-"rec": 5,
-"rec_yds": 18
+"rec": 7,
+"rec_yds": 40
 }
 },
 "kickers": {
@@ -40,8 +45,8 @@
 "fg_made_dist": [
 30
 ],
+"xp_made": 1,
 "fg_missed_dist": [],
-"xp_made": 0,
 "xp_missed": 0
 }
 },
