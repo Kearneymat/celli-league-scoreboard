@@ -1,44 +1,48 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 11:16",
 "score": {
 "MIA": 13,
-"NE": 17
+"NE": 24
 },
 "players": {
 "Drake Maye": {
-"pass_cmp": 14,
-"pass_yds": 149,
+"pass_cmp": 15,
+"pass_yds": 197,
 "rush_att": 5,
 "rush_yds": 8,
 "pass_td_lengths": [
-43
+43,
+48
 ],
 "rush_td_lengths": [
 2
 ]
 },
 "Rhamondre Stevenson": {
-"rush_att": 16,
-"rush_yds": 69,
+"rush_att": 17,
+"rush_yds": 74,
 "rec": 2,
 "rec_yds": 6
+},
+"Pop Douglas": {
+"rec": 3,
+"rec_yds": 76,
+"rec_td_lengths": [
+48
+]
 },
 "Hunter Henry": {
 "rec": 3,
 "rec_yds": 30
-},
-"Pop Douglas": {
-"rec": 2,
-"rec_yds": 28
 },
 "Eli Raridon": {
 "rec": 1,
 "rec_yds": 5
 },
 "Ollie Gordon II": {
-"rush_att": 13,
-"rush_yds": 35
+"rush_att": 16,
+"rush_yds": 51
 }
 },
 "kickers": {
@@ -49,7 +53,7 @@
 "fg_missed_dist": [
 40
 ],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 }
 },
@@ -63,7 +67,7 @@
 },
 "NE": {
 "sacks": 5,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
