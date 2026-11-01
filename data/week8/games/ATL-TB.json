@@ -1,17 +1,17 @@
 {
 "status": "live",
-"clock": "Q3 1:06",
+"clock": "Q4 11:13",
 "score": {
 "TB": 16,
 "ATL": 0
 },
 "players": {
 "Michael Penix Jr.": {
-"pass_cmp": 5,
-"pass_yds": 37,
-"int": 3,
-"rush_att": 3,
-"rush_yds": 9
+"pass_cmp": 6,
+"pass_yds": 41,
+"int": 4,
+"rush_att": 5,
+"rush_yds": 11
 },
 "Bijan Robinson": {
 "rush_att": 19,
@@ -52,7 +52,7 @@
 },
 "defenses": {
 "TB": {
-"int": 3,
+"int": 4,
 "sacks": 0,
 "fum_rec": 0,
 "safeties": 0,

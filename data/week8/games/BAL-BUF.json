@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 11:28",
+"clock": "Q3 8:11",
 "score": {
-"BUF": 16,
+"BUF": 23,
 "BAL": 10
 },
 "players": {
 "Derrick Henry": {
-"rush_att": 9,
-"rush_yds": 45,
+"rush_att": 10,
+"rush_yds": 46,
 "rec": 2,
 "rec_yds": 7,
 "rush_td_lengths": [
@@ -24,8 +24,8 @@
 "rec_yds": 6
 },
 "Josh Allen": {
-"pass_cmp": 8,
-"pass_yds": 112,
+"pass_cmp": 11,
+"pass_yds": 181,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 30,
@@ -34,19 +34,24 @@
 ]
 },
 "James Cook": {
-"rush_att": 14,
-"rush_yds": 54
+"rush_att": 16,
+"rush_yds": 62,
+"rec": 1,
+"rec_yds": 12,
+"rush_td_lengths": [
+5
+]
 },
 "DJ Moore": {
 "rush_att": 1,
 "rush_yds": 4,
-"rec": 1,
-"rec_yds": 18,
+"rec": 2,
+"rec_yds": 67,
 "fl": 1
 },
 "Khalil Shakir": {
-"rec": 3,
-"rec_yds": 49
+"rec": 4,
+"rec_yds": 57
 },
 "Dalton Kincaid": {
 "rec": 2,
@@ -60,7 +65,7 @@
 22,
 51
 ],
-"xp_made": 1,
+"xp_made": 2,
 "fg_missed_dist": [],
 "xp_missed": 0
 },

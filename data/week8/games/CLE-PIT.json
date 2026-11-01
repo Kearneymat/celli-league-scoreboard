@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 7:56",
+"clock": "Q3 1:57",
 "score": {
 "PIT": 27,
 "CLE": 6
@@ -8,11 +8,13 @@
 "players": {
 "Quinshon Judkins": {
 "rush_att": 9,
-"rush_yds": 29
+"rush_yds": 28,
+"rec": 1,
+"rec_yds": 12
 },
 "Harold Fannin": {
-"rec": 6,
-"rec_yds": 65,
+"rec": 7,
+"rec_yds": 80,
 "fl": 1
 },
 "KC Concepcion": {
@@ -20,12 +22,14 @@
 "rec_yds": 24
 },
 "Aaron Rodgers": {
-"pass_cmp": 10,
-"pass_yds": 153
+"pass_cmp": 12,
+"pass_yds": 160,
+"int": 1
 },
 "Jaylen Warren": {
-"rush_att": 14,
-"rush_yds": 119,
+"rush_att": 15,
+"rush_yds": 132,
+"rec": 1,
 "rush_td_lengths": [
 1
 ]
@@ -76,7 +80,7 @@
 },
 "CLE": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
