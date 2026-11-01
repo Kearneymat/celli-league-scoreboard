@@ -26,4 +26,4 @@ For EACH game you are told to update:
 4. Reply with ONE short line per game: "AWAY-HOME status clock score; anything uncertain". Nothing else.
 
 
-WEEK 8 NOTE: CBS is not reachable from agents. Use statsniper.com live box score pages for per-player stats: find the game page via WebSearch, then WebFetch it WITH a cache-buster query (e.g. ?live=1&r=<random>) — the plain URL shows pregame only; retry once if still pregame.
+WEEK 8 NOTE: CBS is not reachable from agents. Use statsniper.com live box score pages for per-player stats: find the game page via WebSearch, then WebFetch it WITH a cache-buster query (e.g. ?live=1&r=<random>) — the plain URL shows pregame only; retry up to 3 times with NEW cache-buster values (try both ?live=1&r=<rand> and ?boxscore=1&t=<rand>) if it still shows pregame. If all fail, keep the previous player lines but update Sportradar fields.
