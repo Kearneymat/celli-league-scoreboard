@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 5:14",
+"clock": "Q2 2:00",
 "score": {
 "DET": 3,
 "MIN": 7
 },
 "players": {
 "Kyler Murray": {
-"pass_cmp": 5,
-"pass_yds": 71,
+"pass_cmp": 7,
+"pass_yds": 86,
 "rush_att": 1,
 "rush_yds": 5,
 "pass_td_lengths": [
@@ -19,20 +19,20 @@
 "rush_att": 4,
 "rush_yds": 11
 },
-"T.J. Hockenson": {
-"rec": 1,
-"rec_yds": 22
-},
 "Justin Jefferson": {
-"rec": 2,
-"rec_yds": 10,
+"rec": 4,
+"rec_yds": 25,
 "rec_td_lengths": [
 1
 ]
 },
+"T.J. Hockenson": {
+"rec": 1,
+"rec_yds": 22
+},
 "Jahmyr Gibbs": {
-"rush_att": 8,
-"rush_yds": 18
+"rush_att": 9,
+"rush_yds": 15
 },
 "Jameson Williams": {
 "rec": 1,
@@ -70,7 +70,7 @@
 "def_st_td_lengths": []
 },
 "MIN": {
-"sacks": 3,
+"sacks": 4,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

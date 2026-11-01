@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 3:49",
+"clock": "Q2 0:09",
 "score": {
-"NYJ": 20,
+"NYJ": 23,
 "LV": 14
 },
 "players": {
@@ -39,8 +39,8 @@
 ]
 },
 "Braelon Allen": {
-"rush_att": 12,
-"rush_yds": 87
+"rush_att": 18,
+"rush_yds": 121
 },
 "Garrett Wilson": {
 "rec": 3,
@@ -55,7 +55,8 @@
 "Jason Sanders": {
 "fg_made_dist": [
 21,
-36
+36,
+39
 ],
 "xp_made": 2,
 "fg_missed_dist": [],
@@ -77,10 +78,10 @@
 "def_st_td_lengths": []
 },
 "LV": {
+"sacks": 1,
 "def_st_td_lengths": [
 95
 ],
-"sacks": 0,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0

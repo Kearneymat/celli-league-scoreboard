@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Halftime",
 "score": {
 "TB": 9,
 "ATL": 0
@@ -10,20 +10,20 @@
 "pass_cmp": 2,
 "pass_yds": 24,
 "int": 3,
-"rush_att": 1,
+"rush_att": 2,
 "rush_yds": 2
 },
 "Bijan Robinson": {
-"rush_att": 12,
-"rush_yds": 62
+"rush_att": 14,
+"rush_yds": 69
 },
 "Kyle Pitts": {
 "rec": 1,
 "rec_yds": 5
 },
 "Bucky Irving": {
-"rush_att": 16,
-"rush_yds": 90,
+"rush_att": 19,
+"rush_yds": 107,
 "fl": 1
 }
 },
