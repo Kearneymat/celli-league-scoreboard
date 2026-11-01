@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 10:23",
 "score": {
 "PIT": 20,
 "CLE": 6
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 7,
-"rush_yds": 27
+"rush_att": 9,
+"rush_yds": 29
 },
 "Harold Fannin": {
 "rec": 6,
@@ -24,8 +24,8 @@
 "pass_yds": 95
 },
 "Jaylen Warren": {
-"rush_att": 10,
-"rush_yds": 102
+"rush_att": 13,
+"rush_yds": 118
 },
 "Pat Freiermuth": {
 "rush_att": 1,

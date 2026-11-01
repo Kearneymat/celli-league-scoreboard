@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 9:15",
 "score": {
 "JAX": 28,
 "IND": 0
@@ -13,8 +13,8 @@
 "Trevor Lawrence": {
 "pass_cmp": 7,
 "pass_yds": 138,
-"rush_att": 2,
-"rush_yds": 5,
+"rush_att": 3,
+"rush_yds": 10,
 "fl": 1,
 "pass_td_lengths": [
 12,
@@ -22,8 +22,8 @@
 ]
 },
 "Bhayshul Tuten": {
-"rush_att": 13,
-"rush_yds": 94,
+"rush_att": 15,
+"rush_yds": 101,
 "rush_td_lengths": [
 39
 ]
@@ -35,8 +35,8 @@
 "rec_yds": 16
 },
 "Chris Rodriguez Jr.": {
-"rush_att": 2,
-"rush_yds": 4
+"rush_att": 3,
+"rush_yds": 5
 },
 "Brenton Strange": {
 "rec": 2,
@@ -53,7 +53,7 @@
 },
 "defenses": {
 "JAX": {
-"sacks": 2,
+"sacks": 3,
 "int": 1,
 "fum_rec": 1,
 "def_st_td_lengths": [
@@ -62,7 +62,7 @@
 "safeties": 0
 },
 "IND": {
-"sacks": 2,
+"sacks": 3,
 "fum_rec": 1,
 "int": 0,
 "safeties": 0,

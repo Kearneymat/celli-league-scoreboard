@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 9:59",
+"clock": "Q3 7:28",
 "score": {
-"NYJ": 23,
+"NYJ": 30,
 "LV": 21
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 9,
-"pass_yds": 112,
+"pass_cmp": 10,
+"pass_yds": 120,
 "rush_att": 2,
 "rush_yds": 2,
 "pass_td_lengths": [
@@ -31,8 +31,8 @@
 ]
 },
 "Geno Smith": {
-"pass_cmp": 11,
-"pass_yds": 146,
+"pass_cmp": 13,
+"pass_yds": 183,
 "rush_att": 1,
 "rush_yds": 4,
 "pass_td_lengths": [
@@ -41,12 +41,15 @@
 ]
 },
 "Braelon Allen": {
-"rush_att": 18,
-"rush_yds": 121
+"rush_att": 19,
+"rush_yds": 142,
+"rush_td_lengths": [
+21
+]
 },
 "Garrett Wilson": {
-"rec": 3,
-"rec_yds": 38
+"rec": 4,
+"rec_yds": 53
 },
 "Mason Taylor": {
 "rec": 2,
@@ -60,7 +63,7 @@
 36,
 39
 ],
-"xp_made": 2,
+"xp_made": 3,
 "fg_missed_dist": [],
 "xp_missed": 0
 },

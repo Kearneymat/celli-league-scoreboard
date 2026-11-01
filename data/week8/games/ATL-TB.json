@@ -1,28 +1,28 @@
 {
 "status": "live",
-"clock": "Q3 11:17",
+"clock": "Q3 7:09",
 "score": {
 "TB": 9,
 "ATL": 0
 },
 "players": {
 "Michael Penix Jr.": {
-"pass_cmp": 3,
-"pass_yds": 25,
+"pass_cmp": 4,
+"pass_yds": 28,
 "int": 3,
 "rush_att": 2,
 "rush_yds": 2
 },
 "Bijan Robinson": {
-"rush_att": 16,
-"rush_yds": 75
+"rush_att": 18,
+"rush_yds": 78
 },
 "Kyle Pitts": {
 "rec": 2,
 "rec_yds": 6
 },
 "Bucky Irving": {
-"rush_att": 21,
+"rush_att": 22,
 "rush_yds": 112,
 "fl": 1
 }
@@ -56,8 +56,8 @@
 "def_st_td_lengths": []
 },
 "ATL": {
+"sacks": 1,
 "fum_rec": 1,
-"sacks": 0,
 "int": 0,
 "safeties": 0,
 "def_st_td_lengths": []
