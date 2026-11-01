@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:02",
+"clock": "Halftime",
 "score": {
 "DET": 6,
 "MIN": 7
@@ -10,8 +10,8 @@
 "pass_cmp": 7,
 "pass_yds": 86,
 "int": 1,
-"rush_att": 2,
-"rush_yds": 27,
+"rush_att": 3,
+"rush_yds": 26,
 "pass_td_lengths": [
 1
 ]

@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:15",
+"clock": "Halftime",
 "score": {
 "CIN": 14,
 "TEN": 13
@@ -22,7 +22,7 @@
 },
 "Joe Burrow": {
 "pass_cmp": 15,
-"pass_yds": 178,
+"pass_yds": 177,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 1,
@@ -39,7 +39,7 @@
 },
 "Tee Higgins": {
 "rec": 5,
-"rec_yds": 71
+"rec_yds": 70
 },
 "Ja'Marr Chase": {
 "rec": 5,

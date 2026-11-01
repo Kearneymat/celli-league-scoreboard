@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 96,
+"total": 97,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -60,7 +60,7 @@
 12
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -70,7 +70,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -100,7 +100,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -115,7 +115,7 @@
 -3
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -139,22 +139,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -173,7 +173,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -226,7 +226,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 129,
+"total": 146,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -251,7 +251,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -266,30 +266,30 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -309,7 +309,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -346,7 +346,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -356,7 +356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -376,30 +376,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"5 catches",
+9
 ],
 [
-"40 rec yds",
-7
+"69 rec yds",
+11
 ],
 [
 "12-yd TD catch",
 7
+],
+[
+"2-yd TD catch",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -477,7 +481,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -485,7 +489,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 49,
+"total": 63,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -527,7 +531,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -591,30 +595,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"5 catches",
+9
 ],
 [
-"40 rec yds",
-7
+"69 rec yds",
+11
 ],
 [
 "12-yd TD catch",
 7
+],
+[
+"2-yd TD catch",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -671,7 +679,7 @@
 0
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 }
 ]
@@ -679,7 +687,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 100,
+"total": 117,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -714,7 +722,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -724,30 +732,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -787,7 +795,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -802,30 +810,34 @@
 -3
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"5 catches",
+9
 ],
 [
-"40 rec yds",
-7
+"69 rec yds",
+11
 ],
 [
 "12-yd TD catch",
 7
+],
+[
+"2-yd TD catch",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -835,7 +847,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -900,7 +912,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 146,
+"total": 149,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -939,7 +951,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -949,7 +961,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -968,30 +980,30 @@
 12
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -1035,7 +1047,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1055,7 +1067,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1128,7 +1140,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 136,
+"total": 140,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1149,7 +1161,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1164,7 +1176,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1204,23 +1216,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -1230,7 +1242,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1240,7 +1252,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1255,7 +1267,7 @@
 -3
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1265,7 +1277,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -1289,22 +1301,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -1367,7 +1379,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 84,
+"total": 87,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -1394,7 +1406,7 @@
 -15
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -1418,30 +1430,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -1466,7 +1478,7 @@
 -3
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1481,7 +1493,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1501,7 +1513,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1554,7 +1566,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1618,7 +1630,7 @@
 -5
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1637,7 +1649,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -1695,7 +1707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1728,7 +1740,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1738,7 +1750,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1748,7 +1760,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1763,7 +1775,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -1843,7 +1855,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 169,
+"total": 172,
 "comm": null,
 "prev": 2098,
 "alive": true,
@@ -1868,7 +1880,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1883,30 +1895,30 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -1964,7 +1976,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1994,7 +2006,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2004,7 +2016,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2027,7 +2039,7 @@
 9
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -2042,7 +2054,7 @@
 2
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2137,7 +2149,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2152,7 +2164,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2181,7 +2193,7 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2206,11 +2218,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2260,7 +2272,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2279,7 +2291,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2317,7 +2329,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2352,7 +2364,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 72,
+"total": 75,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -2377,7 +2389,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2392,7 +2404,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2402,7 +2414,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2421,30 +2433,30 @@
 10
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -2464,7 +2476,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2474,7 +2486,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2494,7 +2506,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2540,7 +2552,7 @@
 2
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -2583,7 +2595,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -2591,7 +2603,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 126,
+"total": 129,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -2618,7 +2630,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2633,7 +2645,7 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2659,23 +2671,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -2695,7 +2707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2705,7 +2717,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2715,7 +2727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -2773,7 +2785,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -2870,7 +2882,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -2895,7 +2907,7 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2949,7 +2961,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2959,7 +2971,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3007,7 +3019,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3040,7 +3052,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -3107,7 +3119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3117,7 +3129,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3140,7 +3152,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3150,7 +3162,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3190,7 +3202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3227,7 +3239,7 @@
 2
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3280,7 +3292,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 92,
+"total": 95,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -3305,7 +3317,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3332,23 +3344,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -3358,7 +3370,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3368,7 +3380,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3391,7 +3403,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3411,7 +3423,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3421,7 +3433,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3431,7 +3443,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3456,7 +3468,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3509,7 +3521,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 66,
+"total": 70,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -3526,7 +3538,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3545,7 +3557,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3566,23 +3578,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -3612,7 +3624,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3622,7 +3634,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3642,7 +3654,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3659,15 +3671,15 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3682,7 +3694,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -3715,7 +3727,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -3723,7 +3735,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 93,
+"total": 96,
 "comm": null,
 "prev": 1900,
 "alive": false,
@@ -3744,7 +3756,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3764,30 +3776,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -3802,7 +3814,7 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3812,7 +3824,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3827,11 +3839,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3846,7 +3858,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3856,7 +3868,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -3866,7 +3878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3895,7 +3907,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -3933,7 +3945,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3968,7 +3980,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 108,
+"total": 111,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -3985,7 +3997,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4000,7 +4012,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4031,23 +4043,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -4057,7 +4069,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4087,7 +4099,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -4112,7 +4124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -4131,7 +4143,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4150,7 +4162,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4173,7 +4185,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4216,7 +4228,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 61,
+"total": 64,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -4241,7 +4253,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4256,7 +4268,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4271,30 +4283,30 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -4324,7 +4336,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4334,7 +4346,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4344,7 +4356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -4354,7 +4366,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4401,7 +4413,7 @@
 2
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -4424,7 +4436,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4442,7 +4454,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 117,
+"total": 120,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -4464,7 +4476,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4485,23 +4497,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -4521,7 +4533,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4536,11 +4548,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4550,7 +4562,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4603,7 +4615,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4618,7 +4630,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4663,7 +4675,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 94,
+"total": 97,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -4698,30 +4710,30 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -4741,7 +4753,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4766,7 +4778,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4776,7 +4788,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4791,11 +4803,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4834,7 +4846,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4914,7 +4926,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 27,
+"total": 31,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -4931,7 +4943,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -4950,7 +4962,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4967,23 +4979,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -5003,7 +5015,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5033,7 +5045,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5043,7 +5055,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5072,22 +5084,22 @@
 1
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -5120,7 +5132,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -5149,7 +5161,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5164,7 +5176,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5194,7 +5206,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5233,7 +5245,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5243,7 +5255,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5263,7 +5275,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -5282,7 +5294,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5333,7 +5345,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 }
 ]
@@ -5341,7 +5353,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 105,
+"total": 108,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -5362,7 +5374,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5395,7 +5407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5412,23 +5424,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -5443,7 +5455,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5463,7 +5475,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5473,7 +5485,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -5512,7 +5524,7 @@
 2
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5596,7 +5608,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5611,7 +5623,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5626,7 +5638,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5664,7 +5676,7 @@
 10
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5684,7 +5696,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5694,7 +5706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5704,7 +5716,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -5714,7 +5726,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5743,7 +5755,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5762,7 +5774,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -5820,7 +5832,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -5828,7 +5840,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 118,
+"total": 133,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -5853,7 +5865,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5896,30 +5908,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -5949,7 +5961,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5964,11 +5976,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5978,7 +5990,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5988,7 +6000,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6010,7 +6022,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 16,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -6022,11 +6034,15 @@
 3
 ],
 [
+"51-yd FG",
+12
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6049,7 +6065,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6092,7 +6108,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 37,
+"total": 44,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -6104,7 +6120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6121,15 +6137,19 @@
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6139,7 +6159,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -6179,7 +6199,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6194,7 +6214,7 @@
 -3
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6204,7 +6224,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6214,7 +6234,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6229,7 +6249,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6262,7 +6282,7 @@
 0
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6293,7 +6313,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 }
 ]
@@ -6396,7 +6416,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -6406,7 +6426,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6416,7 +6436,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6451,7 +6471,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6478,7 +6498,7 @@
 0
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -6496,7 +6516,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 117,
+"total": 124,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -6527,7 +6547,7 @@
 -5
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6544,15 +6564,19 @@
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6562,7 +6586,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6596,7 +6620,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6611,11 +6635,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6649,7 +6673,7 @@
 2
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6672,7 +6696,7 @@
 9
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6742,7 +6766,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 141,
+"total": 144,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -6764,30 +6788,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -6806,7 +6830,7 @@
 10
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6816,7 +6840,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -6839,7 +6863,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6849,7 +6873,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6859,7 +6883,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -6893,7 +6917,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -6980,7 +7004,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -6988,7 +7012,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 106,
+"total": 109,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -7009,7 +7033,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7032,7 +7056,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7042,30 +7066,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -7084,7 +7108,7 @@
 12
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -7104,7 +7128,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7124,7 +7148,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -7134,7 +7158,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7189,7 +7213,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7247,7 +7271,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -7280,7 +7304,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7299,7 +7323,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7360,7 +7384,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7375,7 +7399,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7385,7 +7409,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7458,7 +7482,7 @@
 9
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -7481,7 +7505,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7499,7 +7523,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 83,
+"total": 93,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -7518,38 +7542,42 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
 "12-yd TD pass",
 7
+],
+[
+"2-yd TD pass",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -7602,7 +7630,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7612,7 +7640,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7632,7 +7660,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7659,15 +7687,15 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -7700,7 +7728,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -7708,7 +7736,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 79,
+"total": 86,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -7743,7 +7771,7 @@
 -5
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7763,22 +7791,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -7812,7 +7844,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -7846,7 +7878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7865,7 +7897,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7880,7 +7912,7 @@
 2
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7925,7 +7957,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 53,
+"total": 56,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -7952,7 +7984,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -7972,30 +8004,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8015,7 +8047,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8025,7 +8057,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -8045,7 +8077,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8074,7 +8106,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8154,7 +8186,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8169,7 +8201,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8223,11 +8255,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8257,7 +8289,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8267,7 +8299,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8311,7 +8343,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8369,7 +8401,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -8377,7 +8409,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 46,
+"total": 51,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -8429,38 +8461,42 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8500,7 +8536,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8562,12 +8598,12 @@
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"14 pts allowed",
-5
+"21 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -8578,7 +8614,7 @@
 0
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 }
 ]
@@ -8586,7 +8622,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 82,
+"total": 85,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -8613,7 +8649,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8632,7 +8668,7 @@
 12
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -8649,23 +8685,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8685,7 +8721,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -8695,7 +8731,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8715,7 +8751,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8725,7 +8761,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8798,7 +8834,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 83,
+"total": 86,
 "comm": null,
 "prev": 1716,
 "alive": false,
@@ -8815,7 +8851,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8834,7 +8870,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -8851,23 +8887,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8877,7 +8913,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8901,7 +8937,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8926,11 +8962,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8940,7 +8976,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -8950,7 +8986,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -8973,7 +9009,7 @@
 9
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -8988,7 +9024,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -9021,7 +9057,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -9046,7 +9082,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9066,7 +9102,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9091,7 +9127,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9116,11 +9152,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9140,7 +9176,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9164,7 +9200,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9239,7 +9275,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -9247,7 +9283,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 80,
+"total": 83,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -9274,7 +9310,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9291,23 +9327,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -9317,7 +9353,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9357,7 +9393,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9367,7 +9403,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -9401,7 +9437,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9434,7 +9470,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9477,7 +9513,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 89,
+"total": 92,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -9494,7 +9530,7 @@
 -5
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9509,7 +9545,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9519,7 +9555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9538,30 +9574,30 @@
 12
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -9600,7 +9636,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9620,7 +9656,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9667,7 +9703,7 @@
 2
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -9700,7 +9736,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -9708,7 +9744,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 140,
+"total": 141,
 "comm": null,
 "prev": 1925,
 "alive": false,
@@ -9725,7 +9761,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9735,7 +9771,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9812,7 +9848,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9822,7 +9858,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9846,7 +9882,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -9863,15 +9899,15 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -9929,7 +9965,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -9937,7 +9973,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 100,
+"total": 98,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -9954,7 +9990,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -9985,23 +10021,23 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -10041,7 +10077,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10051,7 +10087,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10090,7 +10126,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10109,7 +10145,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10151,12 +10187,12 @@
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 7,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"14 pts allowed",
-5
+"21 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -10167,7 +10203,7 @@
 0
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 }
 ]
@@ -10192,7 +10228,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10217,7 +10253,7 @@
 5
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10266,7 +10302,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10286,7 +10322,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10338,7 +10374,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10371,7 +10407,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10414,7 +10450,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 64,
+"total": 82,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -10435,7 +10471,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10454,7 +10490,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10469,30 +10505,30 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -10512,7 +10548,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10542,7 +10578,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10552,45 +10588,49 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"5 catches",
+9
 ],
 [
-"40 rec yds",
-7
+"69 rec yds",
+11
 ],
 [
 "12-yd TD catch",
 7
+],
+[
+"2-yd TD catch",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10605,7 +10645,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -10638,7 +10678,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -10646,7 +10686,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 127,
+"total": 134,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -10667,7 +10707,7 @@
 7
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10686,7 +10726,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10722,15 +10762,19 @@
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -10755,7 +10799,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10775,7 +10819,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10799,7 +10843,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -10818,7 +10862,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 6 \u00b7 Q2 0:02",
+"game": "MIN 7 @ DET 6 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10890,7 +10934,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 103,
+"total": 107,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -10927,7 +10971,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10937,30 +10981,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -10980,7 +11024,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -10995,11 +11039,11 @@
 5
 ],
 [
-"71 rec yds",
+"70 rec yds",
 7
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11033,7 +11077,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -11050,15 +11094,15 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -11111,7 +11155,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 85,
+"total": 107,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -11123,7 +11167,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11143,45 +11187,49 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bijan Robinson",
 "team": "ATL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"67 rush yds",
+"16 rushes",
 6
+],
+[
+"75 rush yds",
+7
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -11191,7 +11239,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11201,7 +11249,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -11248,7 +11296,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 16,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -11260,11 +11308,15 @@
 3
 ],
 [
+"51-yd FG",
+12
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11332,7 +11384,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -11340,7 +11392,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 165,
+"total": 195,
 "comm": null,
 "prev": 1717,
 "alive": false,
@@ -11371,7 +11423,7 @@
 6
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11395,30 +11447,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"19 rushes",
-9
+"21 rushes",
+11
 ],
 [
-"107 rush yds",
-10
+"112 rush yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "ATL 0 @ TB 9 \u00b7 Halftime",
+"game": "ATL 0 @ TB 9 \u00b7 Q3 11:17",
 "on": true
 },
 {
@@ -11442,7 +11494,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -11452,7 +11504,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ DAL 14 \u00b7 Halftime",
+"game": "ARI 3 @ DAL 14 \u00b7 Q3 13:39",
 "on": true
 },
 {
@@ -11475,7 +11527,7 @@
 9
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11497,30 +11549,34 @@
 "pos": "TE",
 "name": "Brock Bowers",
 "team": "LV",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"5 catches",
+9
 ],
 [
-"40 rec yds",
-7
+"69 rec yds",
+11
 ],
 [
 "12-yd TD catch",
 7
+],
+[
+"2-yd TD catch",
+6
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 16,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -11532,26 +11588,30 @@
 3
 ],
 [
+"51-yd FG",
+12
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BAL 7 @ BUF 13 \u00b7 Q2 1:36",
+"game": "BAL 7 @ BUF 16 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 14 @ NYJ 23 \u00b7 Halftime",
+"game": "LV 21 @ NYJ 23 \u00b7 Q3 9:59",
 "on": true
 },
 {
@@ -11609,7 +11669,7 @@
 0
 ]
 ],
-"game": "TEN 13 @ CIN 14 \u00b7 Q2 0:15",
+"game": "TEN 13 @ CIN 14 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -11628,7 +11688,7 @@
 },
 {
 "t": "TEN 13 @ CIN 14",
-"s": "Q2 0:15",
+"s": "Halftime",
 "live": true
 },
 {
@@ -11638,27 +11698,27 @@
 },
 {
 "t": "MIN 7 @ DET 6",
-"s": "Q2 0:02",
+"s": "Halftime",
 "live": true
 },
 {
 "t": "ATL 0 @ TB 9",
-"s": "Halftime",
+"s": "Q3 11:17",
 "live": true
 },
 {
 "t": "ARI 3 @ DAL 14",
-"s": "Halftime",
+"s": "Q3 13:39",
 "live": true
 },
 {
-"t": "LV 14 @ NYJ 23",
-"s": "Halftime",
+"t": "LV 21 @ NYJ 23",
+"s": "Q3 9:59",
 "live": true
 },
 {
-"t": "BAL 7 @ BUF 13",
-"s": "Q2 1:36",
+"t": "BAL 7 @ BUF 16",
+"s": "Halftime",
 "live": true
 },
 {

@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 1:36",
+"clock": "Halftime",
 "score": {
-"BUF": 13,
+"BUF": 16,
 "BAL": 7
 },
 "players": {
@@ -19,8 +19,8 @@
 "pass_cmp": 8,
 "pass_yds": 112,
 "int": 1,
-"rush_att": 5,
-"rush_yds": 15,
+"rush_att": 7,
+"rush_yds": 30,
 "rush_td_lengths": [
 1
 ]
@@ -49,7 +49,8 @@
 "Tyler Bass": {
 "fg_made_dist": [
 56,
-22
+22,
+51
 ],
 "xp_made": 1,
 "fg_missed_dist": [],
@@ -67,8 +68,8 @@
 "defenses": {
 "BUF": {
 "sacks": 4,
+"int": 1,
 "fum_rec": 1,
-"int": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },

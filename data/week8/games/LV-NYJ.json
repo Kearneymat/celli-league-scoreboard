@@ -1,31 +1,33 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 9:59",
 "score": {
 "NYJ": 23,
-"LV": 14
+"LV": 21
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 6,
-"pass_yds": 79,
+"pass_cmp": 9,
+"pass_yds": 112,
 "rush_att": 2,
 "rush_yds": 2,
 "pass_td_lengths": [
-12
+12,
+2
 ]
 },
 "Ashton Jeanty": {
 "rush_att": 1,
 "rush_yds": 1,
-"rec": 1,
-"rec_yds": 15
+"rec": 2,
+"rec_yds": 19
 },
 "Brock Bowers": {
-"rec": 3,
-"rec_yds": 40,
+"rec": 5,
+"rec_yds": 69,
 "rec_td_lengths": [
-12
+12,
+2
 ]
 },
 "Geno Smith": {
@@ -63,7 +65,7 @@
 "xp_missed": 0
 },
 "Matt Gay": {
-"xp_made": 2,
+"xp_made": 3,
 "fg_made_dist": [],
 "fg_missed_dist": [],
 "xp_missed": 0

@@ -1,29 +1,29 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 11:17",
 "score": {
 "TB": 9,
 "ATL": 0
 },
 "players": {
 "Michael Penix Jr.": {
-"pass_cmp": 2,
-"pass_yds": 24,
+"pass_cmp": 3,
+"pass_yds": 25,
 "int": 3,
 "rush_att": 2,
 "rush_yds": 2
 },
 "Bijan Robinson": {
-"rush_att": 14,
-"rush_yds": 67
+"rush_att": 16,
+"rush_yds": 75
 },
 "Kyle Pitts": {
-"rec": 1,
-"rec_yds": 5
+"rec": 2,
+"rec_yds": 6
 },
 "Bucky Irving": {
-"rush_att": 19,
-"rush_yds": 107,
+"rush_att": 21,
+"rush_yds": 112,
 "fl": 1
 }
 },
