@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 237,
+"total": 243,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -13,15 +13,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -277,7 +281,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 }
 ]
@@ -285,7 +289,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 300,
+"total": 307,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -380,15 +384,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -506,7 +514,7 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -518,11 +526,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -604,7 +612,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 201,
+"total": 207,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -661,15 +669,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -706,7 +718,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -721,7 +733,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -816,7 +828,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -835,11 +847,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -877,7 +889,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 278,
+"total": 285,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -978,15 +990,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -1131,7 +1147,7 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -1143,11 +1159,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -1166,11 +1182,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -1197,7 +1213,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 }
 ]
@@ -1394,7 +1410,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -1439,7 +1455,7 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -1458,7 +1474,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -1519,7 +1535,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 }
 ]
@@ -1782,7 +1798,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -1834,7 +1850,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 219,
+"total": 220,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -2023,7 +2039,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -2046,14 +2062,14 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -2065,11 +2081,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -2141,7 +2157,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 271,
+"total": 277,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2223,22 +2239,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -2628,7 +2648,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -2892,7 +2912,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -2966,7 +2986,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3362,11 +3382,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3595,7 +3615,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3654,7 +3674,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -3696,7 +3716,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 167,
+"total": 173,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3768,7 +3788,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -3797,15 +3817,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3889,7 +3913,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3944,11 +3968,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -3986,7 +4010,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 308,
+"total": 323,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3995,12 +4019,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 27,
+"pts": 42,
 "comm": null,
 "bd": [
 [
-"230 pass yds",
-8
+"22 completions",
+7
+],
+[
+"254 pass yds",
+10
 ],
 [
 "11-yd TD pass",
@@ -4009,9 +4037,13 @@
 [
 "73-yd TD pass",
 12
+],
+[
+"4-yd TD pass",
+6
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -4154,7 +4186,7 @@
 6
 ],
 [
-"52 rec yds",
+"51 rec yds",
 5
 ],
 [
@@ -4162,7 +4194,7 @@
 7
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -4177,7 +4209,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -4196,7 +4228,7 @@
 5
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -4277,7 +4309,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -4387,7 +4419,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -4588,7 +4620,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -4726,7 +4758,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -4813,7 +4845,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -4864,11 +4896,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -5126,7 +5158,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -5234,7 +5266,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 198,
+"total": 204,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5289,15 +5321,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -5374,7 +5410,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -5659,7 +5695,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -5737,7 +5773,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -5756,7 +5792,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -5905,7 +5941,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -6055,11 +6091,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -6278,7 +6314,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -6385,11 +6421,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 }
 ]
@@ -6461,7 +6497,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -6497,7 +6533,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -6651,7 +6687,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -6762,7 +6798,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -6831,7 +6867,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -6882,7 +6918,7 @@
 5
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -6940,7 +6976,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -6967,7 +7003,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -7005,7 +7041,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 288,
+"total": 294,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -7100,15 +7136,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -7175,7 +7215,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -7226,7 +7266,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -7259,7 +7299,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -7278,11 +7318,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -7535,7 +7575,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -7743,7 +7783,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -8088,7 +8128,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -8255,7 +8295,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 130,
+"total": 136,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8264,15 +8304,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -8312,7 +8356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -8342,7 +8386,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -8365,7 +8409,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -8424,7 +8468,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -8497,11 +8541,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 }
 ]
@@ -8557,7 +8601,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -9413,7 +9457,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 298,
+"total": 304,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -9530,15 +9574,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -9630,7 +9678,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -9719,11 +9767,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 }
 ]
@@ -9731,7 +9779,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 235,
+"total": 242,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -9740,15 +9788,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -9924,14 +9976,14 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -9939,11 +9991,11 @@
 9
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -9988,7 +10040,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -10047,7 +10099,7 @@
 -5
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -10108,7 +10160,7 @@
 6
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -10187,7 +10239,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10312,11 +10364,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 }
 ]
@@ -10324,7 +10376,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 175,
+"total": 181,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -10333,15 +10385,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10365,7 +10421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -10527,7 +10583,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -10588,7 +10644,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 }
 ]
@@ -10596,7 +10652,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 219,
+"total": 225,
 "comm": null,
 "prev": 1891,
 "alive": false,
@@ -10637,15 +10693,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10685,7 +10745,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10788,7 +10848,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10904,7 +10964,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 110,
+"total": 122,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -10913,15 +10973,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -10958,15 +11022,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11020,7 +11088,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11078,7 +11146,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11125,11 +11193,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11159,7 +11227,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 243,
+"total": 250,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11168,15 +11236,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11226,7 +11298,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -11303,7 +11375,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -11364,7 +11436,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11372,11 +11444,11 @@
 9
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -11403,7 +11475,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -11501,7 +11573,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -11706,7 +11778,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -12003,7 +12075,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -12081,7 +12153,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -12450,7 +12522,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -12501,7 +12573,7 @@
 3
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -12558,7 +12630,7 @@
 0
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -12596,7 +12668,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 212,
+"total": 218,
 "comm": null,
 "prev": 1925,
 "alive": false,
@@ -12646,15 +12718,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -12780,7 +12856,7 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q3 4:04",
+"game": "KC 24 @ DEN 13 \u00b7 Q3 1:18",
 "on": true
 },
 {
@@ -12870,7 +12946,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 167,
+"total": 173,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -12947,15 +13023,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -12988,7 +13068,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -13025,7 +13105,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -13147,7 +13227,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 225,
+"total": 235,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -13174,23 +13254,23 @@
 "pos": "QB",
 "name": "Justin Herbert",
 "team": "LAC",
-"pts": 6,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"24 completions",
+9
 ],
 [
-"241 pass yds",
-9
+"257 pass yds",
+10
 ],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -13219,15 +13299,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"62 rush yds",
+"16 rushes",
+6
+],
+[
+"69 rush yds",
 6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -13381,7 +13465,7 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -13393,11 +13477,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -13589,7 +13673,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -13725,11 +13809,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -13843,7 +13927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14028,11 +14112,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14074,7 +14158,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 238,
+"total": 245,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14083,15 +14167,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14261,7 +14349,7 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -14273,11 +14361,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14347,7 +14435,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 198,
+"total": 199,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -14480,7 +14568,7 @@
 7
 ]
 ],
-"game": "LAC 9 @ LAR 24 \u00b7 Q4 7:22",
+"game": "LAC 9 @ LAR 24 \u00b7 Q4 2:10",
 "on": true
 },
 {
@@ -14509,7 +14597,7 @@
 5
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14552,7 +14640,7 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 4,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -14564,11 +14652,11 @@
 -3
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -14640,7 +14728,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 349,
+"total": 355,
 "comm": null,
 "prev": 1717,
 "alive": false,
@@ -14649,15 +14737,19 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
 "43-yd TD pass",
 10
+],
+[
+"2-yd TD run",
+6
 ]
 ],
-"game": "NE 10 @ MIA 13 \u00b7 Q3 3:58",
+"game": "NE 17 @ MIA 13 \u00b7 Q4 15:00",
 "on": true
 },
 {
@@ -15022,17 +15114,17 @@
 },
 {
 "t": "LAC 9 @ LAR 24",
-"s": "Q4 7:22",
+"s": "Q4 2:10",
 "live": true
 },
 {
-"t": "NE 10 @ MIA 13",
-"s": "Q3 3:58",
+"t": "NE 17 @ MIA 13",
+"s": "Q4 15:00",
 "live": true
 },
 {
-"t": "KC 17 @ DEN 13",
-"s": "Q3 4:04",
+"t": "KC 24 @ DEN 13",
+"s": "Q3 1:18",
 "live": true
 },
 {

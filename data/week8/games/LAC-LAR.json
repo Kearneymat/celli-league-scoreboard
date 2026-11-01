@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 7:22",
+"clock": "Q4 2:10",
 "score": {
 "LAR": 24,
 "LAC": 9
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 22,
-"pass_yds": 241,
+"pass_cmp": 24,
+"pass_yds": 257,
 "int": 2,
 "rush_att": 4,
 "rush_yds": 15
@@ -33,8 +33,8 @@
 ]
 },
 "Kyren Williams": {
-"rush_att": 5,
-"rush_yds": 15,
+"rush_att": 12,
+"rush_yds": 45,
 "rec": 1,
 "rec_yds": 3,
 "rush_td_lengths": [
