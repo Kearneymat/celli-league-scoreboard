@@ -1,13 +1,13 @@
 {
-"status": "live",
-"clock": "Q4 2:36",
+"status": "final",
+"clock": "Final",
 "score": {
 "PIT": 27,
 "CLE": 6
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 10,
+"rush_att": 11,
 "rush_yds": 25,
 "rec": 2,
 "rec_yds": 24

@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 9:31",
+"clock": "Q4 5:58",
 "score": {
-"BUF": 29,
+"BUF": 36,
 "BAL": 10
 },
 "players": {
@@ -24,8 +24,8 @@
 "rec_yds": 6
 },
 "Josh Allen": {
-"pass_cmp": 18,
-"pass_yds": 259,
+"pass_cmp": 21,
+"pass_yds": 289,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 30,
@@ -33,12 +33,13 @@
 1
 ],
 "pass_td_lengths": [
-11
+11,
+23
 ]
 },
 "James Cook": {
-"rush_att": 20,
-"rush_yds": 76,
+"rush_att": 21,
+"rush_yds": 80,
 "rec": 2,
 "rec_yds": 21,
 "rush_td_lengths": [
@@ -48,20 +49,23 @@
 "DJ Moore": {
 "rush_att": 1,
 "rush_yds": 4,
-"rec": 3,
-"rec_yds": 78,
+"rec": 4,
+"rec_yds": 82,
 "fl": 1,
 "rec_td_lengths": [
 11
 ]
 },
+"Dalton Kincaid": {
+"rec": 4,
+"rec_yds": 86,
+"rec_td_lengths": [
+23
+]
+},
 "Khalil Shakir": {
 "rec": 5,
 "rec_yds": 64
-},
-"Dalton Kincaid": {
-"rec": 3,
-"rec_yds": 63
 }
 },
 "kickers": {
@@ -71,7 +75,7 @@
 22,
 51
 ],
-"xp_made": 2,
+"xp_made": 3,
 "fg_missed_dist": [],
 "xp_missed": 0
 },

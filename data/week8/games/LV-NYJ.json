@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 0:27",
+"status": "final",
+"clock": "Final",
 "score": {
 "NYJ": 33,
 "LV": 38
@@ -9,8 +9,8 @@
 "Kirk Cousins": {
 "pass_cmp": 19,
 "pass_yds": 247,
-"rush_att": 4,
-"rush_yds": 4,
+"rush_att": 5,
+"rush_yds": 3,
 "pass_td_lengths": [
 12,
 2,
@@ -35,8 +35,9 @@
 ]
 },
 "Geno Smith": {
-"pass_cmp": 19,
-"pass_yds": 275,
+"pass_cmp": 20,
+"pass_yds": 290,
+"int": 1,
 "rush_att": 1,
 "rush_yds": 4,
 "pass_td_lengths": [
@@ -54,8 +55,8 @@
 ]
 },
 "Garrett Wilson": {
-"rec": 5,
-"rec_yds": 68
+"rec": 6,
+"rec_yds": 83
 },
 "Mason Taylor": {
 "rec": 3,
@@ -93,10 +94,10 @@
 },
 "LV": {
 "sacks": 2,
+"int": 1,
 "def_st_td_lengths": [
 95
 ],
-"int": 0,
 "fum_rec": 0,
 "safeties": 0
 }

@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 2:00",
+"status": "final",
+"clock": "Final",
 "score": {
 "DET": 19,
 "MIN": 15
@@ -36,8 +36,8 @@
 ]
 },
 "Jahmyr Gibbs": {
-"rush_att": 22,
-"rush_yds": 147,
+"rush_att": 23,
+"rush_yds": 153,
 "rec": 2,
 "rec_yds": 15,
 "rush_td_lengths": [

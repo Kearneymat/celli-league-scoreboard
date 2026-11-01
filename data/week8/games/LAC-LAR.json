@@ -1,0 +1,47 @@
+{
+"status": "live",
+"clock": "Q1 12:36",
+"score": {
+"LAR": 0,
+"LAC": 0
+},
+"players": {
+"Justin Herbert": {
+"pass_cmp": 1,
+"pass_yds": 3
+},
+"Ladd McConkey": {
+"rec": 1,
+"rec_yds": 3
+},
+"Matthew Stafford": {
+"pass_cmp": 1,
+"pass_yds": 9
+},
+"Kyren Williams": {
+"rush_att": 1
+},
+"Puka Nacua": {
+"rec": 1,
+"rec_yds": 9
+}
+},
+"kickers": {},
+"defenses": {
+"LAR": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"LAC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}
