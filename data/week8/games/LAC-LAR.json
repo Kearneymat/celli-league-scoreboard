@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 3:41",
+"clock": "Q4 15:00",
 "score": {
 "LAR": 24,
 "LAC": 9
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 16,
-"pass_yds": 200,
+"pass_cmp": 18,
+"pass_yds": 213,
 "int": 2,
 "rush_att": 2,
 "rush_yds": 8
@@ -18,16 +18,16 @@
 "rec_yds": 86
 },
 "Matthew Stafford": {
-"pass_cmp": 14,
-"pass_yds": 141,
+"pass_cmp": 15,
+"pass_yds": 153,
 "int": 1,
 "pass_td_lengths": [
 18
 ]
 },
 "Blake Corum": {
-"rush_att": 8,
-"rush_yds": 63,
+"rush_att": 9,
+"rush_yds": 68,
 "rush_td_lengths": [
 23
 ]
@@ -61,8 +61,8 @@
 },
 "defenses": {
 "LAR": {
+"sacks": 1,
 "int": 2,
-"sacks": 0,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
