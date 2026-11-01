@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 9:09",
+"clock": "Q4 4:31",
 "score": {
-"NYJ": 30,
+"NYJ": 33,
 "LV": 35
 },
 "players": {
@@ -35,8 +35,8 @@
 ]
 },
 "Geno Smith": {
-"pass_cmp": 15,
-"pass_yds": 207,
+"pass_cmp": 19,
+"pass_yds": 275,
 "rush_att": 1,
 "rush_yds": 4,
 "pass_td_lengths": [
@@ -47,13 +47,15 @@
 "Braelon Allen": {
 "rush_att": 21,
 "rush_yds": 147,
+"rec": 2,
+"rec_yds": 6,
 "rush_td_lengths": [
 21
 ]
 },
 "Garrett Wilson": {
-"rec": 4,
-"rec_yds": 53
+"rec": 5,
+"rec_yds": 68
 },
 "Mason Taylor": {
 "rec": 3,
@@ -65,7 +67,8 @@
 "fg_made_dist": [
 21,
 36,
-39
+39,
+31
 ],
 "xp_made": 3,
 "fg_missed_dist": [],

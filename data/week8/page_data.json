@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 134,
+"total": 143,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -33,15 +33,15 @@
 "pos": "RB",
 "name": "Jaylen Warren",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"132 rush yds",
+"134 rush yds",
 13
 ],
 [
@@ -49,7 +49,7 @@
 6
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -72,22 +72,26 @@
 8
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -117,7 +121,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -136,7 +140,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -160,7 +164,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -175,7 +179,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -194,7 +198,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -229,7 +233,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -247,7 +251,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 182,
+"total": 183,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -256,16 +260,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -282,9 +286,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -299,7 +307,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -326,7 +334,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -346,7 +354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -383,7 +391,7 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -393,7 +401,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -403,7 +411,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -413,7 +421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -440,7 +448,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -495,7 +503,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -526,7 +534,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -534,7 +542,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 90,
+"total": 93,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -573,15 +581,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -644,7 +656,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -654,7 +666,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -681,7 +693,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -718,12 +730,12 @@
 "pos": "DEF",
 "name": "Raiders D",
 "team": "LV",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"30 pts allowed",
--5
+"33 pts allowed",
+-10
 ],
 [
 "2 sacks",
@@ -738,7 +750,7 @@
 0
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 }
 ]
@@ -746,7 +758,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 162,
+"total": 180,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -769,12 +781,12 @@
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -785,7 +797,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -800,7 +812,7 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -827,7 +839,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -864,30 +876,38 @@
 "pos": "WR",
 "name": "Garrett Wilson",
 "team": "NYJ",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"53 rec yds",
+"5 catches",
 5
+],
+[
+"68 rec yds",
+6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Wan'Dale Robinson",
 "team": "TEN",
-"pts": -3,
+"pts": 2,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -914,7 +934,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -924,7 +944,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -951,7 +971,7 @@
 3
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -989,7 +1009,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 191,
+"total": 200,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1012,16 +1032,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -1038,24 +1058,32 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1078,7 +1106,7 @@
 8
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -1105,7 +1133,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -1129,7 +1157,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -1149,7 +1177,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1169,7 +1197,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1224,7 +1252,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -1242,7 +1270,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 197,
+"total": 203,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1251,9 +1279,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -1263,7 +1295,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1282,7 +1314,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1327,7 +1359,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -1354,26 +1386,26 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1383,7 +1415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1402,7 +1434,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1412,7 +1444,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -1436,7 +1468,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1451,7 +1483,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -1496,7 +1528,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -1541,7 +1573,7 @@
 -20
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -1578,7 +1610,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -1605,7 +1637,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -1634,7 +1666,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1649,7 +1681,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -1669,7 +1701,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -1730,7 +1762,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -1765,7 +1797,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -1773,7 +1805,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 169,
+"total": 199,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -1782,11 +1814,19 @@
 "pos": "QB",
 "name": "Kyler Murray",
 "team": "MIN",
-"pts": 1,
+"pts": 12,
 "comm": null,
 "bd": [
 [
+"206 pass yds",
+5
+],
+[
 "1-yd TD pass",
+6
+],
+[
+"8-yd TD pass",
 6
 ],
 [
@@ -1794,19 +1834,19 @@
 -5
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -1817,7 +1857,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -1875,7 +1915,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -1908,7 +1948,7 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -1918,26 +1958,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -1956,7 +2000,7 @@
 2
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2001,14 +2045,14 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -2016,8 +2060,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -2028,7 +2072,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 }
 ]
@@ -2036,7 +2080,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 249,
+"total": 263,
 "comm": null,
 "prev": 2098,
 "alive": true,
@@ -2045,16 +2089,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -2071,9 +2115,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -2092,7 +2140,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2119,7 +2167,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -2150,22 +2198,22 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jaylen Warren",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"132 rush yds",
+"134 rush yds",
 13
 ],
 [
@@ -2173,7 +2221,7 @@
 6
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -2197,7 +2245,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -2227,26 +2275,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -2273,7 +2325,7 @@
 1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -2288,14 +2340,14 @@
 3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -2303,8 +2355,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -2315,7 +2367,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -2350,7 +2402,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -2358,7 +2410,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 145,
+"total": 156,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -2367,16 +2419,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -2393,9 +2445,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -2414,7 +2470,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2435,23 +2491,23 @@
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -2468,23 +2524,23 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -2504,7 +2560,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -2534,7 +2590,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2553,7 +2609,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -2568,7 +2624,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -2599,14 +2655,14 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -2614,8 +2670,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -2626,7 +2682,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 }
 ]
@@ -2634,7 +2690,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 141,
+"total": 162,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -2643,16 +2699,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -2669,9 +2725,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -2686,38 +2746,42 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 31,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"19 rushes",
+9
 ],
 [
-"82 rush yds",
-8
+"112 rush yds",
+11
 ],
 [
 "40-yd TD run",
@@ -2728,7 +2792,7 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -2755,7 +2819,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -2772,19 +2836,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2794,7 +2858,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -2814,7 +2878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -2833,14 +2897,14 @@
 5
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -2856,11 +2920,15 @@
 6
 ],
 [
+"31-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -2911,7 +2979,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -2919,7 +2987,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 193,
+"total": 197,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -2950,30 +3018,30 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -3004,7 +3072,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -3031,7 +3099,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -3051,7 +3119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -3061,26 +3129,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -3123,7 +3191,7 @@
 9
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -3138,7 +3206,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -3183,7 +3251,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -3191,7 +3259,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 122,
+"total": 140,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3224,19 +3292,19 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -3247,7 +3315,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -3264,23 +3332,23 @@
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -3334,26 +3402,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -3382,7 +3454,7 @@
 9
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -3401,7 +3473,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -3442,7 +3514,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -3450,7 +3522,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 169,
+"total": 181,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3493,7 +3565,7 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -3530,7 +3602,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -3545,7 +3617,7 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -3568,22 +3640,26 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Garrett Wilson",
 "team": "NYJ",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"53 rec yds",
+"5 catches",
 5
+],
+[
+"68 rec yds",
+6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -3623,7 +3699,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -3640,7 +3716,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -3656,11 +3732,15 @@
 6
 ],
 [
+"31-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -3705,7 +3785,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -3713,7 +3793,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 141,
+"total": 158,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -3722,16 +3802,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -3748,9 +3828,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -3797,22 +3881,26 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -3822,7 +3910,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -3845,7 +3933,7 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -3865,7 +3953,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -3875,26 +3963,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -3923,7 +4015,7 @@
 2
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -3968,7 +4060,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -3976,7 +4068,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 111,
+"total": 118,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -3993,19 +4085,19 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -4016,7 +4108,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4057,7 +4149,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4087,7 +4179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -4097,7 +4189,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4116,7 +4208,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -4126,7 +4218,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4151,7 +4243,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4166,7 +4258,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4207,7 +4299,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -4215,7 +4307,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 169,
+"total": 205,
 "comm": null,
 "prev": 1900,
 "alive": false,
@@ -4224,12 +4316,12 @@
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -4240,7 +4332,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4257,15 +4349,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4292,30 +4388,30 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -4325,60 +4421,68 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Garrett Wilson",
 "team": "NYJ",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"53 rec yds",
+"5 catches",
 5
+],
+[
+"68 rec yds",
+6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4388,7 +4492,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4421,7 +4525,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4436,7 +4540,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -4467,14 +4571,14 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -4482,8 +4586,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -4494,7 +4598,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 }
 ]
@@ -4502,7 +4606,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 151,
+"total": 152,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -4523,7 +4627,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4538,7 +4642,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4589,26 +4693,26 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4638,7 +4742,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4653,7 +4757,7 @@
 9
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -4663,7 +4767,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4682,7 +4786,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -4705,7 +4809,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4736,7 +4840,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -4771,7 +4875,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -4779,7 +4883,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 128,
+"total": 139,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -4788,16 +4892,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -4814,9 +4918,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -4835,30 +4943,30 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -4885,7 +4993,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4912,19 +5020,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4934,7 +5042,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -4944,7 +5052,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -4954,7 +5062,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -4981,7 +5089,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -4997,11 +5105,15 @@
 6
 ],
 [
+"31-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -5032,7 +5144,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -5050,7 +5162,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 160,
+"total": 168,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5072,7 +5184,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -5113,7 +5225,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -5133,49 +5245,49 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5228,7 +5340,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -5247,7 +5359,7 @@
 2
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5264,7 +5376,7 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -5272,8 +5384,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -5284,7 +5396,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 }
 ]
@@ -5292,7 +5404,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 154,
+"total": 158,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -5311,16 +5423,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -5337,9 +5449,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -5366,7 +5482,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -5399,7 +5515,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -5424,7 +5540,7 @@
 7
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -5434,30 +5550,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -5496,7 +5612,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -5523,7 +5639,7 @@
 3
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -5558,7 +5674,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -5576,7 +5692,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 87,
+"total": 93,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -5597,16 +5713,20 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -5616,7 +5736,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -5653,7 +5773,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -5670,19 +5790,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5701,7 +5821,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -5721,7 +5841,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -5731,7 +5851,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5764,7 +5884,7 @@
 1
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -5779,7 +5899,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -5820,7 +5940,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -5828,7 +5948,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 79,
+"total": 93,
 "comm": null,
 "prev": 1501,
 "alive": false,
@@ -5837,9 +5957,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -5849,7 +5973,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -5868,7 +5992,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5893,22 +6017,26 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5947,26 +6075,26 @@
 7
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -5986,7 +6114,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6009,7 +6137,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -6060,7 +6188,7 @@
 0
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 }
 ]
@@ -6068,7 +6196,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 160,
+"total": 165,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -6077,9 +6205,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -6089,7 +6221,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6120,7 +6252,7 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -6143,7 +6275,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -6180,7 +6312,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6195,7 +6327,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -6215,7 +6347,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6225,7 +6357,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -6264,7 +6396,7 @@
 3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -6319,7 +6451,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -6327,7 +6459,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 136,
+"total": 147,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -6336,9 +6468,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -6348,7 +6484,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6363,7 +6499,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -6378,7 +6514,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6409,23 +6545,23 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 31,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"19 rushes",
+9
 ],
 [
-"82 rush yds",
-8
+"112 rush yds",
+11
 ],
 [
 "40-yd TD run",
@@ -6436,7 +6572,7 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -6456,26 +6592,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -6485,7 +6621,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -6495,7 +6631,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -6524,7 +6660,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -6547,7 +6683,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -6582,7 +6718,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -6613,7 +6749,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -6621,7 +6757,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 204,
+"total": 216,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -6630,16 +6766,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -6656,9 +6792,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -6689,7 +6829,7 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -6714,7 +6854,7 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -6741,7 +6881,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6751,7 +6891,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -6771,49 +6911,53 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -6823,7 +6967,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6838,7 +6982,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -6865,7 +7009,7 @@
 2
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6896,7 +7040,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -6931,7 +7075,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -6939,7 +7083,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 43,
+"total": 56,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -6951,7 +7095,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -6966,7 +7110,7 @@
 -5
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -6985,7 +7129,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -7000,7 +7144,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -7040,22 +7184,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Wan'Dale Robinson",
 "team": "TEN",
-"pts": -3,
+"pts": 2,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -7065,26 +7213,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -7099,7 +7251,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -7136,7 +7288,7 @@
 0
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -7167,7 +7319,7 @@
 0
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 }
 ]
@@ -7175,7 +7327,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 37,
+"total": 32,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -7218,7 +7370,7 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -7278,7 +7430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -7288,7 +7440,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -7298,7 +7450,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -7333,19 +7485,19 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Raiders D",
 "team": "LV",
-"pts": 11,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"30 pts allowed",
--5
+"33 pts allowed",
+-10
 ],
 [
 "2 sacks",
@@ -7360,7 +7512,7 @@
 0
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -7378,7 +7530,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 157,
+"total": 175,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -7397,11 +7549,19 @@
 "pos": "QB",
 "name": "Kyler Murray",
 "team": "MIN",
-"pts": 1,
+"pts": 12,
 "comm": null,
 "bd": [
 [
+"206 pass yds",
+5
+],
+[
 "1-yd TD pass",
+6
+],
+[
+"8-yd TD pass",
 6
 ],
 [
@@ -7409,7 +7569,7 @@
 -5
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -7438,7 +7598,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -7461,7 +7621,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -7495,30 +7655,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -7552,7 +7712,7 @@
 3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -7579,14 +7739,14 @@
 1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -7594,8 +7754,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -7606,7 +7766,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -7641,7 +7801,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -7649,7 +7809,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 195,
+"total": 209,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -7671,7 +7831,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -7698,23 +7858,23 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 31,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"19 rushes",
+9
 ],
 [
-"82 rush yds",
-8
+"112 rush yds",
+11
 ],
 [
 "40-yd TD run",
@@ -7725,22 +7885,26 @@
 6
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -7763,7 +7927,7 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -7773,26 +7937,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -7826,7 +7990,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -7855,7 +8019,7 @@
 9
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -7890,7 +8054,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -7921,7 +8085,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -7929,7 +8093,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 163,
+"total": 177,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -7938,9 +8102,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -7950,23 +8118,23 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -7983,24 +8151,32 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8027,7 +8203,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -8050,7 +8226,7 @@
 8
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -8070,7 +8246,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -8080,7 +8256,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -8090,7 +8266,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -8100,7 +8276,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8136,7 +8312,7 @@
 3
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -8159,7 +8335,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8194,7 +8370,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -8225,7 +8401,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -8233,7 +8409,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 160,
+"total": 171,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -8242,16 +8418,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -8268,18 +8444,26 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -8289,7 +8473,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -8350,22 +8534,26 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -8375,7 +8563,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -8400,7 +8588,7 @@
 9
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -8425,7 +8613,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -8452,7 +8640,7 @@
 1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -8483,7 +8671,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -8544,7 +8732,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -8571,7 +8759,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -8581,7 +8769,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -8624,7 +8812,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8643,7 +8831,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -8663,7 +8851,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8698,7 +8886,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -8739,7 +8927,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -8747,7 +8935,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 114,
+"total": 127,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -8766,16 +8954,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 19,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"23 completions",
+8
 ],
 [
-"216 pass yds",
-6
+"238 pass yds",
+8
 ],
 [
 "30-yd TD pass",
@@ -8792,9 +8980,13 @@
 [
 "3 INT",
 -15
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -8811,15 +9003,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8838,7 +9034,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -8872,7 +9068,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -8906,7 +9102,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8929,7 +9125,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -8944,14 +9140,14 @@
 3
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 27,
+"pts": 31,
 "comm": null,
 "bd": [
 [
@@ -8959,8 +9155,8 @@
 15
 ],
 [
-"4 sacks",
-8
+"6 sacks",
+12
 ],
 [
 "2 fum rec",
@@ -8971,7 +9167,7 @@
 0
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -8989,7 +9185,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 97,
+"total": 113,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -9016,7 +9212,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9033,15 +9229,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9068,7 +9268,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9088,7 +9288,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -9098,7 +9298,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -9108,26 +9308,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -9160,7 +9364,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9205,7 +9409,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9223,7 +9427,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 137,
+"total": 141,
 "comm": null,
 "prev": 1891,
 "alive": false,
@@ -9240,7 +9444,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9259,7 +9463,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9300,7 +9504,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9317,23 +9521,23 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -9343,7 +9547,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -9353,26 +9557,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9382,7 +9586,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9407,7 +9611,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9430,7 +9634,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9465,7 +9669,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9496,7 +9700,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -9547,7 +9751,7 @@
 -3
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9584,7 +9788,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9603,7 +9807,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9643,7 +9847,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9678,7 +9882,7 @@
 1
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9693,7 +9897,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -9726,7 +9930,7 @@
 0
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 }
 ]
@@ -9734,7 +9938,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 130,
+"total": 138,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -9765,7 +9969,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -9788,7 +9992,7 @@
 8
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -9825,7 +10029,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9845,7 +10049,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -9855,7 +10059,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -9875,26 +10079,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -9959,7 +10167,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -9967,7 +10175,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 136,
+"total": 154,
 "comm": null,
 "prev": 1716,
 "alive": false,
@@ -9984,19 +10192,19 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -10007,7 +10215,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -10044,22 +10252,26 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10083,7 +10295,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10093,30 +10305,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -10131,7 +10343,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -10141,7 +10353,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10168,7 +10380,7 @@
 1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10183,7 +10395,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10224,7 +10436,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -10232,7 +10444,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 142,
+"total": 162,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -10249,7 +10461,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10266,30 +10478,34 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jaylen Warren",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"132 rush yds",
+"134 rush yds",
 13
 ],
 [
@@ -10297,7 +10513,7 @@
 6
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -10320,7 +10536,7 @@
 9
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -10337,23 +10553,23 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -10373,7 +10589,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10394,19 +10610,23 @@
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 14,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"3 catches",
-5
+"4 catches",
+7
 ],
 [
-"50 rec yds",
+"58 rec yds",
 9
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -10433,7 +10653,7 @@
 3
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -10448,7 +10668,7 @@
 6
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -10489,7 +10709,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -10497,7 +10717,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 120,
+"total": 128,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -10528,7 +10748,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10565,22 +10785,26 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10610,7 +10834,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -10620,7 +10844,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -10630,7 +10854,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10645,7 +10869,7 @@
 9
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -10668,7 +10892,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10709,7 +10933,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -10744,7 +10968,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -10752,7 +10976,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 142,
+"total": 161,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -10769,7 +10993,7 @@
 -5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10788,22 +11012,26 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10826,7 +11054,7 @@
 8
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -10853,7 +11081,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10884,15 +11112,19 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -10912,7 +11144,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -10939,7 +11171,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -10955,11 +11187,15 @@
 6
 ],
 [
+"31-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -11000,7 +11236,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -11008,7 +11244,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 178,
+"total": 179,
 "comm": null,
 "prev": 1925,
 "alive": false,
@@ -11029,7 +11265,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11039,7 +11275,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11094,7 +11330,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11118,26 +11354,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11147,7 +11383,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11171,7 +11407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -11196,7 +11432,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -11231,7 +11467,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11262,7 +11498,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -11291,7 +11527,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11342,7 +11578,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -11382,7 +11618,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11392,7 +11628,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11431,7 +11667,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -11454,7 +11690,7 @@
 3
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11489,7 +11725,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11512,7 +11748,7 @@
 0
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 }
 ]
@@ -11520,7 +11756,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 165,
+"total": 169,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -11541,7 +11777,7 @@
 6
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11558,23 +11794,23 @@
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"67 rush yds",
-6
+"76 rush yds",
+7
 ],
 [
 "5-yd TD run",
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11615,7 +11851,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11632,19 +11868,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11654,7 +11890,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11664,7 +11900,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11687,7 +11923,7 @@
 -3
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -11720,7 +11956,7 @@
 -3
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -11761,7 +11997,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -11796,7 +12032,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -11804,7 +12040,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 121,
+"total": 133,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -11813,9 +12049,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -11825,19 +12065,19 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -11848,7 +12088,7 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -11863,7 +12103,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11890,7 +12130,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -11910,7 +12150,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -11920,7 +12160,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -11940,7 +12180,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -11950,7 +12190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -11977,7 +12217,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -11992,7 +12232,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -12007,7 +12247,7 @@
 -1
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12048,7 +12288,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -12056,7 +12296,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 156,
+"total": 173,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -12065,12 +12305,12 @@
 "pos": "QB",
 "name": "Geno Smith",
 "team": "NYJ",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
-5
+"275 pass yds",
+12
 ],
 [
 "18-yd TD pass",
@@ -12081,16 +12321,20 @@
 7
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -12100,7 +12344,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -12141,7 +12385,7 @@
 8
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -12160,7 +12404,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12177,15 +12421,19 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 6,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"5 catches",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -12195,7 +12443,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -12205,7 +12453,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -12229,7 +12477,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12248,7 +12496,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ DET 12 \u00b7 Q4 14:29",
+"game": "MIN 15 @ DET 12 \u00b7 Q4 8:44",
 "on": true
 },
 {
@@ -12267,7 +12515,7 @@
 9
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -12312,7 +12560,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 }
 ]
@@ -12320,7 +12568,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 138,
+"total": 149,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -12357,22 +12605,26 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12399,7 +12651,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12419,30 +12671,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 21,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"87 rec yds",
-8
+"100 rec yds",
+10
 ],
 [
 "17-yd TD catch",
 7
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -12476,7 +12728,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12501,7 +12753,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -12536,7 +12788,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -12554,7 +12806,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 146,
+"total": 155,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -12566,7 +12818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -12583,15 +12835,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12618,7 +12874,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12637,7 +12893,7 @@
 7
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12647,26 +12903,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"56 rec yds",
+"58 rec yds",
 5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12733,7 +12989,7 @@
 2
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -12778,7 +13034,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -12809,7 +13065,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -12817,7 +13073,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 242,
+"total": 255,
 "comm": null,
 "prev": 1717,
 "alive": false,
@@ -12836,9 +13092,13 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 1,
+"pts": 6,
 "comm": null,
 "bd": [
+[
+"208 pass yds",
+5
+],
 [
 "1 INT",
 -5
@@ -12848,7 +13108,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -12869,15 +13129,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 8,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"21 rushes",
+11
+],
+[
+"51 rush yds",
+5
 ]
 ],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12904,7 +13168,7 @@
 -3
 ]
 ],
-"game": "ATL 0 @ TB 16 \u00b7 Q4 5:29",
+"game": "ATL 0 @ TB 16 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12928,7 +13192,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -12938,7 +13202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 17 @ DAL 24 \u00b7 Q4 10:47",
+"game": "ARI 17 @ DAL 24 \u00b7 Q4 4:08",
 "on": true
 },
 {
@@ -12961,7 +13225,7 @@
 9
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 },
 {
@@ -12972,7 +13236,7 @@
 "comm": null,
 "bd": [
 [
-"132 rush yds",
+"134 rush yds",
 13
 ],
 [
@@ -12980,7 +13244,7 @@
 6
 ]
 ],
-"game": "CLE 6 @ PIT 27 \u00b7 Q4 12:53",
+"game": "CLE 6 @ PIT 27 \u00b7 Q4 8:33",
 "on": true
 },
 {
@@ -13007,7 +13271,7 @@
 6
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -13034,7 +13298,7 @@
 2
 ]
 ],
-"game": "BAL 10 @ BUF 23 \u00b7 Q3 2:02",
+"game": "BAL 10 @ BUF 23 \u00b7 Q4 14:25",
 "on": true
 },
 {
@@ -13049,7 +13313,7 @@
 5
 ]
 ],
-"game": "LV 35 @ NYJ 30 \u00b7 Q4 9:09",
+"game": "LV 35 @ NYJ 33 \u00b7 Q4 4:31",
 "on": true
 },
 {
@@ -13084,7 +13348,7 @@
 0
 ]
 ],
-"game": "IND 7 @ JAX 42 \u00b7 Q4 13:21",
+"game": "IND 7 @ JAX 42 \u00b7 Q4 9:52",
 "on": true
 },
 {
@@ -13115,7 +13379,7 @@
 0
 ]
 ],
-"game": "TEN 21 @ CIN 23 \u00b7 Q4 15:00",
+"game": "TEN 21 @ CIN 23 \u00b7 Q4 11:46",
 "on": true
 }
 ]
@@ -13129,42 +13393,42 @@
 },
 {
 "t": "IND 7 @ JAX 42",
-"s": "Q4 13:21",
+"s": "Q4 9:52",
 "live": true
 },
 {
 "t": "TEN 21 @ CIN 23",
-"s": "Q4 15:00",
+"s": "Q4 11:46",
 "live": true
 },
 {
 "t": "CLE 6 @ PIT 27",
-"s": "Q4 12:53",
+"s": "Q4 8:33",
 "live": true
 },
 {
-"t": "MIN 7 @ DET 12",
-"s": "Q4 14:29",
+"t": "MIN 15 @ DET 12",
+"s": "Q4 8:44",
 "live": true
 },
 {
 "t": "ATL 0 @ TB 16",
-"s": "Q4 5:29",
+"s": "Q4 1:56",
 "live": true
 },
 {
 "t": "ARI 17 @ DAL 24",
-"s": "Q4 10:47",
+"s": "Q4 4:08",
 "live": true
 },
 {
-"t": "LV 35 @ NYJ 30",
-"s": "Q4 9:09",
+"t": "LV 35 @ NYJ 33",
+"s": "Q4 4:31",
 "live": true
 },
 {
 "t": "BAL 10 @ BUF 23",
-"s": "Q3 2:02",
+"s": "Q4 14:25",
 "live": true
 },
 {

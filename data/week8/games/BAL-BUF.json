@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 2:02",
+"clock": "Q4 14:25",
 "score": {
 "BUF": 23,
 "BAL": 10
@@ -24,8 +24,8 @@
 "rec_yds": 6
 },
 "Josh Allen": {
-"pass_cmp": 14,
-"pass_yds": 195,
+"pass_cmp": 16,
+"pass_yds": 208,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 30,
@@ -34,8 +34,8 @@
 ]
 },
 "James Cook": {
-"rush_att": 18,
-"rush_yds": 67,
+"rush_att": 20,
+"rush_yds": 76,
 "rec": 2,
 "rec_yds": 21,
 "rush_td_lengths": [
