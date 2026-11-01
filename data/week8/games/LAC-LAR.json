@@ -1,33 +1,33 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 7:22",
 "score": {
 "LAR": 24,
 "LAC": 9
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 18,
-"pass_yds": 213,
+"pass_cmp": 22,
+"pass_yds": 241,
 "int": 2,
-"rush_att": 2,
-"rush_yds": 8
+"rush_att": 4,
+"rush_yds": 15
 },
 "Ladd McConkey": {
 "rec": 4,
 "rec_yds": 86
 },
 "Matthew Stafford": {
-"pass_cmp": 15,
-"pass_yds": 153,
+"pass_cmp": 16,
+"pass_yds": 151,
 "int": 1,
 "pass_td_lengths": [
 18
 ]
 },
 "Blake Corum": {
-"rush_att": 9,
-"rush_yds": 68,
+"rush_att": 11,
+"rush_yds": 73,
 "rush_td_lengths": [
 23
 ]
@@ -42,8 +42,8 @@
 ]
 },
 "Puka Nacua": {
-"rec": 10,
-"rec_yds": 82,
+"rec": 11,
+"rec_yds": 80,
 "rec_td_lengths": [
 18
 ]
@@ -61,7 +61,7 @@
 },
 "defenses": {
 "LAR": {
-"sacks": 1,
+"sacks": 2,
 "int": 2,
 "fum_rec": 0,
 "safeties": 0,
