@@ -1,11 +1,74 @@
-{"status":"live","clock":"Q2 8:16","score":{"TEN":13,"CIN":7},
- "players":{
-  "Tony Pollard":{"rush_att":8,"rush_yds":62,"rush_td_lengths":[40],"rec":2,"rec_yds":13},
-  "Wan'Dale Robinson":{"rec":4,"rec_yds":35,"fl":1},
-  "Joe Burrow":{"pass_cmp":7,"pass_yds":82,"pass_td_lengths":[30],"int":1},
-  "Chase Brown":{"rush_att":5,"rush_yds":32,"rec":2,"rec_yds":9},
-  "Ja'Marr Chase":{"rec":3,"rec_yds":53,"rec_td_lengths":[30]},
-  "Tee Higgins":{"rec":2,"rec_yds":20}
- },
- "kickers":{"Evan McPherson":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":1,"xp_missed":0}},
- "defenses":{"TEN":{"sacks":0,"int":1,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"CIN":{"sacks":0,"int":0,"fum_rec":1,"safeties":0,"def_st_td_lengths":[]}}}
+{
+"status": "live",
+"clock": "Q2 4:30",
+"score": {
+"CIN": 7,
+"TEN": 13
+},
+"players": {
+"Tony Pollard": {
+"rush_att": 8,
+"rush_yds": 62,
+"rec": 2,
+"rec_yds": 13,
+"rush_td_lengths": [
+40
+]
+},
+"Wan'Dale Robinson": {
+"rec": 4,
+"rec_yds": 35,
+"fl": 1
+},
+"Joe Burrow": {
+"pass_cmp": 10,
+"pass_yds": 124,
+"int": 1,
+"pass_td_lengths": [
+30
+]
+},
+"Chase Brown": {
+"rush_att": 6,
+"rush_yds": 41,
+"rec": 2,
+"rec_yds": 9
+},
+"Ja'Marr Chase": {
+"rec": 5,
+"rec_yds": 62,
+"rec_td_lengths": [
+30
+]
+},
+"Tee Higgins": {
+"rec": 3,
+"rec_yds": 53
+}
+},
+"kickers": {
+"Evan McPherson": {
+"xp_made": 1,
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_missed": 0
+}
+},
+"defenses": {
+"CIN": {
+"fum_rec": 1,
+"sacks": 0,
+"int": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"TEN": {
+"sacks": 1,
+"int": 1,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

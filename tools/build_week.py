@@ -77,7 +77,7 @@ meta = dict(updated=('Final · ' if final else 'Updated ') + stamp,
             status='All games final' if final else (f'Live · {nlive} game{"s" if nlive != 1 else ""} in progress' if nlive else f'{nfin} of {len(sched)} games final'),
             live=not final, audit=False, cut=CUT, cutLive=True,
             cutNote=f"bottom {CUT} by Week {WK} score are cut" + ("" if final else " · line moves as games play"),
-            footnote=f"Live scoring under league rules from box scores (CBS Sports) and play-by-play (Sportradar). Updated about every 20 minutes during games; "
+            footnote=f"Live scoring under league rules from ESPN box scores and play-by-play. Updated about every 10 minutes during games; "
                      f"unofficial until the commissioner's results. Season = Weeks 1–{WK-1} official + Week {WK} live. Defense win/loss bonus applies when the game ends.")
 data = dict(week=WK, teams=out, games=glist)
 json.dump(data, open(f'{W}/page_data.json', 'w'), indent=0)

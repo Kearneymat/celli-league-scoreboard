@@ -1,10 +1,67 @@
-{"status":"live","clock":"Q2 4:04","score":{"ATL":0,"TB":9},
- "players":{
-  "Michael Penix Jr.":{"pass_cmp":2,"pass_yds":24,"int":3,"rush_att":1,"rush_yds":2},
-  "Bijan Robinson":{"rush_att":8,"rush_yds":22},
-  "Kyle Pitts":{"rec":1,"rec_yds":5},
-  "Bucky Irving":{"rush_att":10,"rush_yds":63,"fl":1}
- },
- "kickers":{"Chase McLaughlin":{"fg_made_dist":[46,34,42],"fg_missed_dist":[],"xp_made":0,"xp_missed":0},
-            "Nick Folk":{"fg_made_dist":[],"fg_missed_dist":[55],"miss_label":{"55":"50+ yd"},"xp_made":0,"xp_missed":0}},
- "defenses":{"ATL":{"sacks":0,"int":0,"fum_rec":1,"safeties":0,"def_st_td_lengths":[]},"TB":{"sacks":0,"int":3,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]}}}
+{
+"status": "live",
+"clock": "Q2 2:00",
+"score": {
+"TB": 9,
+"ATL": 0
+},
+"players": {
+"Michael Penix Jr.": {
+"pass_cmp": 2,
+"pass_yds": 24,
+"int": 3,
+"rush_att": 1,
+"rush_yds": 2
+},
+"Bijan Robinson": {
+"rush_att": 12,
+"rush_yds": 62
+},
+"Kyle Pitts": {
+"rec": 1,
+"rec_yds": 5
+},
+"Bucky Irving": {
+"rush_att": 16,
+"rush_yds": 90,
+"fl": 1
+}
+},
+"kickers": {
+"Chase McLaughlin": {
+"fg_made_dist": [
+46,
+34,
+42
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
+"Nick Folk": {
+"fg_missed_dist": [
+53
+],
+"fg_made_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"TB": {
+"int": 3,
+"sacks": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"ATL": {
+"fum_rec": 1,
+"sacks": 0,
+"int": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

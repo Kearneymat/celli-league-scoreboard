@@ -1,11 +1,65 @@
-{"status":"live","clock":"Q2 6:37","score":{"IND":0,"JAX":14},
- "players":{
-  "Keenan Allen":{"rec":2,"rec_yds":16},
-  "Trevor Lawrence":{"pass_cmp":5,"pass_yds":112,"pass_td_lengths":[12,31],"rush_att":1,"rush_yds":2},
-  "Bhayshul Tuten":{"rush_att":6,"rush_yds":28},
-  "Chris Rodriguez Jr.":{"rush_att":2,"rush_yds":4},
-  "Brenton Strange":{"rec":1,"rec_yds":46},
-  "Parker Washington":{"rush_att":1,"rush_yds":10}
- },
- "kickers":{"Cam Little":{"fg_made_dist":[],"fg_missed_dist":[],"xp_made":2,"xp_missed":0}},
- "defenses":{"IND":{"sacks":1,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"JAX":{"sacks":2,"int":0,"fum_rec":1,"safeties":0,"def_st_td_lengths":[]}}}
+{
+"status": "live",
+"clock": "Q2 4:44",
+"score": {
+"JAX": 14,
+"IND": 0
+},
+"players": {
+"Keenan Allen": {
+"rec": 3,
+"rec_yds": 30
+},
+"Trevor Lawrence": {
+"pass_cmp": 5,
+"pass_yds": 112,
+"rush_att": 1,
+"rush_yds": 2,
+"pass_td_lengths": [
+12,
+31
+]
+},
+"Bhayshul Tuten": {
+"rush_att": 10,
+"rush_yds": 48
+},
+"Parker Washington": {
+"rush_att": 1,
+"rush_yds": 10
+},
+"Chris Rodriguez Jr.": {
+"rush_att": 2,
+"rush_yds": 4
+},
+"Brenton Strange": {
+"rec": 2,
+"rec_yds": 55
+}
+},
+"kickers": {
+"Cam Little": {
+"xp_made": 2,
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_missed": 0
+}
+},
+"defenses": {
+"JAX": {
+"sacks": 2,
+"fum_rec": 1,
+"int": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"IND": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

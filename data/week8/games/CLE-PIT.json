@@ -1,12 +1,73 @@
-{"status":"live","clock":"Q2 4:11","score":{"CLE":3,"PIT":10},
- "players":{
-  "Quinshon Judkins":{"rush_att":3,"rush_yds":8},
-  "Harold Fannin":{"rec":1,"rec_yds":2},
-  "Aaron Rodgers":{"pass_cmp":6,"pass_yds":50},
-  "Jaylen Warren":{"rush_att":7,"rush_yds":81},
-  "Pat Freiermuth":{"rec":1,"rec_yds":7},
-  "DK Metcalf":{"rec":1,"rec_yds":4}
- },
- "kickers":{"Chris Boswell":{"fg_made_dist":[20],"fg_missed_dist":[55],"miss_label":{"55":"50+ yd"},"xp_made":1,"xp_missed":0},
-            "Andre Szmyt":{"fg_made_dist":[32],"fg_missed_dist":[],"xp_made":0,"xp_missed":0}},
- "defenses":{"CLE":{"sacks":0,"int":0,"fum_rec":0,"safeties":0,"def_st_td_lengths":[]},"PIT":{"sacks":3,"int":0,"fum_rec":2,"safeties":0,"def_st_td_lengths":[]}}}
+{
+"status": "live",
+"clock": "Q2 3:27",
+"score": {
+"PIT": 13,
+"CLE": 3
+},
+"players": {
+"Quinshon Judkins": {
+"rush_att": 6,
+"rush_yds": 20
+},
+"Harold Fannin": {
+"rec": 5,
+"rec_yds": 56,
+"fl": 1
+},
+"Aaron Rodgers": {
+"pass_cmp": 6,
+"pass_yds": 50
+},
+"Jaylen Warren": {
+"rush_att": 9,
+"rush_yds": 79
+},
+"Pat Freiermuth": {
+"rec": 1,
+"rec_yds": 7
+},
+"DK Metcalf": {
+"rec": 1,
+"rec_yds": 4
+}
+},
+"kickers": {
+"Chris Boswell": {
+"fg_made_dist": [
+20,
+37
+],
+"fg_missed_dist": [
+57
+],
+"xp_made": 1,
+"xp_missed": 0
+},
+"Andre Szmyt": {
+"fg_made_dist": [
+32
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"PIT": {
+"sacks": 3,
+"fum_rec": 2,
+"int": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"CLE": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}
