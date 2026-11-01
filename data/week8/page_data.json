@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 221,
+"total": 223,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -16,7 +16,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -252,7 +252,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -260,15 +260,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 }
 ]
@@ -374,7 +374,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -504,7 +504,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -586,7 +586,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 183,
+"total": 194,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -646,7 +646,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -667,19 +667,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -694,7 +698,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -777,7 +781,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -785,11 +789,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -812,7 +816,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -850,7 +854,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 265,
+"total": 267,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -954,7 +958,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -1111,7 +1115,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -1134,14 +1138,14 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -1149,15 +1153,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 }
 ]
@@ -1165,7 +1169,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 351,
+"total": 354,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1354,7 +1358,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -1399,14 +1403,14 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -1414,11 +1418,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -1459,7 +1463,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -1467,15 +1471,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 }
 ]
@@ -1483,7 +1487,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 301,
+"total": 302,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1726,7 +1730,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -1734,11 +1738,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -1979,7 +1983,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2002,7 +2006,7 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2021,7 +2025,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2175,7 +2179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2185,7 +2189,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2575,7 +2579,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2839,7 +2843,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -2913,7 +2917,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3313,7 +3317,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3351,7 +3355,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 244,
+"total": 246,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3542,7 +3546,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3581,7 +3585,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -3589,15 +3593,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -3711,7 +3715,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3743,7 +3747,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3827,7 +3831,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3886,7 +3890,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -3924,7 +3928,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 276,
+"total": 278,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3945,7 +3949,7 @@
 12
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4088,7 +4092,7 @@
 7
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4103,7 +4107,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -4118,7 +4122,7 @@
 5
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4179,7 +4183,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -4187,15 +4191,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -4237,7 +4241,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 289,
+"total": 291,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4305,7 +4309,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -4486,7 +4490,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -4494,15 +4498,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -4640,7 +4644,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4727,7 +4731,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -4782,7 +4786,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -5040,7 +5044,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -5148,7 +5152,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 181,
+"total": 191,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5206,7 +5210,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -5267,19 +5271,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -5431,7 +5439,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 250,
+"total": 251,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5564,7 +5572,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -5642,14 +5650,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -5657,11 +5665,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -5810,7 +5818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5964,7 +5972,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -6183,7 +6191,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -6294,7 +6302,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 }
 ]
@@ -6302,7 +6310,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 172,
+"total": 174,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -6366,7 +6374,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6402,7 +6410,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -6536,7 +6544,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6544,15 +6552,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -6590,7 +6598,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 181,
+"total": 194,
 "comm": null,
 "prev": 1501,
 "alive": false,
@@ -6663,7 +6671,7 @@
 8
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -6716,19 +6724,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -6775,7 +6787,7 @@
 5
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6821,7 +6833,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -6829,18 +6841,18 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6848,15 +6860,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -6894,7 +6906,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 270,
+"total": 281,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -6992,7 +7004,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -7043,19 +7055,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -7106,7 +7122,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -7127,7 +7143,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -7135,11 +7151,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -7162,7 +7178,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -7415,7 +7431,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -7623,7 +7639,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -7868,7 +7884,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 96,
+"total": 106,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -7952,19 +7968,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -8131,7 +8151,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 109,
+"total": 119,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8143,7 +8163,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -8183,7 +8203,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8213,26 +8233,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -8291,7 +8315,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -8368,7 +8392,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 }
 ]
@@ -8424,7 +8448,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9400,7 +9424,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -9492,7 +9516,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -9585,7 +9609,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 }
 ]
@@ -9593,7 +9617,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 219,
+"total": 221,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -9605,7 +9629,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -9781,7 +9805,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -9800,7 +9824,7 @@
 2
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9825,7 +9849,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9833,15 +9857,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -9879,7 +9903,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 267,
+"total": 274,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -9888,15 +9912,19 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": -5,
+"pts": 2,
 "comm": null,
 "bd": [
+[
+"18-yd TD pass",
+7
+],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -9957,7 +9985,7 @@
 6
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -10036,7 +10064,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10165,7 +10193,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 }
 ]
@@ -10173,7 +10201,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 158,
+"total": 161,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -10185,7 +10213,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10209,7 +10237,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10359,7 +10387,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -10367,11 +10395,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -10412,7 +10440,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10420,15 +10448,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 }
 ]
@@ -10480,7 +10508,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10520,7 +10548,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10623,7 +10651,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10751,7 +10779,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10791,7 +10819,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10845,7 +10873,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10903,7 +10931,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10954,7 +10982,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -10984,7 +11012,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 216,
+"total": 228,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -10996,7 +11024,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -11046,7 +11074,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -11107,19 +11135,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -11192,14 +11224,14 @@
 2
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -11207,15 +11239,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -11257,7 +11289,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 211,
+"total": 213,
 "comm": null,
 "prev": 1716,
 "alive": false,
@@ -11313,7 +11345,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11498,7 +11530,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -11506,15 +11538,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -11552,7 +11584,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 224,
+"total": 226,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -11791,7 +11823,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -11799,15 +11831,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -11885,7 +11917,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12102,7 +12134,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 209,
+"total": 212,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -12254,7 +12286,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -12293,7 +12325,7 @@
 "pos": "K",
 "name": "Brandon McManus",
 "team": "LAR",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
@@ -12301,11 +12333,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -12342,7 +12374,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 12,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -12350,15 +12382,15 @@
 10
 ],
 [
-"1 INT",
-2
+"2 INT",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -12449,7 +12481,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -12575,7 +12607,7 @@
 1
 ]
 ],
-"game": "KC 17 @ DEN 13 \u00b7 Q2 0:19",
+"game": "KC 17 @ DEN 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12665,7 +12697,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 150,
+"total": 160,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -12745,7 +12777,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -12762,19 +12794,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -12811,7 +12847,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -12964,11 +13000,15 @@
 "comm": null,
 "bd": [
 [
-"1 INT",
--5
+"200 pass yds",
+5
+],
+[
+"2 INT",
+-10
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -13000,7 +13040,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13166,7 +13206,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13358,7 +13398,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13498,7 +13538,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13612,7 +13652,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13801,7 +13841,7 @@
 0
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -13855,7 +13895,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -14037,7 +14077,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -14107,7 +14147,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 186,
+"total": 196,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -14224,19 +14264,23 @@
 "pos": "WR",
 "name": "Puka Nacua",
 "team": "LAR",
-"pts": 15,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"64 rec yds",
-6
+"82 rec yds",
+8
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "LAC 9 @ LAR 17 \u00b7 Q3 8:17",
+"game": "LAC 9 @ LAR 24 \u00b7 Q3 3:41",
 "on": true
 },
 {
@@ -14265,7 +14309,7 @@
 5
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -14320,7 +14364,7 @@
 -3
 ]
 ],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -14404,7 +14448,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 3 @ MIA 13 \u00b7 Halftime",
+"game": "NE 3 @ MIA 13 \u00b7 Q3 11:52",
 "on": true
 },
 {
@@ -14768,18 +14812,18 @@
 "live": false
 },
 {
-"t": "LAC 9 @ LAR 17",
-"s": "Q3 8:17",
+"t": "LAC 9 @ LAR 24",
+"s": "Q3 3:41",
 "live": true
 },
 {
 "t": "NE 3 @ MIA 13",
-"s": "Halftime",
+"s": "Q3 11:52",
 "live": true
 },
 {
 "t": "KC 17 @ DEN 13",
-"s": "Q2 0:19",
+"s": "Halftime",
 "live": true
 },
 {

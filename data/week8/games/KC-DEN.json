@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:19",
+"clock": "Halftime",
 "score": {
 "DEN": 13,
 "KC": 17
@@ -8,7 +8,7 @@
 "players": {
 "Patrick Mahomes": {
 "pass_cmp": 13,
-"pass_yds": 195,
+"pass_yds": 196,
 "rush_att": 1,
 "rush_yds": 2,
 "pass_td_lengths": [
@@ -31,7 +31,7 @@
 },
 "Travis Kelce": {
 "rec": 3,
-"rec_yds": 26
+"rec_yds": 27
 }
 },
 "kickers": {

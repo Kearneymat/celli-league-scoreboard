@@ -1,15 +1,15 @@
 {
 "status": "live",
-"clock": "Q3 8:17",
+"clock": "Q3 3:41",
 "score": {
-"LAR": 17,
+"LAR": 24,
 "LAC": 9
 },
 "players": {
 "Justin Herbert": {
-"pass_cmp": 15,
-"pass_yds": 191,
-"int": 1,
+"pass_cmp": 16,
+"pass_yds": 200,
+"int": 2,
 "rush_att": 2,
 "rush_yds": 8
 },
@@ -18,9 +18,12 @@
 "rec_yds": 86
 },
 "Matthew Stafford": {
-"pass_cmp": 12,
-"pass_yds": 109,
-"int": 1
+"pass_cmp": 14,
+"pass_yds": 141,
+"int": 1,
+"pass_td_lengths": [
+18
+]
 },
 "Blake Corum": {
 "rush_att": 8,
@@ -30,8 +33,8 @@
 ]
 },
 "Kyren Williams": {
-"rush_att": 4,
-"rush_yds": 11,
+"rush_att": 5,
+"rush_yds": 15,
 "rec": 1,
 "rec_yds": 3,
 "rush_td_lengths": [
@@ -39,8 +42,11 @@
 ]
 },
 "Puka Nacua": {
-"rec": 9,
-"rec_yds": 64
+"rec": 10,
+"rec_yds": 82,
+"rec_td_lengths": [
+18
+]
 }
 },
 "kickers": {
@@ -48,14 +54,14 @@
 "fg_made_dist": [
 30
 ],
-"xp_made": 2,
+"xp_made": 3,
 "fg_missed_dist": [],
 "xp_missed": 0
 }
 },
 "defenses": {
 "LAR": {
-"int": 1,
+"int": 2,
 "sacks": 0,
 "fum_rec": 0,
 "safeties": 0,
