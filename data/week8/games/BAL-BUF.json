@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 5:58",
+"clock": "End of Q4",
 "score": {
 "BUF": 36,
 "BAL": 10
@@ -20,8 +20,8 @@
 "rec_yds": 22
 },
 "Mark Andrews": {
-"rec": 2,
-"rec_yds": 6
+"rec": 3,
+"rec_yds": 14
 },
 "Josh Allen": {
 "pass_cmp": 21,
@@ -94,7 +94,7 @@
 "BUF": {
 "sacks": 4,
 "int": 1,
-"fum_rec": 1,
+"fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
 },

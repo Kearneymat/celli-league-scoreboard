@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 223,
+"total": 224,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -77,19 +77,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -119,7 +119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -142,7 +142,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -179,7 +179,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -264,7 +264,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 }
 ]
@@ -272,7 +272,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 238,
+"total": 258,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -281,16 +281,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -309,11 +309,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -328,7 +332,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -394,23 +398,23 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -420,7 +424,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -452,7 +456,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -557,13 +561,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -571,7 +571,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 131,
+"total": 132,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -610,19 +610,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -656,7 +656,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -666,7 +666,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -707,7 +707,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -753,7 +753,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -866,7 +866,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -967,7 +967,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -1016,7 +1016,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1077,7 +1077,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 }
 ]
@@ -1085,7 +1085,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 286,
+"total": 304,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1108,16 +1108,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -1136,30 +1136,34 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1250,7 +1254,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1283,7 +1287,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1303,7 +1307,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -1352,7 +1356,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 }
 ]
@@ -1397,7 +1401,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1416,7 +1420,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1505,7 +1509,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1515,7 +1519,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1538,7 +1542,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1584,7 +1588,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1612,7 +1616,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -1785,7 +1789,7 @@
 -3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1836,7 +1840,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -1891,13 +1895,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -1939,7 +1939,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 253,
+"total": 247,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2055,7 +2055,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2072,23 +2072,23 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2111,7 +2111,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2140,7 +2140,7 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 9,
+"pts": 0,
 "comm": null,
 "bd": [
 [
@@ -2150,9 +2150,13 @@
 [
 "3 XP",
 3
+],
+[
+"1 missed XP",
+-9
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2230,7 +2234,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 339,
+"total": 357,
 "comm": null,
 "prev": 2098,
 "alive": true,
@@ -2239,16 +2243,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -2267,11 +2271,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2290,7 +2298,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2392,7 +2400,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2435,7 +2443,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2490,15 +2498,15 @@
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 3,
+"pts": 4,
 "comm": null,
 "bd": [
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2566,7 +2574,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 210,
+"total": 239,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -2575,16 +2583,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -2603,11 +2611,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2626,7 +2638,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2663,7 +2675,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2680,23 +2692,27 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2758,7 +2774,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2815,13 +2831,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2855,7 +2867,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 208,
+"total": 226,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -2864,16 +2876,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -2892,11 +2904,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -2911,26 +2927,26 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -2957,7 +2973,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -3012,7 +3028,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3022,7 +3038,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3055,7 +3071,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3148,13 +3164,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -3162,7 +3174,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 236,
+"total": 252,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3193,7 +3205,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3216,7 +3228,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3292,26 +3304,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 10,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"8 catches",
+8
 ],
 [
-"50 rec yds",
-5
+"111 rec yds",
+11
+],
+[
+"13-yd TD catch",
+7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3330,7 +3346,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3401,7 +3417,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -3538,7 +3554,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3592,7 +3608,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3695,13 +3711,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -3709,7 +3721,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 227,
+"total": 235,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -3806,30 +3818,30 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -3867,7 +3879,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -3884,10 +3896,15 @@
 "pos": "TE",
 "name": "Mark Andrews",
 "team": "BAL",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"bd": [
+[
+"3 catches",
+5
+]
+],
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -3942,7 +3959,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -3984,7 +4001,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 250,
+"total": 262,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -3993,16 +4010,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -4021,11 +4038,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -4078,19 +4099,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4100,30 +4121,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -4165,7 +4186,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4204,7 +4225,7 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 9,
+"pts": 0,
 "comm": null,
 "bd": [
 [
@@ -4214,9 +4235,13 @@
 [
 "3 XP",
 3
+],
+[
+"1 missed XP",
+-9
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4231,7 +4256,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -4290,7 +4315,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4390,7 +4415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4440,7 +4465,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4517,13 +4542,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -4531,7 +4552,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 242,
+"total": 264,
 "comm": null,
 "prev": 1900,
 "alive": false,
@@ -4580,19 +4601,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4641,7 +4662,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4651,30 +4672,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -4733,7 +4758,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4750,7 +4775,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -4762,6 +4787,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -4770,7 +4799,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4809,13 +4838,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -4849,7 +4874,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 150,
+"total": 159,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -4870,7 +4895,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4885,7 +4910,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4954,7 +4979,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -4974,7 +4999,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -5031,7 +5056,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -5043,6 +5068,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -5051,7 +5080,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5076,13 +5105,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5124,7 +5149,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 184,
+"total": 201,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5133,16 +5158,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -5161,11 +5186,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5184,7 +5213,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5207,7 +5236,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5243,7 +5272,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -5272,7 +5301,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5282,7 +5311,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5314,7 +5343,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5334,7 +5363,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -5389,13 +5418,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5413,7 +5438,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 178,
+"total": 181,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5435,7 +5460,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5495,30 +5520,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5537,7 +5566,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5596,7 +5625,7 @@
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 9,
+"pts": 0,
 "comm": null,
 "bd": [
 [
@@ -5606,9 +5635,13 @@
 [
 "3 XP",
 3
+],
+[
+"1 missed XP",
+-9
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5652,7 +5685,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 206,
+"total": 235,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -5671,16 +5704,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -5699,11 +5732,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5795,30 +5832,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -5955,7 +5996,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -5990,7 +6031,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6055,7 +6096,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6093,7 +6134,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6116,7 +6157,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6149,7 +6190,7 @@
 1
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6182,7 +6223,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6207,13 +6248,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -6221,7 +6258,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 149,
+"total": 154,
 "comm": null,
 "prev": 1501,
 "alive": false,
@@ -6258,7 +6295,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6277,7 +6314,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6287,7 +6324,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6308,19 +6345,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6344,7 +6381,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6377,7 +6414,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6403,7 +6440,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -6415,6 +6452,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -6423,7 +6464,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6433,7 +6474,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6448,19 +6489,19 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 12,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"24 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "4 sacks",
@@ -6473,13 +6514,9 @@
 [
 "1 fum rec",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 }
 ]
@@ -6487,7 +6524,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 220,
+"total": 221,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -6524,7 +6561,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6640,7 +6677,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6650,7 +6687,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6690,15 +6727,15 @@
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 3,
+"pts": 4,
 "comm": null,
 "bd": [
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -6708,7 +6745,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -6760,7 +6797,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 210,
+"total": 219,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -6797,7 +6834,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6812,7 +6849,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6831,7 +6868,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6888,7 +6925,7 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -6908,7 +6945,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6927,7 +6964,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6959,7 +6996,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -6994,7 +7031,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -7006,6 +7043,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -7014,7 +7055,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7073,13 +7114,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -7087,7 +7124,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 237,
+"total": 266,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -7096,16 +7133,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -7124,11 +7161,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -7187,7 +7228,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -7242,30 +7283,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -7337,7 +7382,7 @@
 3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7362,13 +7407,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -7410,7 +7451,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 94,
+"total": 89,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -7422,7 +7463,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7498,7 +7539,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -7508,7 +7549,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7535,7 +7576,7 @@
 -3
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -7558,7 +7599,7 @@
 8
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7637,12 +7678,12 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 12,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"24 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "4 sacks",
@@ -7655,13 +7696,9 @@
 [
 "1 fum rec",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 }
 ]
@@ -7761,7 +7798,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -7780,7 +7817,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7803,7 +7840,7 @@
 8
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -7885,7 +7922,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 204,
+"total": 217,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -8007,30 +8044,34 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -8056,15 +8097,15 @@
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 3,
+"pts": 4,
 "comm": null,
 "bd": [
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -8158,7 +8199,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 238,
+"total": 242,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -8180,7 +8221,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8233,49 +8274,49 @@
 6
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -8285,7 +8326,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8304,7 +8345,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8351,7 +8392,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8438,13 +8479,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -8452,7 +8489,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 263,
+"total": 290,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -8489,23 +8526,23 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -8524,30 +8561,34 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8615,7 +8656,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8656,7 +8697,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8698,7 +8739,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -8710,6 +8751,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -8718,7 +8763,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8777,13 +8822,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -8791,7 +8832,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 219,
+"total": 239,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -8800,16 +8841,16 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -8828,11 +8869,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -8867,7 +8912,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -8912,23 +8957,23 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 26,
+"pts": 29,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"93 rec yds",
-9
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -8956,7 +9001,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9055,13 +9100,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -9199,7 +9240,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9218,7 +9259,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9251,7 +9292,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9304,7 +9345,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -9329,13 +9370,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -9343,7 +9380,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 201,
+"total": 224,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -9352,26 +9389,31 @@
 "pos": "QB",
 "name": "Matthew Stafford",
 "team": "LAR",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 49,
+"pts": 66,
 "comm": null,
 "bd": [
 [
-"30 completions",
-15
+"34 completions",
+19
 ],
 [
-"345 pass yds",
-19
+"401 pass yds",
+25
 ],
 [
 "30-yd TD pass",
@@ -9390,11 +9432,15 @@
 8
 ],
 [
+"18-yd TD pass",
+7
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -9404,26 +9450,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9521,14 +9567,14 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -9540,6 +9586,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -9548,22 +9598,22 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 3,
+"pts": 4,
 "comm": null,
 "bd": [
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -9607,7 +9657,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 147,
+"total": 157,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -9634,7 +9684,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9651,19 +9701,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9709,7 +9759,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9766,7 +9816,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -9778,6 +9828,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -9786,7 +9840,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9796,7 +9850,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -9845,7 +9899,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 }
 ]
@@ -9853,7 +9907,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 168,
+"total": 189,
 "comm": null,
 "prev": 1891,
 "alive": false,
@@ -9870,7 +9924,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9889,7 +9943,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -9946,23 +10000,27 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -9999,7 +10057,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10022,7 +10080,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10053,7 +10111,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -10065,6 +10123,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -10073,7 +10135,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10132,13 +10194,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -10400,7 +10458,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10487,7 +10545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10497,7 +10555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -10520,7 +10578,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10577,7 +10635,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -10619,7 +10677,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 191,
+"total": 204,
 "comm": null,
 "prev": 1716,
 "alive": false,
@@ -10636,7 +10694,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10709,19 +10767,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10760,23 +10818,27 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -10813,7 +10875,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10868,7 +10930,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -10893,13 +10955,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -10907,7 +10965,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 192,
+"total": 221,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -10924,7 +10982,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -10941,19 +10999,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11014,23 +11072,27 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -11047,19 +11109,23 @@
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 10,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"8 catches",
+8
 ],
 [
-"50 rec yds",
-5
+"111 rec yds",
+11
+],
+[
+"13-yd TD catch",
+7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11150,7 +11216,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -11175,13 +11241,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -11189,7 +11251,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 127,
+"total": 137,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -11220,7 +11282,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11263,19 +11325,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11314,7 +11376,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11344,7 +11406,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -11356,6 +11418,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -11364,7 +11430,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11399,13 +11465,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -11447,7 +11509,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 196,
+"total": 197,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -11464,7 +11526,7 @@
 -5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11483,26 +11545,26 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11625,7 +11687,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11645,7 +11707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -11690,7 +11752,7 @@
 20
 ]
 ],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -11715,13 +11777,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -11750,7 +11808,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11760,7 +11818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11856,7 +11914,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11866,7 +11924,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -11976,13 +12034,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -11990,7 +12044,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 116,
+"total": 125,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -12011,7 +12065,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12091,7 +12145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -12101,7 +12155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12111,7 +12165,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12156,7 +12210,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 15,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -12168,6 +12222,10 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "missed 61-yd FG",
 0
 ],
@@ -12176,7 +12234,7 @@
 3
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12240,7 +12298,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 186,
+"total": 202,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -12261,7 +12319,7 @@
 6
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12271,7 +12329,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -12294,7 +12352,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12363,7 +12421,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12379,19 +12437,23 @@
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 10,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"8 catches",
+8
 ],
 [
-"50 rec yds",
-5
+"111 rec yds",
+11
+],
+[
+"13-yd TD catch",
+7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12484,13 +12546,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -12569,7 +12627,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12618,7 +12676,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12664,7 +12722,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12715,7 +12773,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -12808,13 +12866,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -12889,7 +12943,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13030,7 +13084,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13118,7 +13172,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 203,
+"total": 216,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -13159,26 +13213,26 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13230,23 +13284,27 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 24,
+"pts": 36,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"9 catches",
+9
 ],
 [
-"100 rec yds",
-10
+"134 rec yds",
+13
 ],
 [
 "17-yd TD catch",
 7
+],
+[
+"18-yd TD catch",
+7
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -13293,7 +13351,7 @@
 7
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13373,7 +13431,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 149,
+"total": 150,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -13385,7 +13443,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13402,19 +13460,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13468,7 +13526,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13487,7 +13545,7 @@
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13497,7 +13555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAC 0 @ LAR 0 \u00b7 Q1 12:36",
+"game": "LAC 0 @ LAR 0 \u00b7 Q1 9:01",
 "on": true
 },
 {
@@ -13554,7 +13612,7 @@
 3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13623,13 +13681,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -13637,7 +13691,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 306,
+"total": 326,
 "comm": null,
 "prev": 1717,
 "alive": false,
@@ -13684,7 +13738,7 @@
 6
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13705,19 +13759,19 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"22 rushes",
-12
+"23 rushes",
+13
 ],
 [
-"51 rush yds",
+"54 rush yds",
 5
 ]
 ],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13773,25 +13827,6 @@
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 10,
-"comm": null,
-"bd": [
-[
-"5 catches",
-5
-],
-[
-"50 rec yds",
-5
-]
-],
-"game": "ARI 24 @ DAL 27 \u00b7 Q4 1:57",
-"on": true
-},
-{
-"pos": "WR",
-"name": "Ja'Marr Chase",
-"team": "CIN",
 "pts": 26,
 "comm": null,
 "bd": [
@@ -13800,15 +13835,38 @@
 8
 ],
 [
-"93 rec yds",
+"111 rec yds",
+11
+],
+[
+"13-yd TD catch",
+7
+]
+],
+"game": "ARI 30 @ DAL 30 \u00b7 End of Q4",
+"on": true
+},
+{
+"pos": "WR",
+"name": "Ja'Marr Chase",
+"team": "CIN",
+"pts": 29,
+"comm": null,
+"bd": [
+[
+"9 catches",
 9
+],
+[
+"110 rec yds",
+11
 ],
 [
 "30-yd TD catch",
 9
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 },
 {
@@ -13879,7 +13937,7 @@
 3
 ]
 ],
-"game": "BAL 10 @ BUF 36 \u00b7 Q4 5:58",
+"game": "BAL 10 @ BUF 36 \u00b7 End of Q4",
 "on": true
 },
 {
@@ -13956,13 +14014,9 @@
 [
 "1 safety",
 5
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "TEN 36 @ CIN 29 \u00b7 Q4 3:01",
+"game": "TEN 36 @ CIN 36 \u00b7 Q4 0:32",
 "on": true
 }
 ]
@@ -13980,8 +14034,8 @@
 "live": false
 },
 {
-"t": "TEN 36 @ CIN 29",
-"s": "Q4 3:01",
+"t": "TEN 36 @ CIN 36",
+"s": "Q4 0:32",
 "live": true
 },
 {
@@ -14000,8 +14054,8 @@
 "live": false
 },
 {
-"t": "ARI 24 @ DAL 27",
-"s": "Q4 1:57",
+"t": "ARI 30 @ DAL 30",
+"s": "End of Q4",
 "live": true
 },
 {
@@ -14011,12 +14065,12 @@
 },
 {
 "t": "BAL 10 @ BUF 36",
-"s": "Q4 5:58",
+"s": "End of Q4",
 "live": true
 },
 {
 "t": "LAC 0 @ LAR 0",
-"s": "Q1 12:36",
+"s": "Q1 9:01",
 "live": true
 },
 {
