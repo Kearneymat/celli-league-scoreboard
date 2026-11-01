@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 11:29",
 "score": {
 "LAR": 10,
 "LAC": 9
@@ -18,13 +18,13 @@
 "rec_yds": 86
 },
 "Matthew Stafford": {
-"pass_cmp": 10,
-"pass_yds": 85,
+"pass_cmp": 12,
+"pass_yds": 109,
 "int": 1
 },
 "Blake Corum": {
-"rush_att": 3,
-"rush_yds": 8
+"rush_att": 7,
+"rush_yds": 40
 },
 "Kyren Williams": {
 "rush_att": 2,
@@ -36,8 +36,8 @@
 ]
 },
 "Puka Nacua": {
-"rec": 7,
-"rec_yds": 40
+"rec": 9,
+"rec_yds": 64
 }
 },
 "kickers": {

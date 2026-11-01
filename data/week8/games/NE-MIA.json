@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 1:11",
+"clock": "Q2 0:08",
 "score": {
-"MIA": 6,
+"MIA": 13,
 "NE": 3
 },
 "players": {
@@ -27,8 +27,8 @@
 "rec_yds": 5
 },
 "Ollie Gordon II": {
-"rush_att": 8,
-"rush_yds": 16
+"rush_att": 9,
+"rush_yds": 22
 }
 },
 "kickers": {
