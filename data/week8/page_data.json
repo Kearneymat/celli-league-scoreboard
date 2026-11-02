@@ -47,7 +47,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -134,7 +134,7 @@
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -579,7 +579,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -672,7 +672,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -1063,7 +1063,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -1439,7 +1439,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -1596,7 +1596,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 320,
+"total": 324,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1891,7 +1891,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 18,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -1899,8 +1899,12 @@
 10
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
+],
+[
+"1 INT",
+2
 ],
 [
 "1 fum rec",
@@ -1911,7 +1915,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 }
 ]
@@ -1940,7 +1944,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -2725,7 +2729,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -3056,7 +3060,7 @@
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -3080,7 +3084,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -3400,7 +3404,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -3505,7 +3509,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -3590,7 +3594,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -4027,7 +4031,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -4761,7 +4765,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -5192,7 +5196,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -5771,7 +5775,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 270,
+"total": 274,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -6065,7 +6069,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 18,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -6073,8 +6077,12 @@
 10
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
+],
+[
+"1 INT",
+2
 ],
 [
 "1 fum rec",
@@ -6085,7 +6093,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 }
 ]
@@ -6114,7 +6122,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -6249,7 +6257,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -6850,7 +6858,7 @@
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -6900,7 +6908,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -7776,7 +7784,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -8313,7 +8321,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 137,
+"total": 142,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8377,10 +8385,15 @@
 "pos": "RB",
 "name": "Rachaad White",
 "team": "WAS",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"bd": [
+[
+"54 rush yds",
+5
+]
+],
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -8540,7 +8553,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -8701,7 +8714,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -8908,7 +8921,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -9079,7 +9092,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -9208,7 +9221,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -10018,7 +10031,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -10610,7 +10623,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -11529,7 +11542,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -11783,7 +11796,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -11902,7 +11915,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -12333,7 +12346,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -12446,7 +12459,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -12629,7 +12642,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -12734,7 +12747,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -13506,7 +13519,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -13651,7 +13664,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -14247,7 +14260,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -14718,7 +14731,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 286,
+"total": 290,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14761,7 +14774,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -14995,7 +15008,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 18,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -15003,8 +15016,12 @@
 10
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
+],
+[
+"1 INT",
+2
 ],
 [
 "1 fum rec",
@@ -15015,7 +15032,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 }
 ]
@@ -15053,7 +15070,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -15179,7 +15196,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 3:43",
+"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
 "on": true
 },
 {
@@ -15731,7 +15748,7 @@
 },
 {
 "t": "PHI 10 @ WAS 19",
-"s": "Q4 3:43",
+"s": "Q4 1:55",
 "live": true
 },
 {

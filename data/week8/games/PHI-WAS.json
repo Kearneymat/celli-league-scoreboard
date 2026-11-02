@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 3:43",
+"clock": "Q4 1:55",
 "score": {
 "WAS": 19,
 "PHI": 10
@@ -29,8 +29,8 @@
 ]
 },
 "Rachaad White": {
-"rush_att": 8,
-"rush_yds": 18,
+"rush_att": 10,
+"rush_yds": 54,
 "rec": 2,
 "rec_yds": 5
 },
@@ -64,9 +64,9 @@
 },
 "defenses": {
 "WAS": {
-"sacks": 3,
+"sacks": 4,
+"int": 1,
 "fum_rec": 1,
-"int": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
