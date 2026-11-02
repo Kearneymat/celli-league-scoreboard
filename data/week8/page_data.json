@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 258,
+"total": 264,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -35,10 +35,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -120,7 +125,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -291,7 +296,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 324,
+"total": 325,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -537,7 +542,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -547,9 +552,13 @@
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -621,7 +630,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 214,
+"total": 220,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -630,10 +639,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -897,7 +911,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 298,
+"total": 304,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -1016,10 +1030,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -1229,7 +1248,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 364,
+"total": 370,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1387,10 +1406,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -1852,13 +1876,9 @@
 [
 "1 sacks",
 2
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 }
 ]
@@ -1866,7 +1886,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 222,
+"total": 228,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -1875,10 +1895,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -2481,7 +2506,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 395,
+"total": 401,
 "comm": null,
 "prev": 2098,
 "alive": true,
@@ -2655,10 +2680,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -2828,7 +2858,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 294,
+"total": 300,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -2984,7 +3014,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -3000,10 +3030,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -3139,7 +3174,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 282,
+"total": 289,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3315,10 +3350,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -3395,7 +3435,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -3405,9 +3445,13 @@
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -3471,7 +3515,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 255,
+"total": 261,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3480,10 +3524,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -3761,7 +3810,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 197,
+"total": 203,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3912,10 +3961,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -4400,7 +4454,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 326,
+"total": 327,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4621,7 +4675,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -4631,9 +4685,13 @@
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -5013,7 +5071,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 289,
+"total": 295,
 "comm": null,
 "prev": 1900,
 "alive": false,
@@ -5052,10 +5110,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -5938,13 +6001,9 @@
 [
 "1 sacks",
 2
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 }
 ]
@@ -5952,7 +6011,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 227,
+"total": 239,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5961,10 +6020,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -6091,10 +6155,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -6690,7 +6759,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -6736,7 +6805,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -7473,7 +7542,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 240,
+"total": 246,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -7604,10 +7673,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8144,7 +8218,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 118,
+"total": 119,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8211,7 +8285,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8343,7 +8417,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -8353,9 +8427,13 @@
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8516,7 +8594,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8702,7 +8780,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 235,
+"total": 241,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -8711,10 +8789,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8881,7 +8964,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -8989,7 +9072,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 259,
+"total": 265,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -8998,10 +9081,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -9619,7 +9707,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 311,
+"total": 317,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -9803,10 +9891,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -10245,7 +10338,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 304,
+"total": 310,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -10390,10 +10483,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -11163,7 +11261,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 156,
+"total": 162,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11304,10 +11402,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -11438,7 +11541,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 290,
+"total": 297,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11553,10 +11656,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -11647,7 +11755,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 11,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11657,9 +11765,13 @@
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -12055,7 +12167,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 235,
+"total": 247,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -12078,10 +12190,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -12186,10 +12303,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -12351,7 +12473,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 162,
+"total": 174,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -12360,10 +12482,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -12460,10 +12587,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -13196,7 +13328,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 175,
+"total": 181,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -13223,10 +13355,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -13367,7 +13504,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -13802,7 +13939,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 238,
+"total": 244,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -13955,10 +14092,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -14429,7 +14571,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 268,
+"total": 274,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14460,10 +14602,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -14707,13 +14854,9 @@
 [
 "1 sacks",
 2
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 }
 ]
@@ -14721,7 +14864,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 200,
+"total": 212,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -14739,10 +14882,15 @@
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD pass",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -14860,10 +15008,15 @@
 "pos": "WR",
 "name": "Stefon Diggs",
 "team": "WAS",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
+"bd": [
+[
+"8-yd TD catch",
+6
+]
+],
+"game": "PHI 10 @ WAS 10 \u00b7 Q2 4:56",
 "on": true
 },
 {
@@ -15414,8 +15567,8 @@
 "live": false
 },
 {
-"t": "PHI 10 @ WAS 3",
-"s": "Q2 10:46",
+"t": "PHI 10 @ WAS 10",
+"s": "Q2 4:56",
 "live": true
 },
 {
