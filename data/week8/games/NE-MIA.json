@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 1:51",
+"status": "final",
+"clock": "Final",
 "score": {
 "MIA": 19,
 "NE": 24
@@ -9,8 +9,8 @@
 "Drake Maye": {
 "pass_cmp": 16,
 "pass_yds": 199,
-"rush_att": 5,
-"rush_yds": 8,
+"rush_att": 8,
+"rush_yds": 5,
 "pass_td_lengths": [
 43,
 48
@@ -20,8 +20,8 @@
 ]
 },
 "Rhamondre Stevenson": {
-"rush_att": 18,
-"rush_yds": 77,
+"rush_att": 19,
+"rush_yds": 82,
 "rec": 3,
 "rec_yds": 8
 },

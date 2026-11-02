@@ -1,14 +1,14 @@
 {
-"status": "live",
-"clock": "Q4 1:56",
+"status": "final",
+"clock": "Final",
 "score": {
 "DEN": 28,
 "KC": 24
 },
 "players": {
 "Patrick Mahomes": {
-"pass_cmp": 28,
-"pass_yds": 281,
+"pass_cmp": 30,
+"pass_yds": 321,
 "rush_att": 2,
 "rush_yds": 6,
 "pass_td_lengths": [
@@ -18,10 +18,14 @@
 ]
 },
 "Kenneth Walker": {
-"rush_att": 17,
-"rush_yds": 54,
-"rec": 3,
-"rec_yds": 7
+"rush_att": 21,
+"rush_yds": 69,
+"rec": 4,
+"rec_yds": 15
+},
+"Travis Kelce": {
+"rec": 5,
+"rec_yds": 67
 },
 "Rashee Rice": {
 "rec": 7,
@@ -29,10 +33,6 @@
 "rec_td_lengths": [
 11
 ]
-},
-"Travis Kelce": {
-"rec": 4,
-"rec_yds": 35
 }
 },
 "kickers": {
@@ -58,7 +58,7 @@
 },
 "defenses": {
 "DEN": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
