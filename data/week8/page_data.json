@@ -38,7 +38,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -120,7 +120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -545,7 +545,7 @@
 -1
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -629,7 +629,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -1015,7 +1015,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -1386,7 +1386,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -1543,7 +1543,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 322,
+"total": 317,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1838,15 +1838,19 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 }
 ]
@@ -1866,7 +1870,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -2646,7 +2650,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -2972,7 +2976,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -2991,7 +2995,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -3306,7 +3310,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -3391,7 +3395,7 @@
 -1
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -3467,7 +3471,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -3899,7 +3903,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -4613,7 +4617,7 @@
 -1
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -5035,7 +5039,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -5614,7 +5618,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 272,
+"total": 267,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5908,15 +5912,19 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 }
 ]
@@ -5936,7 +5944,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -6066,7 +6074,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -6500,7 +6508,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 215,
+"total": 212,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -6662,7 +6670,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -6700,10 +6708,15 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"bd": [
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -7574,7 +7587,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8178,7 +8191,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8318,7 +8331,7 @@
 -1
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8474,7 +8487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8660,7 +8673,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 238,
+"total": 235,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -8672,7 +8685,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8831,10 +8844,15 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"bd": [
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -8954,7 +8972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -9759,7 +9777,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -10346,7 +10364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -11260,7 +11278,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -11509,7 +11527,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -11608,7 +11626,7 @@
 -1
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -12030,7 +12048,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -12138,7 +12156,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -12312,7 +12330,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -12412,7 +12430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -13145,7 +13163,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 178,
+"total": 175,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -13175,7 +13193,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -13308,10 +13326,15 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"bd": [
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -13902,7 +13925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -14373,7 +14396,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 276,
+"total": 271,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14407,7 +14430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -14641,15 +14664,19 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 }
 ]
@@ -14678,7 +14705,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -14799,7 +14826,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
+"game": "PHI 3 @ WAS 0 \u00b7 Q1 5:29",
 "on": true
 },
 {
@@ -15350,8 +15377,8 @@
 "live": false
 },
 {
-"t": "PHI 0 @ WAS 0",
-"s": "Q1 9:51",
+"t": "PHI 3 @ WAS 0",
+"s": "Q1 5:29",
 "live": true
 },
 {
