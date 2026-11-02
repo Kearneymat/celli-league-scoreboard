@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 10:27",
+"clock": "Q4 3:43",
 "score": {
-"WAS": 16,
+"WAS": 19,
 "PHI": 10
 },
 "players": {
@@ -20,8 +20,8 @@
 "rec_yds": 48
 },
 "Jayden Daniels": {
-"pass_cmp": 14,
-"pass_yds": 177,
+"pass_cmp": 16,
+"pass_yds": 217,
 "rush_att": 2,
 "rush_yds": 23,
 "pass_td_lengths": [
@@ -29,22 +29,22 @@
 ]
 },
 "Rachaad White": {
-"rush_att": 5,
-"rush_yds": 16,
+"rush_att": 8,
+"rush_yds": 18,
 "rec": 2,
 "rec_yds": 5
+},
+"Stefon Diggs": {
+"rec": 3,
+"rec_yds": 38,
+"rec_td_lengths": [
+8
+]
 },
 "Chig Okonkwo": {
 "rec": 2,
 "rec_yds": 32,
 "fl": 1
-},
-"Stefon Diggs": {
-"rec": 2,
-"rec_yds": 28,
-"rec_td_lengths": [
-8
-]
 }
 },
 "kickers": {
@@ -52,7 +52,8 @@
 "fg_made_dist": [
 56,
 39,
-25
+25,
+42
 ],
 "fg_missed_dist": [
 55
@@ -70,7 +71,7 @@
 "def_st_td_lengths": []
 },
 "PHI": {
-"sacks": 1,
+"sacks": 2,
 "fum_rec": 1,
 "int": 0,
 "safeties": 0,
