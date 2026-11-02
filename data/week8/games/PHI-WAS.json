@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 0:40",
+"clock": "Halftime",
 "score": {
-"WAS": 10,
+"WAS": 13,
 "PHI": 10
 },
 "players": {
 "Saquon Barkley": {
-"rush_att": 7,
-"rush_yds": 12,
+"rush_att": 8,
+"rush_yds": 15,
 "rec": 1,
 "rec_yds": 24,
 "rush_td_lengths": [
@@ -50,7 +50,8 @@
 "kickers": {
 "Drew Stevens": {
 "fg_made_dist": [
-56
+56,
+39
 ],
 "fg_missed_dist": [
 55

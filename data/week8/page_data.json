@@ -43,7 +43,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -125,7 +125,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -296,7 +296,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 325,
+"total": 331,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -542,12 +542,16 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
 "56-yd FG",
 12
+],
+[
+"39-yd FG",
+6
 ],
 [
 "missed 55-yd FG",
@@ -558,7 +562,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -647,7 +651,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1038,7 +1042,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1414,7 +1418,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1876,9 +1880,13 @@
 [
 "1 sacks",
 2
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -1903,7 +1911,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2688,7 +2696,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3014,7 +3022,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3038,7 +3046,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3174,7 +3182,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 289,
+"total": 295,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3358,7 +3366,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3435,12 +3443,16 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
 "56-yd FG",
 12
+],
+[
+"39-yd FG",
+6
 ],
 [
 "missed 55-yd FG",
@@ -3451,7 +3463,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3532,7 +3544,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3969,7 +3981,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4454,7 +4466,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 327,
+"total": 333,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4675,12 +4687,16 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
 "56-yd FG",
 12
+],
+[
+"39-yd FG",
+6
 ],
 [
 "missed 55-yd FG",
@@ -4691,7 +4707,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5118,7 +5134,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6001,9 +6017,13 @@
 [
 "1 sacks",
 2
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -6028,7 +6048,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6163,7 +6183,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6759,7 +6779,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6805,7 +6825,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7681,7 +7701,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8218,7 +8238,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 119,
+"total": 125,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8285,7 +8305,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8417,12 +8437,16 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
 "56-yd FG",
 12
+],
+[
+"39-yd FG",
+6
 ],
 [
 "missed 55-yd FG",
@@ -8433,7 +8457,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8594,7 +8618,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8797,7 +8821,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8964,7 +8988,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9089,7 +9113,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9899,7 +9923,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10491,7 +10515,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11410,7 +11434,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11541,7 +11565,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 297,
+"total": 303,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11664,7 +11688,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11755,12 +11779,16 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 12,
+"pts": 18,
 "comm": null,
 "bd": [
 [
 "56-yd FG",
 12
+],
+[
+"39-yd FG",
+6
 ],
 [
 "missed 55-yd FG",
@@ -11771,7 +11799,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12198,7 +12226,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12311,7 +12339,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12490,7 +12518,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12595,7 +12623,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13363,7 +13391,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13504,7 +13532,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14100,7 +14128,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14610,7 +14638,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14854,9 +14882,13 @@
 [
 "1 sacks",
 2
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -14890,7 +14922,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15016,7 +15048,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 10 \u00b7 Q2 0:40",
+"game": "PHI 10 @ WAS 13 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15567,8 +15599,8 @@
 "live": false
 },
 {
-"t": "PHI 10 @ WAS 10",
-"s": "Q2 0:40",
+"t": "PHI 10 @ WAS 13",
+"s": "Halftime",
 "live": true
 },
 {
