@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 2:59",
+"clock": "Q3 0:52",
 "score": {
-"WAS": 13,
+"WAS": 16,
 "PHI": 10
 },
 "players": {
 "Saquon Barkley": {
-"rush_att": 11,
-"rush_yds": 27,
+"rush_att": 12,
+"rush_yds": 30,
 "rec": 1,
 "rec_yds": 24,
 "rush_td_lengths": [
@@ -20,8 +20,8 @@
 "rec_yds": 42
 },
 "Jayden Daniels": {
-"pass_cmp": 13,
-"pass_yds": 124,
+"pass_cmp": 14,
+"pass_yds": 177,
 "rush_att": 2,
 "rush_yds": 23,
 "pass_td_lengths": [
@@ -51,7 +51,8 @@
 "Drew Stevens": {
 "fg_made_dist": [
 56,
-39
+39,
+25
 ],
 "fg_missed_dist": [
 55
@@ -62,9 +63,9 @@
 },
 "defenses": {
 "WAS": {
-"sacks": 2,
+"sacks": 3,
+"fum_rec": 1,
 "int": 0,
-"fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },

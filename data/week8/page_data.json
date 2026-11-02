@@ -43,7 +43,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -125,7 +125,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -296,7 +296,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 331,
+"total": 334,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -542,7 +542,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 18,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -554,6 +554,10 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "missed 55-yd FG",
 -1
 ],
@@ -562,7 +566,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -651,7 +655,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -1042,7 +1046,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -1418,7 +1422,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -1575,7 +1579,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 316,
+"total": 320,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1870,7 +1874,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 14,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -1878,15 +1882,19 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 }
 ]
@@ -1911,7 +1919,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -2696,7 +2704,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3022,7 +3030,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3046,7 +3054,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3182,7 +3190,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 295,
+"total": 298,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3366,7 +3374,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3443,7 +3451,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 18,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3455,6 +3463,10 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "missed 55-yd FG",
 -1
 ],
@@ -3463,7 +3475,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3544,7 +3556,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -3981,7 +3993,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -4466,7 +4478,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 333,
+"total": 336,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4687,7 +4699,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 18,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4699,6 +4711,10 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "missed 55-yd FG",
 -1
 ],
@@ -4707,7 +4723,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -5134,7 +5150,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -5713,7 +5729,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 266,
+"total": 270,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -6007,7 +6023,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 14,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -6015,15 +6031,19 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 }
 ]
@@ -6048,7 +6068,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -6183,7 +6203,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -6779,7 +6799,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -6829,7 +6849,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -7705,7 +7725,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -8242,7 +8262,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 125,
+"total": 128,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8309,7 +8329,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -8441,7 +8461,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 18,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8453,6 +8473,10 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "missed 55-yd FG",
 -1
 ],
@@ -8461,7 +8485,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -8622,7 +8646,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -8825,7 +8849,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -8996,7 +9020,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -9121,7 +9145,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -9931,7 +9955,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -10523,7 +10547,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -11442,7 +11466,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -11573,7 +11597,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 303,
+"total": 306,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11696,7 +11720,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -11787,7 +11811,7 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 18,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -11799,6 +11823,10 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "missed 55-yd FG",
 -1
 ],
@@ -11807,7 +11835,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -12234,7 +12262,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -12347,7 +12375,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -12526,7 +12554,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -12631,7 +12659,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -13399,7 +13427,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -13544,7 +13572,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -14140,7 +14168,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -14611,7 +14639,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 276,
+"total": 280,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14650,7 +14678,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -14884,7 +14912,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 14,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -14892,15 +14920,19 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 }
 ]
@@ -14934,7 +14966,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -15060,7 +15092,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 13 \u00b7 Q3 2:59",
+"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
 "on": true
 },
 {
@@ -15611,8 +15643,8 @@
 "live": false
 },
 {
-"t": "PHI 10 @ WAS 13",
-"s": "Q3 2:59",
+"t": "PHI 10 @ WAS 16",
+"s": "Q3 0:52",
 "live": true
 },
 {
