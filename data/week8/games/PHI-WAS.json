@@ -1,13 +1,13 @@
 {
 "status": "live",
-"clock": "Q2 4:56",
+"clock": "Q2 2:00",
 "score": {
 "WAS": 10,
 "PHI": 10
 },
 "players": {
 "Saquon Barkley": {
-"rush_att": 5,
+"rush_att": 7,
 "rush_yds": 12,
 "rec": 1,
 "rec_yds": 24,
@@ -16,8 +16,8 @@
 ]
 },
 "Makai Lemon": {
-"rec": 1,
-"rec_yds": 20
+"rec": 2,
+"rec_yds": 27
 },
 "Jayden Daniels": {
 "pass_cmp": 9,
@@ -29,8 +29,8 @@
 ]
 },
 "Rachaad White": {
-"rush_att": 3,
-"rush_yds": 13,
+"rush_att": 4,
+"rush_yds": 15,
 "rec": 1,
 "rec_yds": 4
 },
