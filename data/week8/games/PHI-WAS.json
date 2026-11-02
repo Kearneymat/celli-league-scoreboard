@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q1 0:28",
+"clock": "Q2 10:46",
 "score": {
 "WAS": 3,
 "PHI": 10
@@ -49,7 +49,7 @@
 },
 "defenses": {
 "WAS": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

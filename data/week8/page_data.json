@@ -38,7 +38,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -120,7 +120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -549,7 +549,7 @@
 -1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -633,7 +633,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -1019,7 +1019,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -1390,7 +1390,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -1547,7 +1547,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 312,
+"total": 314,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1842,7 +1842,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 10,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -1850,11 +1850,15 @@
 10
 ],
 [
+"1 sacks",
+2
+],
+[
 "Trailing",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 }
 ]
@@ -1874,7 +1878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -2654,7 +2658,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -2980,7 +2984,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -2999,7 +3003,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -3314,7 +3318,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -3403,7 +3407,7 @@
 -1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -3479,7 +3483,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -3911,7 +3915,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -4629,7 +4633,7 @@
 -1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -5051,7 +5055,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -5630,7 +5634,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 262,
+"total": 264,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5924,7 +5928,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 10,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -5932,11 +5936,15 @@
 10
 ],
 [
+"1 sacks",
+2
+],
+[
 "Trailing",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 }
 ]
@@ -5956,7 +5964,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -6086,7 +6094,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -6682,7 +6690,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -6728,7 +6736,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -7599,7 +7607,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8203,7 +8211,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8347,7 +8355,7 @@
 -1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8508,7 +8516,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8706,7 +8714,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8873,7 +8881,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -8993,7 +9001,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -9798,7 +9806,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -10385,7 +10393,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -11299,7 +11307,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -11548,7 +11556,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -11651,7 +11659,7 @@
 -1
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -12073,7 +12081,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -12181,7 +12189,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -12355,7 +12363,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -12455,7 +12463,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -13218,7 +13226,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -13359,7 +13367,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -13950,7 +13958,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -14421,7 +14429,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 266,
+"total": 268,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14455,7 +14463,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -14689,7 +14697,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 10,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -14697,11 +14705,15 @@
 10
 ],
 [
+"1 sacks",
+2
+],
+[
 "Trailing",
 0
 ]
 ],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 }
 ]
@@ -14730,7 +14742,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -14851,7 +14863,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 3 \u00b7 Q1 0:28",
+"game": "PHI 10 @ WAS 3 \u00b7 Q2 10:46",
 "on": true
 },
 {
@@ -15403,7 +15415,7 @@
 },
 {
 "t": "PHI 10 @ WAS 3",
-"s": "Q1 0:28",
+"s": "Q2 10:46",
 "live": true
 },
 {
