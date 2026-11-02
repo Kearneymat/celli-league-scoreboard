@@ -1,0 +1,36 @@
+{
+"status": "live",
+"clock": "Q1 12:17",
+"score": {
+"WAS": 0,
+"PHI": 0
+},
+"players": {
+"Jayden Daniels": {
+"pass_cmp": 1,
+"pass_yds": 4
+},
+"Rachaad White": {
+"rush_att": 2,
+"rush_yds": 9
+}
+},
+"kickers": {},
+"defenses": {
+"WAS": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"PHI": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

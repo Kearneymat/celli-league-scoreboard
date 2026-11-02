@@ -38,8 +38,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -120,8 +120,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -540,8 +540,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "DEF",
@@ -624,8 +624,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -1010,8 +1010,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -1381,8 +1381,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -1538,7 +1538,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 302,
+"total": 322,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1833,11 +1833,16 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 }
 ]
 },
@@ -1856,8 +1861,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -2636,8 +2641,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -2962,8 +2967,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -2981,8 +2986,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "TE",
@@ -3296,8 +3301,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "TE",
@@ -3376,8 +3381,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3452,8 +3457,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -3884,8 +3889,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -4593,8 +4598,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "K",
@@ -5015,8 +5020,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -5594,7 +5599,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 252,
+"total": 272,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5888,11 +5893,16 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 }
 ]
 },
@@ -5911,8 +5921,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -6041,8 +6051,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "TE",
@@ -6637,8 +6647,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -6678,8 +6688,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "K",
@@ -7549,8 +7559,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -8153,8 +8163,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -8288,8 +8298,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "DEF",
@@ -8444,8 +8454,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -8642,8 +8652,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -8804,8 +8814,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "K",
@@ -8924,8 +8934,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -9729,8 +9739,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "TE",
@@ -10316,8 +10326,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -11230,8 +11240,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -11479,8 +11489,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -11573,8 +11583,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "K",
@@ -11995,8 +12005,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -12103,8 +12113,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -12277,8 +12287,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "QB",
@@ -12377,8 +12387,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -13140,8 +13150,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -13276,8 +13286,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "K",
@@ -13867,8 +13877,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "WR",
@@ -14338,7 +14348,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 256,
+"total": 276,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14372,8 +14382,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -14606,11 +14616,16 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 }
 ]
 },
@@ -14638,8 +14653,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "RB",
@@ -14759,8 +14774,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI @ WAS \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"on": true
 },
 {
 "pos": "TE",
@@ -15310,9 +15325,9 @@
 "live": false
 },
 {
-"t": "PHI @ WAS",
-"s": "Sun 8:20 ET",
-"live": false
+"t": "PHI 0 @ WAS 0",
+"s": "Q1 12:17",
+"live": true
 },
 {
 "t": "CHI @ SEA",
