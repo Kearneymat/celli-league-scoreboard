@@ -1,11 +1,15 @@
 {
 "status": "live",
-"clock": "Q1 12:17",
+"clock": "Q1 9:51",
 "score": {
 "WAS": 0,
 "PHI": 0
 },
 "players": {
+"Saquon Barkley": {
+"rush_att": 1,
+"rush_yds": 2
+},
 "Jayden Daniels": {
 "pass_cmp": 1,
 "pass_yds": 4
@@ -15,7 +19,16 @@
 "rush_yds": 9
 }
 },
-"kickers": {},
+"kickers": {
+"Drew Stevens": {
+"fg_missed_dist": [
+55
+],
+"fg_made_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "WAS": {
 "sacks": 0,

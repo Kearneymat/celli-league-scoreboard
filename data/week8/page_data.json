@@ -38,7 +38,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -120,7 +120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -291,7 +291,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 313,
+"total": 312,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -537,10 +537,15 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": -1,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"bd": [
+[
+"missed 55-yd FG",
+-1
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -624,7 +629,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -1010,7 +1015,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -1381,7 +1386,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -1841,7 +1846,7 @@
 20
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 }
 ]
@@ -1861,7 +1866,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -2641,7 +2646,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -2967,7 +2972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -2986,7 +2991,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -3122,7 +3127,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 271,
+"total": 270,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3301,7 +3306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -3378,10 +3383,15 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": -1,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"bd": [
+[
+"missed 55-yd FG",
+-1
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -3457,7 +3467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -3889,7 +3899,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -4374,7 +4384,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 315,
+"total": 314,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4595,10 +4605,15 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": -1,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"bd": [
+[
+"missed 55-yd FG",
+-1
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -5020,7 +5035,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -5901,7 +5916,7 @@
 20
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 }
 ]
@@ -5921,7 +5936,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -6051,7 +6066,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -6647,7 +6662,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -6688,7 +6703,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -7559,7 +7574,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8096,7 +8111,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 107,
+"total": 106,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8163,7 +8178,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8295,10 +8310,15 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": -1,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"bd": [
+[
+"missed 55-yd FG",
+-1
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8454,7 +8474,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8652,7 +8672,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8814,7 +8834,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -8934,7 +8954,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -9739,7 +9759,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -10326,7 +10346,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -11240,7 +11260,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -11371,7 +11391,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 279,
+"total": 278,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11489,7 +11509,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -11580,10 +11600,15 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": -1,
 "comm": null,
-"bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"bd": [
+[
+"missed 55-yd FG",
+-1
+]
+],
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -12005,7 +12030,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -12113,7 +12138,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -12287,7 +12312,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -12387,7 +12412,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -13150,7 +13175,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -13286,7 +13311,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -13877,7 +13902,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -14382,7 +14407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -14624,7 +14649,7 @@
 20
 ]
 ],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 }
 ]
@@ -14653,7 +14678,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -14774,7 +14799,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 0 @ WAS 0 \u00b7 Q1 12:17",
+"game": "PHI 0 @ WAS 0 \u00b7 Q1 9:51",
 "on": true
 },
 {
@@ -15326,7 +15351,7 @@
 },
 {
 "t": "PHI 0 @ WAS 0",
-"s": "Q1 12:17",
+"s": "Q1 9:51",
 "live": true
 },
 {
