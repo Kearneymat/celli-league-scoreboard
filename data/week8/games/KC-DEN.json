@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 13:13",
+"clock": "Q4 7:22",
 "score": {
-"DEN": 13,
+"DEN": 21,
 "KC": 24
 },
 "players": {
 "Patrick Mahomes": {
-"pass_cmp": 23,
-"pass_yds": 259,
+"pass_cmp": 24,
+"pass_yds": 265,
 "rush_att": 2,
 "rush_yds": 6,
 "pass_td_lengths": [
@@ -18,8 +18,8 @@
 ]
 },
 "Kenneth Walker": {
-"rush_att": 13,
-"rush_yds": 41,
+"rush_att": 14,
+"rush_yds": 46,
 "rec": 2,
 "rec_yds": 1
 },
