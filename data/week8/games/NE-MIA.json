@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 4:01",
+"clock": "Q4 1:51",
 "score": {
-"MIA": 13,
+"MIA": 19,
 "NE": 24
 },
 "players": {
 "Drake Maye": {
-"pass_cmp": 15,
-"pass_yds": 197,
+"pass_cmp": 16,
+"pass_yds": 199,
 "rush_att": 5,
 "rush_yds": 8,
 "pass_td_lengths": [
@@ -20,10 +20,10 @@
 ]
 },
 "Rhamondre Stevenson": {
-"rush_att": 17,
-"rush_yds": 74,
-"rec": 2,
-"rec_yds": 6
+"rush_att": 18,
+"rush_yds": 77,
+"rec": 3,
+"rec_yds": 8
 },
 "Pop Douglas": {
 "rec": 3,
@@ -41,8 +41,8 @@
 "rec_yds": 5
 },
 "Ollie Gordon II": {
-"rush_att": 18,
-"rush_yds": 58
+"rush_att": 19,
+"rush_yds": 69
 }
 },
 "kickers": {

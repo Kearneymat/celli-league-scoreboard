@@ -29,7 +29,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -292,7 +292,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 310,
+"total": 311,
 "comm": null,
 "prev": 1997,
 "alive": true,
@@ -387,19 +387,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -533,7 +533,7 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -615,7 +615,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 211,
+"total": 207,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -672,19 +672,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -835,12 +835,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -855,7 +855,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -893,7 +893,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 295,
+"total": 291,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -994,19 +994,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -1167,19 +1167,19 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -1194,7 +1194,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -1228,7 +1228,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 363,
+"total": 364,
 "comm": null,
 "prev": 2017,
 "alive": true,
@@ -1417,7 +1417,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -1446,7 +1446,7 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -1458,11 +1458,11 @@
 9
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -1854,7 +1854,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 221,
+"total": 222,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -2043,14 +2043,14 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2062,11 +2062,11 @@
 9
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -2089,7 +2089,7 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -2161,7 +2161,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 292,
+"total": 295,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2240,7 +2240,26 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
+"comm": null,
+"bd": [
+[
+"19 rushes",
+9
+],
+[
+"69 rush yds",
+6
+]
+],
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
+"on": true
+},
+{
+"pos": "RB",
+"name": "Rhamondre Stevenson",
+"team": "NE",
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -2248,30 +2267,11 @@
 8
 ],
 [
-"58 rush yds",
-5
-]
-],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
-"on": true
-},
-{
-"pos": "RB",
-"name": "Rhamondre Stevenson",
-"team": "NE",
-"pts": 14,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -2670,7 +2670,7 @@
 10
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -2822,7 +2822,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 292,
+"total": 294,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -2931,19 +2931,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3017,7 +3017,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3135,7 +3135,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 271,
+"total": 266,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3401,12 +3401,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -3421,7 +3421,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3650,7 +3650,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3750,7 +3750,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 177,
+"total": 185,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -3819,10 +3819,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -3851,19 +3860,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3947,7 +3956,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -3990,12 +3999,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -4010,7 +4019,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -4048,7 +4057,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 331,
+"total": 338,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4057,16 +4066,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 45,
+"pts": 51,
 "comm": null,
 "bd": [
 [
-"24 completions",
-9
+"28 completions",
+13
 ],
 [
-"265 pass yds",
-11
+"281 pass yds",
+13
 ],
 [
 "11-yd TD pass",
@@ -4081,7 +4090,7 @@
 6
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4216,15 +4225,15 @@
 "pos": "WR",
 "name": "Rashee Rice",
 "team": "KC",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"51 rec yds",
+"53 rec yds",
 5
 ],
 [
@@ -4232,7 +4241,7 @@
 7
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4265,7 +4274,7 @@
 5
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4387,7 +4396,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 313,
+"total": 315,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4452,19 +4461,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -4706,7 +4715,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 185,
+"total": 192,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -4799,10 +4808,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -4889,7 +4907,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -4928,12 +4946,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -4948,7 +4966,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -5206,7 +5224,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -5314,7 +5332,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 206,
+"total": 207,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5369,19 +5387,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -5819,7 +5837,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -5915,7 +5933,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 210,
+"total": 217,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -5983,10 +6001,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6124,12 +6151,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -6144,7 +6171,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -6178,7 +6205,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 271,
+"total": 266,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6363,7 +6390,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -6458,12 +6485,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -6478,7 +6505,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 }
 ]
@@ -6486,7 +6513,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 196,
+"total": 210,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -6547,10 +6574,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -6583,19 +6619,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -6977,7 +7013,7 @@
 5
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -7098,7 +7134,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 298,
+"total": 294,
 "comm": null,
 "prev": 1863,
 "alive": false,
@@ -7193,19 +7229,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -7322,7 +7358,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -7361,12 +7397,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -7381,7 +7417,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -7634,7 +7670,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -7754,7 +7790,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 310,
+"total": 312,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -7839,19 +7875,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -8362,7 +8398,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 165,
+"total": 172,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8387,7 +8423,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -8424,10 +8460,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -8466,7 +8511,7 @@
 10
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -8547,7 +8592,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -8608,12 +8653,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -8628,7 +8673,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 }
 ]
@@ -8636,7 +8681,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 221,
+"total": 233,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -8681,10 +8726,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -9540,7 +9594,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 308,
+"total": 304,
 "comm": null,
 "prev": 1864,
 "alive": false,
@@ -9657,19 +9711,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -9761,7 +9815,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -9838,12 +9892,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -9858,7 +9912,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 }
 ]
@@ -9866,7 +9920,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 257,
+"total": 256,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -9891,7 +9945,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -10067,14 +10121,14 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 12,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -10082,11 +10136,15 @@
 9
 ],
 [
+"missed 54-yd FG",
+-1
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10168,7 +10226,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 304,
+"total": 299,
 "comm": null,
 "prev": 1676,
 "alive": false,
@@ -10344,7 +10402,7 @@
 10
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -10457,12 +10515,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -10477,7 +10535,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 }
 ]
@@ -10485,7 +10543,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 196,
+"total": 208,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -10510,7 +10568,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -10531,10 +10589,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -10763,7 +10830,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 240,
+"total": 243,
 "comm": null,
 "prev": 1891,
 "alive": false,
@@ -10804,19 +10871,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -10853,19 +10920,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -10968,7 +11035,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11084,7 +11151,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 153,
+"total": 149,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11109,7 +11176,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11146,19 +11213,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11221,7 +11288,7 @@
 10
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11279,7 +11346,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11314,12 +11381,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -11334,7 +11401,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11364,7 +11431,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 278,
+"total": 279,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -11389,7 +11456,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11436,19 +11503,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -11585,7 +11652,7 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 12,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -11593,11 +11660,15 @@
 9
 ],
 [
+"missed 54-yd FG",
+-1
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -11665,7 +11736,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 222,
+"total": 234,
 "comm": null,
 "prev": 1716,
 "alive": false,
@@ -11718,10 +11789,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12259,7 +12339,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 145,
+"total": 157,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -12296,10 +12376,19 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"bd": [
+[
+"17 rushes",
+7
+],
+[
+"54 rush yds",
+5
+]
+],
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -12677,7 +12766,7 @@
 10
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -12821,7 +12910,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 220,
+"total": 222,
 "comm": null,
 "prev": 1925,
 "alive": false,
@@ -12871,19 +12960,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -12993,7 +13082,7 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -13005,11 +13094,11 @@
 9
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "KC 24 @ DEN 21 \u00b7 Q4 7:22",
+"game": "KC 24 @ DEN 28 \u00b7 Q4 1:56",
 "on": true
 },
 {
@@ -13099,7 +13188,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 175,
+"total": 176,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -13176,19 +13265,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -13257,7 +13346,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -13379,7 +13468,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 238,
+"total": 239,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -13450,19 +13539,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"74 rush yds",
+"77 rush yds",
 7
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -13632,7 +13721,7 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -13704,7 +13793,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 236,
+"total": 233,
 "comm": null,
 "prev": 1951,
 "alive": false,
@@ -13821,19 +13910,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -13957,12 +14046,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -13977,7 +14066,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14015,7 +14104,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 274,
+"total": 271,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -14088,19 +14177,19 @@
 "pos": "RB",
 "name": "Ollie Gordon II",
 "team": "MIA",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"19 rushes",
+9
 ],
 [
-"58 rush yds",
-5
+"69 rush yds",
+6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14273,12 +14362,12 @@
 "pos": "DEF",
 "name": "Patriots D",
 "team": "NE",
-"pts": 17,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"13 pts allowed",
-5
+"19 pts allowed",
+0
 ],
 [
 "5 sacks",
@@ -14293,7 +14382,7 @@
 0
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14360,7 +14449,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14546,7 +14635,7 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14777,7 +14866,7 @@
 5
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14836,7 +14925,7 @@
 3
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -14933,7 +15022,7 @@
 6
 ]
 ],
-"game": "NE 24 @ MIA 13 \u00b7 Q4 4:01",
+"game": "NE 24 @ MIA 19 \u00b7 Q4 1:51",
 "on": true
 },
 {
@@ -15302,13 +15391,13 @@
 "live": false
 },
 {
-"t": "NE 24 @ MIA 13",
-"s": "Q4 4:01",
+"t": "NE 24 @ MIA 19",
+"s": "Q4 1:51",
 "live": true
 },
 {
-"t": "KC 24 @ DEN 21",
-"s": "Q4 7:22",
+"t": "KC 24 @ DEN 28",
+"s": "Q4 1:56",
 "live": true
 },
 {
