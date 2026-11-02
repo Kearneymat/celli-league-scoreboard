@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 264,
+"total": 269,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -43,7 +43,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -122,10 +122,15 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -566,7 +571,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -655,7 +660,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -1046,7 +1051,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -1422,7 +1427,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -1894,7 +1899,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 }
 ]
@@ -1919,7 +1924,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -2704,7 +2709,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -2874,7 +2879,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 300,
+"total": 305,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -3027,10 +3032,15 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -3054,7 +3064,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -3374,7 +3384,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -3475,7 +3485,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -3556,7 +3566,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -3993,7 +4003,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -4723,7 +4733,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -5150,7 +5160,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -6043,7 +6053,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 }
 ]
@@ -6068,7 +6078,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -6203,7 +6213,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -6637,7 +6647,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 217,
+"total": 222,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -6796,10 +6806,15 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -6849,7 +6864,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -7725,7 +7740,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -8329,7 +8344,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -8485,7 +8500,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -8646,7 +8661,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -8849,7 +8864,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -9020,7 +9035,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -9145,7 +9160,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -9955,7 +9970,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -10547,7 +10562,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -11466,7 +11481,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -11720,7 +11735,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -11835,7 +11850,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -12262,7 +12277,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -12375,7 +12390,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -12554,7 +12569,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -12659,7 +12674,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -13427,7 +13442,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -13572,7 +13587,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -14168,7 +14183,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -14678,7 +14693,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -14932,7 +14947,7 @@
 0
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 }
 ]
@@ -14966,7 +14981,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -15092,7 +15107,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 16 \u00b7 Q3 0:52",
+"game": "PHI 10 @ WAS 16 \u00b7 Q4 10:27",
 "on": true
 },
 {
@@ -15644,7 +15659,7 @@
 },
 {
 "t": "PHI 10 @ WAS 16",
-"s": "Q3 0:52",
+"s": "Q4 10:27",
 "live": true
 },
 {
