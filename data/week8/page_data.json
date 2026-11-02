@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 275,
+"total": 281,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -47,8 +47,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -126,16 +125,19 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"5 catches",
+"6 catches",
+6
+],
+[
+"57 rec yds",
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -579,8 +581,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -672,8 +673,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -1063,8 +1063,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1439,8 +1438,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1596,7 +1594,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 324,
+"total": 331,
 "comm": null,
 "prev": 2087,
 "alive": true,
@@ -1891,7 +1889,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 22,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -1899,8 +1897,8 @@
 10
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "1 INT",
@@ -1911,12 +1909,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 }
 ]
 },
@@ -1944,8 +1941,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2729,8 +2725,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2899,7 +2894,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 305,
+"total": 311,
 "comm": null,
 "prev": 1936,
 "alive": false,
@@ -3052,16 +3047,19 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"5 catches",
+"6 catches",
+6
+],
+[
+"57 rec yds",
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3084,8 +3082,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3404,8 +3401,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3509,8 +3505,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3594,8 +3589,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4031,8 +4025,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4765,8 +4758,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5196,8 +5188,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5775,7 +5766,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 274,
+"total": 281,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -6069,7 +6060,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 22,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -6077,8 +6068,8 @@
 10
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "1 INT",
@@ -6089,12 +6080,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 }
 ]
 },
@@ -6122,8 +6112,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -6257,8 +6246,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6691,7 +6679,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 222,
+"total": 228,
 "comm": null,
 "prev": 1650,
 "alive": false,
@@ -6850,16 +6838,19 @@
 "pos": "WR",
 "name": "Makai Lemon",
 "team": "PHI",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"5 catches",
+"6 catches",
+6
+],
+[
+"57 rec yds",
 5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6908,8 +6899,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7784,8 +7774,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8321,7 +8310,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 142,
+"total": 148,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8385,16 +8374,19 @@
 "pos": "RB",
 "name": "Rachaad White",
 "team": "WAS",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
 [
-"54 rush yds",
+"55 rush yds",
 5
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8553,8 +8545,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8714,8 +8705,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8921,8 +8911,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9092,8 +9081,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9221,8 +9209,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10031,8 +10018,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10623,8 +10609,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11542,8 +11527,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11796,8 +11780,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11915,8 +11898,7 @@
 1
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12346,8 +12328,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12459,8 +12440,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12642,8 +12622,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12747,8 +12726,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13519,8 +13497,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13664,8 +13641,7 @@
 -3
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14260,8 +14236,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14731,7 +14706,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 290,
+"total": 297,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14774,8 +14749,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -15008,7 +14982,7 @@
 "pos": "DEF",
 "name": "Commanders D",
 "team": "WAS",
-"pts": 22,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -15016,8 +14990,8 @@
 10
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
 ],
 [
 "1 INT",
@@ -15028,12 +15002,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 }
 ]
 },
@@ -15070,8 +15043,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -15196,8 +15168,7 @@
 6
 ]
 ],
-"game": "PHI 10 @ WAS 19 \u00b7 Q4 1:55",
-"on": true
+"game": "PHI 10 @ WAS 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -15747,9 +15718,9 @@
 "live": false
 },
 {
-"t": "PHI 10 @ WAS 19",
-"s": "Q4 1:55",
-"live": true
+"t": "PHI 10 @ WAS 27",
+"s": "Final",
+"live": false
 },
 {
 "t": "CHI @ SEA",

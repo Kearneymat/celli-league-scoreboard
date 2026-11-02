@@ -1,8 +1,8 @@
 {
-"status": "live",
-"clock": "Q4 1:55",
+"status": "final",
+"clock": "Final",
 "score": {
-"WAS": 19,
+"WAS": 27,
 "PHI": 10
 },
 "players": {
@@ -16,8 +16,8 @@
 ]
 },
 "Makai Lemon": {
-"rec": 5,
-"rec_yds": 48
+"rec": 6,
+"rec_yds": 57
 },
 "Jayden Daniels": {
 "pass_cmp": 16,
@@ -29,10 +29,13 @@
 ]
 },
 "Rachaad White": {
-"rush_att": 10,
-"rush_yds": 54,
+"rush_att": 11,
+"rush_yds": 55,
 "rec": 2,
-"rec_yds": 5
+"rec_yds": 5,
+"rush_td_lengths": [
+1
+]
 },
 "Stefon Diggs": {
 "rec": 3,
@@ -64,7 +67,7 @@
 },
 "defenses": {
 "WAS": {
-"sacks": 4,
+"sacks": 5,
 "int": 1,
 "fum_rec": 1,
 "safeties": 0,
