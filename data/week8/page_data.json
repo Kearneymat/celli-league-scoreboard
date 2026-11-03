@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 281,
+"total": 300,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -115,10 +115,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -652,7 +661,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 236,
+"total": 252,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -679,10 +688,15 @@
 "pos": "QB",
 "name": "Sam Darnold",
 "team": "SEA",
-"pts": 0,
+"pts": 10,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"43-yd TD pass",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -692,7 +706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -851,7 +865,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -859,11 +873,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -945,7 +963,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 304,
+"total": 323,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -1078,10 +1096,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1929,7 +1956,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 251,
+"total": 270,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -2048,7 +2075,7 @@
 6
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2095,10 +2122,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2254,7 +2290,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 300,
+"total": 310,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2392,10 +2428,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2494,15 +2539,19 @@
 "pos": "K",
 "name": "Jason Myers",
 "team": "SEA",
-"pts": 3,
+"pts": -6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"1 missed XP",
+-9
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3244,7 +3293,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 307,
+"total": 326,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3383,10 +3432,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3595,7 +3653,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 267,
+"total": 286,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3718,10 +3776,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3893,7 +3960,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 203,
+"total": 222,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -4034,10 +4101,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4200,7 +4276,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 362,
+"total": 368,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4435,7 +4511,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -4443,11 +4519,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4545,7 +4625,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 345,
+"total": 374,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4600,10 +4680,15 @@
 "pos": "QB",
 "name": "Sam Darnold",
 "team": "SEA",
-"pts": 0,
+"pts": 10,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"43-yd TD pass",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4703,10 +4788,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4887,7 +4981,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 202,
+"total": 221,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -4998,10 +5092,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5508,7 +5611,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 209,
+"total": 228,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5625,10 +5728,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5802,7 +5914,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 281,
+"total": 300,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -5941,10 +6053,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6127,7 +6248,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 257,
+"total": 261,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -6302,19 +6423,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6418,7 +6539,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 306,
+"total": 310,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6435,7 +6556,7 @@
 6
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6517,7 +6638,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6562,7 +6683,7 @@
 6
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6627,19 +6748,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8041,7 +8162,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 312,
+"total": 331,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -8201,10 +8322,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8382,7 +8512,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 148,
+"total": 167,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8464,10 +8594,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8680,7 +8819,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 198,
+"total": 204,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8762,7 +8901,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8881,7 +9020,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -8889,11 +9028,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8971,7 +9114,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 252,
+"total": 271,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -9096,10 +9239,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9269,7 +9421,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 298,
+"total": 304,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -9440,7 +9592,7 @@
 6
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9483,7 +9635,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 10,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -9491,11 +9643,15 @@
 9
 ],
 [
+"38-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9585,7 +9741,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 318,
+"total": 337,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -9740,10 +9896,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10256,7 +10421,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 256,
+"total": 275,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -10412,10 +10577,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10878,7 +11052,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 225,
+"total": 248,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -10985,10 +11159,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11044,19 +11227,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11490,7 +11673,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 174,
+"total": 197,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11645,10 +11828,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11664,19 +11856,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12414,7 +12606,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 253,
+"total": 272,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -12517,10 +12709,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12722,7 +12923,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 183,
+"total": 193,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -12829,10 +13030,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12924,15 +13134,19 @@
 "pos": "K",
 "name": "Jason Myers",
 "team": "SEA",
-"pts": 3,
+"pts": -6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"1 missed XP",
+-9
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13004,7 +13218,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 250,
+"total": 273,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -13125,10 +13339,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13193,19 +13416,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13593,7 +13816,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 192,
+"total": 211,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -13696,10 +13919,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13887,7 +14119,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 253,
+"total": 276,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -14006,10 +14238,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14087,19 +14328,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14532,7 +14773,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 276,
+"total": 295,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -14671,10 +14912,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14850,7 +15100,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 314,
+"total": 333,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14961,10 +15211,19 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 0,
+"pts": 19,
 "comm": null,
-"bd": [],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"bd": [
+[
+"92 rec yds",
+9
+],
+[
+"43-yd TD catch",
+10
+]
+],
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15022,7 +15281,7 @@
 6
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15170,7 +15429,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 230,
+"total": 234,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -15349,19 +15608,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 12,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"5 catches",
+9
 ],
 [
-"31 rec yds",
-5
+"45 rec yds",
+7
 ]
 ],
-"game": "CHI 10 @ SEA 3 \u00b7 Q2 2:18",
+"game": "CHI 13 @ SEA 9 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15889,8 +16148,8 @@
 "live": false
 },
 {
-"t": "CHI 10 @ SEA 3",
-"s": "Q2 2:18",
+"t": "CHI 13 @ SEA 9",
+"s": "Halftime",
 "live": true
 }
 ]
