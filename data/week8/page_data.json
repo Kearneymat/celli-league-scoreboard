@@ -118,7 +118,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -652,7 +652,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 227,
+"total": 236,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -682,7 +682,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -692,7 +692,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -851,15 +851,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 10,
 "comm": null,
 "bd": [
+[
+"44-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -1077,7 +1081,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -1925,7 +1929,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 240,
+"total": 251,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -2028,15 +2032,23 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 6,
+"pts": 17,
 "comm": null,
 "bd": [
+[
+"6 catches",
+6
+],
+[
+"53 rec yds",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -2086,7 +2098,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -2383,7 +2395,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -2490,7 +2502,7 @@
 3
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -3374,7 +3386,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -3709,7 +3721,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -4025,7 +4037,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -4188,7 +4200,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 353,
+"total": 362,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4423,15 +4435,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 10,
 "comm": null,
 "bd": [
+[
+"44-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -4587,7 +4603,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -4690,7 +4706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -4985,7 +5001,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -5612,7 +5628,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -5928,7 +5944,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -6111,7 +6127,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 250,
+"total": 257,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -6286,15 +6302,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -6398,7 +6418,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 288,
+"total": 306,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6415,7 +6435,7 @@
 6
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -6497,7 +6517,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -6526,15 +6546,23 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 6,
+"pts": 17,
 "comm": null,
 "bd": [
+[
+"6 catches",
+6
+],
+[
+"53 rec yds",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -6599,15 +6627,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -8172,7 +8204,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -8435,7 +8467,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -8648,7 +8680,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 189,
+"total": 198,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8730,7 +8762,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -8849,15 +8881,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 10,
 "comm": null,
 "bd": [
+[
+"44-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -9063,7 +9099,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -9233,7 +9269,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 278,
+"total": 298,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -9388,15 +9424,23 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 6,
+"pts": 17,
 "comm": null,
 "bd": [
+[
+"6 catches",
+6
+],
+[
+"53 rec yds",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -9439,15 +9483,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 1,
+"pts": 10,
 "comm": null,
 "bd": [
+[
+"44-yd FG",
+9
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -9695,7 +9743,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -10367,7 +10415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -10830,7 +10878,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 218,
+"total": 225,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -10940,7 +10988,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -10996,15 +11044,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -11438,7 +11490,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 167,
+"total": 174,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11596,7 +11648,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -11612,15 +11664,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -12464,7 +12520,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -12776,7 +12832,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -12876,7 +12932,7 @@
 3
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -12948,7 +13004,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 243,
+"total": 250,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -13072,7 +13128,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -13137,15 +13193,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -13639,7 +13699,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -13827,7 +13887,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 246,
+"total": 253,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -13949,7 +14009,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -14027,15 +14087,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -14610,7 +14674,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -14786,7 +14850,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 303,
+"total": 314,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -14900,7 +14964,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -14942,15 +15006,23 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 6,
+"pts": 17,
 "comm": null,
 "bd": [
+[
+"6 catches",
+6
+],
+[
+"53 rec yds",
+5
+],
 [
 "1-yd TD catch",
 6
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -15098,7 +15170,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 223,
+"total": 230,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -15277,15 +15349,19 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 5,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"3 catches",
+"4 catches",
+7
+],
+[
+"31 rec yds",
 5
 ]
 ],
-"game": "CHI 7 @ SEA 3 \u00b7 Q2 11:08",
+"game": "CHI 10 @ SEA 3 \u00b7 Q2 6:07",
 "on": true
 },
 {
@@ -15813,8 +15889,8 @@
 "live": false
 },
 {
-"t": "CHI 7 @ SEA 3",
-"s": "Q2 11:08",
+"t": "CHI 10 @ SEA 3",
+"s": "Q2 6:07",
 "live": true
 }
 ]
