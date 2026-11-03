@@ -1,16 +1,18 @@
 {
 "status": "live",
-"clock": "Q1 0:00",
-"score": {"CHI": 7, "SEA": 0},
+"clock": "Q2 11:08",
+"score": {"CHI": 7, "SEA": 3},
 "players": {
 "Caleb Williams": {"pass_cmp": 8, "pass_yds": 58, "pass_td_lengths": [1]},
-"D'Andre Swift": {"rush_att": 6, "rush_yds": 15, "rec": 1, "rec_yds": 8},
+"D'Andre Swift": {"rush_att": 7, "rush_yds": 15, "rec": 1, "rec_yds": 8},
 "Colston Loveland": {"rec": 3, "rec_yds": 27},
 "Luther Burden": {"rec": 4, "rec_yds": 23, "rec_td_lengths": [1]},
-"Sam Darnold": {"rush_att": 1, "rush_yds": 6}
+"Sam Darnold": {"pass_cmp": 4, "pass_yds": 37, "rush_att": 1, "rush_yds": 6},
+"Jaxon Smith-Njigba": {"rec": 2, "rec_yds": 37}
 },
 "kickers": {
-"Cairo Santos": {"fg_made_dist": [], "fg_missed_dist": [], "xp_made": 1, "xp_missed": 0}
+"Cairo Santos": {"fg_made_dist": [], "fg_missed_dist": [], "xp_made": 1, "xp_missed": 0},
+"Jason Myers": {"fg_made_dist": [27], "fg_missed_dist": [], "xp_made": 0, "xp_missed": 0}
 },
 "defenses": {
 "CHI": {"sacks": 1, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []},
