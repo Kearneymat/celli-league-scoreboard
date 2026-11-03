@@ -1,21 +1,87 @@
 {
-"status": "live",
-"clock": "Halftime",
-"score": {"CHI": 13, "SEA": 9},
-"players": {
-"Caleb Williams": {"pass_cmp": 17, "pass_yds": 165, "pass_td_lengths": [1], "rush_att": 1, "rush_yds": 2},
-"D'Andre Swift": {"rush_att": 11, "rush_yds": 26, "rec": 2, "rec_yds": 10},
-"Colston Loveland": {"rec": 5, "rec_yds": 45},
-"Luther Burden": {"rec": 6, "rec_yds": 53, "rec_td_lengths": [1]},
-"Sam Darnold": {"pass_cmp": 7, "pass_yds": 94, "pass_td_lengths": [43], "rush_att": 1, "rush_yds": 6},
-"Jaxon Smith-Njigba": {"rec": 4, "rec_yds": 92, "rec_td_lengths": [43]}
-},
-"kickers": {
-"Cairo Santos": {"fg_made_dist": [44, 38], "fg_missed_dist": [], "xp_made": 1, "xp_missed": 0},
-"Jason Myers": {"fg_made_dist": [27], "fg_missed_dist": [], "xp_made": 0, "xp_missed": 1}
-},
-"defenses": {
-"CHI": {"sacks": 1, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []},
-"SEA": {"sacks": 0, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []}
-}
+ "status": "live",
+ "clock": "Q3 13:41",
+ "score": {
+  "CHI": 13,
+  "SEA": 9
+ },
+ "players": {
+  "Caleb Williams": {
+   "pass_cmp": 17,
+   "pass_yds": 165,
+   "pass_td_lengths": [
+    1
+   ],
+   "rush_att": 1,
+   "rush_yds": 2
+  },
+  "D'Andre Swift": {
+   "rush_att": 11,
+   "rush_yds": 26,
+   "rec": 2,
+   "rec_yds": 10
+  },
+  "Colston Loveland": {
+   "rec": 5,
+   "rec_yds": 45
+  },
+  "Luther Burden": {
+   "rec": 6,
+   "rec_yds": 53,
+   "rec_td_lengths": [
+    1
+   ]
+  },
+  "Sam Darnold": {
+   "pass_cmp": 7,
+   "pass_yds": 94,
+   "pass_td_lengths": [
+    43
+   ],
+   "rush_att": 1,
+   "rush_yds": 6
+  },
+  "Jaxon Smith-Njigba": {
+   "rec": 4,
+   "rec_yds": 92,
+   "rec_td_lengths": [
+    43
+   ]
+  }
+ },
+ "kickers": {
+  "Cairo Santos": {
+   "fg_made_dist": [
+    44,
+    38
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 1,
+   "xp_missed": 0
+  },
+  "Jason Myers": {
+   "fg_made_dist": [
+    27
+   ],
+   "fg_missed_dist": [],
+   "xp_made": 0,
+   "xp_missed": 1
+  }
+ },
+ "defenses": {
+  "CHI": {
+   "sacks": 1,
+   "int": 0,
+   "fum_rec": 0,
+   "safeties": 0,
+   "def_st_td_lengths": []
+  },
+  "SEA": {
+   "sacks": 0,
+   "int": 0,
+   "fum_rec": 0,
+   "safeties": 0,
+   "def_st_td_lengths": []
+  }
+ }
 }
