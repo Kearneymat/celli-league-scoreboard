@@ -127,7 +127,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -661,7 +661,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 252,
+"total": 265,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -696,17 +696,26 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"bd": [
+[
+"16 rushes",
+6
+],
+[
+"1-yd TD run",
+6
+]
+],
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -865,7 +874,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -877,11 +886,11 @@
 6
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -1108,7 +1117,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -2075,7 +2084,7 @@
 6
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -2134,7 +2143,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -2440,7 +2449,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -2551,7 +2560,7 @@
 -9
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -3444,7 +3453,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -3788,7 +3797,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -4113,7 +4122,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -4276,7 +4285,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 368,
+"total": 369,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4511,7 +4520,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -4523,11 +4532,11 @@
 6
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -4688,7 +4697,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -4800,7 +4809,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -5104,7 +5113,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -5740,7 +5749,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6065,7 +6074,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6435,7 +6444,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6539,7 +6548,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 323,
+"total": 337,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6548,23 +6557,23 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 18,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"22 completions",
+7
 ],
 [
-"218 pass yds",
-6
+"227 pass yds",
+7
 ],
 [
 "1-yd TD pass",
 6
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6643,10 +6652,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"bd": [
+[
+"16 rushes",
+6
+],
+[
+"1-yd TD run",
+6
+]
+],
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6691,7 +6709,7 @@
 6
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -6768,7 +6786,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -8342,7 +8360,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -8614,7 +8632,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -8827,7 +8845,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 204,
+"total": 217,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8906,10 +8924,19 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"bd": [
+[
+"16 rushes",
+6
+],
+[
+"1-yd TD run",
+6
+]
+],
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -9028,7 +9055,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -9040,11 +9067,11 @@
 6
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -9259,7 +9286,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -9429,7 +9456,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 305,
+"total": 306,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -9600,7 +9627,7 @@
 6
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -9643,7 +9670,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 16,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -9655,11 +9682,11 @@
 6
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -9916,7 +9943,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -10597,7 +10624,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -11179,7 +11206,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -11247,7 +11274,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -11848,7 +11875,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -11876,7 +11903,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -12729,7 +12756,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -13050,7 +13077,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -13154,7 +13181,7 @@
 -9
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -13359,7 +13386,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -13436,7 +13463,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -13939,7 +13966,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -14258,7 +14285,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -14348,7 +14375,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -14932,7 +14959,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -15231,7 +15258,7 @@
 10
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -15289,7 +15316,7 @@
 6
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -15628,7 +15655,7 @@
 7
 ]
 ],
-"game": "CHI 13 @ SEA 9 \u00b7 Q3 8:55",
+"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
 "on": true
 },
 {
@@ -16156,8 +16183,8 @@
 "live": false
 },
 {
-"t": "CHI 13 @ SEA 9",
-"s": "Q3 8:55",
+"t": "CHI 20 @ SEA 9",
+"s": "Q3 1:15",
 "live": true
 }
 ]

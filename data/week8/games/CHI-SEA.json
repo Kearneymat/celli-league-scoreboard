@@ -1,87 +1,21 @@
 {
  "status": "live",
- "clock": "Q3 8:55",
- "score": {
-  "CHI": 13,
-  "SEA": 9
- },
+ "clock": "Q3 1:15",
+ "score": {"CHI": 20, "SEA": 9},
  "players": {
-  "Caleb Williams": {
-   "pass_cmp": 21,
-   "pass_yds": 218,
-   "pass_td_lengths": [
-    1
-   ],
-   "rush_att": 1,
-   "rush_yds": 2
-  },
-  "D'Andre Swift": {
-   "rush_att": 12,
-   "rush_yds": 25,
-   "rec": 2,
-   "rec_yds": 10
-  },
-  "Colston Loveland": {
-   "rec": 5,
-   "rec_yds": 45
-  },
-  "Luther Burden": {
-   "rec": 7,
-   "rec_yds": 56,
-   "rec_td_lengths": [
-    1
-   ]
-  },
-  "Sam Darnold": {
-   "pass_cmp": 7,
-   "pass_yds": 94,
-   "pass_td_lengths": [
-    43
-   ],
-   "rush_att": 1,
-   "rush_yds": 6
-  },
-  "Jaxon Smith-Njigba": {
-   "rec": 4,
-   "rec_yds": 92,
-   "rec_td_lengths": [
-    43
-   ]
-  }
+  "Caleb Williams": {"pass_cmp": 22, "pass_yds": 227, "pass_td_lengths": [1], "rush_att": 1, "rush_yds": 2},
+  "D'Andre Swift": {"rush_att": 16, "rush_yds": 39, "rush_td_lengths": [1], "rec": 2, "rec_yds": 10},
+  "Colston Loveland": {"rec": 5, "rec_yds": 45},
+  "Luther Burden": {"rec": 7, "rec_yds": 56, "rec_td_lengths": [1]},
+  "Sam Darnold": {"pass_cmp": 9, "pass_yds": 125, "pass_td_lengths": [43], "rush_att": 1, "rush_yds": 6},
+  "Jaxon Smith-Njigba": {"rec": 4, "rec_yds": 92, "rec_td_lengths": [43]}
  },
  "kickers": {
-  "Cairo Santos": {
-   "fg_made_dist": [
-    44,
-    38
-   ],
-   "fg_missed_dist": [],
-   "xp_made": 1,
-   "xp_missed": 0
-  },
-  "Jason Myers": {
-   "fg_made_dist": [
-    27
-   ],
-   "fg_missed_dist": [],
-   "xp_made": 0,
-   "xp_missed": 1
-  }
+  "Cairo Santos": {"fg_made_dist": [44, 38], "fg_missed_dist": [], "xp_made": 2, "xp_missed": 0},
+  "Jason Myers": {"fg_made_dist": [27], "fg_missed_dist": [], "xp_made": 0, "xp_missed": 1}
  },
  "defenses": {
-  "CHI": {
-   "sacks": 2,
-   "int": 0,
-   "fum_rec": 0,
-   "safeties": 0,
-   "def_st_td_lengths": []
-  },
-  "SEA": {
-   "sacks": 0,
-   "int": 0,
-   "fum_rec": 0,
-   "safeties": 0,
-   "def_st_td_lengths": []
-  }
+  "CHI": {"sacks": 3, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []},
+  "SEA": {"sacks": 0, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []}
  }
 }
