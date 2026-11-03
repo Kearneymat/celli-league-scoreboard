@@ -4,7 +4,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 300,
+"total": 308,
 "comm": null,
 "prev": 2106,
 "alive": true,
@@ -115,19 +115,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -661,7 +665,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 293,
+"total": 297,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -704,23 +708,23 @@
 -5
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 37,
+"pts": 41,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"57 rush yds",
-5
+"69 rush yds",
+6
 ],
 [
 "1-yd TD run",
@@ -735,7 +739,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -910,7 +914,7 @@
 4
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -992,7 +996,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 323,
+"total": 331,
 "comm": null,
 "prev": 1897,
 "alive": true,
@@ -1125,19 +1129,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -1985,7 +1993,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 271,
+"total": 279,
 "comm": null,
 "prev": 1868,
 "alive": true,
@@ -2104,7 +2112,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -2151,19 +2159,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -2319,7 +2331,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 304,
+"total": 312,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2457,19 +2469,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -2584,7 +2600,7 @@
 -9
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -3326,7 +3342,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 326,
+"total": 334,
 "comm": null,
 "prev": 2033,
 "alive": false,
@@ -3465,19 +3481,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -3686,7 +3706,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 286,
+"total": 294,
 "comm": null,
 "prev": 2064,
 "alive": false,
@@ -3809,19 +3829,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -3993,7 +4017,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 222,
+"total": 230,
 "comm": null,
 "prev": 2021,
 "alive": false,
@@ -4134,19 +4158,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -4560,7 +4588,7 @@
 4
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -4658,7 +4686,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 375,
+"total": 383,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4729,7 +4757,7 @@
 -5
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -4829,19 +4857,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -5022,7 +5054,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 221,
+"total": 229,
 "comm": null,
 "prev": 1986,
 "alive": false,
@@ -5133,19 +5165,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -5652,7 +5688,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 228,
+"total": 236,
 "comm": null,
 "prev": 2235,
 "alive": false,
@@ -5769,19 +5805,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -5955,7 +5995,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 300,
+"total": 308,
 "comm": null,
 "prev": 1815,
 "alive": false,
@@ -6094,19 +6134,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -6480,7 +6524,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -6584,7 +6628,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 371,
+"total": 375,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6609,7 +6653,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -6688,16 +6732,16 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 37,
+"pts": 41,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"57 rush yds",
-5
+"69 rush yds",
+6
 ],
 [
 "1-yd TD run",
@@ -6712,7 +6756,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -6757,7 +6801,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -6838,7 +6882,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -8240,7 +8284,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 331,
+"total": 339,
 "comm": null,
 "prev": 2146,
 "alive": false,
@@ -8400,19 +8444,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -8590,7 +8638,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 167,
+"total": 175,
 "comm": null,
 "prev": 1869,
 "alive": false,
@@ -8672,19 +8720,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -8897,7 +8949,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 244,
+"total": 248,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8976,16 +9028,16 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 37,
+"pts": 41,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"57 rush yds",
-5
+"69 rush yds",
+6
 ],
 [
 "1-yd TD run",
@@ -9000,7 +9052,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -9135,7 +9187,7 @@
 4
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -9213,7 +9265,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 271,
+"total": 279,
 "comm": null,
 "prev": 1844,
 "alive": false,
@@ -9338,19 +9390,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -9691,7 +9747,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -9750,7 +9806,7 @@
 4
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -9840,7 +9896,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 337,
+"total": 345,
 "comm": null,
 "prev": 1956,
 "alive": false,
@@ -9995,19 +10051,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -10520,7 +10580,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 275,
+"total": 283,
 "comm": null,
 "prev": 1654,
 "alive": false,
@@ -10676,19 +10736,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -11151,7 +11215,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 253,
+"total": 261,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -11258,19 +11322,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -11342,7 +11410,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -11776,7 +11844,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 202,
+"total": 210,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11931,19 +11999,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -11975,7 +12047,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -12713,7 +12785,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 272,
+"total": 280,
 "comm": null,
 "prev": 1728,
 "alive": false,
@@ -12816,19 +12888,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -13030,7 +13106,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 187,
+"total": 195,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -13137,19 +13213,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -13257,7 +13337,7 @@
 -9
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -13329,7 +13409,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 278,
+"total": 286,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -13450,19 +13530,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -13543,7 +13627,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -13931,7 +14015,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 211,
+"total": 219,
 "comm": null,
 "prev": 1785,
 "alive": false,
@@ -14034,19 +14118,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -14234,7 +14322,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 281,
+"total": 289,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -14353,19 +14441,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -14459,7 +14551,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -14892,7 +14984,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 295,
+"total": 303,
 "comm": null,
 "prev": 1955,
 "alive": false,
@@ -15031,19 +15123,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -15219,7 +15315,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 334,
+"total": 342,
 "comm": null,
 "prev": 1884,
 "alive": false,
@@ -15330,19 +15426,23 @@
 "pos": "WR",
 "name": "Jaxon Smith-Njigba",
 "team": "SEA",
-"pts": 19,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"92 rec yds",
-9
+"6 catches",
+6
+],
+[
+"118 rec yds",
+11
 ],
 [
 "43-yd TD catch",
 10
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -15400,7 +15500,7 @@
 6
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -15743,7 +15843,7 @@
 -3
 ]
 ],
-"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 1:14",
 "on": true
 },
 {
@@ -16272,7 +16372,7 @@
 },
 {
 "t": "CHI 34 @ SEA 17",
-"s": "Q4 4:30",
+"s": "Q4 1:14",
 "live": true
 }
 ]

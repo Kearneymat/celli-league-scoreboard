@@ -1,14 +1,14 @@
 {
  "status": "live",
- "clock": "Q4 4:30",
+ "clock": "Q4 1:14",
  "score": {"CHI": 34, "SEA": 17},
  "players": {
   "Caleb Williams": {"pass_cmp": 24, "pass_yds": 247, "pass_td_lengths": [1], "rush_att": 1, "rush_yds": 2},
-  "D'Andre Swift": {"rush_att": 24, "rush_yds": 57, "rush_td_lengths": [1, 5, 5], "rec": 2, "rec_yds": 10},
+  "D'Andre Swift": {"rush_att": 27, "rush_yds": 69, "rush_td_lengths": [1, 5, 5], "rec": 2, "rec_yds": 10},
   "Colston Loveland": {"rec": 7, "rec_yds": 65, "fl": 1},
   "Luther Burden": {"rec": 7, "rec_yds": 56, "rec_td_lengths": [1]},
-  "Sam Darnold": {"pass_cmp": 12, "pass_yds": 143, "pass_td_lengths": [43, 7], "int": 1, "rush_att": 1, "rush_yds": 6},
-  "Jaxon Smith-Njigba": {"rec": 4, "rec_yds": 92, "rec_td_lengths": [43]}
+  "Sam Darnold": {"pass_cmp": 17, "pass_yds": 188, "pass_td_lengths": [43, 7], "int": 1, "rush_att": 2, "rush_yds": 20},
+  "Jaxon Smith-Njigba": {"rec": 6, "rec_yds": 118, "rec_td_lengths": [43]}
  },
  "kickers": {
   "Cairo Santos": {"fg_made_dist": [44, 38], "fg_missed_dist": [], "xp_made": 4, "xp_missed": 0},
