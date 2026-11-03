@@ -127,7 +127,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -661,7 +661,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 271,
+"total": 282,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -700,26 +700,30 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 12,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"20 rushes",
+10
 ],
 [
 "1-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -878,7 +882,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -890,11 +894,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -1121,7 +1125,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -2088,7 +2092,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -2147,7 +2151,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -2453,7 +2457,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -2568,7 +2572,7 @@
 -9
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -3461,7 +3465,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -3805,7 +3809,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -4130,7 +4134,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -4293,7 +4297,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 369,
+"total": 370,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4528,7 +4532,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -4540,11 +4544,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -4709,7 +4713,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -4821,7 +4825,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -5125,7 +5129,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -5761,7 +5765,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6086,7 +6090,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6269,7 +6273,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 262,
+"total": 266,
 "comm": null,
 "prev": 2129,
 "alive": false,
@@ -6444,23 +6448,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6564,7 +6568,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 340,
+"total": 356,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6573,23 +6577,23 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"23 completions",
-8
+"24 completions",
+9
 ],
 [
-"235 pass yds",
-8
+"247 pass yds",
+9
 ],
 [
 "1-yd TD pass",
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6668,19 +6672,23 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 12,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"20 rushes",
+10
 ],
 [
 "1-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6725,7 +6733,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -6790,23 +6798,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -8380,7 +8388,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -8652,7 +8660,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -8865,7 +8873,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 217,
+"total": 228,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8944,19 +8952,23 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 12,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"20 rushes",
+10
 ],
 [
 "1-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -9075,7 +9087,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -9087,11 +9099,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -9306,7 +9318,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -9476,7 +9488,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 306,
+"total": 307,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -9647,7 +9659,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -9690,7 +9702,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -9702,11 +9714,11 @@
 6
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -9963,7 +9975,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -10644,7 +10656,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -11107,7 +11119,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 249,
+"total": 253,
 "comm": null,
 "prev": 1905,
 "alive": false,
@@ -11226,7 +11238,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -11282,23 +11294,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -11732,7 +11744,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 198,
+"total": 202,
 "comm": null,
 "prev": 1588,
 "alive": false,
@@ -11899,7 +11911,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -11915,23 +11927,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -12784,7 +12796,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -13105,7 +13117,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -13213,7 +13225,7 @@
 -9
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -13285,7 +13297,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 274,
+"total": 278,
 "comm": null,
 "prev": 1846,
 "alive": false,
@@ -13418,7 +13430,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -13483,23 +13495,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -14002,7 +14014,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -14190,7 +14202,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 277,
+"total": 281,
 "comm": null,
 "prev": 1705,
 "alive": false,
@@ -14321,7 +14333,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -14399,23 +14411,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -14999,7 +15011,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -15298,7 +15310,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -15356,7 +15368,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -15504,7 +15516,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 235,
+"total": 239,
 "comm": null,
 "prev": 1665,
 "alive": false,
@@ -15683,23 +15695,23 @@
 "pos": "TE",
 "name": "Colston Loveland",
 "team": "CHI",
-"pts": 17,
+"pts": 21,
 "comm": null,
 "bd": [
 [
-"6 catches",
-11
+"7 catches",
+13
 ],
 [
-"53 rec yds",
-9
+"65 rec yds",
+11
 ],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "CHI 20 @ SEA 17 \u00b7 Q4 11:34",
+"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
 "on": true
 },
 {
@@ -16227,8 +16239,8 @@
 "live": false
 },
 {
-"t": "CHI 20 @ SEA 17",
-"s": "Q4 11:34",
+"t": "CHI 27 @ SEA 17",
+"s": "Q4 6:25",
 "live": true
 }
 ]
