@@ -127,7 +127,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -661,7 +661,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 282,
+"total": 293,
 "comm": null,
 "prev": 1919,
 "alive": true,
@@ -688,7 +688,7 @@
 "pos": "QB",
 "name": "Sam Darnold",
 "team": "SEA",
-"pts": 16,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -698,21 +698,29 @@
 [
 "7-yd TD pass",
 6
+],
+[
+"1 INT",
+-5
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 22,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"20 rushes",
-10
+"24 rushes",
+14
+],
+[
+"57 rush yds",
+5
 ],
 [
 "1-yd TD run",
@@ -721,9 +729,13 @@
 [
 "5-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -882,7 +894,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -894,11 +906,11 @@
 6
 ],
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -1125,7 +1137,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -2092,7 +2104,7 @@
 6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -2151,7 +2163,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -2457,7 +2469,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -2572,7 +2584,7 @@
 -9
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -3465,7 +3477,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -3809,7 +3821,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -4134,7 +4146,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -4297,7 +4309,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 370,
+"total": 371,
 "comm": null,
 "prev": 1804,
 "alive": false,
@@ -4532,7 +4544,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -4544,11 +4556,11 @@
 6
 ],
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -4646,7 +4658,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 380,
+"total": 375,
 "comm": null,
 "prev": 2032,
 "alive": false,
@@ -4701,7 +4713,7 @@
 "pos": "QB",
 "name": "Sam Darnold",
 "team": "SEA",
-"pts": 16,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -4711,9 +4723,13 @@
 [
 "7-yd TD pass",
 6
+],
+[
+"1 INT",
+-5
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -4825,7 +4841,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -5129,7 +5145,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -5765,7 +5781,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6090,7 +6106,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6464,7 +6480,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6568,7 +6584,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 356,
+"total": 371,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6593,7 +6609,7 @@
 6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6672,12 +6688,16 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 22,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"20 rushes",
-10
+"24 rushes",
+14
+],
+[
+"57 rush yds",
+5
 ],
 [
 "1-yd TD run",
@@ -6686,9 +6706,13 @@
 [
 "5-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6733,7 +6757,7 @@
 6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -6814,7 +6838,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -8388,7 +8412,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -8660,7 +8684,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -8873,7 +8897,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 228,
+"total": 244,
 "comm": null,
 "prev": 1455,
 "alive": false,
@@ -8952,12 +8976,16 @@
 "pos": "RB",
 "name": "D'Andre Swift",
 "team": "CHI",
-"pts": 22,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"20 rushes",
-10
+"24 rushes",
+14
+],
+[
+"57 rush yds",
+5
 ],
 [
 "1-yd TD run",
@@ -8966,9 +8994,13 @@
 [
 "5-yd TD run",
 6
+],
+[
+"5-yd TD run",
+6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -9087,7 +9119,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -9099,11 +9131,11 @@
 6
 ],
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -9318,7 +9350,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -9488,7 +9520,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 307,
+"total": 308,
 "comm": null,
 "prev": 1808,
 "alive": false,
@@ -9659,7 +9691,7 @@
 6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -9702,7 +9734,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -9714,11 +9746,11 @@
 6
 ],
 [
-"3 XP",
-3
+"4 XP",
+4
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -9975,7 +10007,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -10656,7 +10688,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -11238,7 +11270,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -11310,7 +11342,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -11911,7 +11943,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -11943,7 +11975,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -12796,7 +12828,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -13117,7 +13149,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -13225,7 +13257,7 @@
 -9
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -13430,7 +13462,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -13511,7 +13543,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -14014,7 +14046,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -14333,7 +14365,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -14427,7 +14459,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -15011,7 +15043,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -15310,7 +15342,7 @@
 10
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -15368,7 +15400,7 @@
 6
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -15711,7 +15743,7 @@
 -3
 ]
 ],
-"game": "CHI 27 @ SEA 17 \u00b7 Q4 6:25",
+"game": "CHI 34 @ SEA 17 \u00b7 Q4 4:30",
 "on": true
 },
 {
@@ -16239,8 +16271,8 @@
 "live": false
 },
 {
-"t": "CHI 27 @ SEA 17",
-"s": "Q4 6:25",
+"t": "CHI 34 @ SEA 17",
+"s": "Q4 4:30",
 "live": true
 }
 ]
