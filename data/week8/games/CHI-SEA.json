@@ -1,14 +1,14 @@
 {
  "status": "live",
- "clock": "Q3 13:41",
+ "clock": "Q3 8:55",
  "score": {
   "CHI": 13,
   "SEA": 9
  },
  "players": {
   "Caleb Williams": {
-   "pass_cmp": 17,
-   "pass_yds": 165,
+   "pass_cmp": 21,
+   "pass_yds": 218,
    "pass_td_lengths": [
     1
    ],
@@ -16,8 +16,8 @@
    "rush_yds": 2
   },
   "D'Andre Swift": {
-   "rush_att": 11,
-   "rush_yds": 26,
+   "rush_att": 12,
+   "rush_yds": 25,
    "rec": 2,
    "rec_yds": 10
   },
@@ -26,8 +26,8 @@
    "rec_yds": 45
   },
   "Luther Burden": {
-   "rec": 6,
-   "rec_yds": 53,
+   "rec": 7,
+   "rec_yds": 56,
    "rec_td_lengths": [
     1
    ]
@@ -70,7 +70,7 @@
  },
  "defenses": {
   "CHI": {
-   "sacks": 1,
+   "sacks": 2,
    "int": 0,
    "fum_rec": 0,
    "safeties": 0,
