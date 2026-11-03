@@ -127,7 +127,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -696,7 +696,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -715,7 +715,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -890,7 +890,7 @@
 2
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -1117,7 +1117,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -2084,7 +2084,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -2143,7 +2143,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -2299,7 +2299,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 310,
+"total": 304,
 "comm": null,
 "prev": 1935,
 "alive": true,
@@ -2449,7 +2449,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -2548,7 +2548,7 @@
 "pos": "K",
 "name": "Jason Myers",
 "team": "SEA",
-"pts": -6,
+"pts": -12,
 "comm": null,
 "bd": [
 [
@@ -2556,11 +2556,15 @@
 3
 ],
 [
+"missed 30-39 yd FG",
+-6
+],
+[
 "1 missed XP",
 -9
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -3453,7 +3457,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -3797,7 +3801,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -4122,7 +4126,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -4536,7 +4540,7 @@
 2
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -4697,7 +4701,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -4809,7 +4813,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -5113,7 +5117,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -5749,7 +5753,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6074,7 +6078,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6444,7 +6448,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6548,7 +6552,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 337,
+"total": 340,
 "comm": null,
 "prev": 1805,
 "alive": false,
@@ -6557,23 +6561,23 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"227 pass yds",
-7
+"240 pass yds",
+9
 ],
 [
 "1-yd TD pass",
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6664,7 +6668,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6709,7 +6713,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -6786,7 +6790,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -8360,7 +8364,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -8632,7 +8636,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -8936,7 +8940,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -9071,7 +9075,7 @@
 2
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -9286,7 +9290,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -9627,7 +9631,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -9686,7 +9690,7 @@
 2
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -9943,7 +9947,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -10624,7 +10628,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -11206,7 +11210,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -11274,7 +11278,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -11875,7 +11879,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -11903,7 +11907,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -12756,7 +12760,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -12958,7 +12962,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 193,
+"total": 187,
 "comm": null,
 "prev": 1843,
 "alive": false,
@@ -13077,7 +13081,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -13169,7 +13173,7 @@
 "pos": "K",
 "name": "Jason Myers",
 "team": "SEA",
-"pts": -6,
+"pts": -12,
 "comm": null,
 "bd": [
 [
@@ -13177,11 +13181,15 @@
 3
 ],
 [
+"missed 30-39 yd FG",
+-6
+],
+[
 "1 missed XP",
 -9
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -13386,7 +13394,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -13463,7 +13471,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -13966,7 +13974,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -14285,7 +14293,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -14375,7 +14383,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -14959,7 +14967,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -15258,7 +15266,7 @@
 10
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -15316,7 +15324,7 @@
 6
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -15655,7 +15663,7 @@
 7
 ]
 ],
-"game": "CHI 20 @ SEA 9 \u00b7 Q3 1:15",
+"game": "CHI 20 @ SEA 9 \u00b7 Q4 13:16",
 "on": true
 },
 {
@@ -16184,7 +16192,7 @@
 },
 {
 "t": "CHI 20 @ SEA 9",
-"s": "Q3 1:15",
+"s": "Q4 13:16",
 "live": true
 }
 ]
