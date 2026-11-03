@@ -1,46 +1,18 @@
 {
 "status": "live",
-"clock": "Q1 9:32",
-"score": {
-"SEA": 0,
-"CHI": 0
-},
+"clock": "Q1 4:21",
+"score": {"CHI": 7, "SEA": 0},
 "players": {
-"Caleb Williams": {
-"pass_cmp": 4,
-"pass_yds": 28
+"Caleb Williams": {"pass_cmp": 8, "pass_yds": 58, "pass_td_lengths": [1]},
+"D'Andre Swift": {"rush_att": 4, "rush_yds": 7, "rec": 1, "rec_yds": 8},
+"Colston Loveland": {"rec": 3, "rec_yds": 27},
+"Luther Burden": {"rec": 4, "rec_yds": 23, "rec_td_lengths": [1]}
 },
-"D'Andre Swift": {
-"rush_att": 4,
-"rush_yds": 7,
-"rec": 1,
-"rec_yds": 8
+"kickers": {
+"Cairo Santos": {"fg_made_dist": [], "fg_missed_dist": [], "xp_made": 1, "xp_missed": 0}
 },
-"Colston Loveland": {
-"rec": 2,
-"rec_yds": 12
-},
-"Luther Burden": {
-"rec": 1,
-"rec_yds": 8
-}
-},
-"kickers": {},
 "defenses": {
-"SEA": {
-"sacks": 0,
-"int": 0,
-"fum_rec": 0,
-"safeties": 0,
-"def_st_td_lengths": []
-},
-"CHI": {
-"sacks": 0,
-"int": 0,
-"fum_rec": 0,
-"safeties": 0,
-"def_st_td_lengths": []
+"CHI": {"sacks": 1, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []},
+"SEA": {"sacks": 0, "int": 0, "fum_rec": 0, "safeties": 0, "def_st_td_lengths": []}
 }
-},
-"src": "ESPN"
 }
