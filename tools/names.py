@@ -83,3 +83,4 @@ PL.update({
 })
 DF.update({'cincy': 'CIN'})
 PL.update({'mcmanus': ('Brandon McManus', 'LAR')})
+PL.update({'TE:warren': ('Tyler Warren', 'IND')})
