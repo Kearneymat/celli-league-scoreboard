@@ -1,0 +1,502 @@
+[
+{
+"owner": "D Maze",
+"alive": true,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Ben",
+"alive": true,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Ian",
+"alive": true,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Bella",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Tuttle",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Cann Man",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Snipes",
+"alive": false,
+"total": 41,
+"lineup": [
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 18
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Bronson",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Hummer",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Cobb",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Nutting",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Tar Heels",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Romano",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "J Cell",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Big Daddy",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Rich CH(2025 champ)",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Sleepy Joe",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Kearney",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Paradis",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Max Cat",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Duncanson",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Lee",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Pork Chop",
+"alive": false,
+"total": 21,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 21
+}
+]
+},
+{
+"owner": "Pacman",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Svendson",
+"alive": false,
+"total": 18,
+"lineup": [
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 18
+}
+]
+},
+{
+"owner": "Tansey",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Jori",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Keoni",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Shane H",
+"alive": false,
+"total": 39,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"pts": 18
+}
+]
+},
+{
+"owner": "Al Cat",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Maffeo",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Matt CH",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Lynn",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Hurls",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "King",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "TJP",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Macbeth",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Kawazoe",
+"alive": false,
+"total": 44,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 21
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Paul Dej",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Putin",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Pizzi",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Adam",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Chi Chi",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Boogie man",
+"alive": false,
+"total": 23,
+"lineup": [
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Finger",
+"alive": false,
+"total": 44,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"pts": 21
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"pts": 23
+}
+]
+},
+{
+"owner": "Dogga",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Gavin",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Moser",
+"alive": false,
+"total": 0,
+"lineup": []
+}
+]

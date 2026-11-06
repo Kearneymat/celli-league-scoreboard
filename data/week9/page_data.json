@@ -1,0 +1,968 @@
+{
+"week": 9,
+"teams": [
+{
+"owner": "D Maze",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2387,
+"alive": true,
+"lineup": []
+},
+{
+"owner": "Ben",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2338,
+"alive": true,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Ian",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2499,
+"alive": true,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Bella",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2228,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Tuttle",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2414,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2418,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Cann Man",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2145,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Snipes",
+"champ": false,
+"total": 41,
+"comm": 41,
+"prev": 2249,
+"alive": false,
+"lineup": [
+{
+"pos": "WR",
+"name": "Parker Washington",
+"team": "JAX",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+},
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Bronson",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2218,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Hummer",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2245,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Cobb",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2368,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Nutting",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2358,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Tar Heels",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2249,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Romano",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2178,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "J Cell",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2417,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Big Daddy",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2213,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Rich CH",
+"champ": true,
+"total": 0,
+"comm": 0,
+"prev": 2199,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Sleepy Joe",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2469,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Kearney",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2124,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Paradis",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2395,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Max Cat",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2180,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Duncanson",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 1876,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Lee",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1721,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Pork Chop",
+"champ": false,
+"total": 21,
+"comm": 21,
+"prev": 2164,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Trevor Lawrence",
+"team": "JAX",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Pacman",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2087,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Svendson",
+"champ": false,
+"total": 18,
+"comm": 18,
+"prev": 2483,
+"alive": false,
+"lineup": [
+{
+"pos": "WR",
+"name": "Parker Washington",
+"team": "JAX",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Tansey",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2044,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Jori",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 1703,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Keoni",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2125,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Shane H",
+"champ": false,
+"total": 39,
+"comm": 39,
+"prev": 2114,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Trevor Lawrence",
+"team": "JAX",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+},
+{
+"pos": "WR",
+"name": "Parker Washington",
+"team": "JAX",
+"pts": 18,
+"comm": 18,
+"bd": [
+[
+"Official score",
+18
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Al Cat",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2299,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2179,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Maffeo",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1947,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Matt CH",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1969,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Lynn",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2166,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Hurls",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2134,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "King",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1798,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "TJP",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2284,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Macbeth",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 1953,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Kawazoe",
+"champ": false,
+"total": 44,
+"comm": 44,
+"prev": 2006,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Trevor Lawrence",
+"team": "JAX",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+},
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Paul Dej",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2036,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Putin",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2133,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Pizzi",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2147,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Adam",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2004,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Chi Chi",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1992,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Boogie man",
+"champ": false,
+"total": 23,
+"comm": 23,
+"prev": 2193,
+"alive": false,
+"lineup": [
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Finger",
+"champ": false,
+"total": 44,
+"comm": 44,
+"prev": 2258,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Trevor Lawrence",
+"team": "JAX",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+},
+{
+"pos": "DEF",
+"name": "Jaguars D",
+"team": "JAX",
+"pts": 23,
+"comm": 23,
+"bd": [
+[
+"Official score",
+23
+]
+],
+"game": "JAX \u00b7 Week 9 final"
+}
+]
+},
+{
+"owner": "Dogga",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2226,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Gavin",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 1902,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Moser",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2067,
+"alive": false,
+"lineup": []
+}
+],
+"games": [
+{
+"t": "Week 9",
+"s": "Official",
+"live": false
+}
+]
+}

@@ -27,6 +27,7 @@ alive_n = sum(t['alive'] for t in out)
 meta = dict(updated=f'Official results · Week {WK}', status='Official — commissioner\'s results', live=False, audit=False, cut=0, cutLive=False,
             cutNote=f'{alive_n} teams still alive after Week {WK} cuts (per commissioner)',
             footnote=f'Week {WK} scores are the commissioner\'s official results. Season totals through Week {WK-1} are from the commissioner\'s sheet.')
+if os.path.exists(f'{W}/meta.json'): meta.update(json.load(open(f'{W}/meta.json')))
 data = dict(week=WK, teams=out, games=[dict(t=f'Week {WK}', s='Official', live=False)])
 json.dump(data, open(f'{W}/page_data.json', 'w'), indent=0)
 page = open(f'{R}/tools/page.html').read().replace('__DATA__', json.dumps(data, separators=(',', ':'))).replace('__META__', json.dumps(meta))
