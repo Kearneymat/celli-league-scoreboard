@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q3 1:30",
+"clock": "Q4 13:15",
 "score": {
 "MIA": 6,
-"DET": 9
+"DET": 16
 },
 "players": {
 "Jared Goff": {
@@ -14,8 +14,11 @@
 "rush_yds": 6
 },
 "Jahmyr Gibbs": {
-"rush_att": 14,
-"rush_yds": 50
+"rush_att": 15,
+"rush_yds": 58,
+"rush_td_lengths": [
+8
+]
 },
 "Jameson Williams": {
 "rush_att": 1,
@@ -32,15 +35,15 @@
 "rec_yds": 16
 },
 "Malik Willis": {
-"pass_cmp": 10,
-"pass_yds": 100,
+"pass_cmp": 11,
+"pass_yds": 113,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 7
 },
 "Ollie Gordon II": {
-"rush_att": 12,
-"rush_yds": 48,
+"rush_att": 15,
+"rush_yds": 51,
 "rec": 1,
 "rec_yds": 9
 },
@@ -50,8 +53,8 @@
 "rec_yds": 14
 },
 "Caleb Douglas": {
-"rec": 5,
-"rec_yds": 57
+"rec": 6,
+"rec_yds": 70
 },
 "Greg Dulcich": {
 "rec": 2,
@@ -66,7 +69,7 @@
 33
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },
