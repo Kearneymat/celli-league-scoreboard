@@ -1,14 +1,19 @@
 {
 "status": "live",
-"clock": "Q2 14:28",
+"clock": "Q2 9:52",
 "score": {
 "SF": 14,
-"LV": 0
+"LV": 7
 },
 "players": {
 "Kirk Cousins": {
 "pass_cmp": 4,
-"pass_yds": 48
+"pass_yds": 48,
+"rush_att": 1,
+"rush_yds": 2,
+"rush_td_lengths": [
+2
+]
 },
 "Brock Bowers": {
 "rec": 1,
@@ -19,17 +24,17 @@
 "rec_yds": 14
 },
 "Brock Purdy": {
-"pass_cmp": 5,
-"pass_yds": 70,
-"rush_att": 4,
-"rush_yds": 32,
+"pass_cmp": 6,
+"pass_yds": 95,
+"rush_att": 5,
+"rush_yds": 33,
 "rush_td_lengths": [
 1
 ]
 },
 "Christian McCaffrey": {
-"rush_att": 8,
-"rush_yds": 42,
+"rush_att": 10,
+"rush_yds": 51,
 "rush_td_lengths": [
 1
 ]
@@ -40,6 +45,12 @@
 }
 },
 "kickers": {
+"Matt Gay": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+},
 "Eddy Pineiro": {
 "fg_made_dist": [],
 "fg_missed_dist": [],

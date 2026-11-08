@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 12:39",
 "score": {
 "NE": 0,
-"GB": 14
+"GB": 17
 },
 "players": {
 "Jordan Love": {
@@ -33,11 +33,11 @@
 "Drake Maye": {
 "pass_cmp": 3,
 "pass_yds": 24,
-"int": 1
+"int": 2
 },
 "Rhamondre Stevenson": {
-"rush_att": 3,
-"rush_yds": -2
+"rush_att": 4,
+"rush_yds": 10
 },
 "Mack Hollins": {
 "rec": 1,
@@ -49,13 +49,13 @@
 "defenses": {
 "GB": {
 "sacks": 1,
-"int": 1,
+"int": 2,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "NE": {
-"sacks": 0,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

@@ -1,19 +1,20 @@
 {
 "status": "live",
-"clock": "Q2 6:40",
+"clock": "Q2 4:28",
 "score": {
-"LAC": 6,
-"HOU": 10
+"LAC": 9,
+"HOU": 17
 },
 "players": {
 "C.J. Stroud": {
-"pass_cmp": 8,
-"pass_yds": 82,
+"pass_cmp": 10,
+"pass_yds": 150,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 12,
 "pass_td_lengths": [
-17
+17,
+63
 ]
 },
 "Woody Marks": {
@@ -31,13 +32,14 @@
 56
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 },
 "Cameron Dicker": {
 "fg_made_dist": [
 52,
-33
+33,
+43
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
