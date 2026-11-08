@@ -1,21 +1,25 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 11:32",
 "score": {
 "MIA": 3,
 "DET": 6
 },
 "players": {
 "Jared Goff": {
-"pass_cmp": 7,
-"pass_yds": 67,
+"pass_cmp": 8,
+"pass_yds": 72,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 6
 },
 "Jahmyr Gibbs": {
-"rush_att": 10,
-"rush_yds": 38
+"rush_att": 12,
+"rush_yds": 46
+},
+"Jameson Williams": {
+"rush_att": 1,
+"rush_yds": 9
 },
 "Amon-Ra St. Brown": {
 "rec": 5,
@@ -25,16 +29,16 @@
 "rec": 1,
 "rec_yds": 11
 },
-"Jameson Williams": {},
 "Malik Willis": {
 "pass_cmp": 5,
 "pass_yds": 59,
+"int": 1,
 "rush_att": 1,
 "rush_yds": 2
 },
 "Ollie Gordon II": {
-"rush_att": 10,
-"rush_yds": 46
+"rush_att": 11,
+"rush_yds": 48
 },
 "Malik Washington": {
 "rush_att": 1,
@@ -64,7 +68,7 @@
 "defenses": {
 "DET": {
 "sacks": 0,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

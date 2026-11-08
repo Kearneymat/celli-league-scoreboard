@@ -1,30 +1,34 @@
 {
 "status": "live",
-"clock": "Q2 1:19",
+"clock": "Halftime",
 "score": {
 "IND": 7,
-"DAL": 10
+"DAL": 17
 },
 "players": {
 "Dak Prescott": {
-"pass_cmp": 10,
-"pass_yds": 73,
+"pass_cmp": 12,
+"pass_yds": 139,
 "rush_att": 1,
 "rush_yds": 2,
 "fl": 1,
 "pass_td_lengths": [
-10
+10,
+44
 ]
 },
 "Javonte Williams": {
-"rush_att": 9,
-"rush_yds": 34,
+"rush_att": 10,
+"rush_yds": 43,
 "rec": 3,
 "rec_yds": 10
 },
 "CeeDee Lamb": {
-"rec": 3,
-"rec_yds": 19
+"rec": 5,
+"rec_yds": 85,
+"rec_td_lengths": [
+44
+]
 },
 "Jake Ferguson": {
 "rec": 1,
@@ -44,8 +48,8 @@
 "rec_yds": 5
 },
 "Keenan Allen": {
-"rec": 2,
-"rec_yds": 19
+"rec": 3,
+"rec_yds": 22
 },
 "Josh Downs": {
 "rec": 1,
@@ -58,7 +62,7 @@
 45
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 },
 "Spencer Shrader": {
@@ -70,7 +74,7 @@
 },
 "defenses": {
 "DAL": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 14:55",
 "score": {
 "WAS": 10,
 "LAR": 6
 },
 "players": {
 "Matthew Stafford": {
-"pass_cmp": 15,
-"pass_yds": 109,
+"pass_cmp": 16,
+"pass_yds": 124,
 "rush_att": 1,
 "rush_yds": 1
 },
@@ -23,8 +23,8 @@
 "rush_yds": 23
 },
 "Puka Nacua": {
-"rec": 9,
-"rec_yds": 86,
+"rec": 10,
+"rec_yds": 101,
 "fl": 1
 },
 "Jayden Daniels": {

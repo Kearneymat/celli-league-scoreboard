@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 0:13",
+"clock": "Halftime",
 "score": {
 "CAR": 7,
-"DEN": 10
+"DEN": 13
 },
 "players": {
 "Bo Nix": {
@@ -46,7 +46,8 @@
 "kickers": {
 "Wil Lutz": {
 "fg_made_dist": [
-26
+26,
+48
 ],
 "fg_missed_dist": [],
 "xp_made": 1,
