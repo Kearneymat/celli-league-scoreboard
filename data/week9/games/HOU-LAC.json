@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 6:26",
+"clock": "Q3 1:56",
 "score": {
 "LAC": 9,
 "HOU": 31
 },
 "players": {
 "C.J. Stroud": {
-"pass_cmp": 18,
-"pass_yds": 286,
+"pass_cmp": 19,
+"pass_yds": 289,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 20,
@@ -59,14 +59,14 @@
 },
 "defenses": {
 "HOU": {
-"sacks": 6,
+"sacks": 7,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "LAC": {
-"sacks": 0,
+"sacks": 1,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

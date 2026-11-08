@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 4:11",
+"clock": "Q4 15:00",
 "score": {
-"SF": 28,
+"SF": 35,
 "LV": 17
 },
 "players": {
@@ -34,8 +34,8 @@
 "rec_yds": 55
 },
 "Brock Purdy": {
-"pass_cmp": 11,
-"pass_yds": 146,
+"pass_cmp": 14,
+"pass_yds": 214,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 40,
@@ -43,12 +43,13 @@
 1
 ],
 "pass_td_lengths": [
-12
+12,
+37
 ]
 },
 "Christian McCaffrey": {
-"rush_att": 15,
-"rush_yds": 58,
+"rush_att": 16,
+"rush_yds": 63,
 "rec": 1,
 "rec_yds": 12,
 "rush_td_lengths": [
@@ -59,8 +60,8 @@
 ]
 },
 "George Kittle": {
-"rec": 2,
-"rec_yds": 41
+"rec": 3,
+"rec_yds": 53
 }
 },
 "kickers": {
@@ -75,7 +76,7 @@
 "Eddy Pineiro": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 4,
+"xp_made": 5,
 "xp_missed": 0
 }
 },
