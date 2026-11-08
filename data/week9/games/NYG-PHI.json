@@ -1,19 +1,19 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 9:06",
 "score": {
 "PHI": 8,
-"NYG": 13
+"NYG": 16
 },
 "players": {
 "J.J. McCarthy": {
-"pass_cmp": 9,
-"pass_yds": 101,
-"rush_att": 3,
-"rush_yds": 11
+"pass_cmp": 12,
+"pass_yds": 127,
+"rush_att": 4,
+"rush_yds": 22
 },
 "Devin Singletary": {
-"rush_att": 13,
+"rush_att": 15,
 "rush_yds": 25,
 "rec": 2,
 "rec_yds": 8
@@ -26,8 +26,8 @@
 ]
 },
 "Malik Nabers": {
-"rec": 3,
-"rec_yds": 27
+"rec": 5,
+"rec_yds": 43
 },
 "Joe Milton": {
 "pass_cmp": 10,

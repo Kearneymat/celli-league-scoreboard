@@ -1,20 +1,20 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 7:39",
 "score": {
 "KC": 28,
 "NYJ": 12
 },
 "players": {
 "Geno Smith": {
-"pass_cmp": 13,
-"pass_yds": 102,
+"pass_cmp": 16,
+"pass_yds": 138,
 "rush_att": 1,
 "rush_yds": 8
 },
 "Omar Cooper": {
-"rec": 6,
-"rec_yds": 37
+"rec": 7,
+"rec_yds": 42
 },
 "Mason Taylor": {
 "rec": 1,
@@ -22,8 +22,8 @@
 },
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
-"pass_cmp": 18,
-"pass_yds": 201,
+"pass_cmp": 20,
+"pass_yds": 216,
 "rush_att": 2,
 "rush_yds": 8,
 "fl": 1,
@@ -33,8 +33,8 @@
 ]
 },
 "Kenneth Walker": {
-"rush_att": 15,
-"rush_yds": 90,
+"rush_att": 18,
+"rush_yds": 102,
 "rec": 4,
 "rec_yds": 41,
 "rec_td_lengths": [
@@ -55,8 +55,8 @@
 ]
 },
 "Rashee Rice": {
-"rec": 3,
-"rec_yds": 25
+"rec": 4,
+"rec_yds": 37
 }
 },
 "kickers": {
@@ -91,7 +91,7 @@
 "def_st_td_lengths": []
 },
 "KC": {
-"sacks": 3,
+"sacks": 4,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,

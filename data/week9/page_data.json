@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 103,
+"total": 116,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -57,23 +57,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -145,7 +145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -182,7 +182,7 @@
 "pos": "K",
 "name": "Charlie Smyth",
 "team": "NO",
-"pts": 8,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -194,11 +194,15 @@
 3
 ],
 [
+"48-yd FG",
+9
+],
+[
 "missed 52-yd FG",
 -1
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -215,7 +219,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -223,8 +227,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -235,7 +239,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -243,7 +247,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 148,
+"total": 151,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -340,26 +344,26 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 13,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"69 rec yds",
-6
+"86 rec yds",
+8
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -398,7 +402,7 @@
 5
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -451,7 +455,7 @@
 1
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -483,7 +487,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 190,
+"total": 192,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -536,23 +540,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -567,7 +571,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -582,7 +586,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -614,7 +618,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -641,7 +645,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -716,7 +720,7 @@
 1
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -748,7 +752,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 175,
+"total": 183,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -811,7 +815,7 @@
 -5
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -844,39 +848,39 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -891,7 +895,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -921,7 +925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -931,7 +935,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -941,7 +945,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -984,14 +988,14 @@
 1
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -999,8 +1003,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -1011,7 +1015,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -1029,7 +1033,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 154,
+"total": 161,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1090,30 +1094,30 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -1128,7 +1132,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1155,17 +1159,22 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -1197,7 +1206,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -1221,7 +1230,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1273,7 +1282,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 163,
+"total": 186,
 "comm": null,
 "prev": 2418,
 "alive": false,
@@ -1326,23 +1335,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -1357,7 +1366,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1372,7 +1381,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -1414,22 +1423,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Omar Cooper",
 "team": "NYJ",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -1456,7 +1465,7 @@
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 19,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -1472,18 +1481,22 @@
 6
 ],
 [
+"43-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "K",
 "name": "Charlie Smyth",
 "team": "NO",
-"pts": 8,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -1495,11 +1508,15 @@
 3
 ],
 [
+"48-yd FG",
+9
+],
+[
 "missed 52-yd FG",
 -1
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -1520,7 +1537,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -1528,8 +1545,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -1540,7 +1557,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -1548,7 +1565,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 59,
+"total": 67,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -1565,7 +1582,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -1590,7 +1607,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1607,10 +1624,15 @@
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1630,7 +1652,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -1650,7 +1672,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -1673,7 +1695,7 @@
 6
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -1690,7 +1712,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -1698,11 +1720,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -1744,7 +1770,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 211,
+"total": 208,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -1790,7 +1816,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -1805,30 +1831,30 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -1881,10 +1907,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -1939,7 +1970,7 @@
 6
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -1980,19 +2011,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -2000,7 +2035,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 80,
+"total": 84,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2029,23 +2064,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2060,7 +2095,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -2070,7 +2105,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -2097,7 +2132,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -2117,7 +2152,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -2136,7 +2171,7 @@
 5
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -2156,7 +2191,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -2183,7 +2218,7 @@
 "pos": "DEF",
 "name": "Lions D",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -2191,8 +2226,8 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 INT",
@@ -2203,7 +2238,7 @@
 0
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2221,7 +2256,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 161,
+"total": 168,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2274,39 +2309,39 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -2321,7 +2356,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -2336,7 +2371,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -2377,7 +2412,7 @@
 5
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -2387,22 +2422,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Omar Cooper",
 "team": "NYJ",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -2474,7 +2509,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 58,
+"total": 61,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -2491,7 +2526,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2508,23 +2543,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2571,7 +2606,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -2591,7 +2626,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -2638,7 +2673,7 @@
 "pos": "K",
 "name": "Andre Szmyt",
 "team": "CLE",
-"pts": 15,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -2648,9 +2683,13 @@
 [
 "30-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -2678,7 +2717,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 117,
+"total": 119,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -2709,30 +2748,30 @@
 -3
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2747,7 +2786,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -2762,7 +2801,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -2821,7 +2860,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -2841,7 +2880,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -2851,7 +2890,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2903,7 +2942,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 100,
+"total": 109,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2912,12 +2951,12 @@
 "pos": "QB",
 "name": "Bo Nix",
 "team": "DEN",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
 "3-yd TD pass",
@@ -2928,7 +2967,7 @@
 -5
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -2945,23 +2984,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -2986,7 +3025,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -3013,17 +3052,22 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -3043,7 +3087,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -3053,7 +3097,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -3080,7 +3124,7 @@
 "pos": "K",
 "name": "Andre Szmyt",
 "team": "CLE",
-"pts": 15,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -3090,9 +3134,13 @@
 [
 "30-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -3124,7 +3172,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 42,
+"total": 45,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -3141,7 +3189,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -3187,7 +3235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -3204,19 +3252,19 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 13,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"69 rec yds",
-6
+"86 rec yds",
+8
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -3295,7 +3343,7 @@
 4
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -3323,7 +3371,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 127,
+"total": 131,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -3398,23 +3446,23 @@
 5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -3429,7 +3477,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -3439,7 +3487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -3481,7 +3529,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -3534,7 +3582,7 @@
 1
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -3562,7 +3610,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 78,
+"total": 80,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -3589,30 +3637,30 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -3627,7 +3675,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -3642,7 +3690,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -3679,7 +3727,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -3771,7 +3819,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 128,
+"total": 137,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -3788,7 +3836,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -3829,39 +3877,39 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -3876,7 +3924,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -3891,7 +3939,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -3901,7 +3949,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -3963,7 +4011,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -3980,7 +4028,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -3988,11 +4036,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -4020,7 +4072,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 116,
+"total": 121,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -4071,7 +4123,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -4098,10 +4150,15 @@
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -4150,7 +4207,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -4170,7 +4227,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -4242,7 +4299,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 126,
+"total": 131,
 "comm": null,
 "prev": 2124,
 "alive": false,
@@ -4293,7 +4350,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -4310,10 +4367,15 @@
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -4328,7 +4390,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -4383,7 +4445,7 @@
 10
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -4393,7 +4455,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -4413,7 +4475,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -4432,7 +4494,7 @@
 2
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -4455,7 +4517,7 @@
 2
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -4487,7 +4549,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 163,
+"total": 160,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -4550,33 +4612,38 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -4640,7 +4707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -4701,19 +4768,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -4721,7 +4792,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 125,
+"total": 132,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -4794,23 +4865,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -4849,10 +4920,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -4943,7 +5019,7 @@
 0
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 }
 ]
@@ -4951,7 +5027,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 92,
+"total": 89,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -4963,7 +5039,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -4980,23 +5056,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -5021,7 +5097,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5058,10 +5134,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -5094,7 +5175,7 @@
 6
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -5135,19 +5216,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -5155,7 +5240,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 33,
+"total": 38,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -5202,7 +5287,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -5212,7 +5297,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5222,7 +5307,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5232,7 +5317,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -5277,14 +5362,14 @@
 7
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5292,11 +5377,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -5313,7 +5402,7 @@
 "pos": "DEF",
 "name": "Rams D",
 "team": "LAR",
-"pts": 9,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -5321,8 +5410,8 @@
 5
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "1 fum rec",
@@ -5333,7 +5422,7 @@
 0
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -5351,7 +5440,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 144,
+"total": 142,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -5408,23 +5497,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -5439,7 +5528,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -5454,7 +5543,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5483,10 +5572,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -5503,15 +5597,15 @@
 "pos": "WR",
 "name": "Omar Cooper",
 "team": "NYJ",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -5568,19 +5662,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -5677,7 +5775,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 54,
+"total": 60,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -5694,19 +5792,19 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Bo Nix",
 "team": "DEN",
-"pts": 8,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
 "3-yd TD pass",
@@ -5717,7 +5815,7 @@
 -5
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5734,23 +5832,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -5765,7 +5863,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5789,7 +5887,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -5799,7 +5897,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -5819,7 +5917,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -5836,7 +5934,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5844,11 +5942,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -5886,7 +5988,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 135,
+"total": 136,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -5925,23 +6027,23 @@
 -5
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -5956,40 +6058,45 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -6026,7 +6133,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -6036,7 +6143,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -6089,7 +6196,7 @@
 2
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -6099,7 +6206,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -6116,19 +6223,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -6136,7 +6247,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 86,
+"total": 103,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -6145,12 +6256,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"201 pass yds",
+"20 completions",
 5
+],
+[
+"216 pass yds",
+6
 ],
 [
 "7-yd TD pass",
@@ -6165,7 +6280,7 @@
 -3
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -6182,16 +6297,16 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -6206,7 +6321,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -6236,7 +6351,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -6253,10 +6368,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -6327,7 +6447,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -6335,8 +6455,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -6347,7 +6467,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -6355,7 +6475,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 81,
+"total": 88,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -6372,7 +6492,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -6413,23 +6533,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -6468,10 +6588,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -6500,7 +6625,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -6564,7 +6689,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 109,
+"total": 111,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -6597,23 +6722,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -6628,7 +6753,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -6638,7 +6763,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -6675,7 +6800,7 @@
 10
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -6707,7 +6832,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -6717,7 +6842,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -6779,7 +6904,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 114,
+"total": 117,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -6830,7 +6955,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -6849,7 +6974,7 @@
 7
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -6874,7 +6999,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -6916,7 +7041,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -6953,7 +7078,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6961,11 +7086,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7007,7 +7136,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 132,
+"total": 142,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -7066,17 +7195,22 @@
 -3
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -7091,30 +7225,30 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7165,7 +7299,7 @@
 7
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7202,7 +7336,7 @@
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 10,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -7210,11 +7344,11 @@
 9
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7241,12 +7375,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 7,
+"pts": 9,
 "comm": null,
 "bd": [
 [
 "14 pts allowed",
 5
+],
+[
+"1 sacks",
+2
 ],
 [
 "1 INT",
@@ -7257,7 +7395,7 @@
 0
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 }
 ]
@@ -7265,7 +7403,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 120,
+"total": 138,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -7326,17 +7464,22 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jonathan Taylor",
 "team": "IND",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7378,7 +7521,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7435,7 +7578,7 @@
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 19,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -7451,18 +7594,22 @@
 6
 ],
 [
+"43-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Lions D",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -7470,8 +7617,8 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 INT",
@@ -7482,14 +7629,14 @@
 0
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -7497,8 +7644,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -7509,7 +7656,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -7517,7 +7664,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 111,
+"total": 127,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -7529,7 +7676,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -7558,30 +7705,30 @@
 5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7608,19 +7755,19 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 13,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"69 rec yds",
-6
+"86 rec yds",
+8
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7643,7 +7790,7 @@
 10
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7653,7 +7800,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -7673,7 +7820,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7696,14 +7843,14 @@
 1
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 19,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -7719,11 +7866,15 @@
 6
 ],
 [
+"43-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7740,7 +7891,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -7748,8 +7899,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -7760,7 +7911,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -7768,7 +7919,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 88,
+"total": 104,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -7787,12 +7938,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"201 pass yds",
+"20 completions",
 5
+],
+[
+"216 pass yds",
+6
 ],
 [
 "7-yd TD pass",
@@ -7807,30 +7962,30 @@
 -3
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -7845,7 +8000,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -7860,7 +8015,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7887,10 +8042,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -7909,7 +8069,7 @@
 5
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -7928,14 +8088,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -7943,11 +8103,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -7989,7 +8153,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 130,
+"total": 146,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -7998,12 +8162,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"201 pass yds",
+"20 completions",
 5
+],
+[
+"216 pass yds",
+6
 ],
 [
 "7-yd TD pass",
@@ -8018,7 +8186,7 @@
 -3
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -8041,23 +8209,23 @@
 -3
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -8072,7 +8240,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -8097,7 +8265,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -8107,7 +8275,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -8117,7 +8285,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -8140,7 +8308,7 @@
 10
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -8177,7 +8345,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -8185,18 +8353,22 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 10,
+"pts": 11,
 "comm": null,
 "bd": [
 [
@@ -8204,11 +8376,11 @@
 9
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -8225,7 +8397,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -8233,8 +8405,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -8245,7 +8417,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -8253,7 +8425,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 112,
+"total": 104,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -8308,30 +8480,30 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -8383,7 +8555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -8423,7 +8595,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -8456,19 +8628,19 @@
 1
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 14,
+"pts": 4,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
 "2 sacks",
@@ -8479,7 +8651,7 @@
 0
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -8497,7 +8669,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 112,
+"total": 113,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -8524,46 +8696,46 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 34,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"90 rush yds",
-9
+"102 rush yds",
+10
 ],
 [
 "2-yd TD run",
@@ -8578,7 +8750,7 @@
 8
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -8597,7 +8769,7 @@
 6
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -8626,10 +8798,15 @@
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -8649,7 +8826,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -8669,7 +8846,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -8692,7 +8869,7 @@
 1
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -8719,19 +8896,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -8739,7 +8920,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 140,
+"total": 139,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -8748,12 +8929,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"201 pass yds",
+"20 completions",
 5
+],
+[
+"216 pass yds",
+6
 ],
 [
 "7-yd TD pass",
@@ -8768,7 +8953,7 @@
 -3
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -8787,7 +8972,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -8806,7 +8991,7 @@
 7
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -8831,7 +9016,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -8876,7 +9061,7 @@
 10
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -8893,19 +9078,19 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 13,
+"pts": 16,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"69 rec yds",
-6
+"86 rec yds",
+8
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -8915,7 +9100,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -8945,7 +9130,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -8966,19 +9151,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -8986,7 +9175,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 103,
+"total": 106,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -9022,7 +9211,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -9120,7 +9309,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -9137,7 +9326,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9145,11 +9334,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -9191,7 +9384,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 65,
+"total": 77,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -9218,7 +9411,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -9237,7 +9430,7 @@
 7
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -9252,40 +9445,45 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Malik Nabers",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -9358,14 +9556,14 @@
 2
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9373,11 +9571,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -9394,7 +9596,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -9402,8 +9604,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -9414,7 +9616,7 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 }
 ]
@@ -9422,7 +9624,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 91,
+"total": 96,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -9459,7 +9661,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -9469,30 +9671,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -9502,7 +9704,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -9571,7 +9773,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9579,11 +9781,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -9625,7 +9831,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 145,
+"total": 147,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -9688,7 +9894,7 @@
 -5
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -9703,7 +9909,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -9713,30 +9919,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -9773,7 +9979,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -9783,7 +9989,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -9865,7 +10071,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 100,
+"total": 105,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -9882,7 +10088,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -9892,30 +10098,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -9940,7 +10146,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -9977,7 +10183,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -10036,7 +10242,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10044,11 +10250,15 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -10090,7 +10300,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 123,
+"total": 147,
 "comm": null,
 "prev": 1992,
 "alive": false,
@@ -10146,7 +10356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -10170,7 +10380,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -10219,10 +10429,19 @@
 "pos": "WR",
 "name": "KC Concepcion",
 "team": "CLE",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"bd": [
+[
+"85 rec yds",
+8
+],
+[
+"64-yd TD catch",
+12
+]
+],
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -10237,7 +10456,7 @@
 5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -10274,7 +10493,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 13,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -10282,8 +10501,8 @@
 5
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "1 fum rec",
@@ -10294,14 +10513,14 @@
 0
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Lions D",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -10309,8 +10528,8 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 INT",
@@ -10321,7 +10540,7 @@
 0
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 }
 ]
@@ -10329,7 +10548,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 182,
+"total": 190,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -10372,12 +10591,16 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"201 pass yds",
+"20 completions",
 5
+],
+[
+"216 pass yds",
+6
 ],
 [
 "7-yd TD pass",
@@ -10392,30 +10615,30 @@
 -3
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -10430,7 +10653,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -10449,7 +10672,7 @@
 5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -10491,7 +10714,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -10501,7 +10724,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -10534,7 +10757,7 @@
 11
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -10607,7 +10830,7 @@
 0
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 }
 ]
@@ -10615,7 +10838,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 146,
+"total": 148,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -10656,30 +10879,30 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -10694,7 +10917,7 @@
 6
 ]
 ],
-"game": "DEN 19 @ CAR 14 \u00b7 Q4 10:17",
+"game": "DEN 19 @ CAR 14 \u00b7 Q4 7:17",
 "on": true
 },
 {
@@ -10721,7 +10944,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -10731,7 +10954,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -10750,7 +10973,7 @@
 5
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -10780,7 +11003,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -10811,7 +11034,7 @@
 -1
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -10853,7 +11076,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 133,
+"total": 135,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -10904,30 +11127,30 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -10942,7 +11165,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -10969,15 +11192,15 @@
 "pos": "WR",
 "name": "Omar Cooper",
 "team": "NYJ",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -11036,7 +11259,7 @@
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 19,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -11052,11 +11275,15 @@
 6
 ],
 [
+"43-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -11095,19 +11322,23 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 23,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "4 sacks",
 8
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 }
 ]
@@ -11115,7 +11346,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 149,
+"total": 161,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -11166,7 +11397,7 @@
 -5
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -11181,7 +11412,7 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
@@ -11250,7 +11481,7 @@
 -3
 ]
 ],
-"game": "LAR 20 @ WAS 13 \u00b7 Q4 12:51",
+"game": "LAR 20 @ WAS 13 \u00b7 Q4 8:15",
 "on": true
 },
 {
@@ -11297,7 +11528,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 11,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -11305,18 +11536,22 @@
 9
 ],
 [
+"28-yd FG",
+3
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 19,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -11332,11 +11567,15 @@
 6
 ],
 [
+"43-yd FG",
+9
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
@@ -11373,7 +11612,7 @@
 0
 ]
 ],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 }
 ]
@@ -11381,7 +11620,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 94,
+"total": 102,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -11442,55 +11681,60 @@
 6
 ]
 ],
-"game": "DAL 17 @ IND 10 \u00b7 Q3 2:18",
+"game": "DAL 20 @ IND 17 \u00b7 Q4 14:23",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Devin Singletary",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"bd": [
+[
+"15 rushes",
+5
+]
+],
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 16,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ],
 [
-"58 rush yds",
-5
+"61 rush yds",
+6
 ],
 [
 "8-yd TD run",
 6
 ]
 ],
-"game": "DET 16 @ MIA 9 \u00b7 Q4 6:46",
+"game": "DET 19 @ MIA 9 \u00b7 Q4 3:02",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Omar Cooper",
 "team": "NYJ",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ]
 ],
-"game": "NYJ 12 @ KC 28 \u00b7 Q4 15:00",
+"game": "NYJ 12 @ KC 28 \u00b7 Q4 7:39",
 "on": true
 },
 {
@@ -11542,7 +11786,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 6 @ NO 6 \u00b7 Q4 10:32",
+"game": "CLE 13 @ NO 9 \u00b7 Q4 5:21",
 "on": true
 },
 {
@@ -11562,7 +11806,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 13 @ PHI 8 \u00b7 Q4 15:00",
+"game": "NYG 16 @ PHI 8 \u00b7 Q4 9:06",
 "on": true
 },
 {
@@ -11610,38 +11854,38 @@
 "live": false
 },
 {
-"t": "DAL 17 @ IND 10",
-"s": "Q3 2:18",
+"t": "DAL 20 @ IND 17",
+"s": "Q4 14:23",
 "live": true
 },
 {
 "t": "LAR 20 @ WAS 13",
-"s": "Q4 12:51",
+"s": "Q4 8:15",
 "live": true
 },
 {
-"t": "CLE 6 @ NO 6",
-"s": "Q4 10:32",
+"t": "CLE 13 @ NO 9",
+"s": "Q4 5:21",
 "live": true
 },
 {
 "t": "NYJ 12 @ KC 28",
-"s": "Q4 15:00",
+"s": "Q4 7:39",
 "live": true
 },
 {
-"t": "DET 16 @ MIA 9",
-"s": "Q4 6:46",
+"t": "DET 19 @ MIA 9",
+"s": "Q4 3:02",
 "live": true
 },
 {
 "t": "DEN 19 @ CAR 14",
-"s": "Q4 10:17",
+"s": "Q4 7:17",
 "live": true
 },
 {
-"t": "NYG 13 @ PHI 8",
-"s": "Q4 15:00",
+"t": "NYG 16 @ PHI 8",
+"s": "Q4 9:06",
 "live": true
 },
 {

@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q3 2:18",
+"clock": "Q4 14:23",
 "score": {
-"IND": 10,
-"DAL": 17
+"IND": 17,
+"DAL": 20
 },
 "players": {
 "Dak Prescott": {
@@ -44,8 +44,8 @@
 "Jonathan Taylor": {
 "rush_att": 8,
 "rush_yds": 33,
-"rec": 4,
-"rec_yds": 13
+"rec": 5,
+"rec_yds": 18
 },
 "Tyler Warren": {
 "rec": 2,
@@ -63,7 +63,8 @@
 "kickers": {
 "Brandon Aubrey": {
 "fg_made_dist": [
-45
+45,
+28
 ],
 "fg_missed_dist": [],
 "xp_made": 2,
@@ -74,7 +75,7 @@
 47
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },

@@ -1,21 +1,21 @@
 {
 "status": "live",
-"clock": "Q4 6:46",
+"clock": "Q4 3:02",
 "score": {
 "MIA": 9,
-"DET": 16
+"DET": 19
 },
 "players": {
 "Jared Goff": {
-"pass_cmp": 15,
-"pass_yds": 146,
+"pass_cmp": 16,
+"pass_yds": 163,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 6
 },
 "Jahmyr Gibbs": {
-"rush_att": 15,
-"rush_yds": 58,
+"rush_att": 16,
+"rush_yds": 61,
 "rush_td_lengths": [
 8
 ]
@@ -27,16 +27,16 @@
 "rec_yds": 31
 },
 "Amon-Ra St. Brown": {
-"rec": 7,
-"rec_yds": 69
+"rec": 8,
+"rec_yds": 86
 },
 "Sam LaPorta": {
 "rec": 3,
 "rec_yds": 25
 },
 "Malik Willis": {
-"pass_cmp": 12,
-"pass_yds": 120,
+"pass_cmp": 13,
+"pass_yds": 128,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 7
@@ -66,7 +66,8 @@
 "fg_made_dist": [
 28,
 40,
-33
+33,
+43
 ],
 "fg_missed_dist": [],
 "xp_made": 1,
@@ -75,7 +76,7 @@
 },
 "defenses": {
 "DET": {
-"sacks": 2,
+"sacks": 3,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

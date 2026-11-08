@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 12:51",
+"clock": "Q4 8:15",
 "score": {
 "WAS": 13,
 "LAR": 20
@@ -38,8 +38,8 @@
 ]
 },
 "Jayden Daniels": {
-"pass_cmp": 13,
-"pass_yds": 131,
+"pass_cmp": 16,
+"pass_yds": 159,
 "rush_att": 3,
 "rush_yds": 15,
 "fl": 1,
@@ -54,8 +54,8 @@
 "rec_yds": 41
 },
 "Antonio Williams": {
-"rec": 2,
-"rec_yds": 21
+"rec": 3,
+"rec_yds": 25
 },
 "Stefon Diggs": {
 "rec": 1,
@@ -84,7 +84,7 @@
 },
 "defenses": {
 "LAR": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,

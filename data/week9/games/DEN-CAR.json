@@ -1,17 +1,17 @@
 {
 "status": "live",
-"clock": "Q4 10:17",
+"clock": "Q4 7:17",
 "score": {
 "CAR": 14,
 "DEN": 19
 },
 "players": {
 "Bo Nix": {
-"pass_cmp": 22,
-"pass_yds": 190,
+"pass_cmp": 23,
+"pass_yds": 197,
 "int": 1,
-"rush_att": 1,
-"rush_yds": 1,
+"rush_att": 2,
+"rush_yds": 2,
 "pass_td_lengths": [
 3
 ]
@@ -67,7 +67,7 @@
 },
 "defenses": {
 "DEN": {
-"sacks": 0,
+"sacks": 1,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

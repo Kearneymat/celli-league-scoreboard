@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 10:32",
+"clock": "Q4 5:21",
 "score": {
-"NO": 6,
-"CLE": 6
+"NO": 9,
+"CLE": 13
 },
 "players": {
 "Quinshon Judkins": {
@@ -15,8 +15,11 @@
 "KC Concepcion": {
 "rush_att": 1,
 "rush_yds": 3,
-"rec": 3,
-"rec_yds": 21
+"rec": 4,
+"rec_yds": 85,
+"rec_td_lengths": [
+64
+]
 },
 "Chris Olave": {
 "rec": 5,
@@ -30,13 +33,14 @@
 30
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Charlie Smyth": {
 "fg_made_dist": [
 30,
-27
+27,
+48
 ],
 "fg_missed_dist": [
 52
@@ -47,7 +51,7 @@
 },
 "defenses": {
 "CLE": {
-"sacks": 4,
+"sacks": 5,
 "int": 0,
 "fum_rec": 2,
 "safeties": 0,
