@@ -1,20 +1,20 @@
 {
 "status": "live",
-"clock": "Q3 4:14",
+"clock": "Q4 15:00",
 "score": {
-"KC": 21,
+"KC": 28,
 "NYJ": 12
 },
 "players": {
 "Geno Smith": {
-"pass_cmp": 12,
-"pass_yds": 89,
+"pass_cmp": 13,
+"pass_yds": 102,
 "rush_att": 1,
 "rush_yds": 8
 },
 "Omar Cooper": {
-"rec": 5,
-"rec_yds": 24
+"rec": 6,
+"rec_yds": 37
 },
 "Mason Taylor": {
 "rec": 1,
@@ -22,8 +22,8 @@
 },
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
-"pass_cmp": 15,
-"pass_yds": 145,
+"pass_cmp": 18,
+"pass_yds": 201,
 "rush_att": 2,
 "rush_yds": 8,
 "fl": 1,
@@ -33,20 +33,23 @@
 ]
 },
 "Kenneth Walker": {
-"rush_att": 10,
-"rush_yds": 64,
+"rush_att": 15,
+"rush_yds": 90,
 "rec": 4,
 "rec_yds": 41,
 "rec_td_lengths": [
 7,
 25
+],
+"rush_td_lengths": [
+2
 ]
 },
 "Travis Kelce": {
 "rush_att": 1,
 "rush_yds": 1,
-"rec": 2,
-"rec_yds": 29,
+"rec": 3,
+"rec_yds": 67,
 "rush_td_lengths": [
 1
 ]
@@ -75,7 +78,7 @@
 "fg_missed_dist": [
 51
 ],
-"xp_made": 3,
+"xp_made": 4,
 "xp_missed": 0
 }
 },
