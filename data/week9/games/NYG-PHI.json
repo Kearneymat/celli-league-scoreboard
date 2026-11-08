@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 10:56",
+"clock": "Q2 6:26",
 "score": {
 "PHI": 8,
 "NYG": 6
@@ -25,29 +25,29 @@
 "rec_yds": 22
 },
 "Joe Milton": {
-"pass_cmp": 3,
-"pass_yds": 22,
-"rush_att": 2,
-"rush_yds": 19,
+"pass_cmp": 5,
+"pass_yds": 54,
+"rush_att": 3,
+"rush_yds": 21,
 "fl": 1,
 "two_pt": 1
 },
 "Makai Lemon": {
-"rec": 1,
-"rec_yds": 5
+"rec": 3,
+"rec_yds": 37
 }
 },
 "kickers": {},
 "defenses": {
 "NYG": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "PHI": {
-"sacks": 3,
+"sacks": 4,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,

@@ -1,18 +1,20 @@
 {
 "status": "live",
-"clock": "Q2 5:37",
+"clock": "Q2 2:00",
 "score": {
 "KC": 14,
-"NYJ": 9
+"NYJ": 12
 },
 "players": {
 "Geno Smith": {
-"pass_cmp": 8,
-"pass_yds": 62
+"pass_cmp": 9,
+"pass_yds": 70,
+"rush_att": 1,
+"rush_yds": 8
 },
 "Omar Cooper": {
-"rec": 4,
-"rec_yds": 16
+"rec": 5,
+"rec_yds": 24
 },
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
@@ -24,8 +26,8 @@
 ]
 },
 "Kenneth Walker": {
-"rush_att": 4,
-"rush_yds": 15,
+"rush_att": 5,
+"rush_yds": 21,
 "rec": 3,
 "rec_yds": 38,
 "rec_td_lengths": [
@@ -47,7 +49,8 @@
 "fg_made_dist": [
 23,
 48,
-49
+49,
+54
 ],
 "fg_missed_dist": [],
 "xp_made": 0,

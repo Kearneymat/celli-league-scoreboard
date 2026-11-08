@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Q2 1:34",
 "score": {
 "NO": 3,
 "CLE": 3
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 6,
-"rush_yds": 20
+"rush_att": 8,
+"rush_yds": 32
 },
 "KC Concepcion": {
 "rush_att": 1,
@@ -17,8 +17,8 @@
 "rec_yds": 11
 },
 "Chris Olave": {
-"rec": 1,
-"rec_yds": 11
+"rec": 2,
+"rec_yds": 18
 }
 },
 "kickers": {
@@ -50,7 +50,7 @@
 "def_st_td_lengths": []
 },
 "NO": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
