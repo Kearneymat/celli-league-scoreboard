@@ -1,21 +1,34 @@
 {
 "status": "live",
-"clock": "Q1 2:39",
+"clock": "Q2 14:28",
 "score": {
-"SF": 7,
+"SF": 14,
 "LV": 0
 },
 "players": {
-"Kirk Cousins": {},
-"Brock Bowers": {},
+"Kirk Cousins": {
+"pass_cmp": 4,
+"pass_yds": 48
+},
+"Brock Bowers": {
+"rec": 1,
+"rec_yds": 20
+},
+"Tre Tucker": {
+"rec": 1,
+"rec_yds": 14
+},
 "Brock Purdy": {
 "pass_cmp": 5,
 "pass_yds": 70,
-"rush_att": 3,
-"rush_yds": 31
+"rush_att": 4,
+"rush_yds": 32,
+"rush_td_lengths": [
+1
+]
 },
 "Christian McCaffrey": {
-"rush_att": 7,
+"rush_att": 8,
 "rush_yds": 42,
 "rush_td_lengths": [
 1
@@ -30,7 +43,7 @@
 "Eddy Pineiro": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },

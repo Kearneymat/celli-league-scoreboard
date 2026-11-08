@@ -1,14 +1,15 @@
 {
 "status": "live",
-"clock": "Q2 11:41",
+"clock": "Q2 6:40",
 "score": {
-"LAC": 3,
+"LAC": 6,
 "HOU": 10
 },
 "players": {
 "C.J. Stroud": {
-"pass_cmp": 7,
-"pass_yds": 68,
+"pass_cmp": 8,
+"pass_yds": 82,
+"int": 1,
 "rush_att": 1,
 "rush_yds": 12,
 "pass_td_lengths": [
@@ -20,8 +21,8 @@
 "rush_yds": 14
 },
 "Nico Collins": {
-"rec": 2,
-"rec_yds": 28
+"rec": 3,
+"rec_yds": 42
 }
 },
 "kickers": {
@@ -35,7 +36,8 @@
 },
 "Cameron Dicker": {
 "fg_made_dist": [
-52
+52,
+33
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
@@ -52,7 +54,7 @@
 },
 "LAC": {
 "sacks": 0,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

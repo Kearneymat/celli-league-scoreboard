@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q1 5:13",
+"clock": "Q2 15:00",
 "score": {
 "NE": 0,
 "GB": 14
 },
 "players": {
 "Jordan Love": {
-"pass_cmp": 3,
-"pass_yds": 70,
+"pass_cmp": 7,
+"pass_yds": 136,
 "rush_att": 1,
 "rush_yds": 13,
 "rush_td_lengths": [
@@ -19,12 +19,17 @@
 ]
 },
 "Matthew Golden": {
-"rec": 3,
-"rec_yds": 70,
+"rec": 6,
+"rec_yds": 126,
 "rec_td_lengths": [
 5
 ]
 },
+"Christian Watson": {
+"rec": 1,
+"rec_yds": 10
+},
+"Tucker Kraft": {},
 "Drake Maye": {
 "pass_cmp": 3,
 "pass_yds": 24,
