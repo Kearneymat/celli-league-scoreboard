@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 1:48",
+"clock": "Halftime",
 "score": {
 "NE": 14,
 "GB": 24
@@ -37,6 +37,8 @@
 "pass_cmp": 10,
 "pass_yds": 176,
 "int": 3,
+"rush_att": 1,
+"rush_yds": 3,
 "pass_td_lengths": [
 30,
 8
@@ -81,7 +83,7 @@
 "def_st_td_lengths": []
 },
 "NE": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

@@ -1,34 +1,42 @@
 {
 "status": "live",
-"clock": "Q3 10:57",
+"clock": "Q3 7:31",
 "score": {
 "SF": 28,
-"LV": 10
+"LV": 17
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 11,
-"pass_yds": 86,
+"pass_cmp": 14,
+"pass_yds": 113,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 2,
 "rush_td_lengths": [
 2
+],
+"pass_td_lengths": [
+21
 ]
 },
 "Brock Bowers": {
 "rush_att": 1,
 "rush_yds": 2,
-"rec": 2,
-"rec_yds": 29
+"rec": 5,
+"rec_yds": 56,
+"fl": 1,
+"rec_td_lengths": [
+21
+]
 },
 "Tre Tucker": {
 "rec": 3,
 "rec_yds": 37
 },
 "Brock Purdy": {
-"pass_cmp": 8,
-"pass_yds": 123,
+"pass_cmp": 9,
+"pass_yds": 135,
+"int": 1,
 "rush_att": 6,
 "rush_yds": 40,
 "rush_td_lengths": [
@@ -39,8 +47,8 @@
 ]
 },
 "Christian McCaffrey": {
-"rush_att": 13,
-"rush_yds": 58,
+"rush_att": 14,
+"rush_yds": 60,
 "rec": 1,
 "rec_yds": 12,
 "rush_td_lengths": [
@@ -61,7 +69,7 @@
 50
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 },
 "Eddy Pineiro": {
@@ -74,7 +82,7 @@
 "defenses": {
 "LV": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
@@ -82,7 +90,7 @@
 "SF": {
 "sacks": 0,
 "int": 1,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 }
