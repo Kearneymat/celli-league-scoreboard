@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 5:56",
+"clock": "Q4 1:56",
 "score": {
-"PHI": 8,
-"NYG": 16
+"PHI": 11,
+"NYG": 19
 },
 "players": {
 "J.J. McCarthy": {
@@ -13,8 +13,8 @@
 "rush_yds": 22
 },
 "Devin Singletary": {
-"rush_att": 17,
-"rush_yds": 26,
+"rush_att": 18,
+"rush_yds": 29,
 "rec": 2,
 "rec_yds": 8
 },
@@ -30,19 +30,28 @@
 "rec_yds": 43
 },
 "Joe Milton": {
-"pass_cmp": 12,
-"pass_yds": 114,
-"rush_att": 6,
-"rush_yds": 36,
+"pass_cmp": 15,
+"pass_yds": 134,
+"rush_att": 9,
+"rush_yds": 64,
 "fl": 1,
 "two_pt": 1
 },
 "Makai Lemon": {
-"rec": 5,
-"rec_yds": 51
+"rec": 6,
+"rec_yds": 61
 }
 },
-"kickers": {},
+"kickers": {
+"Jake Elliott": {
+"fg_made_dist": [
+45
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "NYG": {
 "sacks": 5,

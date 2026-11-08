@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 4:18",
+"clock": "Q4 0:59",
 "score": {
 "WAS": 13,
 "LAR": 20
@@ -24,14 +24,14 @@
 ]
 },
 "Kyren Williams": {
-"rush_att": 13,
-"rush_yds": 46,
+"rush_att": 15,
+"rush_yds": 45,
 "rec": 3,
 "rec_yds": 16
 },
 "Puka Nacua": {
-"rush_att": 1,
-"rush_yds": 15,
+"rush_att": 2,
+"rush_yds": 20,
 "rec": 14,
 "rec_yds": 150,
 "fl": 1,
@@ -40,8 +40,8 @@
 ]
 },
 "Jayden Daniels": {
-"pass_cmp": 20,
-"pass_yds": 183,
+"pass_cmp": 21,
+"pass_yds": 204,
 "rush_att": 3,
 "rush_yds": 15,
 "fl": 1,
@@ -86,7 +86,7 @@
 },
 "defenses": {
 "LAR": {
-"sacks": 2,
+"sacks": 4,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
