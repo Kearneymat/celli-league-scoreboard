@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 13:23",
+"clock": "Q3 9:01",
 "score": {
 "NO": 3,
-"CLE": 3
+"CLE": 6
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 8,
-"rush_yds": 32
+"rush_att": 11,
+"rush_yds": 34
 },
 "KC Concepcion": {
 "rush_att": 1,
@@ -24,7 +24,8 @@
 "kickers": {
 "Andre Szmyt": {
 "fg_made_dist": [
-41
+41,
+30
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
@@ -50,7 +51,7 @@
 "def_st_td_lengths": []
 },
 "NO": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

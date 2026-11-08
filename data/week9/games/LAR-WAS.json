@@ -1,16 +1,23 @@
 {
 "status": "live",
-"clock": "Q3 14:55",
+"clock": "Q3 11:29",
 "score": {
 "WAS": 10,
-"LAR": 6
+"LAR": 13
 },
 "players": {
 "Matthew Stafford": {
-"pass_cmp": 16,
-"pass_yds": 124,
+"pass_cmp": 18,
+"pass_yds": 152,
 "rush_att": 1,
 "rush_yds": 1
+},
+"Blake Corum": {
+"rush_att": 8,
+"rush_yds": 52,
+"rush_td_lengths": [
+1
+]
 },
 "Kyren Williams": {
 "rush_att": 8,
@@ -18,13 +25,9 @@
 "rec": 1,
 "rec_yds": 4
 },
-"Blake Corum": {
-"rush_att": 4,
-"rush_yds": 23
-},
 "Puka Nacua": {
-"rec": 10,
-"rec_yds": 101,
+"rec": 11,
+"rec_yds": 116,
 "fl": 1
 },
 "Jayden Daniels": {
@@ -56,7 +59,7 @@
 20
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Drew Stevens": {

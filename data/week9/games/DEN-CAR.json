@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 11:30",
 "score": {
-"CAR": 7,
+"CAR": 14,
 "DEN": 13
 },
 "players": {
@@ -33,8 +33,8 @@
 "rec_yds": 22
 },
 "Chuba Hubbard": {
-"rush_att": 8,
-"rush_yds": 47,
+"rush_att": 10,
+"rush_yds": 55,
 "rec": 1,
 "rec_yds": -1
 },
@@ -58,7 +58,7 @@
 "fg_missed_dist": [
 43
 ],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },
