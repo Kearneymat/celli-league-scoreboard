@@ -1,21 +1,21 @@
 {
-"status": "live",
-"clock": "Q4 3:02",
+"status": "final",
+"clock": "Final",
 "score": {
 "MIA": 9,
 "DET": 19
 },
 "players": {
 "Jared Goff": {
-"pass_cmp": 16,
-"pass_yds": 163,
+"pass_cmp": 17,
+"pass_yds": 170,
 "int": 1,
-"rush_att": 1,
-"rush_yds": 6
+"rush_att": 4,
+"rush_yds": 5
 },
 "Jahmyr Gibbs": {
-"rush_att": 16,
-"rush_yds": 61,
+"rush_att": 20,
+"rush_yds": 74,
 "rush_td_lengths": [
 8
 ]
@@ -31,8 +31,8 @@
 "rec_yds": 86
 },
 "Sam LaPorta": {
-"rec": 3,
-"rec_yds": 25
+"rec": 4,
+"rec_yds": 32
 },
 "Malik Willis": {
 "pass_cmp": 13,

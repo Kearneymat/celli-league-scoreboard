@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 7:39",
+"clock": "Q4 5:46",
 "score": {
 "KC": 28,
 "NYJ": 12
@@ -22,8 +22,8 @@
 },
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
-"pass_cmp": 20,
-"pass_yds": 216,
+"pass_cmp": 21,
+"pass_yds": 225,
 "rush_att": 2,
 "rush_yds": 8,
 "fl": 1,
@@ -91,7 +91,7 @@
 "def_st_td_lengths": []
 },
 "KC": {
-"sacks": 4,
+"sacks": 5,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,

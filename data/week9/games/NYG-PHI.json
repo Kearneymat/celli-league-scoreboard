@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 9:06",
+"clock": "Q4 5:56",
 "score": {
 "PHI": 8,
 "NYG": 16
@@ -13,8 +13,8 @@
 "rush_yds": 22
 },
 "Devin Singletary": {
-"rush_att": 15,
-"rush_yds": 25,
+"rush_att": 17,
+"rush_yds": 26,
 "rec": 2,
 "rec_yds": 8
 },
@@ -30,8 +30,8 @@
 "rec_yds": 43
 },
 "Joe Milton": {
-"pass_cmp": 10,
-"pass_yds": 98,
+"pass_cmp": 12,
+"pass_yds": 114,
 "rush_att": 6,
 "rush_yds": 36,
 "fl": 1,
@@ -45,7 +45,7 @@
 "kickers": {},
 "defenses": {
 "NYG": {
-"sacks": 4,
+"sacks": 5,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
