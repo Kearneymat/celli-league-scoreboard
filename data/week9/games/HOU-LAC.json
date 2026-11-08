@@ -1,35 +1,39 @@
 {
 "status": "live",
-"clock": "Q3 10:21",
+"clock": "Q3 6:26",
 "score": {
 "LAC": 9,
-"HOU": 24
+"HOU": 31
 },
 "players": {
 "C.J. Stroud": {
-"pass_cmp": 17,
-"pass_yds": 273,
+"pass_cmp": 18,
+"pass_yds": 286,
 "int": 1,
-"rush_att": 1,
-"rush_yds": 12,
+"rush_att": 2,
+"rush_yds": 20,
 "pass_td_lengths": [
 17,
 63,
-12
+12,
+13
 ]
 },
 "Woody Marks": {
-"rush_att": 9,
-"rush_yds": 43,
+"rush_att": 10,
+"rush_yds": 47,
 "rec": 1,
 "rec_yds": 4
 },
+"Nico Collins": {
+"rec": 4,
+"rec_yds": 55,
+"rec_td_lengths": [
+13
+]
+},
 "Dalton Schultz": {
 "rec": 2,
-"rec_yds": 42
-},
-"Nico Collins": {
-"rec": 3,
 "rec_yds": 42
 }
 },
@@ -39,7 +43,7 @@
 56
 ],
 "fg_missed_dist": [],
-"xp_made": 3,
+"xp_made": 4,
 "xp_missed": 0
 },
 "Cameron Dicker": {
@@ -55,7 +59,7 @@
 },
 "defenses": {
 "HOU": {
-"sacks": 5,
+"sacks": 6,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

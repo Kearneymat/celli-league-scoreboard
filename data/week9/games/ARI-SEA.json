@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 12:53",
+"clock": "Q3 7:21",
 "score": {
 "SEA": 14,
 "ARI": 3
@@ -20,8 +20,8 @@
 "rec_yds": 12
 },
 "Drew Lock": {
-"pass_cmp": 14,
-"pass_yds": 110,
+"pass_cmp": 17,
+"pass_yds": 146,
 "rush_att": 1,
 "rush_yds": 14,
 "pass_td_lengths": [
@@ -58,7 +58,7 @@
 "def_st_td_lengths": []
 },
 "SEA": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

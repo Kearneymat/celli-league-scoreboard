@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 13:30",
 "score": {
 "NE": 14,
 "GB": 24
 },
 "players": {
 "Jordan Love": {
-"pass_cmp": 11,
-"pass_yds": 219,
+"pass_cmp": 13,
+"pass_yds": 256,
 "rush_att": 1,
 "rush_yds": 13,
 "rush_td_lengths": [
@@ -30,8 +30,8 @@
 ]
 },
 "Christian Watson": {
-"rec": 3,
-"rec_yds": 62
+"rec": 5,
+"rec_yds": 99
 },
 "Drake Maye": {
 "pass_cmp": 10,
