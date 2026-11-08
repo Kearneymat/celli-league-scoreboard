@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 12:39",
+"clock": "Q2 9:23",
 "score": {
-"NE": 0,
+"NE": 7,
 "GB": 17
 },
 "players": {
 "Jordan Love": {
-"pass_cmp": 7,
-"pass_yds": 136,
+"pass_cmp": 8,
+"pass_yds": 143,
 "rush_att": 1,
 "rush_yds": 13,
 "rush_td_lengths": [
@@ -31,21 +31,39 @@
 },
 "Tucker Kraft": {},
 "Drake Maye": {
-"pass_cmp": 3,
-"pass_yds": 24,
-"int": 2
+"pass_cmp": 5,
+"pass_yds": 90,
+"int": 2,
+"pass_td_lengths": [
+30
+]
 },
 "Rhamondre Stevenson": {
 "rush_att": 4,
-"rush_yds": 10
+"rush_yds": 10,
+"rec": 1,
+"rec_yds": 30,
+"rec_td_lengths": [
+30
+]
+},
+"Pop Douglas": {
+"rec": 1,
+"rec_yds": 36
 },
 "Mack Hollins": {
 "rec": 1,
 "rec_yds": 5
+}
 },
-"Pop Douglas": {}
+"kickers": {
+"Andres Borregales": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
 },
-"kickers": {},
 "defenses": {
 "GB": {
 "sacks": 1,
