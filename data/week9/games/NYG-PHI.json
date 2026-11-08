@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q1 5:31",
+"clock": "Q1 2:09",
 "score": {
-"PHI": 0,
+"PHI": 8,
 "NYG": 6
 },
 "players": {
@@ -23,8 +23,11 @@
 "rec_yds": 22
 },
 "Joe Milton": {
-"pass_cmp": 1,
-"pass_yds": 5
+"pass_cmp": 2,
+"pass_yds": 17,
+"rush_att": 2,
+"rush_yds": 19,
+"two_pt": 1
 }
 },
 "kickers": {},
@@ -37,7 +40,7 @@
 "def_st_td_lengths": []
 },
 "NYG": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

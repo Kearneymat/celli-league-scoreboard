@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q1 2:56",
+"clock": "Q2 12:53",
 "score": {
 "NO": 3,
 "CLE": 0
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 1,
-"rush_yds": 4
+"rush_att": 2,
+"rush_yds": 9
 },
 "KC Concepcion": {
 "rec": 2,
@@ -19,7 +19,18 @@
 "rec_yds": 11
 }
 },
-"kickers": {},
+"kickers": {
+"Charlie Smyth": {
+"fg_made_dist": [
+30
+],
+"fg_missed_dist": [
+52
+],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "NO": {
 "sacks": 1,
@@ -29,7 +40,7 @@
 "def_st_td_lengths": []
 },
 "CLE": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

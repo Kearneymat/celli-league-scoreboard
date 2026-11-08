@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q1 4:35",
+"clock": "Q2 15:00",
 "score": {
 "KC": 0,
 "NYJ": 6
@@ -16,14 +16,22 @@
 },
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
-"pass_cmp": 1,
-"pass_yds": 6
+"pass_cmp": 6,
+"pass_yds": 68
 },
 "Kenneth Walker": {
-"rush_att": 1,
-"rush_yds": 3,
+"rush_att": 3,
+"rush_yds": 16,
 "rec": 1,
 "rec_yds": 6
+},
+"Rashee Rice": {
+"rec": 2,
+"rec_yds": 26
+},
+"Travis Kelce": {
+"rec": 1,
+"rec_yds": 17
 }
 },
 "kickers": {

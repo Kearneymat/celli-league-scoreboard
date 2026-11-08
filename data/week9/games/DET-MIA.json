@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q1 2:28",
+"clock": "Q2 13:42",
 "score": {
-"MIA": 0,
+"MIA": 3,
 "DET": 3
 },
 "players": {
 "Jared Goff": {
-"pass_cmp": 4,
-"pass_yds": 31,
+"pass_cmp": 5,
+"pass_yds": 42,
 "int": 1
 },
 "Jahmyr Gibbs": {
@@ -16,16 +16,17 @@
 "rush_yds": 34
 },
 "Amon-Ra St. Brown": {
-"rec": 3,
-"rec_yds": 22
+"rec": 4,
+"rec_yds": 33
 },
+"Jameson Williams": {},
 "Malik Willis": {
 "pass_cmp": 1,
 "pass_yds": 20
 },
 "Ollie Gordon II": {
-"rush_att": 2,
-"rush_yds": 5
+"rush_att": 4,
+"rush_yds": 14
 },
 "Malik Washington": {
 "rush_att": 1
@@ -48,7 +49,7 @@
 },
 "defenses": {
 "MIA": {
-"sacks": 1,
+"sacks": 2,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

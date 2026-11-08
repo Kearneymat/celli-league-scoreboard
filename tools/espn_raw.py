@@ -56,7 +56,11 @@ for key, g in json.load(open(f)).items():
         miss = [d for n, d, t in g['miss'] if t == tm and last(n.replace('.', ' ')) == last(nm)]
         if len(made) != v['fgm'] or len(miss) != v['fga'] - v['fgm']: print('FG CHECK', key, nm, v, made, miss)
         out['kickers'][c] = dict(fg_made_dist=made, fg_missed_dist=miss, xp_made=v['xp_made'], xp_missed=v['xp_missed'])
-    if g.get('two'): print('2PT (check manually)', key, g['two'])
+    for txt, tm in g.get('two', []):
+        m = re.search(r'\((.*?) (?:Run|Rush) for Two-Point', txt) or re.search(r'Pass to (.*?) for Two-Point', txt)
+        r = P(m.group(1), tm) if m else None
+        if r is not None: r['two_pt'] = r.get('two_pt', 0) + 1
+        elif not m: print('2PT unparsed', key, txt)
     if g.get('dst'): print('DEF/ST TD', key, g['dst'])
     json.dump(out, open(f'{R}/data/week{N}/games/{key}.json', 'w'), indent=0)
     print(key, g['status'], g['clock'], g['score'], len(out['players']), 'players')
