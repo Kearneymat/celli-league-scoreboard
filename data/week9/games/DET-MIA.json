@@ -1,0 +1,49 @@
+{
+"status": "live",
+"clock": "Q1 8:22",
+"score": {
+"MIA": 0,
+"DET": 3
+},
+"players": {
+"Jared Goff": {
+"pass_cmp": 4,
+"pass_yds": 31
+},
+"Jahmyr Gibbs": {
+"rush_att": 5,
+"rush_yds": 25
+},
+"Amon-Ra St. Brown": {
+"rec": 3,
+"rec_yds": 22
+}
+},
+"kickers": {
+"Jake Bates": {
+"fg_made_dist": [
+28
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"MIA": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"DET": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

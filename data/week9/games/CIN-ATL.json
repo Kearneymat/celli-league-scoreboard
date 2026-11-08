@@ -1,0 +1,100 @@
+{
+"status": "final",
+"clock": "Final",
+"score": {
+"ATL": 17,
+"CIN": 34
+},
+"players": {
+"Joe Burrow": {
+"pass_cmp": 24,
+"pass_yds": 271,
+"rush_att": 3,
+"rush_yds": 7,
+"pass_td_lengths": [
+47,
+4,
+8
+],
+"rush_td_lengths": [
+1
+]
+},
+"Chase Brown": {
+"rush_att": 9,
+"rush_yds": 57,
+"rec": 3,
+"rec_yds": 18
+},
+"Ja'Marr Chase": {
+"rec": 10,
+"rec_yds": 155,
+"rec_td_lengths": [
+47
+]
+},
+"Tee Higgins": {
+"rec": 5,
+"rec_yds": 32,
+"rec_td_lengths": [
+4,
+8
+]
+},
+"Mike Gesicki": {
+"rec": 2,
+"rec_yds": 11
+},
+"Bijan Robinson": {
+"rush_att": 19,
+"rush_yds": 100,
+"rec": 6,
+"rec_yds": 47,
+"rush_td_lengths": [
+1
+]
+},
+"Kyle Pitts": {
+"rec": 3,
+"rec_yds": 23
+}
+},
+"kickers": {
+"Evan McPherson": {
+"fg_made_dist": [
+57,
+43
+],
+"fg_missed_dist": [],
+"xp_made": 4,
+"xp_missed": 0
+},
+"Nick Folk": {
+"fg_made_dist": [
+31
+],
+"fg_missed_dist": [
+38
+],
+"xp_made": 2,
+"xp_missed": 0
+}
+},
+"defenses": {
+"ATL": {
+"sacks": 2,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"CIN": {
+"sacks": 0,
+"int": 1,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

@@ -1,0 +1,46 @@
+{
+"status": "live",
+"clock": "Q1 6:47",
+"score": {
+"KC": 0,
+"NYJ": 3
+},
+"players": {
+"Geno Smith": {
+"pass_cmp": 4,
+"pass_yds": 41
+},
+"Omar Cooper": {
+"rec": 1,
+"rec_yds": 8
+},
+"Adonai Mitchell": {}
+},
+"kickers": {
+"Jason Sanders": {
+"fg_made_dist": [
+23
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"KC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"NYJ": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

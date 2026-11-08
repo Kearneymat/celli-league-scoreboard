@@ -1,0 +1,32 @@
+{
+"status": "live",
+"clock": "Q1 7:20",
+"score": {
+"NO": 3,
+"CLE": 0
+},
+"players": {
+"KC Concepcion": {
+"rec": 1,
+"rec_yds": 5
+}
+},
+"kickers": {},
+"defenses": {
+"NO": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"CLE": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

@@ -1,0 +1,45 @@
+{
+"status": "live",
+"clock": "Q1 11:06",
+"score": {
+"CAR": 0,
+"DEN": 3
+},
+"players": {
+"Bo Nix": {
+"pass_cmp": 1,
+"pass_yds": 5
+},
+"Jonah Coleman": {
+"rush_att": 3,
+"rush_yds": 15
+}
+},
+"kickers": {
+"Wil Lutz": {
+"fg_made_dist": [
+26
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"CAR": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"DEN": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

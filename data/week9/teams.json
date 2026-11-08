@@ -1,0 +1,3997 @@
+[
+{
+"owner": "D Maze",
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Marks",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Pop",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Dicker",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Smyth",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "KC",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Ben",
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Love",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Marks",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lemon",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Borregalis",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Stevens",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Ian",
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Love",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Flournay",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Stevens",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Bella",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Stafford",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Douglas",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Raridon",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Chiefs",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "San Fran",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Tuttle",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Maye",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Wash",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Pitts",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Warren",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcglaughlin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Cousins",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Cooper jets",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bates",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Smyth",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "KC",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Cann Man",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "J taylor",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Diggs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Egbuka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Snipes",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "JJ Mac",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"sheet_pts": 18
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Chase",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Raridon",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Bronson",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Love",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Cousins",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lemon",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Lions",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Hummer",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Love",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lemon",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Cooper jets",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Cobb",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "marks",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Diggs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Pop",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Farbairn",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Szmyt",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Nutting",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Milton",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Chase",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Ducich miami",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Tar Heels",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Nix",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Lock",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "CMC",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Szmyt",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Romano",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Pop",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "McConkey",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Rairdon",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Ryland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Butker",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Vikings",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "J Cell",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "C Williams",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stephenson",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "O Gordon",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K walker",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "A Mitchell",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Dicker",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Stevens",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Sanfran",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Big Daddy",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Cousins",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "M Willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Tucker",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Rich CH(2025 champ)",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "M Willis",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Mcconkey",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Dulcich miami",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Sleepy Joe",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "M Willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Allgeir",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Washington",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "McBride",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Piniero",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "SF",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Kearney",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jsn",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fitzgerald",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcmanus",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Paradis",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Cousins",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Chase",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "A Will Wash",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcglaughlin",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Max Cat",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Maye",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Egbuka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Riordan",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcglaughlin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Giants",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Duncanson",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "JJMac",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Lock",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Likely",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Lee",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "J Allen",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "CMC",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Dobbins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Tet",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Dev Smith",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "C Watson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Dj Moore",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kraft",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Ferguson",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Rams",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Pork Chop",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"sheet_pts": 21
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Cooper jets",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Dicker",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Pacman",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Gesicki",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+}
+]
+},
+{
+"owner": "Svendson",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Nix",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"sheet_pts": 18
+},
+{
+"pos": "WR",
+"raw": "Waddle",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kraft",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Tansey",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lock",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Stafford",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "downs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Pop",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Schultz",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcmanus",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Carlson",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Jori",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jam. Williams",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Egbuka",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Otton",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Chiefs",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Keoni",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Willis",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "CMC",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Ch Brown",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"sheet_pts": 0
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcpherson",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Shane H",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"sheet_pts": 21
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "P wash",
+"sheet_pts": 18
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "M taylor",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Pitts",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Myers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Al Cat",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Chubba",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Dak",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "C. Douglas",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbain",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Denver",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Maffeo",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Darnold",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Williams",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Taylor",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jam. Williams",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Tucker",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Schultz",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Mcbride",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcglauglin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bates",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Lions",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Chiefs",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Matt CH",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Geno",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Lock",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "O Gordon",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Diggs",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Warren",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bates",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Chiefs",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Lynn",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Mahomes",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Olave",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Gronk",
+"sheet_pts": 0
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bas",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Hurls",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Dak",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Waddle",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Shraeder",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Chiefs",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "King",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Daniels",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "CMC",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Pop",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Schultz",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Lutz",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Cowboys",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "TJP",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "M willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K walker",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Corum",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Stevens",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Macbeth",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Daniels",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Chubba",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Santos",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Carlson",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Kawazoe",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"sheet_pts": 21
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "R White",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "CMC",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Bijan",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Warren",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kraft",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Paul Dej",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "M willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Chubba",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nabers",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Dj Moore",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Odunze",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Mcmanus",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Bears",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "KC",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Putin",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lock",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Chase",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Reichard",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Pizzi",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Stafford",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K Allen",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Mcconkey",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Borregalis",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Adam",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "M Willis",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Geno",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Irving",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Chi Chi",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Stroud",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "K Williams",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Ch Brown",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Judkins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Chase",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Nico",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "M Wilson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Concepcion",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bass",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Borregalis",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "KC",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Lions",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Boogie man",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Mahomes",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "O gordon",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "K allen",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Folk",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Giants",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Finger",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Lawrence",
+"sheet_pts": 21
+},
+{
+"pos": "QB",
+"raw": "Maye",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Coleman",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "R Rice",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Lemon",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "J sanders",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Fairbairn",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Jags",
+"sheet_pts": 23
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Dogga",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "M Willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Cooper jets",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bates",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Folk",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "saints",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Gavin",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Willis",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Stevenson",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Puka",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "JSN",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Hollins",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Kittle",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Bates",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Giants",
+"sheet_pts": null
+}
+]
+},
+{
+"owner": "Moser",
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Purdy",
+"sheet_pts": null
+},
+{
+"pos": "QB",
+"raw": "Burrow",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Singletary",
+"sheet_pts": null
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Cooper  jets",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "T Higgins",
+"sheet_pts": null
+},
+{
+"pos": "WR",
+"raw": "Jefferson",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Fanin",
+"sheet_pts": null
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Elliott",
+"sheet_pts": null
+},
+{
+"pos": "K",
+"raw": "Gay",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Seattle",
+"sheet_pts": null
+},
+{
+"pos": "DEF",
+"raw": "Texans",
+"sheet_pts": null
+}
+]
+}
+]

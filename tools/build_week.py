@@ -43,7 +43,9 @@ for t in teams:
             else:
                 if d['status'] == 'live': e['on'] = True
                 fin = d['status'] == 'final'
-                if x['pos'] == 'K':
+                if name in d.get('override', {}):
+                    pts = d['override'][name]; br = [('Commissioner sheet', pts)]
+                elif x['pos'] == 'K':
                     s = d.get('kickers', {}).get(name)
                     pts, br = score_k(s) if s else (0, [])
                 elif x['pos'] == 'DEF':

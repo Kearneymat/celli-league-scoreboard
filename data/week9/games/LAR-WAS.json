@@ -1,0 +1,48 @@
+{
+"status": "live",
+"clock": "Q1 9:07",
+"score": {
+"WAS": 3,
+"LAR": 0
+},
+"players": {
+"Jayden Daniels": {
+"pass_cmp": 3,
+"pass_yds": 33,
+"rush_att": 1,
+"rush_yds": 1
+},
+"Rachaad White": {
+"rush_att": 4,
+"rush_yds": 13
+},
+"Stefon Diggs": {}
+},
+"kickers": {
+"Drew Stevens": {
+"fg_made_dist": [
+37
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"WAS": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"LAR": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

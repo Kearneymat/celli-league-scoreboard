@@ -85,3 +85,17 @@ DF.update({'cincy': 'CIN'})
 PL.update({'mcmanus': ('Brandon McManus', 'LAR')})
 PL.update({'TE:warren': ('Tyler Warren', 'IND')})
 PL.update({'douglasmiami': ('Caleb Douglas', 'MIA'), 'cdouglas': ('Caleb Douglas', 'MIA')})
+# Week 9 shorthands
+PL.update({
+ 'coleman': ('Jonah Coleman', 'DEN'), 'douglas': ('Pop Douglas', 'NE'), 'higgins': ('Tee Higgins', 'CIN'),
+ 'mwash': ('Malik Washington', 'MIA'), 'mwashington': ('Malik Washington', 'MIA'), 'egbuka': ('Emeka Egbuka', 'TB'),
+ 'jjmac': ('J.J. McCarthy', 'NYG'), 'smyth': ('Charlie Smyth', 'NO'), 'farbairn': ("Ka'imi Fairbairn", 'HOU'),
+ 'milton': ('Joe Milton', 'PHI'), 'ducichmiami': ('Greg Dulcich', 'MIA'), 'dulcichmiami': ('Greg Dulcich', 'MIA'),
+ 'nix': ('Bo Nix', 'DEN'), 'lock': ('Drew Lock', 'SEA'), 'rairdon': ('Eli Raridon', 'NE'), 'cwilliams': ('Caleb Williams', 'CHI'),
+ 'amitchell': ('Adonai Mitchell', 'NYJ'), 'mwillis': ('Malik Willis', 'MIA'), 'willis': ('Malik Willis', 'MIA'),
+ 'allgeir': ('Tyler Allgeier', 'ARI'), 'singletary': ('Devin Singletary', 'NYG'), 'awillwash': ('Antonio Williams', 'WAS'),
+ 'devsmith': ('DeVonta Smith', 'PHI'), 'ferguson': ('Jake Ferguson', 'DAL'), 'waddle': ('Jaylen Waddle', 'DEN'),
+ 'otton': ('Cade Otton', 'TB'), 'chbrown': ('Chase Brown', 'CIN'), 'mtaylor': ('Mason Taylor', 'NYJ'),
+ 'mcglauglin': ('Chase McLaughlin', 'TB'), 'bas': ('Tyler Bass', 'BUF'), 'hollins': ('Mack Hollins', 'NE'),
+})
+DF.update({'sf': 'SF', 'denver': 'DEN'})
