@@ -1,17 +1,16 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 10:29",
 "score": {
 "SF": 35,
 "LV": 17
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 16,
-"pass_yds": 160,
-"int": 1,
-"rush_att": 1,
-"rush_yds": 2,
+"pass_cmp": 19,
+"pass_yds": 207,
+"int": 2,
+"rush_att": 2,
 "rush_td_lengths": [
 2
 ],
@@ -22,8 +21,8 @@
 "Brock Bowers": {
 "rush_att": 1,
 "rush_yds": 2,
-"rec": 5,
-"rec_yds": 61,
+"rec": 7,
+"rec_yds": 111,
 "fl": 1,
 "rec_td_lengths": [
 21
@@ -34,8 +33,8 @@
 "rec_yds": 55
 },
 "Brock Purdy": {
-"pass_cmp": 14,
-"pass_yds": 214,
+"pass_cmp": 15,
+"pass_yds": 218,
 "int": 1,
 "rush_att": 7,
 "rush_yds": 40,
@@ -48,8 +47,8 @@
 ]
 },
 "Christian McCaffrey": {
-"rush_att": 16,
-"rush_yds": 63,
+"rush_att": 17,
+"rush_yds": 65,
 "rec": 1,
 "rec_yds": 12,
 "rush_td_lengths": [
@@ -60,8 +59,8 @@
 ]
 },
 "George Kittle": {
-"rec": 3,
-"rec_yds": 53
+"rec": 4,
+"rec_yds": 57
 }
 },
 "kickers": {
@@ -90,7 +89,7 @@
 },
 "SF": {
 "sacks": 0,
-"int": 1,
+"int": 2,
 "fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []

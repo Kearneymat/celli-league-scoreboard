@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 2:28",
+"clock": "Q4 12:14",
 "score": {
 "SEA": 17,
 "ARI": 3
 },
 "players": {
 "Tyler Allgeier": {
-"rush_att": 14,
-"rush_yds": 50,
+"rush_att": 15,
+"rush_yds": 46,
 "rec": 2
 },
 "Michael Wilson": {
@@ -16,12 +16,12 @@
 "rec_yds": 47
 },
 "Trey McBride": {
-"rec": 3,
-"rec_yds": 12
+"rec": 4,
+"rec_yds": 18
 },
 "Drew Lock": {
-"pass_cmp": 17,
-"pass_yds": 146,
+"pass_cmp": 19,
+"pass_yds": 175,
 "rush_att": 1,
 "rush_yds": 14,
 "pass_td_lengths": [
