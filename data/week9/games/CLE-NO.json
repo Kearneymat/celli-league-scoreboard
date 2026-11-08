@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 12:53",
+"clock": "Q2 8:00",
 "score": {
 "NO": 3,
-"CLE": 0
+"CLE": 3
 },
 "players": {
 "Quinshon Judkins": {
@@ -20,6 +20,14 @@
 }
 },
 "kickers": {
+"Andre Szmyt": {
+"fg_made_dist": [
+41
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
 "Charlie Smyth": {
 "fg_made_dist": [
 30
@@ -32,15 +40,15 @@
 }
 },
 "defenses": {
-"NO": {
-"sacks": 1,
+"CLE": {
+"sacks": 2,
 "int": 0,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
-"CLE": {
-"sacks": 2,
+"NO": {
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

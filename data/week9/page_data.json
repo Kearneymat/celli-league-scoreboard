@@ -60,7 +60,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -132,7 +132,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -181,7 +181,7 @@
 -1
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -206,11 +206,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -310,7 +310,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -320,7 +320,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -350,7 +350,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -399,7 +399,7 @@
 1
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -487,7 +487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -497,7 +497,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -507,7 +507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -539,7 +539,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -549,7 +549,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -620,7 +620,7 @@
 1
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -652,7 +652,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 99,
+"total": 105,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -698,7 +698,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -734,17 +734,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -774,7 +779,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -784,7 +789,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -794,7 +799,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -833,7 +838,7 @@
 1
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -848,11 +853,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -926,7 +931,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -936,7 +941,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -946,7 +951,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -956,7 +961,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -966,7 +971,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -998,7 +1003,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1022,7 +1027,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1130,7 +1135,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1140,7 +1145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1150,7 +1155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -1192,7 +1197,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -1202,7 +1207,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -1237,7 +1242,7 @@
 3
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1256,7 +1261,7 @@
 -1
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -1285,11 +1290,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -1297,7 +1302,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 32,
+"total": 38,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -1314,7 +1319,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1334,7 +1339,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1354,7 +1359,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1374,7 +1379,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -1394,22 +1399,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 5,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"30 rec yds",
+"3 catches",
+5
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1426,15 +1435,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1522,7 +1535,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1532,7 +1545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -1542,7 +1555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1598,7 +1611,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1637,15 +1650,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 5,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"30 rec yds",
+"3 catches",
+5
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1686,23 +1703,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -1742,7 +1755,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1752,7 +1765,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1762,7 +1775,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -1772,7 +1785,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -1792,7 +1805,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1802,7 +1815,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1822,7 +1835,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -1857,7 +1870,7 @@
 15
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -1875,7 +1888,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 89,
+"total": 95,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -1931,17 +1944,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -1951,7 +1969,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -1983,7 +2001,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -1993,7 +2011,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -2003,7 +2021,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -2075,7 +2093,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": -5,
+"total": 4,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -2092,7 +2110,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2112,7 +2130,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2142,7 +2160,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -2162,7 +2180,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -2209,10 +2227,15 @@
 "pos": "K",
 "name": "Andre Szmyt",
 "team": "CLE",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"bd": [
+[
+"41-yd FG",
+9
+]
+],
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -2267,7 +2290,7 @@
 2
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -2277,7 +2300,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2287,7 +2310,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -2297,7 +2320,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -2339,7 +2362,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -2359,7 +2382,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -2369,7 +2392,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2421,7 +2444,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 29,
+"total": 38,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2438,7 +2461,7 @@
 6
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -2458,7 +2481,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2478,7 +2501,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -2488,7 +2511,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -2498,7 +2521,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -2518,7 +2541,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -2528,7 +2551,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -2555,10 +2578,15 @@
 "pos": "K",
 "name": "Andre Szmyt",
 "team": "CLE",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"bd": [
+[
+"41-yd FG",
+9
+]
+],
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -2590,7 +2618,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 26,
+"total": 27,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -2607,7 +2635,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2653,7 +2681,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -2673,7 +2701,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -2740,10 +2768,15 @@
 "pos": "K",
 "name": "Harrison Butker",
 "team": "KC",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -2771,7 +2804,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 73,
+"total": 79,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -2837,17 +2870,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -2857,7 +2895,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -2899,7 +2937,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -2948,7 +2986,7 @@
 1
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -2998,7 +3036,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3008,7 +3046,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3018,7 +3056,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -3028,7 +3066,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -3048,7 +3086,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -3140,7 +3178,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 75,
+"total": 82,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -3152,7 +3190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3196,17 +3234,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -3216,7 +3259,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -3226,7 +3269,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -3288,7 +3331,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3305,15 +3348,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -3387,7 +3434,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3417,7 +3464,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -3449,7 +3496,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -3469,7 +3516,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3541,7 +3588,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 90,
+"total": 87,
 "comm": null,
 "prev": 2124,
 "alive": false,
@@ -3592,7 +3639,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3612,7 +3659,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -3622,7 +3669,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -3664,7 +3711,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -3674,7 +3721,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3694,17 +3741,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Ryan Fitzgerald",
 "team": "CAR",
-"pts": 0,
+"pts": -3,
 "comm": null,
-"bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"bd": [
+[
+"missed 43-yd FG",
+-3
+]
+],
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -3719,7 +3771,7 @@
 6
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -3751,7 +3803,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 146,
+"total": 141,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -3817,7 +3869,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -3827,7 +3879,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -3891,7 +3943,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -3952,23 +4004,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -4052,7 +4100,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -4094,7 +4142,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4181,7 +4229,7 @@
 0
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 }
 ]
@@ -4201,7 +4249,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4221,7 +4269,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -4241,7 +4289,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4281,7 +4329,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4298,15 +4346,19 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 5,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"30 rec yds",
+"3 catches",
+5
+],
+[
+"38 rec yds",
 5
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4347,23 +4399,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -4371,7 +4419,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 19,
+"total": 27,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -4413,7 +4461,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -4423,7 +4471,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4433,7 +4481,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4443,7 +4491,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4480,25 +4528,34 @@
 "pos": "TE",
 "name": "Jake Ferguson",
 "team": "DAL",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"bd": [
+[
+"10-yd TD catch",
+7
+]
+],
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -4527,7 +4584,7 @@
 0
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -4545,7 +4602,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 109,
+"total": 104,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -4605,7 +4662,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -4615,7 +4672,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -4625,7 +4682,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4657,7 +4714,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -4677,7 +4734,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -4734,23 +4791,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -4847,7 +4900,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 28,
+"total": 29,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -4864,7 +4917,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -4879,7 +4932,7 @@
 6
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4899,7 +4952,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -4909,7 +4962,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4933,7 +4986,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -4943,7 +4996,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -4963,7 +5016,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -4980,15 +5033,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5026,7 +5083,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 28,
+"total": 29,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -5048,17 +5105,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5068,7 +5130,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5078,7 +5140,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -5098,7 +5160,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -5108,7 +5170,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5153,7 +5215,7 @@
 6
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -5163,7 +5225,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -5180,23 +5242,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -5204,7 +5262,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 38,
+"total": 50,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -5213,10 +5271,15 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD pass",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5233,10 +5296,15 @@
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5266,7 +5334,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5286,7 +5354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -5365,11 +5433,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -5389,7 +5457,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5433,7 +5501,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5475,7 +5543,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -5504,7 +5572,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -5604,7 +5672,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5614,7 +5682,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5624,7 +5692,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -5648,7 +5716,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5680,7 +5748,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5690,7 +5758,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5752,7 +5820,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 93,
+"total": 94,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -5803,7 +5871,7 @@
 -5
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -5813,7 +5881,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -5833,7 +5901,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5875,7 +5943,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -5912,15 +5980,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -5962,7 +6034,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 84,
+"total": 91,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -6005,15 +6077,19 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -3,
+"pts": 4,
 "comm": null,
 "bd": [
+[
+"10-yd TD pass",
+7
+],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6023,7 +6099,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -6033,7 +6109,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -6043,7 +6119,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6085,7 +6161,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6130,7 +6206,7 @@
 1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6169,7 +6245,7 @@
 0
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 }
 ]
@@ -6233,7 +6309,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6243,7 +6319,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6285,7 +6361,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6350,7 +6426,7 @@
 3
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6365,7 +6441,7 @@
 15
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6380,11 +6456,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -6404,7 +6480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -6424,7 +6500,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6434,7 +6510,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6464,7 +6540,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6474,7 +6550,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6484,7 +6560,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -6504,7 +6580,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6523,7 +6599,7 @@
 1
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -6538,7 +6614,7 @@
 3
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6563,11 +6639,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -6575,7 +6651,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 32,
+"total": 39,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -6594,10 +6670,15 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD pass",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -6607,7 +6688,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -6617,7 +6698,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -6627,7 +6708,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6657,7 +6738,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -6667,7 +6748,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -6686,22 +6767,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6743,7 +6828,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 22,
+"total": 42,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -6752,35 +6837,49 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD pass",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": -3,
+"pts": 4,
 "comm": null,
 "bd": [
+[
+"10-yd TD pass",
+7
+],
 [
 "1 lost fumble",
 -3
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -6800,7 +6899,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -6810,7 +6909,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -6820,7 +6919,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -6830,7 +6929,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6867,15 +6966,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6890,7 +6993,7 @@
 1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -6915,11 +7018,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -6978,7 +7081,7 @@
 6
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -6988,7 +7091,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7040,7 +7143,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7080,7 +7183,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -7109,7 +7212,7 @@
 1
 ]
 ],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7124,11 +7227,11 @@
 10
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7146,7 +7249,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 46,
+"total": 47,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -7168,7 +7271,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7178,17 +7281,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Kenneth Walker",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD catch",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -7198,7 +7306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -7230,7 +7338,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -7250,7 +7358,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7270,7 +7378,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -7289,7 +7397,7 @@
 1
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -7316,23 +7424,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -7340,7 +7444,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 68,
+"total": 69,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -7349,10 +7453,15 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD pass",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -7367,7 +7476,7 @@
 6
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -7377,7 +7486,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7397,7 +7506,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7429,7 +7538,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7449,7 +7558,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7459,7 +7568,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -7489,7 +7598,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -7510,23 +7619,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -7534,7 +7639,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 101,
+"total": 102,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -7570,7 +7675,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -7668,7 +7773,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7685,15 +7790,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7735,7 +7844,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 30,
+"total": 31,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -7757,7 +7866,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7767,7 +7876,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7777,7 +7886,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7787,7 +7896,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7797,7 +7906,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -7862,22 +7971,26 @@
 6
 ]
 ],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -7902,11 +8015,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 }
 ]
@@ -7914,7 +8027,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 67,
+"total": 68,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -7946,7 +8059,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -7956,7 +8069,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -7966,7 +8079,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -7976,7 +8089,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8045,15 +8158,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8141,7 +8258,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -8151,7 +8268,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -8161,7 +8278,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -8171,7 +8288,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8191,7 +8308,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -8201,7 +8318,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8283,7 +8400,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 49,
+"total": 50,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -8295,7 +8412,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8305,7 +8422,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8315,7 +8432,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8335,7 +8452,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -8355,7 +8472,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -8414,15 +8531,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8520,7 +8641,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -8544,7 +8665,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -8596,7 +8717,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -8606,7 +8727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8651,11 +8772,11 @@
 15
 ],
 [
-"Trailing",
+"Leading",
 0
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8670,7 +8791,7 @@
 15
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 }
 ]
@@ -8678,7 +8799,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 103,
+"total": 109,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -8721,10 +8842,15 @@
 "pos": "QB",
 "name": "Patrick Mahomes",
 "team": "KC",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"7-yd TD pass",
+6
+]
+],
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8734,7 +8860,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8744,7 +8870,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8754,7 +8880,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8796,7 +8922,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8806,7 +8932,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8826,7 +8952,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8895,7 +9021,7 @@
 0
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 }
 ]
@@ -8939,7 +9065,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -8949,7 +9075,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -8959,7 +9085,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DEN 10 @ CAR 0 \u00b7 Q1 0:19",
+"game": "DEN 10 @ CAR 0 \u00b7 Q2 11:44",
 "on": true
 },
 {
@@ -8969,7 +9095,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -8979,7 +9105,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -8989,7 +9115,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -9019,7 +9145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -9038,7 +9164,7 @@
 9
 ]
 ],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -9080,7 +9206,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 93,
+"total": 88,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -9126,7 +9252,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9136,7 +9262,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9146,7 +9272,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -9176,7 +9302,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -9243,7 +9369,7 @@
 3
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9282,23 +9408,19 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 22,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
 ],
 [
 "1 sacks",
 2
-],
-[
-"Leading",
-0
 ]
 ],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 }
 ]
@@ -9306,7 +9428,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 90,
+"total": 91,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -9352,7 +9474,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9362,7 +9484,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -9414,7 +9536,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LAR 3 @ WAS 10 \u00b7 Q2 14:00",
+"game": "LAR 3 @ WAS 10 \u00b7 Q2 10:32",
 "on": true
 },
 {
@@ -9461,15 +9583,19 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 9,
+"pts": 10,
 "comm": null,
 "bd": [
 [
 "45-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -9484,7 +9610,7 @@
 3
 ]
 ],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9517,7 +9643,7 @@
 0
 ]
 ],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 }
 ]
@@ -9581,7 +9707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 3 @ IND 7 \u00b7 Q2 15:00",
+"game": "DAL 10 @ IND 7 \u00b7 Q2 13:01",
 "on": true
 },
 {
@@ -9591,7 +9717,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -9601,7 +9727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DET 3 @ MIA 3 \u00b7 Q2 13:42",
+"game": "DET 3 @ MIA 3 \u00b7 Q2 8:21",
 "on": true
 },
 {
@@ -9611,7 +9737,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 6 @ KC 0 \u00b7 Q2 15:00",
+"game": "NYJ 6 @ KC 7 \u00b7 Q2 8:58",
 "on": true
 },
 {
@@ -9663,7 +9789,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 0 @ NO 3 \u00b7 Q2 12:53",
+"game": "CLE 3 @ NO 3 \u00b7 Q2 8:00",
 "on": true
 },
 {
@@ -9683,7 +9809,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 6 @ PHI 8 \u00b7 Q1 2:09",
+"game": "NYG 6 @ PHI 8 \u00b7 Q2 14:26",
 "on": true
 },
 {
@@ -9731,38 +9857,38 @@
 "live": false
 },
 {
-"t": "DAL 3 @ IND 7",
-"s": "Q2 15:00",
+"t": "DAL 10 @ IND 7",
+"s": "Q2 13:01",
 "live": true
 },
 {
 "t": "LAR 3 @ WAS 10",
-"s": "Q2 14:00",
+"s": "Q2 10:32",
 "live": true
 },
 {
-"t": "CLE 0 @ NO 3",
-"s": "Q2 12:53",
+"t": "CLE 3 @ NO 3",
+"s": "Q2 8:00",
 "live": true
 },
 {
-"t": "NYJ 6 @ KC 0",
-"s": "Q2 15:00",
+"t": "NYJ 6 @ KC 7",
+"s": "Q2 8:58",
 "live": true
 },
 {
 "t": "DET 3 @ MIA 3",
-"s": "Q2 13:42",
+"s": "Q2 8:21",
 "live": true
 },
 {
 "t": "DEN 10 @ CAR 0",
-"s": "Q1 0:19",
+"s": "Q2 11:44",
 "live": true
 },
 {
 "t": "NYG 6 @ PHI 8",
-"s": "Q1 2:09",
+"s": "Q2 14:26",
 "live": true
 },
 {

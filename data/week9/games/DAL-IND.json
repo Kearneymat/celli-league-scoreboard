@@ -1,17 +1,20 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 13:01",
 "score": {
 "IND": 7,
-"DAL": 3
+"DAL": 10
 },
 "players": {
 "Dak Prescott": {
-"pass_cmp": 6,
-"pass_yds": 56,
+"pass_cmp": 8,
+"pass_yds": 65,
 "rush_att": 1,
 "rush_yds": 2,
-"fl": 1
+"fl": 1,
+"pass_td_lengths": [
+10
+]
 },
 "Javonte Williams": {
 "rush_att": 6,
@@ -20,8 +23,15 @@
 "rec_yds": 9
 },
 "CeeDee Lamb": {
+"rec": 2,
+"rec_yds": 12
+},
+"Jake Ferguson": {
 "rec": 1,
-"rec_yds": 13
+"rec_yds": 10,
+"rec_td_lengths": [
+10
+]
 },
 "Ryan Flournoy": {
 "rec": 1,
@@ -33,6 +43,10 @@
 "rec": 1,
 "rec_yds": 1
 },
+"Josh Downs": {
+"rec": 1,
+"rec_yds": 7
+},
 "Keenan Allen": {}
 },
 "kickers": {
@@ -41,7 +55,7 @@
 45
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Spencer Shrader": {
@@ -52,17 +66,17 @@
 }
 },
 "defenses": {
-"IND": {
-"sacks": 1,
-"int": 0,
-"fum_rec": 1,
-"safeties": 0,
-"def_st_td_lengths": []
-},
 "DAL": {
 "sacks": 0,
 "int": 0,
 "fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"IND": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 }

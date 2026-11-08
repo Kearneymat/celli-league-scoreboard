@@ -29,8 +29,8 @@ for key, g in json.load(open(f)).items():
     elif re.match(r'(\d+:\d+) - OT', ck): ck = 'OT ' + ck.split(' ')[0]
     elif 'Half' in ck: ck = 'Halftime'
     elif ck.startswith('End of'): ck = 'End Q' + re.sub(r'\D', '', ck)[:1]
-    out = dict(status=g['status'], clock=ck, score=g['score'], players={}, kickers={}, defenses=g['D'], src='ESPN')
-    for k, v in g['P'].items():
+    out = dict(status=g['status'], clock=ck, score=g['score'], players={}, kickers={}, defenses={t: {**dict(sacks=0, int=0, fum_rec=0, safeties=0, def_st_td_lengths=[]), **g.get('D', {}).get(t, {})} for t in teams}, src='ESPN')
+    for k, v in g.get('P', {}).items():
         nm, tm = k.rsplit('|', 1)
         c = match(nm, [n for p, n in need.get(tm, []) if p != 'K' and p != 'DEF'])
         if not c: continue
@@ -39,7 +39,7 @@ for key, g in json.load(open(f)).items():
     def P(nm, tm):
         c = match(nm, [n for p, n in need.get(tm, []) if p not in ('K', 'DEF')])
         if c: return out['players'].setdefault(c, {})
-    for t in g['tds']:
+    for t in g.get('tds', []):
         if t['type'] == 'pass':
             r = P(t['rec'], t['tm']); q = P(t['qb'], t['tm'])
             if r is not None: r.setdefault('rec_td_lengths', []).append(t['len'])
@@ -48,12 +48,13 @@ for key, g in json.load(open(f)).items():
             r = P(t['who'], t['tm'])
             if r is not None: r.setdefault('rush_td_lengths', []).append(t['len'])
         else: print('UNPARSED TD', key, t)
-    for k, v in g['K'].items():
+    for k, v in g.get('K', {}).items():
+        v = {**dict(fgm=0, fga=0, xp_made=0, xp_missed=0), **v}
         nm, tm = k.rsplit('|', 1)
         c = match(nm, [n for p, n in need.get(tm, []) if p == 'K'])
         if not c: continue
-        made = [d for n, d, t in g['fgs'] if t == tm and last(n) == last(nm)]
-        miss = [d for n, d, t in g['miss'] if t == tm and last(n.replace('.', ' ')) == last(nm)]
+        made = [d for n, d, t in g.get('fgs', []) if t == tm and last(n) == last(nm)]
+        miss = [d for n, d, t in g.get('miss', []) if t == tm and last(n.replace('.', ' ')) == last(nm)][:max(0, v['fga'] - v['fgm'])]
         if len(made) != v['fgm'] or len(miss) != v['fga'] - v['fgm']: print('FG CHECK', key, nm, v, made, miss)
         out['kickers'][c] = dict(fg_made_dist=made, fg_missed_dist=miss, xp_made=v['xp_made'], xp_missed=v['xp_missed'])
     for txt, tm in g.get('two', []):

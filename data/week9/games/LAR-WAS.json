@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 14:00",
+"clock": "Q2 10:32",
 "score": {
 "WAS": 10,
 "LAR": 3
@@ -18,6 +18,10 @@
 "rec": 1,
 "rec_yds": 4
 },
+"Blake Corum": {
+"rush_att": 2,
+"rush_yds": 4
+},
 "Puka Nacua": {
 "rec": 3,
 "rec_yds": 29
@@ -25,8 +29,8 @@
 "Jayden Daniels": {
 "pass_cmp": 7,
 "pass_yds": 109,
-"rush_att": 1,
-"rush_yds": 1,
+"rush_att": 2,
+"rush_yds": 8,
 "pass_td_lengths": [
 7
 ]
@@ -62,14 +66,14 @@
 }
 },
 "defenses": {
-"WAS": {
+"LAR": {
 "sacks": 0,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
-"LAR": {
+"WAS": {
 "sacks": 0,
 "int": 0,
 "fum_rec": 0,
