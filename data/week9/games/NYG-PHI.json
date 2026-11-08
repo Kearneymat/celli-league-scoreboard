@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 10:46",
 "score": {
 "PHI": 8,
 "NYG": 6
@@ -9,12 +9,12 @@
 "J.J. McCarthy": {
 "pass_cmp": 9,
 "pass_yds": 101,
-"rush_att": 2,
-"rush_yds": 8
+"rush_att": 3,
+"rush_yds": 11
 },
 "Devin Singletary": {
-"rush_att": 6,
-"rush_yds": 9,
+"rush_att": 8,
+"rush_yds": 20,
 "rec": 1,
 "rec_yds": 1
 },
@@ -27,22 +27,22 @@
 "rec_yds": 25
 },
 "Joe Milton": {
-"pass_cmp": 8,
-"pass_yds": 87,
-"rush_att": 5,
-"rush_yds": 24,
+"pass_cmp": 9,
+"pass_yds": 93,
+"rush_att": 6,
+"rush_yds": 36,
 "fl": 1,
 "two_pt": 1
 },
 "Makai Lemon": {
-"rec": 4,
-"rec_yds": 45
+"rec": 5,
+"rec_yds": 51
 }
 },
 "kickers": {},
 "defenses": {
 "NYG": {
-"sacks": 3,
+"sacks": 4,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
