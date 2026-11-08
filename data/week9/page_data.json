@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 134,
+"total": 167,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -92,7 +92,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -124,8 +124,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -168,24 +168,29 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Charlie Smyth",
 "team": "NO",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -205,22 +210,27 @@
 -1
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
@@ -253,7 +263,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 165,
+"total": 185,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -299,8 +309,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -335,7 +345,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -385,8 +395,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -414,8 +424,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -424,8 +433,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -434,8 +443,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -444,8 +453,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
@@ -487,18 +496,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Ian",
 "champ": false,
-"total": 220,
+"total": 254,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -544,8 +558,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -573,19 +587,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -636,10 +654,15 @@
 "pos": "WR",
 "name": "Ryan Flournoy",
 "team": "DAL",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"bd": [
+[
+"53 rec yds",
+5
+]
+],
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -675,8 +698,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -685,8 +708,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -760,18 +783,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Bella",
 "champ": false,
-"total": 201,
+"total": 221,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -931,8 +959,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -955,7 +983,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -965,7 +993,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -975,8 +1003,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
@@ -1040,18 +1068,23 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 }
 ]
 },
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 203,
+"total": 232,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1097,8 +1130,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -1148,19 +1181,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1201,8 +1238,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1265,7 +1301,7 @@
 7
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1285,8 +1321,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1306,18 +1342,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 233,
+"total": 243,
 "comm": null,
 "prev": 2418,
 "alive": false,
@@ -1363,8 +1404,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -1392,19 +1433,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1458,8 +1503,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -1500,8 +1545,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -1510,8 +1555,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -1547,7 +1592,7 @@
 "pos": "K",
 "name": "Charlie Smyth",
 "team": "NO",
-"pts": 18,
+"pts": 19,
 "comm": null,
 "bd": [
 [
@@ -1567,11 +1612,11 @@
 -1
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -1619,7 +1664,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 85,
+"total": 95,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -1645,26 +1690,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1674,8 +1723,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -1693,7 +1742,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1764,8 +1813,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1781,7 +1829,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -1797,11 +1845,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -1816,7 +1864,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -1894,8 +1942,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1999,8 +2046,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2031,8 +2077,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -2054,8 +2100,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2074,8 +2119,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2105,9 +2150,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -2115,7 +2164,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 112,
+"total": 141,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2127,8 +2176,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "QB",
@@ -2137,8 +2186,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -2166,19 +2215,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -2193,7 +2246,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -2229,8 +2282,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -2239,7 +2292,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -2258,8 +2311,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2268,8 +2320,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -2278,7 +2330,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -2298,8 +2350,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -2331,18 +2383,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Hummer",
 "champ": false,
-"total": 193,
+"total": 222,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2388,8 +2445,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -2447,19 +2504,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -2500,8 +2561,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2510,7 +2570,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -2548,8 +2608,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -2563,7 +2623,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -2594,18 +2654,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Cobb",
 "champ": false,
-"total": 104,
+"total": 121,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -2631,8 +2696,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -2663,7 +2728,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -2673,8 +2738,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -2733,8 +2798,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -2743,8 +2808,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -2768,7 +2833,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -2795,36 +2860,45 @@
 1
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
-"comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
-},
-{
-"pos": "DEF",
-"name": "Texans D",
-"team": "HOU",
 "pts": 20,
 "comm": null,
 "bd": [
 [
 "0 pts allowed",
 20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": 17,
+"comm": null,
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -2832,7 +2906,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 173,
+"total": 179,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -2844,8 +2918,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -2867,8 +2941,7 @@
 -3
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2896,19 +2969,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -2962,8 +3039,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -3008,7 +3085,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -3037,8 +3114,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3058,19 +3135,23 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -3078,7 +3159,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 155,
+"total": 164,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -3120,8 +3201,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "RB",
@@ -3152,26 +3233,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -3212,8 +3297,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3222,8 +3306,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -3232,7 +3316,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -3242,7 +3326,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -3289,7 +3373,7 @@
 1
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -3321,7 +3405,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 58,
+"total": 78,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -3352,7 +3436,7 @@
 7
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -3393,7 +3477,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -3403,8 +3487,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -3431,8 +3515,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -3441,7 +3525,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -3451,8 +3535,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -3461,8 +3545,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -3471,8 +3555,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
@@ -3481,8 +3565,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "K",
@@ -3506,11 +3590,16 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3527,7 +3616,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 131,
+"total": 183,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -3583,8 +3672,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -3641,7 +3730,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -3692,8 +3781,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -3702,17 +3791,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -3741,28 +3835,38 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 108,
+"total": 137,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -3774,8 +3878,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -3817,19 +3921,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -3861,8 +3969,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -3897,8 +4005,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "WR",
@@ -3917,8 +4025,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -3947,8 +4055,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3968,18 +4076,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 158,
+"total": 179,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -4127,8 +4240,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -4137,7 +4250,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -4169,8 +4282,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -4195,7 +4308,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -4211,11 +4324,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -4232,18 +4345,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 127,
+"total": 147,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -4303,8 +4421,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "RB",
@@ -4328,8 +4446,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4405,8 +4522,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -4415,8 +4532,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -4425,8 +4542,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -4435,8 +4552,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4456,18 +4573,23 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 }
 ]
 },
 {
 "owner": "Kearney",
 "champ": false,
-"total": 160,
+"total": 180,
 "comm": null,
 "prev": 2124,
 "alive": false,
@@ -4542,8 +4664,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4596,8 +4717,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -4623,7 +4744,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -4642,8 +4763,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -4652,7 +4773,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -4713,11 +4834,16 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
@@ -4736,8 +4862,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -4817,8 +4943,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4890,8 +5015,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -4951,9 +5076,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -4961,7 +5090,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 137,
+"total": 144,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -5007,8 +5136,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -5096,8 +5225,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5116,8 +5244,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -5151,7 +5279,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -5172,7 +5300,7 @@
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -5180,20 +5308,19 @@
 5
 ],
 [
-"6 sacks",
-12
+"7 sacks",
+14
 ],
 [
 "1 fum rec",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 }
 ]
 },
@@ -5212,8 +5339,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -5222,8 +5348,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "RB",
@@ -5286,8 +5412,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -5296,8 +5422,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -5321,8 +5447,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5331,8 +5456,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -5354,8 +5479,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5364,8 +5488,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -5405,9 +5529,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -5415,7 +5543,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 71,
+"total": 81,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -5447,26 +5575,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -5503,8 +5635,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5513,8 +5644,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -5533,8 +5664,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -5548,14 +5679,14 @@
 7
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5571,11 +5702,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -5590,7 +5721,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -5634,7 +5765,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 174,
+"total": 215,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -5713,19 +5844,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -5784,8 +5919,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5822,8 +5956,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -5847,28 +5981,38 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5884,9 +6028,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -5983,7 +6131,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 120,
+"total": 138,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -6130,8 +6278,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -6140,7 +6288,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -6150,14 +6298,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6173,11 +6321,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -6192,44 +6340,53 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Tansey",
 "champ": false,
-"total": 164,
+"total": 161,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -6241,8 +6398,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "QB",
@@ -6334,8 +6491,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6380,7 +6536,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -6390,8 +6546,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -6400,8 +6556,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -6410,7 +6566,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -6442,26 +6598,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -6478,9 +6638,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -6614,8 +6778,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6664,8 +6827,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6712,7 +6875,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 93,
+"total": 113,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -6738,8 +6901,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -6748,8 +6911,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -6831,8 +6994,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6841,8 +7003,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -6860,7 +7022,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -6913,18 +7075,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Shane H",
 "champ": false,
-"total": 167,
+"total": 193,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -6950,8 +7117,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -6979,19 +7146,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7006,7 +7177,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -7047,7 +7218,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7116,8 +7287,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "K",
@@ -7133,29 +7304,38 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
-"comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
-},
-{
-"pos": "DEF",
-"name": "Texans D",
-"team": "HOU",
 "pts": 20,
 "comm": null,
 "bd": [
 [
 "0 pts allowed",
 20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": 17,
+"comm": null,
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -7163,7 +7343,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 132,
+"total": 162,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -7248,19 +7428,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7292,8 +7476,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -7326,8 +7510,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -7343,7 +7527,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -7359,11 +7543,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7394,18 +7578,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 202,
+"total": 240,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -7448,16 +7637,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 32,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"21 completions",
+6
 ],
 [
-"289 pass yds",
-13
+"335 pass yds",
+18
 ],
 [
 "10-yd TD pass",
@@ -7472,7 +7661,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7487,8 +7676,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7563,8 +7751,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -7601,8 +7789,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -7611,14 +7799,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 23,
+"pts": 35,
 "comm": null,
 "bd": [
 [
@@ -7630,11 +7818,15 @@
 12
 ],
 [
+"50-yd FG",
+12
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7649,18 +7841,23 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7697,7 +7894,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 158,
+"total": 167,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -7743,26 +7940,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7781,7 +7982,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -7832,8 +8033,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "WR",
@@ -7842,8 +8043,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -7852,7 +8053,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -7862,8 +8063,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "K",
@@ -7983,8 +8184,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "RB",
@@ -8043,8 +8244,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -8088,7 +8289,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8112,8 +8313,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -8131,7 +8332,7 @@
 7
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8227,7 +8428,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 143,
+"total": 173,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -8239,8 +8440,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -8320,19 +8521,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8342,8 +8547,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -8367,8 +8572,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8386,7 +8590,7 @@
 9
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -8405,14 +8609,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -8428,11 +8632,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8463,18 +8667,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Hurls",
 "champ": false,
-"total": 235,
+"total": 251,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -8513,16 +8722,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 32,
+"pts": 38,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"21 completions",
+6
 ],
 [
-"289 pass yds",
-13
+"335 pass yds",
+18
 ],
 [
 "10-yd TD pass",
@@ -8537,7 +8746,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8577,8 +8786,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -8649,7 +8858,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -8659,8 +8868,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -8679,14 +8888,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -8702,18 +8911,18 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
 "pos": "K",
 "name": "Spencer Shrader",
 "team": "IND",
-"pts": 23,
+"pts": 35,
 "comm": null,
 "bd": [
 [
@@ -8725,30 +8934,38 @@
 12
 ],
 [
+"50-yd FG",
+12
+],
+[
 "2 XP",
 2
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -8876,8 +9093,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -8927,8 +9144,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -8937,8 +9154,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "TE",
@@ -8947,7 +9164,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -8957,7 +9174,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -8967,8 +9184,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -9000,7 +9217,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -9010,9 +9227,13 @@
 [
 "1 fum rec",
 2
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -9030,7 +9251,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 115,
+"total": 135,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -9042,8 +9263,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -9163,8 +9384,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9173,8 +9393,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -9183,7 +9403,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -9193,8 +9413,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -9203,7 +9423,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -9242,11 +9462,16 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
@@ -9262,9 +9487,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -9429,7 +9658,7 @@
 -3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -9467,7 +9696,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -9477,8 +9706,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -9497,7 +9726,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -9528,9 +9757,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -9538,7 +9771,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 137,
+"total": 135,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -9564,8 +9797,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -9588,8 +9821,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -9646,8 +9879,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -9666,8 +9899,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -9685,7 +9918,7 @@
 7
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -9695,14 +9928,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9718,11 +9951,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -9737,7 +9970,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -9758,19 +9991,23 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -9778,7 +10015,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 100,
+"total": 101,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -9790,8 +10027,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -9881,8 +10118,7 @@
 5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9891,8 +10127,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -9921,8 +10157,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -9960,7 +10196,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -9976,11 +10212,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -10024,7 +10260,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 122,
+"total": 143,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -10036,8 +10272,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "QB",
@@ -10046,8 +10282,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "RB",
@@ -10083,7 +10319,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -10171,8 +10407,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -10188,7 +10424,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10204,11 +10440,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -10239,18 +10475,23 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 189,
+"total": 186,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -10349,7 +10590,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -10381,8 +10622,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -10417,7 +10658,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -10427,7 +10668,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -10447,8 +10688,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -10457,8 +10698,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "K",
@@ -10467,8 +10708,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
@@ -10488,19 +10729,23 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -10508,7 +10753,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 122,
+"total": 143,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -10597,8 +10842,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -10665,8 +10910,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -10682,7 +10927,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10698,11 +10943,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -10717,7 +10962,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -10738,11 +10983,16 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 }
 ]
 },
@@ -10800,7 +11050,7 @@
 7
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -10843,7 +11093,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -10875,7 +11125,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -10885,8 +11135,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -10904,7 +11154,7 @@
 12
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -10952,8 +11202,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "DEF",
@@ -11012,7 +11262,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 221,
+"total": 237,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -11107,19 +11357,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -11169,8 +11423,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -11193,7 +11447,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -11203,8 +11457,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -11240,7 +11494,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -11283,7 +11537,7 @@
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -11291,27 +11545,26 @@
 5
 ],
 [
-"6 sacks",
-12
+"7 sacks",
+14
 ],
 [
 "1 fum rec",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Finger",
 "champ": false,
-"total": 204,
+"total": 210,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -11337,26 +11590,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -11459,8 +11716,7 @@
 6
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11479,8 +11735,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "TE",
@@ -11489,7 +11745,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -11534,7 +11790,7 @@
 1
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -11555,19 +11811,23 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -11575,7 +11835,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 174,
+"total": 180,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -11654,19 +11914,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -11676,8 +11940,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -11686,8 +11950,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -11736,8 +12000,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -11756,8 +12020,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -11815,19 +12079,23 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 17,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 },
 {
@@ -11844,9 +12112,13 @@
 [
 "5 sacks",
 10
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 }
 ]
@@ -11854,7 +12126,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 170,
+"total": 207,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -11911,19 +12183,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -11933,8 +12209,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "RB",
@@ -12001,8 +12277,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "WR",
@@ -12011,8 +12287,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "TE",
@@ -12031,14 +12307,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -12054,11 +12330,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -12095,17 +12371,22 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Giants D",
 "team": "NYG",
-"pts": 19,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -12113,27 +12394,26 @@
 5
 ],
 [
-"6 sacks",
-12
+"7 sacks",
+14
 ],
 [
 "1 fum rec",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Moser",
 "champ": false,
-"total": 159,
+"total": 185,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -12145,8 +12425,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "QB",
@@ -12186,19 +12466,23 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 17,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"18 rushes",
-8
+"20 rushes",
+10
 ],
 [
-"92 rush yds",
-9
+"101 rush yds",
+10
+],
+[
+"1-yd TD run",
+6
 ]
 ],
-"game": "DAL 20 @ IND 20 \u00b7 Q4 2:00",
+"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
 "on": true
 },
 {
@@ -12213,8 +12497,7 @@
 11
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12263,8 +12546,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB @ NE \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"on": true
 },
 {
 "pos": "WR",
@@ -12305,7 +12588,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 16 \u00b7 OT 7:39",
+"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
 "on": true
 },
 {
@@ -12315,8 +12598,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "K",
@@ -12330,8 +12613,7 @@
 9
 ]
 ],
-"game": "NYG 19 @ PHI 11 \u00b7 Q4 0:06",
-"on": true
+"game": "NYG 19 @ PHI 11 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12340,36 +12622,45 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ SF \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 0,
-"comm": null,
-"bd": [],
-"game": "ARI @ SEA \u00b7 Sun 4:25 ET",
-"yet": true
-},
-{
-"pos": "DEF",
-"name": "Texans D",
-"team": "HOU",
 "pts": 20,
 "comm": null,
 "bd": [
 [
 "0 pts allowed",
 20
+]
+],
+"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"on": true
+},
+{
+"pos": "DEF",
+"name": "Texans D",
+"team": "HOU",
+"pts": 17,
+"comm": null,
+"bd": [
+[
+"3 pts allowed",
+15
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "HOU 7 @ LAC 0 \u00b7 Q1 10:16",
+"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
 "on": true
 }
 ]
@@ -12387,8 +12678,8 @@
 "live": false
 },
 {
-"t": "DAL 20 @ IND 20",
-"s": "Q4 2:00",
+"t": "DAL 27 @ IND 23",
+"s": "Q4 1:08",
 "live": true
 },
 {
@@ -12397,8 +12688,8 @@
 "live": false
 },
 {
-"t": "CLE 16 @ NO 16",
-"s": "OT 7:39",
+"t": "CLE 16 @ NO 23",
+"s": "OT 2:00",
 "live": true
 },
 {
@@ -12418,28 +12709,28 @@
 },
 {
 "t": "NYG 19 @ PHI 11",
-"s": "Q4 0:06",
+"s": "Final",
+"live": false
+},
+{
+"t": "HOU 7 @ LAC 3",
+"s": "Q1 6:00",
 "live": true
 },
 {
-"t": "HOU 7 @ LAC 0",
-"s": "Q1 10:16",
+"t": "LV 0 @ SF 0",
+"s": "Q1 14:50",
 "live": true
 },
 {
-"t": "LV @ SF",
-"s": "Sun 4:25 ET",
-"live": false
+"t": "GB 0 @ NE 0",
+"s": "Q1 14:52",
+"live": true
 },
 {
-"t": "GB @ NE",
-"s": "Sun 4:25 ET",
-"live": false
-},
-{
-"t": "ARI @ SEA",
-"s": "Sun 4:25 ET",
-"live": false
+"t": "ARI 0 @ SEA 0",
+"s": "Q1 14:30",
+"live": true
 },
 {
 "t": "TB @ CHI",

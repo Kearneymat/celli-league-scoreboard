@@ -1,0 +1,32 @@
+{
+"status": "live",
+"clock": "Q1 14:52",
+"score": {
+"NE": 0,
+"GB": 0
+},
+"players": {
+"Rhamondre Stevenson": {
+"rush_att": 1,
+"rush_yds": 1
+}
+},
+"kickers": {},
+"defenses": {
+"GB": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"NE": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

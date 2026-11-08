@@ -1,0 +1,32 @@
+{
+"status": "live",
+"clock": "Q1 14:50",
+"score": {
+"SF": 0,
+"LV": 0
+},
+"players": {
+"Brock Purdy": {
+"pass_cmp": 1,
+"pass_yds": 10
+}
+},
+"kickers": {},
+"defenses": {
+"LV": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"SF": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

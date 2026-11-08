@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 2:00",
+"clock": "Q4 1:08",
 "score": {
-"IND": 20,
-"DAL": 20
+"IND": 23,
+"DAL": 27
 },
 "players": {
 "Dak Prescott": {
-"pass_cmp": 20,
-"pass_yds": 289,
+"pass_cmp": 21,
+"pass_yds": 335,
 "rush_att": 1,
 "rush_yds": 2,
 "fl": 1,
@@ -18,10 +18,13 @@
 ]
 },
 "Javonte Williams": {
-"rush_att": 18,
-"rush_yds": 92,
+"rush_att": 20,
+"rush_yds": 101,
 "rec": 4,
-"rec_yds": 23
+"rec_yds": 23,
+"rush_td_lengths": [
+1
+]
 },
 "CeeDee Lamb": {
 "rec": 10,
@@ -31,6 +34,10 @@
 44
 ]
 },
+"Ryan Flournoy": {
+"rec": 2,
+"rec_yds": 53
+},
 "Jake Ferguson": {
 "rec": 2,
 "rec_yds": 21,
@@ -38,13 +45,9 @@
 10
 ]
 },
-"Ryan Flournoy": {
-"rec": 1,
-"rec_yds": 7
-},
 "Jonathan Taylor": {
-"rush_att": 12,
-"rush_yds": 47,
+"rush_att": 13,
+"rush_yds": 46,
 "rec": 5,
 "rec_yds": 18,
 "fl": 1
@@ -71,13 +74,14 @@
 "fg_missed_dist": [
 50
 ],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Spencer Shrader": {
 "fg_made_dist": [
 47,
-59
+59,
+50
 ],
 "fg_missed_dist": [],
 "xp_made": 2,

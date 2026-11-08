@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "OT 7:39",
+"clock": "OT 2:00",
 "score": {
-"NO": 16,
+"NO": 23,
 "CLE": 16
 },
 "players": {
@@ -46,7 +46,7 @@
 "fg_missed_dist": [
 52
 ],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },

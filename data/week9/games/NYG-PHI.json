@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 0:06",
+"status": "final",
+"clock": "Final",
 "score": {
 "PHI": 11,
 "NYG": 19
@@ -31,7 +31,7 @@
 },
 "Joe Milton": {
 "pass_cmp": 18,
-"pass_yds": 168,
+"pass_yds": 169,
 "rush_att": 9,
 "rush_yds": 64,
 "fl": 1,
@@ -54,7 +54,7 @@
 },
 "defenses": {
 "NYG": {
-"sacks": 6,
+"sacks": 7,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
