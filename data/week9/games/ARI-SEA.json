@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 0:25",
+"clock": "Halftime",
 "score": {
-"SEA": 7,
+"SEA": 14,
 "ARI": 3
 },
 "players": {
@@ -20,10 +20,13 @@
 "rec_yds": 7
 },
 "Drew Lock": {
-"pass_cmp": 13,
-"pass_yds": 103,
+"pass_cmp": 14,
+"pass_yds": 110,
 "rush_att": 1,
-"rush_yds": 14
+"rush_yds": 14,
+"pass_td_lengths": [
+7
+]
 },
 "Jaxon Smith-Njigba": {
 "rec": 7,
@@ -42,7 +45,7 @@
 "Jason Myers": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },
@@ -55,7 +58,7 @@
 "def_st_td_lengths": []
 },
 "SEA": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

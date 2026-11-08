@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 3:19",
+"clock": "Q2 1:48",
 "score": {
-"NE": 7,
+"NE": 14,
 "GB": 24
 },
 "players": {
@@ -18,6 +18,10 @@
 5
 ]
 },
+"Tucker Kraft": {
+"rush_att": 1,
+"rush_yds": 8
+},
 "Matthew Golden": {
 "rec": 7,
 "rec_yds": 150,
@@ -29,13 +33,13 @@
 "rec": 3,
 "rec_yds": 62
 },
-"Tucker Kraft": {},
 "Drake Maye": {
-"pass_cmp": 8,
-"pass_yds": 160,
+"pass_cmp": 10,
+"pass_yds": 176,
 "int": 3,
 "pass_td_lengths": [
-30
+30,
+8
 ]
 },
 "Rhamondre Stevenson": {
@@ -48,8 +52,8 @@
 ]
 },
 "Pop Douglas": {
-"rec": 2,
-"rec_yds": 69
+"rec": 3,
+"rec_yds": 77
 },
 "Eli Raridon": {
 "rec": 1,
@@ -64,7 +68,7 @@
 "Andres Borregales": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },
