@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Q2 0:32",
 "score": {
 "KC": 14,
 "NYJ": 12
 },
 "players": {
 "Geno Smith": {
-"pass_cmp": 9,
-"pass_yds": 70,
+"pass_cmp": 10,
+"pass_yds": 81,
 "rush_att": 1,
 "rush_yds": 8
 },
@@ -16,10 +16,15 @@
 "rec": 5,
 "rec_yds": 24
 },
+"Mason Taylor": {
+"rec": 1,
+"rec_yds": 11
+},
 "Adonai Mitchell": {},
 "Patrick Mahomes": {
 "pass_cmp": 10,
 "pass_yds": 108,
+"fl": 1,
 "pass_td_lengths": [
 7,
 25
@@ -52,7 +57,9 @@
 49,
 54
 ],
-"fg_missed_dist": [],
+"fg_missed_dist": [
+53
+],
 "xp_made": 0,
 "xp_missed": 0
 },
@@ -65,14 +72,14 @@
 },
 "defenses": {
 "NYJ": {
-"sacks": 0,
+"sacks": 2,
 "int": 0,
-"fum_rec": 1,
+"fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "KC": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
