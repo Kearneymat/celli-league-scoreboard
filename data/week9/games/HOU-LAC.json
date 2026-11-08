@@ -1,0 +1,50 @@
+{
+"status": "live",
+"clock": "Q1 10:16",
+"score": {
+"LAC": 0,
+"HOU": 7
+},
+"players": {
+"C.J. Stroud": {
+"pass_cmp": 5,
+"pass_yds": 54,
+"pass_td_lengths": [
+17
+]
+},
+"Woody Marks": {
+"rush_att": 3,
+"rush_yds": 9
+},
+"Nico Collins": {
+"rec": 1,
+"rec_yds": 19
+}
+},
+"kickers": {
+"Ka'imi Fairbairn": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
+},
+"defenses": {
+"HOU": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"LAC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

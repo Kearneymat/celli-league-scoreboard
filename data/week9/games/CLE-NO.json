@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 0:40",
+"clock": "OT 7:39",
 "score": {
 "NO": 16,
-"CLE": 13
+"CLE": 16
 },
 "players": {
 "Quinshon Judkins": {
@@ -22,15 +22,16 @@
 ]
 },
 "Chris Olave": {
-"rec": 6,
-"rec_yds": 91
+"rec": 7,
+"rec_yds": 98
 }
 },
 "kickers": {
 "Andre Szmyt": {
 "fg_made_dist": [
 41,
-30
+30,
+51
 ],
 "fg_missed_dist": [],
 "xp_made": 1,

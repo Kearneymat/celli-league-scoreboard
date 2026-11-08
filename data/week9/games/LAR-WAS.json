@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 0:59",
+"status": "final",
+"clock": "Final",
 "score": {
 "WAS": 13,
 "LAR": 20
@@ -40,10 +40,10 @@
 ]
 },
 "Jayden Daniels": {
-"pass_cmp": 21,
-"pass_yds": 204,
-"rush_att": 3,
-"rush_yds": 15,
+"pass_cmp": 24,
+"pass_yds": 273,
+"rush_att": 4,
+"rush_yds": 16,
 "fl": 1,
 "pass_td_lengths": [
 7
@@ -53,15 +53,16 @@
 "rush_att": 7,
 "rush_yds": 28,
 "rec": 2,
-"rec_yds": 41
+"rec_yds": 41,
+"fl": 1
+},
+"Stefon Diggs": {
+"rec": 3,
+"rec_yds": 51
 },
 "Antonio Williams": {
 "rec": 3,
 "rec_yds": 25
-},
-"Stefon Diggs": {
-"rec": 2,
-"rec_yds": 9
 }
 },
 "kickers": {
@@ -88,7 +89,7 @@
 "LAR": {
 "sacks": 4,
 "int": 0,
-"fum_rec": 1,
+"fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
 },

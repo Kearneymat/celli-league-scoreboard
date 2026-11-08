@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 2:00",
+"status": "final",
+"clock": "Final",
 "score": {
 "CAR": 21,
 "DEN": 26
@@ -10,7 +10,7 @@
 "pass_cmp": 25,
 "pass_yds": 237,
 "int": 1,
-"rush_att": 3,
+"rush_att": 5,
 "rush_yds": 2,
 "pass_td_lengths": [
 3,
@@ -18,8 +18,8 @@
 ]
 },
 "Jonah Coleman": {
-"rush_att": 15,
-"rush_yds": 48,
+"rush_att": 17,
+"rush_yds": 57,
 "rec": 4,
 "rec_yds": 31,
 "rush_td_lengths": [
@@ -43,8 +43,8 @@
 "rec_yds": 17
 },
 "Tetairoa McMillan": {
-"rec": 3,
-"rec_yds": 36,
+"rec": 4,
+"rec_yds": 56,
 "rec_td_lengths": [
 4
 ]
@@ -71,9 +71,9 @@
 },
 "defenses": {
 "DEN": {
-"sacks": 2,
+"sacks": 3,
 "int": 1,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },

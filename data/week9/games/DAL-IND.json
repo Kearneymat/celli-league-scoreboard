@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 6:47",
+"clock": "Q4 2:00",
 "score": {
-"IND": 17,
+"IND": 20,
 "DAL": 20
 },
 "players": {
 "Dak Prescott": {
-"pass_cmp": 19,
-"pass_yds": 258,
+"pass_cmp": 20,
+"pass_yds": 289,
 "rush_att": 1,
 "rush_yds": 2,
 "fl": 1,
@@ -18,14 +18,14 @@
 ]
 },
 "Javonte Williams": {
-"rush_att": 16,
-"rush_yds": 85,
+"rush_att": 18,
+"rush_yds": 92,
 "rec": 4,
 "rec_yds": 23
 },
 "CeeDee Lamb": {
-"rec": 9,
-"rec_yds": 164,
+"rec": 10,
+"rec_yds": 195,
 "fl": 1,
 "rec_td_lengths": [
 44
@@ -43,11 +43,15 @@
 "rec_yds": 7
 },
 "Jonathan Taylor": {
-"rush_att": 11,
-"rush_yds": 41,
+"rush_att": 12,
+"rush_yds": 47,
 "rec": 5,
 "rec_yds": 18,
 "fl": 1
+},
+"Tyler Warren": {
+"rec": 4,
+"rec_yds": 44
 },
 "Keenan Allen": {
 "rec": 4,
@@ -56,10 +60,6 @@
 "Josh Downs": {
 "rec": 3,
 "rec_yds": 24
-},
-"Tyler Warren": {
-"rec": 2,
-"rec_yds": 22
 }
 },
 "kickers": {
@@ -68,13 +68,16 @@
 45,
 28
 ],
-"fg_missed_dist": [],
+"fg_missed_dist": [
+50
+],
 "xp_made": 2,
 "xp_missed": 0
 },
 "Spencer Shrader": {
 "fg_made_dist": [
-47
+47,
+59
 ],
 "fg_missed_dist": [],
 "xp_made": 2,
