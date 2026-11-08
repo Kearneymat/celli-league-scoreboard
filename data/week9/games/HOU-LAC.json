@@ -1,20 +1,21 @@
 {
 "status": "live",
-"clock": "Q2 1:59",
+"clock": "Halftime",
 "score": {
 "LAC": 9,
-"HOU": 17
+"HOU": 24
 },
 "players": {
 "C.J. Stroud": {
-"pass_cmp": 10,
-"pass_yds": 150,
+"pass_cmp": 15,
+"pass_yds": 230,
 "int": 1,
 "rush_att": 1,
 "rush_yds": 12,
 "pass_td_lengths": [
 17,
-63
+63,
+12
 ]
 },
 "Woody Marks": {
@@ -26,6 +27,10 @@
 "Nico Collins": {
 "rec": 3,
 "rec_yds": 42
+},
+"Dalton Schultz": {
+"rec": 1,
+"rec_yds": 14
 }
 },
 "kickers": {
@@ -34,7 +39,7 @@
 56
 ],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Cameron Dicker": {
@@ -50,7 +55,7 @@
 },
 "defenses": {
 "HOU": {
-"sacks": 2,
+"sacks": 4,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

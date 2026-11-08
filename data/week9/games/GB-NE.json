@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 9:23",
+"clock": "Q2 3:19",
 "score": {
 "NE": 7,
-"GB": 17
+"GB": 24
 },
 "players": {
 "Jordan Love": {
-"pass_cmp": 8,
-"pass_yds": 143,
+"pass_cmp": 11,
+"pass_yds": 219,
 "rush_att": 1,
 "rush_yds": 13,
 "rush_td_lengths": [
@@ -19,28 +19,28 @@
 ]
 },
 "Matthew Golden": {
-"rec": 6,
-"rec_yds": 126,
+"rec": 7,
+"rec_yds": 150,
 "rec_td_lengths": [
 5
 ]
 },
 "Christian Watson": {
-"rec": 1,
-"rec_yds": 10
+"rec": 3,
+"rec_yds": 62
 },
 "Tucker Kraft": {},
 "Drake Maye": {
-"pass_cmp": 5,
-"pass_yds": 90,
-"int": 2,
+"pass_cmp": 8,
+"pass_yds": 160,
+"int": 3,
 "pass_td_lengths": [
 30
 ]
 },
 "Rhamondre Stevenson": {
-"rush_att": 4,
-"rush_yds": 10,
+"rush_att": 6,
+"rush_yds": 32,
 "rec": 1,
 "rec_yds": 30,
 "rec_td_lengths": [
@@ -48,12 +48,16 @@
 ]
 },
 "Pop Douglas": {
+"rec": 2,
+"rec_yds": 69
+},
+"Eli Raridon": {
 "rec": 1,
-"rec_yds": 36
+"rec_yds": 28
 },
 "Mack Hollins": {
-"rec": 1,
-"rec_yds": 5
+"rec": 2,
+"rec_yds": 14
 }
 },
 "kickers": {
@@ -67,7 +71,7 @@
 "defenses": {
 "GB": {
 "sacks": 1,
-"int": 2,
+"int": 3,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

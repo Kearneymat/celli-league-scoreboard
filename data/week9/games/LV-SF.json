@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 3:14",
+"clock": "Halftime",
 "score": {
 "SF": 21,
-"LV": 7
+"LV": 10
 },
 "players": {
 "Kirk Cousins": {
@@ -56,7 +56,9 @@
 },
 "kickers": {
 "Matt Gay": {
-"fg_made_dist": [],
+"fg_made_dist": [
+50
+],
 "fg_missed_dist": [],
 "xp_made": 1,
 "xp_missed": 0
@@ -70,7 +72,7 @@
 },
 "defenses": {
 "LV": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
