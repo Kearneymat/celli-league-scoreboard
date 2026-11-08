@@ -1,16 +1,18 @@
 {
 "status": "live",
-"clock": "Q2 8:00",
+"clock": "Q2 2:00",
 "score": {
 "NO": 3,
 "CLE": 3
 },
 "players": {
 "Quinshon Judkins": {
-"rush_att": 2,
-"rush_yds": 9
+"rush_att": 6,
+"rush_yds": 20
 },
 "KC Concepcion": {
+"rush_att": 1,
+"rush_yds": 3,
 "rec": 2,
 "rec_yds": 11
 },
@@ -43,7 +45,7 @@
 "CLE": {
 "sacks": 2,
 "int": 0,
-"fum_rec": 1,
+"fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
 },

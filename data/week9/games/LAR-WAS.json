@@ -1,20 +1,20 @@
 {
 "status": "live",
-"clock": "Q2 10:32",
+"clock": "Q2 7:15",
 "score": {
 "WAS": 10,
 "LAR": 3
 },
 "players": {
 "Matthew Stafford": {
-"pass_cmp": 5,
-"pass_yds": 29,
+"pass_cmp": 6,
+"pass_yds": 33,
 "rush_att": 1,
 "rush_yds": 1
 },
 "Kyren Williams": {
-"rush_att": 6,
-"rush_yds": 16,
+"rush_att": 7,
+"rush_yds": 21,
 "rec": 1,
 "rec_yds": 4
 },
@@ -27,8 +27,8 @@
 "rec_yds": 29
 },
 "Jayden Daniels": {
-"pass_cmp": 7,
-"pass_yds": 109,
+"pass_cmp": 8,
+"pass_yds": 115,
 "rush_att": 2,
 "rush_yds": 8,
 "pass_td_lengths": [
@@ -36,8 +36,8 @@
 ]
 },
 "Rachaad White": {
-"rush_att": 4,
-"rush_yds": 13,
+"rush_att": 6,
+"rush_yds": 26,
 "rec": 1,
 "rec_yds": 45
 },
