@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 234,
+"total": 245,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -89,15 +89,19 @@
 "pos": "RB",
 "name": "Woody Marks",
 "team": "HOU",
-"pts": 5,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"58 rush yds",
-5
+"18 rushes",
+8
+],
+[
+"70 rush yds",
+7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -126,15 +130,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -195,7 +199,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -218,7 +222,7 @@
 9
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -271,7 +275,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -305,7 +309,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 321,
+"total": 347,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -348,16 +352,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 43,
+"pts": 59,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"22 completions",
+7
 ],
 [
-"323 pass yds",
-17
+"362 pass yds",
+21
 ],
 [
 "5-yd TD pass",
@@ -368,11 +372,19 @@
 7
 ],
 [
+"39-yd TD pass",
+9
+],
+[
 "13-yd TD run",
 7
+],
+[
+"1 two-pt conv",
+2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -405,15 +417,19 @@
 "pos": "RB",
 "name": "Woody Marks",
 "team": "HOU",
-"pts": 5,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"58 rush yds",
-5
+"18 rushes",
+8
+],
+[
+"70 rush yds",
+7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -476,7 +492,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -531,7 +547,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -546,11 +562,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -565,7 +581,7 @@
 2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -624,7 +640,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -632,7 +648,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 344,
+"total": 360,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -675,16 +691,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 43,
+"pts": 59,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"22 completions",
+7
 ],
 [
-"323 pass yds",
-17
+"362 pass yds",
+21
 ],
 [
 "5-yd TD pass",
@@ -695,11 +711,19 @@
 7
 ],
 [
+"39-yd TD pass",
+9
+],
+[
 "13-yd TD run",
 7
+],
+[
+"1 two-pt conv",
+2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -850,7 +874,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -865,11 +889,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -960,7 +984,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -968,7 +992,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 232,
+"total": 240,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1125,15 +1149,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -1181,10 +1205,15 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"bd": [
+[
+"43 rec yds",
+7
+]
+],
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -1269,7 +1298,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 }
 ]
@@ -1277,7 +1306,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 247,
+"total": 254,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1320,9 +1349,13 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"227 pass yds",
+7
+],
 [
 "30-yd TD pass",
 9
@@ -1336,7 +1369,7 @@
 -15
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -1534,7 +1567,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -1571,7 +1604,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -1579,7 +1612,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 337,
+"total": 342,
 "comm": null,
 "prev": 2418,
 "alive": false,
@@ -1622,11 +1655,15 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 9,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
+"20 completions",
+5
+],
+[
+"200 pass yds",
 5
 ],
 [
@@ -1642,7 +1679,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -1753,7 +1790,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -1812,7 +1849,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -1827,11 +1864,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -1939,7 +1976,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 143,
+"total": 148,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -1962,12 +1999,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -1986,7 +2023,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -2015,15 +2052,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -2154,7 +2195,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -2162,11 +2203,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -2198,7 +2243,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 241,
+"total": 248,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2376,10 +2421,15 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"bd": [
+[
+"43 rec yds",
+7
+]
+],
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -2430,7 +2480,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -2474,7 +2524,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 293,
+"total": 314,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2483,16 +2533,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 43,
+"pts": 59,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"22 completions",
+7
 ],
 [
-"323 pass yds",
-17
+"362 pass yds",
+21
 ],
 [
 "5-yd TD pass",
@@ -2503,22 +2553,34 @@
 7
 ],
 [
+"39-yd TD pass",
+9
+],
+[
 "13-yd TD run",
 7
+],
+[
+"1 two-pt conv",
+2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 9,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
+"20 completions",
+5
+],
+[
+"200 pass yds",
 5
 ],
 [
@@ -2534,7 +2596,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -2641,7 +2703,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -2695,7 +2757,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -2742,7 +2804,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -2791,7 +2853,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -2799,7 +2861,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 298,
+"total": 320,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2842,16 +2904,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 43,
+"pts": 59,
 "comm": null,
 "bd": [
 [
-"21 completions",
-6
+"22 completions",
+7
 ],
 [
-"323 pass yds",
-17
+"362 pass yds",
+21
 ],
 [
 "5-yd TD pass",
@@ -2862,11 +2924,19 @@
 7
 ],
 [
+"39-yd TD pass",
+9
+],
+[
 "13-yd TD run",
 7
+],
+[
+"1 two-pt conv",
+2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -3032,18 +3102,18 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -3051,11 +3121,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -3102,7 +3176,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -3110,7 +3184,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 209,
+"total": 217,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -3133,12 +3207,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -3157,7 +3231,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -3186,30 +3260,38 @@
 "pos": "RB",
 "name": "Woody Marks",
 "team": "HOU",
-"pts": 5,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"58 rush yds",
-5
+"18 rushes",
+8
+],
+[
+"70 rush yds",
+7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -3266,15 +3348,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -3289,11 +3371,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -3310,7 +3392,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -3318,11 +3400,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -3371,23 +3457,23 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -3402,7 +3488,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -3410,7 +3496,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 255,
+"total": 249,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -3419,12 +3505,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -3443,7 +3529,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -3572,7 +3658,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -3664,7 +3750,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -3685,16 +3771,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -3709,7 +3795,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -3717,7 +3803,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 224,
+"total": 225,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -3764,7 +3850,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -3793,15 +3879,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"65 rush yds",
+"68 rush yds",
 6
 ],
 [
@@ -3813,7 +3899,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -3894,7 +3980,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -3999,7 +4085,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 195,
+"total": 204,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4022,16 +4108,16 @@
 "pos": "QB",
 "name": "C.J. Stroud",
 "team": "HOU",
-"pts": 65,
+"pts": 69,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"21 completions",
+6
 ],
 [
-"352 pass yds",
-20
+"384 pass yds",
+23
 ],
 [
 "17-yd TD pass",
@@ -4058,7 +4144,7 @@
 -5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -4105,15 +4191,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -4138,15 +4228,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -4156,7 +4246,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -4166,7 +4256,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -4193,17 +4283,22 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"bd": [
+[
+"43 rec yds",
+7
+]
+],
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -4218,7 +4313,7 @@
 3
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -4259,7 +4354,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -4277,7 +4372,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 251,
+"total": 248,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4330,15 +4425,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -4451,11 +4550,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4482,7 +4581,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4505,7 +4604,7 @@
 9
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -4554,7 +4653,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4577,7 +4676,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -4585,7 +4684,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 194,
+"total": 199,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -4594,11 +4693,15 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 9,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
+"20 completions",
+5
+],
+[
+"200 pass yds",
 5
 ],
 [
@@ -4614,7 +4717,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4713,7 +4816,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -4754,7 +4857,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4779,11 +4882,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4822,7 +4925,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -4859,7 +4962,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -5028,7 +5131,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -5038,7 +5141,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -5087,7 +5190,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -5165,7 +5268,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -5173,7 +5276,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 205,
+"total": 227,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -5230,15 +5333,15 @@
 "pos": "RB",
 "name": "Tyler Allgeier",
 "team": "ARI",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"16 rushes",
+6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -5336,15 +5439,19 @@
 "pos": "TE",
 "name": "Trey McBride",
 "team": "ARI",
-"pts": 7,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"7 catches",
+13
+],
+[
+"54 rec yds",
+9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -5371,22 +5478,26 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 5,
+"pts": 11,
 "comm": null,
 "bd": [
+[
+"35-yd FG",
+6
+],
 [
 "5 XP",
 5
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -5405,7 +5516,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -5446,7 +5557,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 }
 ]
@@ -5591,7 +5702,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -5641,11 +5752,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -5740,7 +5851,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -5748,7 +5859,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 198,
+"total": 203,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -5757,11 +5868,15 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 9,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"207 pass yds",
+"20 completions",
+5
+],
+[
+"200 pass yds",
 5
 ],
 [
@@ -5777,7 +5892,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -5935,11 +6050,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -6013,7 +6128,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 160,
+"total": 180,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6056,9 +6171,13 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"227 pass yds",
+7
+],
 [
 "30-yd TD pass",
 9
@@ -6072,7 +6191,7 @@
 -15
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -6177,10 +6296,15 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"bd": [
+[
+"43 rec yds",
+7
+]
+],
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -6207,7 +6331,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -6215,11 +6339,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -6293,7 +6421,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -6366,7 +6494,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -6389,7 +6517,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -6440,7 +6568,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -6481,7 +6609,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -6535,7 +6663,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 142,
+"total": 163,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6564,15 +6692,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"65 rush yds",
+"68 rush yds",
 6
 ],
 [
@@ -6584,7 +6712,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -6649,19 +6777,23 @@
 "pos": "WR",
 "name": "Christian Watson",
 "team": "GB",
-"pts": 19,
+"pts": 33,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"132 rec yds",
-13
+"171 rec yds",
+17
+],
+[
+"39-yd TD catch",
+9
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -6681,7 +6813,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -6728,7 +6860,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -6736,11 +6868,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -6784,7 +6920,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 291,
+"total": 297,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -6991,7 +7127,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -7008,7 +7144,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -7016,11 +7152,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -7043,7 +7183,7 @@
 9
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -7066,7 +7206,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -7185,7 +7325,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 194,
+"total": 192,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -7341,7 +7481,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -7369,7 +7509,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -7402,7 +7542,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -7410,27 +7550,31 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -7445,7 +7589,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -7468,7 +7612,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -7476,7 +7620,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 236,
+"total": 229,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -7493,7 +7637,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -7637,15 +7781,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -7672,7 +7816,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -7687,7 +7831,7 @@
 7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -7725,16 +7869,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -7749,7 +7893,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -7963,7 +8107,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -8011,7 +8155,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 191,
+"total": 194,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -8034,12 +8178,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -8058,22 +8202,22 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"65 rush yds",
+"68 rush yds",
 6
 ],
 [
@@ -8085,7 +8229,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -8186,7 +8330,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -8282,7 +8426,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -8290,7 +8434,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 239,
+"total": 233,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -8313,12 +8457,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -8337,7 +8481,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -8513,7 +8657,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -8546,23 +8690,23 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -8577,7 +8721,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -8730,7 +8874,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -8769,11 +8913,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -8856,7 +9000,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -8864,7 +9008,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 342,
+"total": 348,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -9033,7 +9177,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -9088,7 +9232,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -9103,11 +9247,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -9140,7 +9284,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -9148,11 +9292,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -9175,7 +9323,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9213,7 +9361,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 186,
+"total": 201,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -9259,7 +9407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9355,7 +9503,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -9365,7 +9513,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9380,22 +9528,26 @@
 7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Trey McBride",
 "team": "ARI",
-"pts": 7,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"4 catches",
-7
+"7 catches",
+13
+],
+[
+"54 rec yds",
+9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9521,7 +9673,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9590,7 +9742,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -9663,11 +9815,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -9781,7 +9933,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 225,
+"total": 227,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -9790,12 +9942,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -9814,7 +9966,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -9929,7 +10081,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -10071,7 +10223,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -10079,7 +10231,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 317,
+"total": 306,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -10178,15 +10330,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -10280,7 +10436,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -10305,11 +10461,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -10368,16 +10524,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -10392,7 +10548,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -10426,7 +10582,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 222,
+"total": 224,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -10517,15 +10673,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"65 rush yds",
+"68 rush yds",
 6
 ],
 [
@@ -10537,7 +10693,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -10585,15 +10741,15 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 7,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"77 rec yds",
-7
+"82 rec yds",
+8
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -10612,7 +10768,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -10627,7 +10783,7 @@
 7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -10664,7 +10820,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -10734,7 +10890,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 249,
+"total": 251,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -10743,12 +10899,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -10767,7 +10923,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -10910,7 +11066,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -10946,7 +11102,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11019,7 +11175,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -11278,7 +11434,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11341,7 +11497,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 241,
+"total": 242,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -11364,12 +11520,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -11388,7 +11544,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11409,15 +11565,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"65 rush yds",
+"68 rush yds",
 6
 ],
 [
@@ -11429,7 +11585,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11487,7 +11643,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -11520,7 +11676,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -11548,7 +11704,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -11581,7 +11737,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -11589,11 +11745,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -11614,16 +11774,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -11638,7 +11798,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -11646,7 +11806,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 152,
+"total": 154,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -11655,12 +11815,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -11679,7 +11839,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11788,7 +11948,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -11823,11 +11983,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -11929,7 +12089,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 212,
+"total": 214,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -11946,19 +12106,19 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -11977,7 +12137,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -12118,7 +12278,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -12201,7 +12361,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -12209,7 +12369,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 259,
+"total": 251,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -12352,7 +12512,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -12397,7 +12557,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -12422,11 +12582,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -12441,7 +12601,7 @@
 2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -12460,7 +12620,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -12481,16 +12641,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -12505,7 +12665,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -12513,7 +12673,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 188,
+"total": 194,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -12611,7 +12771,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -12684,11 +12844,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -12731,7 +12891,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -12739,11 +12899,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -12780,7 +12944,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 }
 ]
@@ -12788,7 +12952,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 255,
+"total": 259,
 "comm": null,
 "prev": 1992,
 "alive": false,
@@ -12831,16 +12995,16 @@
 "pos": "QB",
 "name": "C.J. Stroud",
 "team": "HOU",
-"pts": 65,
+"pts": 69,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"21 completions",
+6
 ],
 [
-"352 pass yds",
-20
+"384 pass yds",
+23
 ],
 [
 "17-yd TD pass",
@@ -12867,7 +13031,7 @@
 -5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -12950,7 +13114,7 @@
 7
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -12960,7 +13124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -13031,7 +13195,7 @@
 2
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -13091,7 +13255,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 299,
+"total": 305,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -13264,7 +13428,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -13302,11 +13466,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -13335,7 +13499,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -13343,11 +13507,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -13417,7 +13585,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 292,
+"total": 297,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -13440,9 +13608,13 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": 7,
 "comm": null,
 "bd": [
+[
+"227 pass yds",
+7
+],
 [
 "30-yd TD pass",
 9
@@ -13456,7 +13628,7 @@
 -15
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -13617,7 +13789,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -13672,7 +13844,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 17,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -13680,11 +13852,15 @@
 12
 ],
 [
+"31-yd FG",
+6
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -13705,16 +13881,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -13729,7 +13905,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -13737,7 +13913,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 286,
+"total": 275,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -13838,15 +14014,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -13865,7 +14045,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -13928,7 +14108,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -13965,7 +14145,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -14024,16 +14204,16 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -14048,7 +14228,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 },
 {
@@ -14078,7 +14258,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 245,
+"total": 242,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -14157,15 +14337,19 @@
 "pos": "RB",
 "name": "Rhamondre Stevenson",
 "team": "NE",
-"pts": 9,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "30-yd TD catch",
 9
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -14242,7 +14426,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -14252,7 +14436,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -14277,11 +14461,11 @@
 7
 ],
 [
-"57 rec yds",
+"58 rec yds",
 9
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -14360,7 +14544,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
@@ -14394,7 +14578,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 319,
+"total": 313,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -14403,12 +14587,12 @@
 "pos": "QB",
 "name": "Brock Purdy",
 "team": "SF",
-"pts": 23,
+"pts": 25,
 "comm": null,
 "bd": [
 [
-"218 pass yds",
-6
+"232 pass yds",
+8
 ],
 [
 "12-yd TD pass",
@@ -14427,7 +14611,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -14560,7 +14744,7 @@
 6
 ]
 ],
-"game": "GB 34 @ NE 14 \u00b7 Q3 5:08",
+"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
 "on": true
 },
 {
@@ -14637,7 +14821,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -14670,7 +14854,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 35 \u00b7 Q4 10:29",
+"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
 "on": true
 },
 {
@@ -14693,23 +14877,23 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 12:14",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 28,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"9 pts allowed",
-10
+"15 pts allowed",
+0
 ],
 [
-"7 sacks",
-14
+"8 sacks",
+16
 ],
 [
 "1 INT",
@@ -14724,7 +14908,7 @@
 0
 ]
 ],
-"game": "HOU 38 @ LAC 9 \u00b7 Q4 14:12",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
 "on": true
 }
 ]
@@ -14777,23 +14961,23 @@
 "live": false
 },
 {
-"t": "HOU 38 @ LAC 9",
-"s": "Q4 14:12",
+"t": "HOU 41 @ LAC 15",
+"s": "Q4 8:50",
 "live": true
 },
 {
-"t": "LV 17 @ SF 35",
-"s": "Q4 10:29",
+"t": "LV 17 @ SF 38",
+"s": "Q4 4:41",
 "live": true
 },
 {
-"t": "GB 34 @ NE 14",
-"s": "Q3 5:08",
+"t": "GB 42 @ NE 14",
+"s": "Q3 1:58",
 "live": true
 },
 {
 "t": "ARI 3 @ SEA 17",
-"s": "Q4 12:14",
+"s": "Q4 7:16",
 "live": true
 },
 {
