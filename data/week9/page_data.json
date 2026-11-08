@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 167,
+"total": 162,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -92,7 +92,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -124,7 +124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -168,7 +168,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -183,7 +183,7 @@
 12
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -214,22 +214,25 @@
 2
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -263,7 +266,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 185,
+"total": 193,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -306,10 +309,15 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"13-yd TD run",
+7
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -345,7 +353,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -392,10 +400,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -433,7 +446,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -443,7 +456,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -453,7 +466,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -496,15 +509,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -512,7 +529,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 254,
+"total": 262,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -555,10 +572,15 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"13-yd TD run",
+7
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -603,8 +625,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -662,8 +683,7 @@
 5
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -695,10 +715,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -708,7 +733,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -783,15 +808,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -799,7 +828,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 221,
+"total": 237,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -959,7 +988,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -983,18 +1012,25 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -1003,7 +1039,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -1074,9 +1110,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 }
 ]
@@ -1084,7 +1124,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 232,
+"total": 222,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1127,10 +1167,15 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -1197,8 +1242,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1301,8 +1345,7 @@
 7
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1321,7 +1364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -1342,15 +1385,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -1358,7 +1405,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 243,
+"total": 249,
 "comm": null,
 "prev": 2418,
 "alive": false,
@@ -1404,7 +1451,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -1449,8 +1496,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1500,10 +1546,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -1545,7 +1596,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -1555,7 +1606,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -1616,8 +1667,7 @@
 2
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -1664,7 +1714,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 95,
+"total": 107,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -1690,7 +1740,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -1713,8 +1763,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1723,7 +1772,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -1742,8 +1791,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1849,22 +1897,25 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -1896,7 +1947,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 222,
+"total": 227,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2077,7 +2128,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2119,7 +2170,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2140,11 +2191,11 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -2152,19 +2203,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Bronson",
 "champ": false,
-"total": 141,
+"total": 165,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2173,10 +2223,15 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"13-yd TD run",
+7
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2186,7 +2241,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2231,8 +2286,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2246,8 +2300,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -2279,10 +2332,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2292,8 +2350,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2320,18 +2377,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -2350,7 +2415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2383,15 +2448,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -2399,7 +2468,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 222,
+"total": 236,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2442,10 +2511,15 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"13-yd TD run",
+7
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2520,8 +2594,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2570,8 +2643,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2608,22 +2680,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -2654,15 +2730,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -2670,7 +2750,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 121,
+"total": 128,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -2696,7 +2776,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2728,7 +2808,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -2738,7 +2818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2798,7 +2878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -2808,7 +2888,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2825,15 +2905,19 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -2860,22 +2944,25 @@
 1
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -2898,7 +2985,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -2906,7 +2993,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 179,
+"total": 195,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -2918,7 +3005,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -2985,8 +3072,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3039,7 +3125,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3082,11 +3168,19 @@
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -3114,7 +3208,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3151,7 +3245,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -3159,7 +3253,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 164,
+"total": 186,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -3201,7 +3295,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3230,10 +3324,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3256,8 +3355,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3306,7 +3404,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3316,18 +3414,25 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -3373,8 +3478,7 @@
 1
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -3405,7 +3509,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 78,
+"total": 76,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -3436,7 +3540,7 @@
 7
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -3477,8 +3581,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -3487,7 +3590,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -3515,7 +3618,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -3525,7 +3628,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -3535,7 +3638,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3545,7 +3648,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3555,17 +3658,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chad Ryland",
 "team": "ARI",
-"pts": 0,
+"pts": 3,
 "comm": null,
-"bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"bd": [
+[
+"28-yd FG",
+3
+]
+],
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3590,15 +3698,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -3616,7 +3728,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 183,
+"total": 178,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -3672,7 +3784,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -3730,8 +3842,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3781,7 +3892,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3791,7 +3902,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3806,7 +3917,7 @@
 12
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -3841,24 +3952,32 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -3866,7 +3985,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 137,
+"total": 132,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -3878,7 +3997,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -3937,8 +4056,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3969,7 +4087,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -4005,7 +4123,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4025,7 +4143,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4055,7 +4173,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4076,15 +4194,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -4092,7 +4214,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 179,
+"total": 180,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -4237,10 +4359,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -4250,7 +4377,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -4282,7 +4409,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4328,8 +4455,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4345,15 +4471,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -4361,7 +4491,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 147,
+"total": 148,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -4421,7 +4551,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -4522,7 +4652,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -4532,17 +4662,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4552,7 +4687,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -4579,9 +4714,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 }
 ]
@@ -4589,7 +4728,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 180,
+"total": 191,
 "comm": null,
 "prev": 2124,
 "alive": false,
@@ -4717,7 +4856,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -4744,8 +4883,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4763,18 +4901,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -4834,15 +4980,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -4850,7 +5000,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 168,
+"total": 173,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -4862,7 +5012,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5015,7 +5165,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5066,11 +5216,11 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -5078,19 +5228,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 144,
+"total": 151,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -5133,10 +5282,15 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -5244,7 +5398,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -5271,15 +5425,19 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -5327,7 +5485,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 103,
+"total": 114,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -5348,7 +5506,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -5412,17 +5570,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -5456,7 +5619,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5488,7 +5651,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5519,11 +5682,11 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -5531,19 +5694,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Lee",
 "champ": false,
-"total": 81,
+"total": 99,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -5572,10 +5734,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5598,8 +5765,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5644,7 +5810,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -5664,7 +5830,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -5679,8 +5845,7 @@
 7
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5706,22 +5871,25 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -5765,7 +5933,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 215,
+"total": 227,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -5860,8 +6028,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5956,7 +6123,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -5973,15 +6140,19 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -5996,33 +6167,37 @@
 12
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -6030,12 +6205,11 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
@@ -6131,7 +6305,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 138,
+"total": 161,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -6278,18 +6452,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -6298,7 +6480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -6325,22 +6507,25 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -6363,22 +6548,26 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -6386,7 +6575,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 161,
+"total": 166,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -6398,7 +6587,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -6536,8 +6725,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6546,7 +6734,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -6556,7 +6744,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -6566,7 +6754,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -6598,8 +6786,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -6621,18 +6808,18 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -6640,12 +6827,11 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
@@ -6827,7 +7013,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -6875,7 +7061,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 113,
+"total": 130,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -6901,17 +7087,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -7003,7 +7194,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -7019,11 +7210,19 @@
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -7075,15 +7274,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -7091,7 +7294,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 193,
+"total": 188,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -7117,7 +7320,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -7162,8 +7365,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7177,8 +7379,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -7218,8 +7419,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7287,7 +7487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -7304,15 +7504,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -7335,7 +7539,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -7343,7 +7547,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 162,
+"total": 163,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -7444,8 +7648,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7473,10 +7676,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -7510,7 +7718,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -7547,8 +7755,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7578,15 +7785,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -7594,7 +7805,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 240,
+"total": 253,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -7661,8 +7872,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7748,10 +7958,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -7789,7 +8004,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -7799,7 +8014,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -7826,37 +8041,44 @@
 2
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -7940,7 +8162,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -7963,8 +8185,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7982,8 +8203,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8033,7 +8253,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -8043,7 +8263,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -8053,7 +8273,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -8063,7 +8283,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -8184,7 +8404,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -8244,7 +8464,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -8289,8 +8509,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8313,7 +8532,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -8332,8 +8551,7 @@
 7
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8428,7 +8646,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 173,
+"total": 184,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -8440,7 +8658,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -8537,8 +8755,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8547,7 +8764,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -8590,8 +8807,7 @@
 9
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -8606,11 +8822,19 @@
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -8636,8 +8860,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8667,15 +8890,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -8683,7 +8910,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 251,
+"total": 257,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -8746,8 +8973,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8786,7 +9012,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -8858,17 +9084,21 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -8888,7 +9118,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -8915,8 +9145,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8942,8 +9171,7 @@
 2
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8965,7 +9193,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -8999,7 +9227,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 133,
+"total": 162,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -9090,10 +9318,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9144,7 +9377,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -9154,7 +9387,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -9164,18 +9397,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -9184,7 +9425,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9213,7 +9454,7 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 6,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -9225,16 +9466,19 @@
 4
 ],
 [
+"1 INT",
+2
+],
+[
 "1 fum rec",
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9251,7 +9495,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 135,
+"total": 157,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -9263,7 +9507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9390,10 +9634,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -9403,8 +9652,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9413,18 +9661,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -9462,26 +9718,30 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -9489,19 +9749,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 185,
+"total": 206,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -9658,8 +9917,7 @@
 -3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9693,11 +9951,19 @@
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -9706,7 +9972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9726,8 +9992,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "DEF",
@@ -9747,11 +10012,11 @@
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -9759,19 +10024,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 135,
+"total": 159,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -9797,7 +10061,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9818,10 +10082,15 @@
 "pos": "RB",
 "name": "Christian McCaffrey",
 "team": "SF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"bd": [
+[
+"1-yd TD run",
+6
+]
+],
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -9879,7 +10148,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -9896,10 +10165,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -9918,8 +10192,7 @@
 7
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9928,7 +10201,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -9955,22 +10228,25 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -10007,7 +10283,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -10027,7 +10303,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10127,7 +10403,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -10157,7 +10433,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10216,8 +10492,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10260,7 +10535,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 143,
+"total": 138,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -10272,7 +10547,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -10282,7 +10557,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10319,8 +10594,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -10407,7 +10681,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10444,8 +10718,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10475,15 +10748,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -10491,7 +10768,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 186,
+"total": 192,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -10590,8 +10867,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "RB",
@@ -10619,10 +10895,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -10658,8 +10939,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10668,7 +10948,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -10688,7 +10968,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10698,7 +10978,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -10708,7 +10988,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10745,7 +11025,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -10753,7 +11033,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 143,
+"total": 150,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -10842,7 +11122,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -10910,7 +11190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -10947,22 +11227,25 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -10983,15 +11266,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 }
 ]
@@ -11050,7 +11337,7 @@
 7
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -11093,8 +11380,7 @@
 5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "WR",
@@ -11125,7 +11411,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -11135,7 +11421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -11154,8 +11440,7 @@
 12
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -11202,7 +11487,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -11262,7 +11547,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 237,
+"total": 255,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -11373,8 +11658,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11420,10 +11704,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -11447,8 +11736,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11457,7 +11745,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -11486,15 +11774,19 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -11564,7 +11856,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 210,
+"total": 233,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -11587,10 +11879,15 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -11613,8 +11910,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11735,18 +12031,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "K",
@@ -11782,15 +12086,19 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 1,
+"pts": 13,
 "comm": null,
 "bd": [
+[
+"56-yd FG",
+12
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
@@ -11827,7 +12135,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -11835,7 +12143,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 180,
+"total": 191,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -11930,8 +12238,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11940,7 +12247,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -11950,7 +12257,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -11997,10 +12304,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -12020,7 +12332,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -12095,18 +12407,18 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Saints D",
 "team": "NO",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -12114,19 +12426,18 @@
 10
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 }
 ]
 },
 {
 "owner": "Gavin",
 "champ": false,
-"total": 207,
+"total": 202,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -12199,8 +12510,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12209,7 +12519,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -12277,7 +12587,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -12287,7 +12597,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -12307,7 +12617,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -12334,8 +12644,7 @@
 3
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12371,15 +12680,19 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -12413,7 +12726,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 185,
+"total": 202,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -12425,7 +12738,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -12482,8 +12795,7 @@
 6
 ]
 ],
-"game": "DAL 27 @ IND 23 \u00b7 Q4 1:08",
-"on": true
+"game": "DAL 27 @ IND 23 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12543,10 +12855,15 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "GB 0 @ NE 0 \u00b7 Q1 14:52",
+"bd": [
+[
+"65 rec yds",
+6
+]
+],
+"game": "GB 7 @ NE 0 \u00b7 Q1 9:15",
 "on": true
 },
 {
@@ -12585,11 +12902,19 @@
 "pos": "TE",
 "name": "Harold Fannin",
 "team": "CLE",
-"pts": 0,
+"pts": 16,
 "comm": null,
-"bd": [],
-"game": "CLE 16 @ NO 23 \u00b7 OT 2:00",
-"on": true
+"bd": [
+[
+"42 rec yds",
+7
+],
+[
+"39-yd TD catch",
+9
+]
+],
+"game": "CLE 22 @ NO 23 \u00b7 Final/OT"
 },
 {
 "pos": "TE",
@@ -12598,7 +12923,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
@@ -12622,22 +12947,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ SF 0 \u00b7 Q1 14:50",
+"game": "LV 0 @ SF 7 \u00b7 Q1 8:21",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"3 pts allowed",
+15
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "ARI 0 @ SEA 0 \u00b7 Q1 14:30",
+"game": "ARI 3 @ SEA 0 \u00b7 Q1 9:23",
 "on": true
 },
 {
@@ -12660,7 +12989,7 @@
 0
 ]
 ],
-"game": "HOU 7 @ LAC 3 \u00b7 Q1 6:00",
+"game": "HOU 10 @ LAC 3 \u00b7 Q1 0:50",
 "on": true
 }
 ]
@@ -12679,8 +13008,8 @@
 },
 {
 "t": "DAL 27 @ IND 23",
-"s": "Q4 1:08",
-"live": true
+"s": "Final",
+"live": false
 },
 {
 "t": "LAR 20 @ WAS 13",
@@ -12688,9 +13017,9 @@
 "live": false
 },
 {
-"t": "CLE 16 @ NO 23",
-"s": "OT 2:00",
-"live": true
+"t": "CLE 22 @ NO 23",
+"s": "Final/OT",
+"live": false
 },
 {
 "t": "NYJ 12 @ KC 35",
@@ -12713,23 +13042,23 @@
 "live": false
 },
 {
-"t": "HOU 7 @ LAC 3",
-"s": "Q1 6:00",
+"t": "HOU 10 @ LAC 3",
+"s": "Q1 0:50",
 "live": true
 },
 {
-"t": "LV 0 @ SF 0",
-"s": "Q1 14:50",
+"t": "LV 0 @ SF 7",
+"s": "Q1 8:21",
 "live": true
 },
 {
-"t": "GB 0 @ NE 0",
-"s": "Q1 14:52",
+"t": "GB 7 @ NE 0",
+"s": "Q1 9:15",
 "live": true
 },
 {
-"t": "ARI 0 @ SEA 0",
-"s": "Q1 14:30",
+"t": "ARI 3 @ SEA 0",
+"s": "Q1 9:23",
 "live": true
 },
 {

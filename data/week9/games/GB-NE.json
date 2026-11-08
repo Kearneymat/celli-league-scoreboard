@@ -1,21 +1,38 @@
 {
 "status": "live",
-"clock": "Q1 14:52",
+"clock": "Q1 9:15",
 "score": {
 "NE": 0,
-"GB": 0
+"GB": 7
 },
 "players": {
-"Rhamondre Stevenson": {
+"Jordan Love": {
+"pass_cmp": 2,
+"pass_yds": 65,
 "rush_att": 1,
-"rush_yds": 1
-}
+"rush_yds": 13,
+"rush_td_lengths": [
+13
+]
+},
+"Matthew Golden": {
+"rec": 2,
+"rec_yds": 65
+},
+"Drake Maye": {
+"int": 1
+},
+"Rhamondre Stevenson": {
+"rush_att": 2,
+"rush_yds": 4
+},
+"Mack Hollins": {}
 },
 "kickers": {},
 "defenses": {
 "GB": {
-"sacks": 0,
-"int": 0,
+"sacks": 1,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

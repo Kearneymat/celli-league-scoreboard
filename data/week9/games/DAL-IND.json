@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 1:08",
+"status": "final",
+"clock": "Final",
 "score": {
 "IND": 23,
 "DAL": 27
@@ -9,8 +9,8 @@
 "Dak Prescott": {
 "pass_cmp": 21,
 "pass_yds": 335,
-"rush_att": 1,
-"rush_yds": 2,
+"rush_att": 2,
+"rush_yds": 1,
 "fl": 1,
 "pass_td_lengths": [
 10,
@@ -91,7 +91,7 @@
 "defenses": {
 "DAL": {
 "sacks": 2,
-"int": 0,
+"int": 1,
 "fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []

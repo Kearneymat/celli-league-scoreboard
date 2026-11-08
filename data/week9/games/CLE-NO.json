@@ -1,9 +1,9 @@
 {
-"status": "live",
-"clock": "OT 2:00",
+"status": "final",
+"clock": "Final/OT",
 "score": {
 "NO": 23,
-"CLE": 16
+"CLE": 22
 },
 "players": {
 "Quinshon Judkins": {
@@ -19,6 +19,13 @@
 "rec_yds": 85,
 "rec_td_lengths": [
 64
+]
+},
+"Harold Fannin": {
+"rec": 2,
+"rec_yds": 42,
+"rec_td_lengths": [
+39
 ]
 },
 "Chris Olave": {
