@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 286,
+"total": 281,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -47,7 +47,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -59,11 +59,11 @@
 12
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -95,7 +95,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -172,7 +172,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -196,7 +196,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -533,7 +533,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -927,7 +927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -1174,7 +1174,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -1270,7 +1270,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -1606,7 +1606,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -2028,7 +2028,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 192,
+"total": 194,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2151,7 +2151,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -2175,7 +2175,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -2294,7 +2294,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2302,11 +2302,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 }
 ]
@@ -2413,7 +2417,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -3153,7 +3157,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -3400,7 +3404,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -3460,7 +3464,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -3814,7 +3818,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -3884,7 +3888,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 245,
+"total": 247,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4095,7 +4099,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -4114,7 +4118,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -4161,7 +4165,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -4169,11 +4173,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 }
 ]
@@ -4476,7 +4484,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 289,
+"total": 284,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4485,7 +4493,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -4497,11 +4505,11 @@
 12
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -4651,7 +4659,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -4997,7 +5005,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -5025,7 +5033,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -5044,7 +5052,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -5106,7 +5114,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 271,
+"total": 273,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5375,7 +5383,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -5383,11 +5391,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -5491,7 +5503,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -5760,7 +5772,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6067,7 +6079,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6194,7 +6206,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6219,7 +6231,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6343,7 +6355,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6353,7 +6365,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6407,7 +6419,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6440,7 +6452,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6468,7 +6480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6483,7 +6495,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6614,7 +6626,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6695,7 +6707,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -6829,7 +6841,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 195,
+"total": 192,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6848,7 +6860,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -6860,11 +6872,11 @@
 12
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -7088,7 +7100,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -7096,11 +7108,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 }
 ]
@@ -7279,7 +7295,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -7333,7 +7349,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -7582,7 +7598,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8122,7 +8138,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 158,
+"total": 153,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8161,7 +8177,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -8173,11 +8189,11 @@
 12
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8217,7 +8233,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8227,7 +8243,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8255,7 +8271,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8279,7 +8295,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8289,7 +8305,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8299,7 +8315,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -8615,7 +8631,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9028,7 +9044,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9127,7 +9143,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9155,7 +9171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9440,7 +9456,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9691,7 +9707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9801,7 +9817,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -9891,7 +9907,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 218,
+"total": 220,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -9966,7 +9982,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -10137,7 +10153,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -10145,11 +10161,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -10691,7 +10711,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -10825,7 +10845,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 246,
+"total": 248,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -10945,7 +10965,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -11121,7 +11141,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -11129,11 +11149,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 }
 ]
@@ -11409,7 +11433,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -11547,7 +11571,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -11708,7 +11732,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -11932,7 +11956,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12085,7 +12109,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 181,
+"total": 183,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -12254,7 +12278,7 @@
 6
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12282,7 +12306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12337,7 +12361,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -12345,11 +12369,15 @@
 15
 ],
 [
+"1 INT",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12542,7 +12570,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12588,7 +12616,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -12864,7 +12892,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -13023,7 +13051,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -13130,7 +13158,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -13158,7 +13186,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -13478,7 +13506,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -14086,7 +14114,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -14440,7 +14468,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -14678,7 +14706,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -14768,7 +14796,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
 "on": true
 },
 {
@@ -15296,7 +15324,7 @@
 },
 {
 "t": "TB 3 @ CHI 17",
-"s": "Q2 2:00",
+"s": "Q2 0:25",
 "live": true
 },
 {

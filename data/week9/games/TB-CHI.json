@@ -1,29 +1,29 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Q2 0:25",
 "score": {
 "CHI": 17,
 "TB": 3
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 9,
-"rush_yds": 28,
+"rush_att": 10,
+"rush_yds": 32,
 "rec": 1,
 "rec_yds": 3
 },
 "Emeka Egbuka": {
-"rec": 2,
-"rec_yds": 17
+"rec": 3,
+"rec_yds": 38
 },
 "Cade Otton": {
-"rec": 1,
-"rec_yds": 2
+"rec": 2,
+"rec_yds": 8
 },
 "Caleb Williams": {
 "pass_cmp": 14,
 "pass_yds": 193,
-"int": 2,
+"int": 3,
 "rush_att": 2,
 "rush_yds": 11,
 "pass_td_lengths": [
@@ -75,14 +75,14 @@
 "defenses": {
 "TB": {
 "sacks": 0,
-"int": 2,
+"int": 3,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "CHI": {
 "sacks": 0,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
