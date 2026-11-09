@@ -101,8 +101,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -142,7 +141,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -229,8 +228,7 @@
 1
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -390,7 +388,7 @@
 2
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -435,8 +433,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -498,7 +495,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -585,7 +582,7 @@
 3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -726,7 +723,7 @@
 2
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -877,7 +874,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -1162,7 +1159,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -1222,7 +1219,7 @@
 9
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -1385,7 +1382,7 @@
 -15
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -1803,7 +1800,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -2074,7 +2071,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -2225,8 +2222,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2447,7 +2443,7 @@
 9
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -2582,7 +2578,7 @@
 2
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -2719,7 +2715,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -2949,7 +2945,7 @@
 2
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -3145,8 +3141,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3199,7 +3194,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 238,
+"total": 243,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -3286,8 +3281,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3305,7 +3299,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -3374,7 +3368,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -3429,8 +3423,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3484,7 +3477,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -3504,19 +3497,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Nutting",
 "champ": false,
-"total": 249,
+"total": 254,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -3788,7 +3780,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -3808,12 +3800,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
@@ -4158,8 +4149,7 @@
 -5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4217,7 +4207,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -4254,7 +4244,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -4264,8 +4254,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4327,7 +4316,7 @@
 9
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -4464,7 +4453,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -4633,8 +4622,7 @@
 1
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5152,7 +5140,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -5162,8 +5150,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6207,7 +6194,7 @@
 -15
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -6324,7 +6311,7 @@
 9
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -6371,8 +6358,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6539,7 +6525,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -6812,7 +6798,7 @@
 9
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -6832,7 +6818,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -6899,8 +6885,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7186,8 +7171,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7213,8 +7197,7 @@
 1
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7354,7 +7337,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 206,
+"total": 211,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -7537,7 +7520,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -7590,14 +7573,13 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -7617,12 +7599,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7651,7 +7632,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 236,
+"total": 241,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -7823,7 +7804,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -7864,8 +7845,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7902,7 +7882,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -7922,12 +7902,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8462,7 +8441,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 238,
+"total": 243,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -8722,7 +8701,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -8742,12 +8721,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
@@ -8899,7 +8877,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -9200,7 +9178,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -9325,8 +9303,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9558,8 +9535,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10254,7 +10230,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 308,
+"total": 313,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -10365,7 +10341,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -10459,7 +10435,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -10546,7 +10522,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -10566,12 +10542,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10774,7 +10749,7 @@
 10
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -10807,8 +10782,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11088,7 +11062,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -11516,7 +11490,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 265,
+"total": 270,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -11701,7 +11675,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -11729,7 +11703,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -11782,8 +11756,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11803,7 +11776,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -11823,12 +11796,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
@@ -12391,7 +12363,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 254,
+"total": 259,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -12534,7 +12506,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -12579,8 +12551,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12622,7 +12593,7 @@
 3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -12661,7 +12632,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -12681,12 +12652,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
@@ -12929,8 +12899,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13052,8 +13021,7 @@
 -5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13135,8 +13103,7 @@
 7
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13224,7 +13191,7 @@
 3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -13457,7 +13424,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -13547,8 +13514,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13617,7 +13583,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 327,
+"total": 332,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -13668,7 +13634,7 @@
 -15
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -13903,8 +13869,7 @@
 5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13924,7 +13889,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -13944,19 +13909,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Dogga",
 "champ": false,
-"total": 277,
+"total": 282,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -14069,7 +14033,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -14150,7 +14114,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -14245,7 +14209,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -14265,12 +14229,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14390,7 +14353,7 @@
 -3
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -14481,7 +14444,7 @@
 8
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -14621,7 +14584,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 320,
+"total": 325,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -14786,7 +14749,7 @@
 6
 ]
 ],
-"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
+"game": "GB 45 @ NE 27 \u00b7 Q4 3:54",
 "on": true
 },
 {
@@ -14923,7 +14886,7 @@
 "pos": "DEF",
 "name": "Texans D",
 "team": "HOU",
-"pts": 20,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -14943,12 +14906,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
-"on": true
+"game": "HOU 44 @ LAC 22 \u00b7 Final"
 }
 ]
 }
@@ -15001,8 +14963,8 @@
 },
 {
 "t": "HOU 44 @ LAC 22",
-"s": "Q4 2:00",
-"live": true
+"s": "Final",
+"live": false
 },
 {
 "t": "LV 17 @ SF 38",
@@ -15010,8 +14972,8 @@
 "live": false
 },
 {
-"t": "GB 45 @ NE 21",
-"s": "Q4 8:37",
+"t": "GB 45 @ NE 27",
+"s": "Q4 3:54",
 "live": true
 },
 {
