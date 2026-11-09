@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q1 1:02",
+"clock": "Q2 13:35",
 "score": {
 "CHI": 14,
-"TB": 0
+"TB": 3
 },
 "players": {
 "Bucky Irving": {
@@ -51,6 +51,14 @@
 "Colston Loveland": {}
 },
 "kickers": {
+"Chase McLaughlin": {
+"fg_made_dist": [
+27
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
 "Cairo Santos": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
