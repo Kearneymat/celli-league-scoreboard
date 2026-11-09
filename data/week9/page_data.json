@@ -63,7 +63,7 @@
 -20
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -100,7 +100,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -177,7 +177,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -201,7 +201,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -538,7 +538,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -932,7 +932,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -1179,7 +1179,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -1275,7 +1275,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -1357,7 +1357,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 287,
+"total": 293,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1603,7 +1603,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -1615,11 +1615,15 @@
 3
 ],
 [
+"35-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -2041,7 +2045,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 195,
+"total": 201,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2164,7 +2168,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -2188,7 +2192,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -2307,7 +2311,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -2315,8 +2319,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -2331,7 +2335,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 }
 ]
@@ -2438,7 +2442,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -3178,7 +3182,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -3425,7 +3429,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -3485,7 +3489,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -3839,7 +3843,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -3909,7 +3913,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4120,7 +4124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -4139,7 +4143,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -4186,7 +4190,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -4194,8 +4198,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -4210,7 +4214,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 }
 ]
@@ -4538,7 +4542,7 @@
 -20
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -4688,7 +4692,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5034,7 +5038,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5062,7 +5066,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5081,7 +5085,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5143,7 +5147,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 274,
+"total": 280,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5412,7 +5416,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -5420,8 +5424,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -5436,7 +5440,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5540,7 +5544,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -5809,7 +5813,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6040,7 +6044,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 214,
+"total": 220,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -6121,7 +6125,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6248,7 +6252,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6265,7 +6269,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -6277,11 +6281,15 @@
 3
 ],
 [
+"35-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6325,7 +6333,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 250,
+"total": 256,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6410,7 +6418,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6420,7 +6428,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6474,7 +6482,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6507,7 +6515,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6535,14 +6543,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -6554,11 +6562,15 @@
 3
 ],
 [
+"35-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6694,7 +6706,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6775,7 +6787,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -6909,7 +6921,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 188,
+"total": 194,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6944,7 +6956,7 @@
 -20
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -7168,7 +7180,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -7176,8 +7188,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -7192,7 +7204,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 }
 ]
@@ -7371,7 +7383,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -7425,7 +7437,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -7674,7 +7686,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8269,7 +8281,7 @@
 -20
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8309,7 +8321,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8324,7 +8336,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8352,7 +8364,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8376,7 +8388,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8386,7 +8398,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8396,7 +8408,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -8712,7 +8724,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9130,7 +9142,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9229,7 +9241,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9257,7 +9269,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9542,7 +9554,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9698,7 +9710,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 226,
+"total": 232,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -9798,7 +9810,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -9900,7 +9912,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
@@ -9912,11 +9924,15 @@
 3
 ],
 [
+"35-yd FG",
+6
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -10006,7 +10022,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 227,
+"total": 233,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -10086,7 +10102,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -10257,7 +10273,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -10265,8 +10281,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -10281,7 +10297,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -10823,7 +10839,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -10957,7 +10973,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -11077,7 +11093,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -11253,7 +11269,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -11261,8 +11277,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -11277,7 +11293,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 }
 ]
@@ -11553,7 +11569,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -11696,7 +11712,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -11857,7 +11873,7 @@
 3
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12081,7 +12097,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12234,7 +12250,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 184,
+"total": 190,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -12403,7 +12419,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12431,7 +12447,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12486,7 +12502,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 18,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -12494,8 +12510,8 @@
 0
 ],
 [
-"1 sacks",
-2
+"4 sacks",
+8
 ],
 [
 "2 INT",
@@ -12510,7 +12526,7 @@
 0
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12703,7 +12719,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -12749,7 +12765,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -13025,7 +13041,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -13189,7 +13205,7 @@
 6
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -13296,7 +13312,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -13324,7 +13340,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -13644,7 +13660,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -14252,7 +14268,7 @@
 12
 ]
 ],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -14606,7 +14622,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -14844,7 +14860,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -14934,7 +14950,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 16 @ CHI 24 \u00b7 Q4 10:46",
+"game": "TB 16 @ CHI 24 \u00b7 Q4 4:27",
 "on": true
 },
 {
@@ -15462,7 +15478,7 @@
 },
 {
 "t": "TB 16 @ CHI 24",
-"s": "Q4 10:46",
+"s": "Q4 4:27",
 "live": true
 },
 {

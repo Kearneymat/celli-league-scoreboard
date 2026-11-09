@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 10:46",
+"clock": "Q4 4:27",
 "score": {
 "CHI": 24,
 "TB": 16
@@ -61,7 +61,8 @@
 "Chase McLaughlin": {
 "fg_made_dist": [
 27,
-21
+21,
+35
 ],
 "fg_missed_dist": [],
 "xp_made": 1,
@@ -78,14 +79,14 @@
 },
 "defenses": {
 "TB": {
-"sacks": 0,
+"sacks": 1,
 "int": 4,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "CHI": {
-"sacks": 1,
+"sacks": 4,
 "int": 2,
 "fum_rec": 0,
 "safeties": 0,
