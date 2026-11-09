@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 281,
+"total": 287,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -63,7 +63,7 @@
 -15
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -92,10 +92,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -172,7 +177,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -196,7 +201,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -533,7 +538,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -927,7 +932,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -1174,7 +1179,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -1270,7 +1275,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -1352,7 +1357,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 286,
+"total": 287,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1598,7 +1603,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
@@ -1608,9 +1613,13 @@
 [
 "21-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -2032,7 +2041,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 194,
+"total": 184,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2155,7 +2164,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -2179,7 +2188,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -2298,12 +2307,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -2314,7 +2323,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 }
 ]
@@ -2421,7 +2430,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -3161,7 +3170,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -3408,7 +3417,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -3468,7 +3477,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -3822,7 +3831,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -3892,7 +3901,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 247,
+"total": 237,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4103,7 +4112,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -4122,7 +4131,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -4169,12 +4178,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -4185,7 +4194,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 }
 ]
@@ -4513,7 +4522,7 @@
 -15
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -4663,7 +4672,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5009,7 +5018,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5037,7 +5046,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5056,7 +5065,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5118,7 +5127,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 273,
+"total": 263,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5387,12 +5396,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -5403,7 +5412,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5507,7 +5516,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -5776,7 +5785,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6007,7 +6016,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 207,
+"total": 214,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -6080,10 +6089,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6210,7 +6224,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6227,7 +6241,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
@@ -6237,9 +6251,13 @@
 [
 "21-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6283,7 +6301,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 243,
+"total": 250,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6360,10 +6378,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6373,7 +6396,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6427,7 +6450,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6460,7 +6483,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6488,14 +6511,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
@@ -6505,9 +6528,13 @@
 [
 "21-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6581,7 +6608,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 231,
+"total": 237,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -6635,10 +6662,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6719,7 +6751,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -6853,7 +6885,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 192,
+"total": 182,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6888,7 +6920,7 @@
 -15
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -7112,12 +7144,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -7128,7 +7160,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 }
 ]
@@ -7307,7 +7339,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -7361,7 +7393,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -7610,7 +7642,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8150,7 +8182,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 153,
+"total": 159,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8205,7 +8237,7 @@
 -15
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8245,17 +8277,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8283,7 +8320,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8307,7 +8344,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8317,7 +8354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8327,7 +8364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8643,7 +8680,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -8978,7 +9015,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 236,
+"total": 242,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -9053,10 +9090,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9155,7 +9197,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9183,7 +9225,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9468,7 +9510,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9624,7 +9666,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 219,
+"total": 226,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -9716,10 +9758,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9821,7 +9868,7 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
@@ -9831,9 +9878,13 @@
 [
 "21-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -9923,7 +9974,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 220,
+"total": 216,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -9995,10 +10046,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -10169,12 +10225,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -10185,7 +10241,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -10727,7 +10783,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -10861,7 +10917,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 248,
+"total": 238,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -10981,7 +11037,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -11157,12 +11213,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -11173,7 +11229,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 }
 ]
@@ -11449,7 +11505,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -11501,7 +11557,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 250,
+"total": 256,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -11584,10 +11640,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -11748,7 +11809,7 @@
 2
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -11972,7 +12033,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12125,7 +12186,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 183,
+"total": 173,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -12294,7 +12355,7 @@
 6
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12322,7 +12383,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12377,12 +12438,12 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 17,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "1 INT",
@@ -12393,7 +12454,7 @@
 0
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12586,7 +12647,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12632,7 +12693,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -12908,7 +12969,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -13010,7 +13071,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 228,
+"total": 234,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -13064,10 +13125,15 @@
 "pos": "RB",
 "name": "Bucky Irving",
 "team": "TB",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"bd": [
+[
+"2-yd TD run",
+6
+]
+],
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -13174,7 +13240,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -13202,7 +13268,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -13522,7 +13588,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -14130,7 +14196,7 @@
 12
 ]
 ],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -14484,7 +14550,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -14722,7 +14788,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -14812,7 +14878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 6 @ CHI 17 \u00b7 Halftime",
+"game": "TB 13 @ CHI 17 \u00b7 Q3 11:37",
 "on": true
 },
 {
@@ -15339,8 +15405,8 @@
 "live": false
 },
 {
-"t": "TB 6 @ CHI 17",
-"s": "Halftime",
+"t": "TB 13 @ CHI 17",
+"s": "Q3 11:37",
 "live": true
 },
 {
