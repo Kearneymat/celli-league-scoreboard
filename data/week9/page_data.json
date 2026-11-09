@@ -63,7 +63,7 @@
 -15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -95,7 +95,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -172,7 +172,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -196,7 +196,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -533,7 +533,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -927,7 +927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1174,7 +1174,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1270,7 +1270,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -1352,7 +1352,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 283,
+"total": 286,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1598,15 +1598,19 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 3,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"21-yd FG",
+3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2151,7 +2155,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2175,7 +2179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -2298,7 +2302,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -2310,7 +2314,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -2417,7 +2421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3157,7 +3161,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3404,7 +3408,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3464,7 +3468,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -3818,7 +3822,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4099,7 +4103,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4118,7 +4122,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4169,7 +4173,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -4181,7 +4185,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -4509,7 +4513,7 @@
 -15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -4659,7 +4663,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5005,7 +5009,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5033,7 +5037,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5052,7 +5056,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5387,7 +5391,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -5399,7 +5403,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5503,7 +5507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -5772,7 +5776,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6003,7 +6007,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 204,
+"total": 207,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -6079,7 +6083,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6206,7 +6210,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6223,15 +6227,19 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 3,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"21-yd FG",
+3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6275,7 +6283,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 240,
+"total": 243,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6355,7 +6363,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6365,7 +6373,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6419,7 +6427,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6452,7 +6460,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6480,22 +6488,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 3,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"21-yd FG",
+3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6626,7 +6638,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6707,7 +6719,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -6876,7 +6888,7 @@
 -15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7104,7 +7116,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -7116,7 +7128,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -7295,7 +7307,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7349,7 +7361,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -7598,7 +7610,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8193,7 +8205,7 @@
 -15
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8233,7 +8245,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8243,7 +8255,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8271,7 +8283,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8295,7 +8307,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8305,7 +8317,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8315,7 +8327,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -8631,7 +8643,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9044,7 +9056,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9143,7 +9155,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9171,7 +9183,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9456,7 +9468,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9612,7 +9624,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 216,
+"total": 219,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -9707,7 +9719,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9809,15 +9821,19 @@
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 3,
+"pts": 6,
 "comm": null,
 "bd": [
 [
 "27-yd FG",
 3
+],
+[
+"21-yd FG",
+3
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -9982,7 +9998,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10157,7 +10173,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -10169,7 +10185,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10711,7 +10727,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -10965,7 +10981,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11145,7 +11161,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -11157,7 +11173,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 }
 ]
@@ -11433,7 +11449,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11571,7 +11587,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11732,7 +11748,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -11956,7 +11972,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12278,7 +12294,7 @@
 6
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12306,7 +12322,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12365,7 +12381,7 @@
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
+"6 pts allowed",
 15
 ],
 [
@@ -12377,7 +12393,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12570,7 +12586,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12616,7 +12632,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -12892,7 +12908,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13051,7 +13067,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13158,7 +13174,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13186,7 +13202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -13506,7 +13522,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14114,7 +14130,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14468,7 +14484,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14706,7 +14722,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -14796,7 +14812,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 17 \u00b7 Q2 0:25",
+"game": "TB 6 @ CHI 17 \u00b7 Halftime",
 "on": true
 },
 {
@@ -15323,8 +15339,8 @@
 "live": false
 },
 {
-"t": "TB 3 @ CHI 17",
-"s": "Q2 0:25",
+"t": "TB 6 @ CHI 17",
+"s": "Halftime",
 "live": true
 },
 {

@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 0:25",
+"clock": "Halftime",
 "score": {
 "CHI": 17,
-"TB": 3
+"TB": 6
 },
 "players": {
 "Bucky Irving": {
@@ -57,7 +57,8 @@
 "kickers": {
 "Chase McLaughlin": {
 "fg_made_dist": [
-27
+27,
+21
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
