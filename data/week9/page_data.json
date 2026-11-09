@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 245,
+"total": 258,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -101,7 +101,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -130,15 +130,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -199,14 +203,13 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 27,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -220,9 +223,13 @@
 [
 "43-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -259,7 +266,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -271,12 +278,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -309,7 +315,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 352,
+"total": 357,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -384,7 +390,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -429,7 +435,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -492,7 +498,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -547,8 +553,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -566,8 +571,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -581,7 +585,7 @@
 3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -624,7 +628,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -636,19 +640,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Ian",
 "champ": false,
-"total": 364,
+"total": 369,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -723,7 +726,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -874,7 +877,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -893,8 +896,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -968,7 +970,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -980,19 +982,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Bella",
 "champ": false,
-"total": 242,
+"total": 261,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1149,15 +1150,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -1205,15 +1210,19 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"43 rec yds",
-7
+"3 catches",
+5
+],
+[
+"52 rec yds",
+9
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -1278,7 +1287,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -1294,19 +1303,18 @@
 4
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 267,
+"total": 280,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1349,12 +1357,16 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 20,
+"pts": 28,
 "comm": null,
 "bd": [
 [
-"270 pass yds",
-12
+"21 completions",
+6
+],
+[
+"299 pass yds",
+14
 ],
 [
 "30-yd TD pass",
@@ -1373,7 +1385,7 @@
 -15
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -1571,8 +1583,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -1592,7 +1603,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -1604,12 +1615,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
@@ -1683,8 +1693,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1794,7 +1803,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -1853,8 +1862,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1872,8 +1880,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1980,7 +1987,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 148,
+"total": 157,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2027,8 +2034,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2068,7 +2074,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -2199,7 +2205,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -2211,11 +2217,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2247,7 +2257,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 248,
+"total": 255,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2425,15 +2435,19 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"43 rec yds",
-7
+"3 catches",
+5
+],
+[
+"52 rec yds",
+9
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -2484,8 +2498,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2528,7 +2541,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 316,
+"total": 321,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2569,7 +2582,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -2600,8 +2613,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2707,7 +2719,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -2761,8 +2773,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2808,8 +2819,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2841,7 +2851,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -2853,19 +2863,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Hummer",
 "champ": false,
-"total": 322,
+"total": 336,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2940,7 +2949,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -3110,14 +3119,13 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -3129,11 +3137,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3164,7 +3176,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -3176,19 +3188,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Cobb",
 "champ": false,
-"total": 217,
+"total": 238,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -3235,8 +3246,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3276,7 +3286,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3295,7 +3305,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -3352,15 +3362,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -3379,8 +3393,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3396,7 +3409,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -3408,11 +3421,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3445,7 +3462,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -3457,12 +3474,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3472,7 +3488,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -3492,7 +3508,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -3533,8 +3549,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -3662,8 +3677,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3754,8 +3768,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3779,7 +3792,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -3799,7 +3812,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -3854,8 +3867,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3903,8 +3915,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3984,8 +3995,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4089,7 +4099,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 216,
+"total": 235,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4148,7 +4158,7 @@
 -5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4207,7 +4217,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -4232,15 +4242,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -4250,7 +4264,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4269,8 +4283,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4296,22 +4309,25 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"43 rec yds",
-7
+"3 catches",
+5
+],
+[
+"52 rec yds",
+9
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -4326,8 +4342,7 @@
 3
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -4351,7 +4366,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4363,12 +4378,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4385,7 +4399,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 250,
+"total": 261,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4450,7 +4464,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -4567,8 +4581,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4594,14 +4607,13 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 27,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -4615,9 +4627,13 @@
 [
 "43-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4646,7 +4662,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -4662,18 +4678,17 @@
 4
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4685,19 +4700,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 197,
+"total": 202,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -4730,8 +4744,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4829,8 +4842,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4870,8 +4882,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4899,8 +4910,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4938,8 +4948,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4959,7 +4968,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4971,19 +4980,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 251,
+"total": 256,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5144,7 +5152,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -5154,7 +5162,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5203,8 +5211,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5265,7 +5272,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -5277,19 +5284,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 230,
+"total": 235,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -5354,8 +5360,7 @@
 7
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5464,8 +5469,7 @@
 9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5491,8 +5495,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5510,8 +5513,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5529,8 +5531,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5550,7 +5551,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 10,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -5566,19 +5567,18 @@
 4
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Kearney",
 "champ": false,
-"total": 225,
+"total": 230,
 "comm": null,
 "prev": 2124,
 "alive": false,
@@ -5715,8 +5715,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5769,8 +5768,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5848,7 +5846,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -5860,12 +5858,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
@@ -5905,8 +5902,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -6067,8 +6063,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6141,7 +6136,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 193,
+"total": 217,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6184,12 +6179,16 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 20,
+"pts": 28,
 "comm": null,
 "bd": [
 [
-"270 pass yds",
-12
+"21 completions",
+6
+],
+[
+"299 pass yds",
+14
 ],
 [
 "30-yd TD pass",
@@ -6208,7 +6207,7 @@
 -15
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -6313,15 +6312,19 @@
 "pos": "TE",
 "name": "Eli Raridon",
 "team": "NE",
-"pts": 7,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"43 rec yds",
-7
+"3 catches",
+5
+],
+[
+"52 rec yds",
+9
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -6348,7 +6351,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -6360,11 +6363,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6438,8 +6445,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6511,8 +6517,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6534,7 +6539,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -6585,8 +6590,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6626,8 +6630,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6680,7 +6683,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 163,
+"total": 172,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6729,8 +6732,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6810,7 +6812,7 @@
 9
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -6830,7 +6832,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -6877,7 +6879,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -6889,11 +6891,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6937,7 +6943,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 297,
+"total": 312,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -7144,8 +7150,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7161,7 +7166,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -7173,18 +7178,22 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 27,
+"pts": 28,
 "comm": null,
 "bd": [
 [
@@ -7198,16 +7207,20 @@
 [
 "43-yd FG",
 9
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -7219,12 +7232,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7342,7 +7354,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 192,
+"total": 206,
 "comm": null,
 "prev": 2483,
 "alive": false,
@@ -7498,8 +7510,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7526,7 +7537,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -7559,7 +7570,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -7571,11 +7582,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -7586,7 +7601,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -7606,14 +7621,14 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -7625,19 +7640,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tansey",
 "champ": false,
-"total": 229,
+"total": 236,
 "comm": null,
 "prev": 2044,
 "alive": false,
@@ -7654,8 +7668,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7798,15 +7811,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -7833,8 +7850,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7848,7 +7864,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -7890,7 +7906,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -7910,7 +7926,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -8124,8 +8140,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8172,7 +8187,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 194,
+"total": 199,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -8219,8 +8234,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8246,8 +8260,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8347,8 +8360,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8427,7 +8439,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -8439,19 +8451,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Shane H",
 "champ": false,
-"total": 233,
+"total": 238,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -8498,8 +8509,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8674,8 +8684,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8691,7 +8700,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -8703,12 +8712,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8718,7 +8726,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -8738,7 +8746,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -8746,7 +8754,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 211,
+"total": 216,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -8891,7 +8899,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -8934,8 +8942,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9001,7 +9008,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -9013,19 +9020,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 350,
+"total": 364,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -9194,7 +9200,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -9249,8 +9255,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9268,8 +9273,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9301,7 +9305,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -9313,18 +9317,22 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -9336,12 +9344,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9424,8 +9431,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9520,8 +9526,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9539,8 +9544,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9554,7 +9558,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -9573,8 +9577,7 @@
 9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9699,8 +9702,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9768,8 +9770,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9845,8 +9846,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9959,7 +9959,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 227,
+"total": 232,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -9992,8 +9992,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10107,8 +10106,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10233,7 +10231,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -10245,12 +10243,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
@@ -10368,7 +10365,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -10462,7 +10459,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -10491,8 +10488,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10554,7 +10550,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -10574,7 +10570,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10608,7 +10604,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 224,
+"total": 231,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -10719,8 +10715,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10767,15 +10762,19 @@
 "pos": "WR",
 "name": "Pop Douglas",
 "team": "NE",
-"pts": 8,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"82 rec yds",
-8
+"5 catches",
+5
+],
+[
+"102 rec yds",
+10
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -10794,8 +10793,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10809,7 +10807,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10846,8 +10844,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10916,7 +10913,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 253,
+"total": 258,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -10949,8 +10946,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -11092,7 +11088,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -11128,8 +11124,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11185,7 +11180,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -11197,12 +11192,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11460,8 +11454,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -11523,7 +11516,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 256,
+"total": 265,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -11570,8 +11563,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11611,8 +11603,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11678,8 +11669,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11711,7 +11701,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -11739,7 +11729,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -11772,7 +11762,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -11784,11 +11774,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11813,7 +11807,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -11833,7 +11827,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -11874,8 +11868,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -11983,8 +11976,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12022,8 +12014,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12124,7 +12115,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 214,
+"total": 219,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -12141,8 +12132,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12172,8 +12162,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12313,8 +12302,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12380,7 +12368,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -12392,12 +12380,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
@@ -12547,7 +12534,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -12592,7 +12579,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12621,8 +12608,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12636,7 +12622,7 @@
 3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -12655,8 +12641,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12680,7 +12665,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -12700,7 +12685,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -12708,7 +12693,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 194,
+"total": 208,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -12806,8 +12791,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12883,8 +12867,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12926,7 +12909,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -12938,11 +12921,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12963,7 +12950,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -12975,12 +12962,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 }
 ]
 },
@@ -13066,7 +13052,7 @@
 -5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13149,7 +13135,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13168,8 +13154,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13239,7 +13224,7 @@
 3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -13299,7 +13284,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 307,
+"total": 316,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -13472,7 +13457,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -13514,8 +13499,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13543,7 +13527,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -13555,11 +13539,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13629,7 +13617,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 310,
+"total": 327,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -13652,12 +13640,16 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 20,
+"pts": 28,
 "comm": null,
 "bd": [
 [
-"270 pass yds",
-12
+"21 completions",
+6
+],
+[
+"299 pass yds",
+14
 ],
 [
 "30-yd TD pass",
@@ -13676,7 +13668,7 @@
 -15
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -13837,8 +13829,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13892,7 +13883,7 @@
 "pos": "K",
 "name": "Ka'imi Fairbairn",
 "team": "HOU",
-"pts": 23,
+"pts": 32,
 "comm": null,
 "bd": [
 [
@@ -13904,11 +13895,15 @@
 6
 ],
 [
+"41-yd FG",
+9
+],
+[
 "5 XP",
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13933,7 +13928,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -13953,7 +13948,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -14074,7 +14069,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -14093,8 +14088,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14156,7 +14150,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -14193,8 +14187,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14256,7 +14249,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -14276,7 +14269,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14306,7 +14299,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 250,
+"total": 255,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -14397,7 +14390,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -14474,8 +14467,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14489,7 +14481,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -14518,8 +14510,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14581,7 +14572,7 @@
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -14593,12 +14584,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14631,7 +14621,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 315,
+"total": 320,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -14664,8 +14654,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -14797,7 +14786,7 @@
 6
 ]
 ],
-"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
+"game": "GB 45 @ NE 21 \u00b7 Q4 8:37",
 "on": true
 },
 {
@@ -14874,8 +14863,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14907,14 +14895,13 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
-"on": true
+"game": "LV 17 @ SF 38 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Seahawks D",
 "team": "SEA",
-"pts": 21,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -14926,12 +14913,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
-"on": true
+"game": "ARI 3 @ SEA 17 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -14941,7 +14927,7 @@
 "comm": null,
 "bd": [
 [
-"15 pts allowed",
+"22 pts allowed",
 0
 ],
 [
@@ -14961,7 +14947,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
+"game": "HOU 44 @ LAC 22 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -15014,24 +15000,24 @@
 "live": false
 },
 {
-"t": "HOU 41 @ LAC 15",
-"s": "Q4 4:28",
-"live": true
-},
-{
-"t": "LV 17 @ SF 38",
+"t": "HOU 44 @ LAC 22",
 "s": "Q4 2:00",
 "live": true
 },
 {
-"t": "GB 42 @ NE 21",
-"s": "Q4 11:55",
+"t": "LV 17 @ SF 38",
+"s": "Final",
+"live": false
+},
+{
+"t": "GB 45 @ NE 21",
+"s": "Q4 8:37",
 "live": true
 },
 {
 "t": "ARI 3 @ SEA 17",
-"s": "Q4 4:22",
-"live": true
+"s": "Final",
+"live": false
 },
 {
 "t": "TB @ CHI",

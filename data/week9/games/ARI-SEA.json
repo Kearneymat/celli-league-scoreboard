@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 4:22",
+"status": "final",
+"clock": "Final",
 "score": {
 "SEA": 17,
 "ARI": 3
@@ -22,8 +22,8 @@
 "Drew Lock": {
 "pass_cmp": 19,
 "pass_yds": 175,
-"rush_att": 2,
-"rush_yds": 18,
+"rush_att": 5,
+"rush_yds": 16,
 "pass_td_lengths": [
 7
 ]

@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 4:28",
+"clock": "Q4 2:00",
 "score": {
-"LAC": 15,
-"HOU": 41
+"LAC": 22,
+"HOU": 44
 },
 "players": {
 "C.J. Stroud": {
@@ -42,7 +42,8 @@
 "Ka'imi Fairbairn": {
 "fg_made_dist": [
 56,
-31
+31,
+41
 ],
 "fg_missed_dist": [],
 "xp_made": 5,
@@ -55,7 +56,7 @@
 43
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },

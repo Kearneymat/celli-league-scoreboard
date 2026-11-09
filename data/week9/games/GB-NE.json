@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 11:55",
+"clock": "Q4 8:37",
 "score": {
 "NE": 21,
-"GB": 42
+"GB": 45
 },
 "players": {
 "Jordan Love": {
@@ -42,8 +42,8 @@
 ]
 },
 "Drake Maye": {
-"pass_cmp": 19,
-"pass_yds": 270,
+"pass_cmp": 21,
+"pass_yds": 299,
 "int": 3,
 "rush_att": 1,
 "rush_yds": 3,
@@ -64,12 +64,12 @@
 ]
 },
 "Pop Douglas": {
-"rec": 4,
-"rec_yds": 82
+"rec": 5,
+"rec_yds": 102
 },
 "Eli Raridon": {
-"rec": 2,
-"rec_yds": 43
+"rec": 3,
+"rec_yds": 52
 },
 "Mack Hollins": {
 "rec": 3,
@@ -89,7 +89,7 @@
 },
 "defenses": {
 "GB": {
-"sacks": 3,
+"sacks": 4,
 "int": 3,
 "fum_rec": 1,
 "safeties": 0,
