@@ -1,28 +1,28 @@
 {
 "status": "live",
-"clock": "Q2 5:18",
+"clock": "Q2 2:00",
 "score": {
-"CHI": 14,
+"CHI": 17,
 "TB": 3
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 8,
-"rush_yds": 23,
+"rush_att": 9,
+"rush_yds": 28,
 "rec": 1,
 "rec_yds": 3
 },
 "Emeka Egbuka": {
-"rec": 1,
-"rec_yds": 5
+"rec": 2,
+"rec_yds": 17
 },
 "Cade Otton": {
 "rec": 1,
 "rec_yds": 2
 },
 "Caleb Williams": {
-"pass_cmp": 11,
-"pass_yds": 150,
+"pass_cmp": 14,
+"pass_yds": 193,
 "int": 2,
 "rush_att": 2,
 "rush_yds": 11,
@@ -35,6 +35,13 @@
 "rush_att": 6,
 "rush_yds": 24
 },
+"Luther Burden": {
+"rec": 3,
+"rec_yds": 81,
+"rec_td_lengths": [
+56
+]
+},
 "Rome Odunze": {
 "rec": 4,
 "rec_yds": 60,
@@ -42,16 +49,9 @@
 9
 ]
 },
-"Luther Burden": {
-"rec": 2,
-"rec_yds": 55,
-"rec_td_lengths": [
-56
-]
-},
 "Colston Loveland": {
-"rec": 1,
-"rec_yds": 6
+"rec": 2,
+"rec_yds": 10
 }
 },
 "kickers": {
@@ -64,7 +64,9 @@
 "xp_missed": 0
 },
 "Cairo Santos": {
-"fg_made_dist": [],
+"fg_made_dist": [
+25
+],
 "fg_missed_dist": [],
 "xp_made": 2,
 "xp_missed": 0

@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 283,
+"total": 286,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -63,7 +63,7 @@
 -10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -95,7 +95,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -160,19 +160,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -196,7 +196,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -334,7 +334,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 374,
+"total": 377,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -521,19 +521,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -927,7 +927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -1015,7 +1015,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 280,
+"total": 286,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1162,19 +1162,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -1258,15 +1258,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -1602,7 +1606,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2024,7 +2028,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 189,
+"total": 192,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2135,19 +2139,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2171,7 +2175,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2302,7 +2306,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -2409,7 +2413,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3149,7 +3153,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3247,7 +3251,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 260,
+"total": 263,
 "comm": null,
 "prev": 2368,
 "alive": false,
@@ -3384,19 +3388,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3456,7 +3460,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3568,7 +3572,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 256,
+"total": 259,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -3798,15 +3802,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3876,7 +3884,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 242,
+"total": 245,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4087,22 +4095,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4161,7 +4173,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -4464,7 +4476,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 286,
+"total": 289,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4489,7 +4501,7 @@
 -10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4627,19 +4639,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -4796,7 +4808,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 221,
+"total": 227,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -4973,19 +4985,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5013,22 +5025,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5371,7 +5387,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5475,7 +5491,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5744,7 +5760,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6051,7 +6067,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6178,7 +6194,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6203,7 +6219,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6247,7 +6263,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 237,
+"total": 240,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6327,7 +6343,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6337,7 +6353,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6391,7 +6407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6412,19 +6428,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6452,7 +6468,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6467,7 +6483,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6541,7 +6557,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 228,
+"total": 231,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -6598,7 +6614,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6667,19 +6683,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6848,7 +6864,7 @@
 -10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7084,7 +7100,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -7092,7 +7108,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 329,
+"total": 332,
 "comm": null,
 "prev": 2164,
 "alive": false,
@@ -7251,19 +7267,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7317,7 +7333,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7566,7 +7582,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8106,7 +8122,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 155,
+"total": 158,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8161,7 +8177,7 @@
 -10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8201,7 +8217,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8211,7 +8227,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8227,19 +8243,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8263,7 +8279,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8273,7 +8289,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8283,7 +8299,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8359,7 +8375,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 201,
+"total": 204,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -8587,15 +8603,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -8930,7 +8950,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 233,
+"total": 236,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -9008,7 +9028,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9095,19 +9115,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9135,7 +9155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9215,7 +9235,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 381,
+"total": 384,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -9408,19 +9428,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9671,7 +9691,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9781,7 +9801,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -9946,7 +9966,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -10129,7 +10149,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -10671,7 +10691,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -10925,7 +10945,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11113,7 +11133,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 }
 ]
@@ -11121,7 +11141,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 260,
+"total": 263,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -11377,15 +11397,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11437,7 +11461,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 247,
+"total": 250,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -11523,7 +11547,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11672,15 +11696,19 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 2,
+"pts": 5,
 "comm": null,
 "bd": [
+[
+"25-yd FG",
+3
+],
 [
 "2 XP",
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11733,7 +11761,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 287,
+"total": 290,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -11892,19 +11920,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12226,7 +12254,7 @@
 6
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12254,7 +12282,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12321,7 +12349,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12355,7 +12383,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 236,
+"total": 239,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -12502,19 +12530,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12560,7 +12588,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12836,7 +12864,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12938,7 +12966,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 225,
+"total": 228,
 "comm": null,
 "prev": 2004,
 "alive": false,
@@ -12995,7 +13023,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13090,19 +13118,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13130,7 +13158,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13450,7 +13478,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13865,7 +13893,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 349,
+"total": 352,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -14046,19 +14074,19 @@
 "pos": "WR",
 "name": "Luther Burden",
 "team": "CHI",
-"pts": 17,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"55 rec yds",
-5
+"81 rec yds",
+8
 ],
 [
 "56-yd TD catch",
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -14412,7 +14440,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -14650,7 +14678,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -14740,7 +14768,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
+"game": "TB 3 @ CHI 17 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -15267,8 +15295,8 @@
 "live": false
 },
 {
-"t": "TB 3 @ CHI 14",
-"s": "Q2 5:18",
+"t": "TB 3 @ CHI 17",
+"s": "Q2 2:00",
 "live": true
 },
 {
