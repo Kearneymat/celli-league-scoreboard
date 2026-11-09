@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 288,
+"total": 283,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -47,7 +47,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 13,
+"pts": 8,
 "comm": null,
 "bd": [
 [
@@ -59,11 +59,11 @@
 12
 ],
 [
-"1 INT",
--5
+"2 INT",
+-10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -95,7 +95,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -172,7 +172,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -196,7 +196,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -533,7 +533,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -927,7 +927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -1174,7 +1174,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -1266,7 +1266,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -1602,7 +1602,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -2147,7 +2147,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -2171,7 +2171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -2302,7 +2302,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 }
 ]
@@ -2409,7 +2409,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -3149,7 +3149,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -3396,7 +3396,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -3456,7 +3456,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -3806,7 +3806,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -4087,7 +4087,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -4102,7 +4102,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -4161,7 +4161,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 }
 ]
@@ -4464,7 +4464,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 291,
+"total": 286,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4473,7 +4473,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 13,
+"pts": 8,
 "comm": null,
 "bd": [
 [
@@ -4485,11 +4485,11 @@
 12
 ],
 [
-"1 INT",
--5
+"2 INT",
+-10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -4639,7 +4639,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -4985,7 +4985,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -5013,7 +5013,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -5028,7 +5028,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -5371,7 +5371,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -5475,7 +5475,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -5744,7 +5744,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6051,7 +6051,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6178,7 +6178,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6203,7 +6203,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6327,7 +6327,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6337,7 +6337,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6391,7 +6391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6424,7 +6424,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6452,7 +6452,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6467,7 +6467,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6598,7 +6598,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6679,7 +6679,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -6813,7 +6813,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 200,
+"total": 195,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6832,7 +6832,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 13,
+"pts": 8,
 "comm": null,
 "bd": [
 [
@@ -6844,11 +6844,11 @@
 12
 ],
 [
-"1 INT",
--5
+"2 INT",
+-10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -7084,7 +7084,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 }
 ]
@@ -7263,7 +7263,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -7317,7 +7317,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -7566,7 +7566,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8106,7 +8106,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 160,
+"total": 155,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8145,7 +8145,7 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 13,
+"pts": 8,
 "comm": null,
 "bd": [
 [
@@ -8157,11 +8157,11 @@
 12
 ],
 [
-"1 INT",
--5
+"2 INT",
+-10
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8201,7 +8201,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8211,7 +8211,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8239,7 +8239,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8263,7 +8263,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8273,7 +8273,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8283,7 +8283,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -8595,7 +8595,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9008,7 +9008,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9107,7 +9107,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9135,7 +9135,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9420,7 +9420,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9671,7 +9671,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9781,7 +9781,7 @@
 3
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -9946,7 +9946,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -10129,7 +10129,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -10671,7 +10671,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -10925,7 +10925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -11113,7 +11113,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 }
 ]
@@ -11385,7 +11385,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -11523,7 +11523,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -11680,7 +11680,7 @@
 2
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -11904,7 +11904,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12226,7 +12226,7 @@
 6
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12254,7 +12254,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12321,7 +12321,7 @@
 0
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12514,7 +12514,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12560,7 +12560,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12836,7 +12836,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -12995,7 +12995,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -13102,7 +13102,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -13130,7 +13130,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -13450,7 +13450,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -14058,7 +14058,7 @@
 12
 ]
 ],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -14412,7 +14412,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -14650,7 +14650,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -14740,7 +14740,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 3 @ CHI 14 \u00b7 Q2 8:00",
+"game": "TB 3 @ CHI 14 \u00b7 Q2 5:18",
 "on": true
 },
 {
@@ -15268,7 +15268,7 @@
 },
 {
 "t": "TB 3 @ CHI 14",
-"s": "Q2 8:00",
+"s": "Q2 5:18",
 "live": true
 },
 {

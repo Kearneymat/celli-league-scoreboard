@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 8:00",
+"clock": "Q2 5:18",
 "score": {
 "CHI": 14,
 "TB": 3
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 7,
-"rush_yds": 18,
+"rush_att": 8,
+"rush_yds": 23,
 "rec": 1,
 "rec_yds": 3
 },
@@ -23,7 +23,7 @@
 "Caleb Williams": {
 "pass_cmp": 11,
 "pass_yds": 150,
-"int": 1,
+"int": 2,
 "rush_att": 2,
 "rush_yds": 11,
 "pass_td_lengths": [
@@ -73,7 +73,7 @@
 "defenses": {
 "TB": {
 "sacks": 0,
-"int": 1,
+"int": 2,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
