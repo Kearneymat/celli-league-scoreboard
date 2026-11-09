@@ -50,8 +50,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -82,8 +82,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -150,8 +150,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -174,8 +174,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -502,8 +502,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -896,8 +896,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -1134,8 +1134,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -1221,8 +1221,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -1552,8 +1552,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -1974,7 +1974,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 157,
+"total": 177,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2088,8 +2088,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -2112,8 +2112,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -2231,11 +2231,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 }
 ]
 },
@@ -2341,8 +2346,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -3081,8 +3086,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -3319,8 +3324,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -3379,8 +3384,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -3724,8 +3729,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -3794,7 +3799,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 225,
+"total": 245,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4005,8 +4010,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -4015,8 +4020,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -4062,11 +4067,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 }
 ]
 },
@@ -4380,8 +4390,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "QB",
@@ -4521,8 +4531,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -4858,8 +4868,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -4886,8 +4896,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -4896,8 +4906,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -4958,7 +4968,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 256,
+"total": 276,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5227,11 +5237,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5334,8 +5349,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -5603,8 +5618,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -5910,8 +5925,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -6037,8 +6052,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -6057,8 +6072,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6181,8 +6196,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -6191,8 +6206,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -6245,8 +6260,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -6269,8 +6284,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -6297,8 +6312,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -6307,8 +6322,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -6438,8 +6453,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -6510,8 +6525,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -6644,7 +6659,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 172,
+"total": 192,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6666,8 +6681,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -6890,11 +6905,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 }
 ]
 },
@@ -7063,8 +7083,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -7117,8 +7137,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -7366,8 +7386,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -7948,8 +7968,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -7988,8 +8008,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -7998,8 +8018,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -8017,8 +8037,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -8041,8 +8061,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -8051,8 +8071,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -8061,8 +8081,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -8368,8 +8388,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -8781,8 +8801,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -8871,8 +8891,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -8899,8 +8919,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -9175,8 +9195,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -9426,8 +9446,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -9531,8 +9551,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -9621,7 +9641,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 203,
+"total": 223,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -9696,8 +9716,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -9867,11 +9887,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -10412,8 +10437,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -10546,7 +10571,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 231,
+"total": 251,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -10666,8 +10691,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -10842,11 +10867,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 }
 ]
 },
@@ -11112,8 +11142,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -11250,8 +11280,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -11402,8 +11432,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -11617,8 +11647,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -11770,7 +11800,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 154,
+"total": 174,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -11930,8 +11960,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -11958,8 +11988,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -12013,11 +12043,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "DEF",
@@ -12200,8 +12235,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -12246,8 +12281,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -12522,8 +12557,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -12681,8 +12716,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "RB",
@@ -12779,8 +12814,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -12807,8 +12842,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -13127,8 +13162,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "K",
@@ -13726,8 +13761,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -14080,8 +14115,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -14318,8 +14353,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "WR",
@@ -14408,8 +14443,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB @ CHI \u00b7 Sun 8:20 ET",
-"yet": true
+"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"on": true
 },
 {
 "pos": "TE",
@@ -14935,9 +14970,9 @@
 "live": false
 },
 {
-"t": "TB @ CHI",
-"s": "Sun 8:20 ET",
-"live": false
+"t": "TB 0 @ CHI 0",
+"s": "Q1 10:25",
+"live": true
 },
 {
 "t": "BUF @ MIN",
