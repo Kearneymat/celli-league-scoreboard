@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 258,
+"total": 264,
 "comm": null,
 "prev": 2387,
 "alive": true,
@@ -47,10 +47,15 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -82,7 +87,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -150,7 +155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -174,7 +179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -502,7 +507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -896,7 +901,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -984,7 +989,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 261,
+"total": 262,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1134,7 +1139,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -1218,10 +1223,15 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -1552,7 +1562,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -2088,7 +2098,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -2112,7 +2122,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -2237,9 +2247,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 }
 ]
@@ -2346,7 +2360,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -3086,7 +3100,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -3324,7 +3338,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -3384,7 +3398,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -3496,7 +3510,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 254,
+"total": 255,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -3726,10 +3740,15 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -3799,7 +3818,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 245,
+"total": 246,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4010,17 +4029,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -4073,9 +4097,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 }
 ]
@@ -4378,7 +4406,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 261,
+"total": 267,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4387,10 +4415,15 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -4531,7 +4564,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -4688,7 +4721,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 202,
+"total": 203,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -4868,7 +4901,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -4896,17 +4929,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -5243,9 +5281,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -5349,7 +5391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -5618,7 +5660,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -5925,7 +5967,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6052,7 +6094,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6072,7 +6114,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6196,7 +6238,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6206,7 +6248,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6260,7 +6302,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6284,7 +6326,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6312,7 +6354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6322,7 +6364,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6453,7 +6495,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6525,7 +6567,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6659,7 +6701,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 192,
+"total": 198,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6678,10 +6720,15 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -6911,9 +6958,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 }
 ]
@@ -7083,7 +7134,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -7137,7 +7188,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -7386,7 +7437,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -7926,7 +7977,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 130,
+"total": 136,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -7965,10 +8016,15 @@
 "pos": "QB",
 "name": "Caleb Williams",
 "team": "CHI",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"9-yd TD pass",
+6
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8008,7 +8064,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8018,7 +8074,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8037,7 +8093,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8061,7 +8117,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8071,7 +8127,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8081,7 +8137,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8157,7 +8213,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 199,
+"total": 200,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -8385,10 +8441,15 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8801,7 +8862,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8891,7 +8952,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -8919,7 +8980,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -9195,7 +9256,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -9446,7 +9507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -9551,7 +9612,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -9716,7 +9777,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -9893,9 +9954,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -10437,7 +10502,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -10691,7 +10756,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -10873,9 +10938,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 }
 ]
@@ -10883,7 +10952,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 258,
+"total": 259,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -11139,10 +11208,15 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -11194,7 +11268,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 245,
+"total": 246,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -11280,7 +11354,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -11429,10 +11503,15 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -11647,7 +11726,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -11800,7 +11879,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 174,
+"total": 180,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -11957,10 +12036,15 @@
 "pos": "WR",
 "name": "Rome Odunze",
 "team": "CHI",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"bd": [
+[
+"9-yd TD catch",
+6
+]
+],
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -11988,7 +12072,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12049,9 +12133,13 @@
 [
 "0 pts allowed",
 20
+],
+[
+"Leading",
+0
 ]
 ],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12235,7 +12323,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12281,7 +12369,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12557,7 +12645,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12716,7 +12804,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12814,7 +12902,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -12842,7 +12930,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -13162,7 +13250,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -13761,7 +13849,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -14115,7 +14203,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -14353,7 +14441,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -14443,7 +14531,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ CHI 0 \u00b7 Q1 10:25",
+"game": "TB 0 @ CHI 7 \u00b7 Q1 7:24",
 "on": true
 },
 {
@@ -14970,8 +15058,8 @@
 "live": false
 },
 {
-"t": "TB 0 @ CHI 0",
-"s": "Q1 10:25",
+"t": "TB 0 @ CHI 7",
+"s": "Q1 7:24",
 "live": true
 },
 {
