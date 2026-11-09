@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q4 4:27",
+"clock": "Q4 0:39",
 "score": {
 "CHI": 24,
-"TB": 16
+"TB": 24
 },
 "players": {
 "Bucky Irving": {
@@ -12,7 +12,8 @@
 "rec": 1,
 "rec_yds": 3,
 "rush_td_lengths": [
-2
+2,
+6
 ]
 },
 "Emeka Egbuka": {
@@ -81,7 +82,7 @@
 "TB": {
 "sacks": 1,
 "int": 4,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
