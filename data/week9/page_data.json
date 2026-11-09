@@ -63,8 +63,7 @@
 -20
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -104,8 +103,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -181,8 +179,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -205,8 +202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -542,8 +538,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -936,8 +931,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1024,7 +1018,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 287,
+"total": 293,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1183,8 +1177,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1267,7 +1260,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -1275,12 +1268,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1627,8 +1623,7 @@
 1
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2049,7 +2044,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 201,
+"total": 206,
 "comm": null,
 "prev": 2145,
 "alive": false,
@@ -2172,8 +2167,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2196,8 +2190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2315,7 +2308,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -2333,10 +2326,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 }
 ]
 },
@@ -2442,8 +2438,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3182,8 +3177,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3429,8 +3423,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3489,8 +3482,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3601,7 +3593,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 260,
+"total": 266,
 "comm": null,
 "prev": 2358,
 "alive": false,
@@ -3831,7 +3823,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -3839,12 +3831,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3913,7 +3908,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 255,
+"total": 266,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -4124,14 +4119,13 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -4139,12 +4133,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -4190,7 +4187,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -4208,10 +4205,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 }
 ]
 },
@@ -4538,8 +4538,7 @@
 -20
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4688,8 +4687,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4845,7 +4843,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 228,
+"total": 234,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -5034,8 +5032,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5062,14 +5059,13 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -5077,12 +5073,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5143,7 +5142,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 280,
+"total": 285,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5412,7 +5411,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -5430,10 +5429,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5536,8 +5538,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5805,8 +5806,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6121,8 +6121,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6248,8 +6247,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6285,8 +6283,7 @@
 1
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6418,8 +6415,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6428,8 +6424,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6482,8 +6477,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6515,8 +6509,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6543,8 +6536,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6570,8 +6562,7 @@
 1
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6710,8 +6701,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6791,8 +6781,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6925,7 +6914,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 194,
+"total": 199,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6960,8 +6949,7 @@
 -20
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7184,7 +7172,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -7202,10 +7190,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 }
 ]
 },
@@ -7383,8 +7374,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7437,8 +7427,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7686,8 +7675,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8281,8 +8269,7 @@
 -20
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8321,8 +8308,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8340,8 +8326,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8368,8 +8353,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8392,8 +8376,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8402,8 +8385,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8412,8 +8394,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8488,7 +8469,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 205,
+"total": 211,
 "comm": null,
 "prev": 2125,
 "alive": false,
@@ -8716,7 +8697,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -8724,12 +8705,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9150,8 +9134,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9249,8 +9232,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9277,8 +9259,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9562,8 +9543,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9822,8 +9802,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9944,8 +9923,7 @@
 1
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10034,7 +10012,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 239,
+"total": 244,
 "comm": null,
 "prev": 1969,
 "alive": false,
@@ -10118,8 +10096,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10289,7 +10266,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -10307,10 +10284,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10851,8 +10831,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10985,7 +10964,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 255,
+"total": 260,
 "comm": null,
 "prev": 1798,
 "alive": false,
@@ -11105,8 +11084,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11281,7 +11259,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -11299,17 +11277,20 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "TJP",
 "champ": false,
-"total": 264,
+"total": 270,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -11565,7 +11546,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11573,12 +11554,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11629,7 +11613,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 263,
+"total": 269,
 "comm": null,
 "prev": 1953,
 "alive": false,
@@ -11724,8 +11708,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11873,7 +11856,7 @@
 "pos": "K",
 "name": "Cairo Santos",
 "team": "CHI",
-"pts": 6,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -11881,12 +11864,15 @@
 3
 ],
 [
+"38-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12109,8 +12095,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12262,7 +12247,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 190,
+"total": 195,
 "comm": null,
 "prev": 2036,
 "alive": false,
@@ -12431,8 +12416,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12459,8 +12443,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12514,7 +12497,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 29,
 "comm": null,
 "bd": [
 [
@@ -12532,10 +12515,13 @@
 [
 "67-yd def/ST TD",
 12
+],
+[
+"Win",
+5
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12727,8 +12713,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12773,8 +12758,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13049,8 +13033,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13217,8 +13200,7 @@
 6
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13324,8 +13306,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13352,8 +13333,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13672,8 +13652,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -14280,8 +14259,7 @@
 12
 ]
 ],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -14634,8 +14612,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -14872,8 +14849,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14962,8 +14938,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 24 @ CHI 24 \u00b7 Q4 0:39",
-"on": true
+"game": "TB 24 @ CHI 27 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -15489,9 +15464,9 @@
 "live": false
 },
 {
-"t": "TB 24 @ CHI 24",
-"s": "Q4 0:39",
-"live": true
+"t": "TB 24 @ CHI 27",
+"s": "Final",
+"live": false
 },
 {
 "t": "BUF @ MIN",

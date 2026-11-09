@@ -1,8 +1,8 @@
 {
-"status": "live",
-"clock": "Q4 0:39",
+"status": "final",
+"clock": "Final",
 "score": {
-"CHI": 24,
+"CHI": 27,
 "TB": 24
 },
 "players": {
@@ -71,7 +71,8 @@
 },
 "Cairo Santos": {
 "fg_made_dist": [
-25
+25,
+38
 ],
 "fg_missed_dist": [],
 "xp_made": 3,
