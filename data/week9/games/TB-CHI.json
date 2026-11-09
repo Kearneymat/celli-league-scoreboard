@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 3:32",
+"clock": "End Q3",
 "score": {
-"CHI": 23,
+"CHI": 24,
 "TB": 13
 },
 "players": {
@@ -72,7 +72,7 @@
 25
 ],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 }
 },
@@ -90,7 +90,7 @@
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": [
-69
+67
 ]
 }
 },
