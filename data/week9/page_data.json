@@ -101,7 +101,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -138,7 +138,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -199,7 +199,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -222,7 +222,7 @@
 9
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -275,7 +275,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -309,7 +309,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 347,
+"total": 352,
 "comm": null,
 "prev": 2338,
 "alive": true,
@@ -352,16 +352,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 59,
+"pts": 61,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"362 pass yds",
-21
+"372 pass yds",
+22
 ],
 [
 "5-yd TD pass",
@@ -384,7 +384,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -429,7 +429,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -476,23 +476,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -547,7 +547,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -566,22 +566,22 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -640,7 +640,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -648,7 +648,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 360,
+"total": 364,
 "comm": null,
 "prev": 2499,
 "alive": true,
@@ -691,16 +691,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 59,
+"pts": 61,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"362 pass yds",
-21
+"372 pass yds",
+22
 ],
 [
 "5-yd TD pass",
@@ -723,7 +723,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -858,23 +858,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -893,7 +893,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -984,7 +984,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -992,7 +992,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 240,
+"total": 242,
 "comm": null,
 "prev": 2228,
 "alive": false,
@@ -1157,7 +1157,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -1213,7 +1213,7 @@
 7
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -1278,7 +1278,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 8,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -1286,8 +1286,8 @@
 0
 ],
 [
-"2 INT",
-4
+"3 INT",
+6
 ],
 [
 "2 fum rec",
@@ -1298,7 +1298,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -1306,7 +1306,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 254,
+"total": 267,
 "comm": null,
 "prev": 2414,
 "alive": false,
@@ -1349,12 +1349,12 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 7,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"227 pass yds",
-7
+"270 pass yds",
+12
 ],
 [
 "30-yd TD pass",
@@ -1365,11 +1365,15 @@
 6
 ],
 [
+"22-yd TD pass",
+8
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -1567,7 +1571,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -1604,7 +1608,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -1655,31 +1659,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 14,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"22 completions",
+7
 ],
 [
-"200 pass yds",
-5
+"216 pass yds",
+6
 ],
 [
 "21-yd TD pass",
 8
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ],
 [
 "2-yd TD run",
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -1774,23 +1778,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -1849,7 +1853,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -1868,7 +1872,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2023,7 +2027,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2064,7 +2068,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -2211,7 +2215,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -2429,7 +2433,7 @@
 7
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -2480,7 +2484,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2524,7 +2528,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 314,
+"total": 316,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2533,16 +2537,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 59,
+"pts": 61,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"362 pass yds",
-21
+"372 pass yds",
+22
 ],
 [
 "5-yd TD pass",
@@ -2565,38 +2569,38 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 14,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"22 completions",
+7
 ],
 [
-"200 pass yds",
-5
+"216 pass yds",
+6
 ],
 [
 "21-yd TD pass",
 8
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ],
 [
 "2-yd TD run",
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2687,23 +2691,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -2757,7 +2761,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2804,7 +2808,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -2853,7 +2857,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -2861,7 +2865,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 320,
+"total": 322,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -2904,16 +2908,16 @@
 "pos": "QB",
 "name": "Jordan Love",
 "team": "GB",
-"pts": 59,
+"pts": 61,
 "comm": null,
 "bd": [
 [
-"22 completions",
-7
+"23 completions",
+8
 ],
 [
-"362 pass yds",
-21
+"372 pass yds",
+22
 ],
 [
 "5-yd TD pass",
@@ -2936,7 +2940,7 @@
 2
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -3106,7 +3110,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3129,7 +3133,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -3176,7 +3180,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -3231,7 +3235,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3272,7 +3276,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -3291,7 +3295,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -3356,7 +3360,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -3375,7 +3379,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3408,7 +3412,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -3457,7 +3461,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -3488,7 +3492,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -3529,7 +3533,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3658,7 +3662,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -3750,7 +3754,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3795,7 +3799,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -3850,7 +3854,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -3899,7 +3903,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -3980,7 +3984,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -4085,7 +4089,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 204,
+"total": 216,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4144,7 +4148,7 @@
 -5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -4203,7 +4207,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -4236,7 +4240,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -4246,17 +4250,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"60 rec yds",
+6
+]
+],
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -4283,7 +4296,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4298,7 +4311,7 @@
 7
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -4313,7 +4326,7 @@
 3
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -4354,7 +4367,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -4372,7 +4385,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 248,
+"total": 250,
 "comm": null,
 "prev": 2417,
 "alive": false,
@@ -4437,7 +4450,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -4554,7 +4567,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4581,7 +4594,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4604,7 +4617,7 @@
 9
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -4633,7 +4646,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 8,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -4641,8 +4654,8 @@
 0
 ],
 [
-"2 INT",
-4
+"3 INT",
+6
 ],
 [
 "2 fum rec",
@@ -4653,7 +4666,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4676,7 +4689,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -4684,7 +4697,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 199,
+"total": 197,
 "comm": null,
 "prev": 2213,
 "alive": false,
@@ -4693,31 +4706,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 14,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"22 completions",
+7
 ],
 [
-"200 pass yds",
-5
+"216 pass yds",
+6
 ],
 [
 "21-yd TD pass",
 8
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ],
 [
 "2-yd TD run",
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4816,7 +4829,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -4857,7 +4870,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4886,7 +4899,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4925,7 +4938,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -4962,7 +4975,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -4970,7 +4983,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 249,
+"total": 251,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5115,23 +5128,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -5141,7 +5154,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -5190,7 +5203,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5268,7 +5281,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -5276,7 +5289,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 227,
+"total": 230,
 "comm": null,
 "prev": 2469,
 "alive": false,
@@ -5333,15 +5346,15 @@
 "pos": "RB",
 "name": "Tyler Allgeier",
 "team": "ARI",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
-"16 rushes",
-6
+"17 rushes",
+7
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -5451,7 +5464,7 @@
 9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -5478,7 +5491,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5497,7 +5510,7 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5516,7 +5529,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5537,7 +5550,7 @@
 "pos": "DEF",
 "name": "49ers D",
 "team": "SF",
-"pts": 8,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -5545,8 +5558,8 @@
 0
 ],
 [
-"2 INT",
-4
+"3 INT",
+6
 ],
 [
 "2 fum rec",
@@ -5557,7 +5570,7 @@
 0
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 }
 ]
@@ -5702,7 +5715,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -5756,7 +5769,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -5851,7 +5864,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -5859,7 +5872,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 203,
+"total": 201,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -5868,31 +5881,31 @@
 "pos": "QB",
 "name": "Kirk Cousins",
 "team": "LV",
-"pts": 14,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"22 completions",
+7
 ],
 [
-"200 pass yds",
-5
+"216 pass yds",
+6
 ],
 [
 "21-yd TD pass",
 8
 ],
 [
-"2 INT",
--10
+"3 INT",
+-15
 ],
 [
 "2-yd TD run",
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6054,7 +6067,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6128,7 +6141,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 180,
+"total": 193,
 "comm": null,
 "prev": 2180,
 "alive": false,
@@ -6171,12 +6184,12 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 7,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"227 pass yds",
-7
+"270 pass yds",
+12
 ],
 [
 "30-yd TD pass",
@@ -6187,11 +6200,15 @@
 6
 ],
 [
+"22-yd TD pass",
+8
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -6304,7 +6321,7 @@
 7
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -6347,7 +6364,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -6395,7 +6412,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 209,
+"total": 211,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -6421,7 +6438,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -6494,30 +6511,30 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -6568,7 +6585,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6609,7 +6626,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6712,7 +6729,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -6793,7 +6810,7 @@
 9
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -6813,7 +6830,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -6876,7 +6893,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7127,7 +7144,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -7160,7 +7177,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7183,7 +7200,7 @@
 9
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7206,7 +7223,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -7481,7 +7498,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -7509,7 +7526,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -7558,7 +7575,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7589,7 +7606,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7612,7 +7629,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -7637,7 +7654,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -7789,7 +7806,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -7816,7 +7833,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -7831,7 +7848,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -7893,7 +7910,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -8107,7 +8124,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -8202,7 +8219,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -8229,7 +8246,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -8330,7 +8347,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -8426,7 +8443,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -8481,7 +8498,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -8657,7 +8674,7 @@
 2
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -8690,7 +8707,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -8721,7 +8738,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -8729,7 +8746,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 209,
+"total": 211,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -8858,23 +8875,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -8917,7 +8934,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -9000,7 +9017,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -9008,7 +9025,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 348,
+"total": 350,
 "comm": null,
 "prev": 2179,
 "alive": false,
@@ -9161,23 +9178,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -9232,7 +9249,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -9251,7 +9268,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -9300,7 +9317,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -9323,7 +9340,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9361,7 +9378,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 201,
+"total": 213,
 "comm": null,
 "prev": 1947,
 "alive": false,
@@ -9407,7 +9424,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9503,17 +9520,26 @@
 5
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"60 rec yds",
+6
+]
+],
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9528,7 +9554,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -9547,7 +9573,7 @@
 9
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9673,7 +9699,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9742,7 +9768,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -9819,7 +9845,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -9966,7 +9992,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10081,7 +10107,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -10223,7 +10249,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -10231,7 +10257,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 306,
+"total": 308,
 "comm": null,
 "prev": 2134,
 "alive": false,
@@ -10342,7 +10368,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -10420,23 +10446,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -10465,7 +10491,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10548,7 +10574,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -10693,7 +10719,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10749,7 +10775,7 @@
 8
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -10768,7 +10794,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -10783,7 +10809,7 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -10820,7 +10846,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -10890,7 +10916,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 251,
+"total": 253,
 "comm": null,
 "prev": 2284,
 "alive": false,
@@ -10923,7 +10949,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11050,23 +11076,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -11102,7 +11128,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11175,7 +11201,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -11434,7 +11460,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11497,7 +11523,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 242,
+"total": 256,
 "comm": null,
 "prev": 2006,
 "alive": false,
@@ -11544,7 +11570,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11585,7 +11611,7 @@
 7
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11640,10 +11666,19 @@
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"60 rec yds",
+6
+]
+],
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -11660,23 +11695,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -11704,7 +11739,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -11753,7 +11788,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -11798,7 +11833,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -11839,7 +11874,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -11948,7 +11983,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -11987,7 +12022,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12106,7 +12141,7 @@
 6
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -12137,7 +12172,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12278,7 +12313,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12361,7 +12396,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -12369,7 +12404,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 251,
+"total": 254,
 "comm": null,
 "prev": 2147,
 "alive": false,
@@ -12496,23 +12531,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -12557,7 +12592,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -12586,22 +12621,22 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -12620,7 +12655,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12665,7 +12700,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -12771,7 +12806,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -12848,7 +12883,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -12907,7 +12942,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -12944,7 +12979,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 }
 ]
@@ -12952,7 +12987,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 259,
+"total": 272,
 "comm": null,
 "prev": 1992,
 "alive": false,
@@ -13031,7 +13066,7 @@
 -5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -13114,17 +13149,26 @@
 7
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Michael Wilson",
 "team": "ARI",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"bd": [
+[
+"6 catches",
+6
+],
+[
+"60 rec yds",
+6
+]
+],
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -13187,15 +13231,15 @@
 "pos": "K",
 "name": "Andres Borregales",
 "team": "NE",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -13255,7 +13299,7 @@
 {
 "owner": "Boogie man",
 "champ": false,
-"total": 305,
+"total": 307,
 "comm": null,
 "prev": 2193,
 "alive": false,
@@ -13412,23 +13456,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -13470,7 +13514,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13515,7 +13559,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -13585,7 +13629,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 297,
+"total": 310,
 "comm": null,
 "prev": 2258,
 "alive": false,
@@ -13608,12 +13652,12 @@
 "pos": "QB",
 "name": "Drake Maye",
 "team": "NE",
-"pts": 7,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"227 pass yds",
-7
+"270 pass yds",
+12
 ],
 [
 "30-yd TD pass",
@@ -13624,11 +13668,15 @@
 6
 ],
 [
+"22-yd TD pass",
+8
+],
+[
 "3 INT",
 -15
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -13789,7 +13837,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -13860,7 +13908,7 @@
 5
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -13905,7 +13953,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -13913,7 +13961,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 275,
+"total": 277,
 "comm": null,
 "prev": 2226,
 "alive": false,
@@ -14026,7 +14074,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -14045,7 +14093,7 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -14092,23 +14140,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -14145,7 +14193,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14228,7 +14276,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 },
 {
@@ -14258,7 +14306,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 242,
+"total": 250,
 "comm": null,
 "prev": 1902,
 "alive": false,
@@ -14349,7 +14397,7 @@
 -3
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -14426,17 +14474,22 @@
 5
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Mack Hollins",
 "team": "NE",
-"pts": 0,
+"pts": 8,
 "comm": null,
-"bd": [],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"bd": [
+[
+"22-yd TD catch",
+8
+]
+],
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -14465,7 +14518,7 @@
 9
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14544,7 +14597,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -14578,7 +14631,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 313,
+"total": 315,
 "comm": null,
 "prev": 2067,
 "alive": false,
@@ -14611,7 +14664,7 @@
 6
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14728,23 +14781,23 @@
 "pos": "WR",
 "name": "Matthew Golden",
 "team": "GB",
-"pts": 30,
+"pts": 32,
 "comm": null,
 "bd": [
 [
-"9 catches",
-9
+"10 catches",
+10
 ],
 [
-"154 rec yds",
-15
+"164 rec yds",
+16
 ],
 [
 "5-yd TD catch",
 6
 ]
 ],
-"game": "GB 42 @ NE 14 \u00b7 Q3 1:58",
+"game": "GB 42 @ NE 21 \u00b7 Q4 11:55",
 "on": true
 },
 {
@@ -14821,7 +14874,7 @@
 -3
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14854,7 +14907,7 @@
 2
 ]
 ],
-"game": "LV 17 @ SF 38 \u00b7 Q4 4:41",
+"game": "LV 17 @ SF 38 \u00b7 Q4 2:00",
 "on": true
 },
 {
@@ -14877,7 +14930,7 @@
 0
 ]
 ],
-"game": "ARI 3 @ SEA 17 \u00b7 Q4 7:16",
+"game": "ARI 3 @ SEA 17 \u00b7 Q4 4:22",
 "on": true
 },
 {
@@ -14908,7 +14961,7 @@
 0
 ]
 ],
-"game": "HOU 41 @ LAC 15 \u00b7 Q4 8:50",
+"game": "HOU 41 @ LAC 15 \u00b7 Q4 4:28",
 "on": true
 }
 ]
@@ -14962,22 +15015,22 @@
 },
 {
 "t": "HOU 41 @ LAC 15",
-"s": "Q4 8:50",
+"s": "Q4 4:28",
 "live": true
 },
 {
 "t": "LV 17 @ SF 38",
-"s": "Q4 4:41",
+"s": "Q4 2:00",
 "live": true
 },
 {
-"t": "GB 42 @ NE 14",
-"s": "Q3 1:58",
+"t": "GB 42 @ NE 21",
+"s": "Q4 11:55",
 "live": true
 },
 {
 "t": "ARI 3 @ SEA 17",
-"s": "Q4 7:16",
+"s": "Q4 4:22",
 "live": true
 },
 {

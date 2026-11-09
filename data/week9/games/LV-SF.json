@@ -1,15 +1,15 @@
 {
 "status": "live",
-"clock": "Q4 4:41",
+"clock": "Q4 2:00",
 "score": {
 "SF": 38,
 "LV": 17
 },
 "players": {
 "Kirk Cousins": {
-"pass_cmp": 20,
-"pass_yds": 200,
-"int": 2,
+"pass_cmp": 22,
+"pass_yds": 216,
+"int": 3,
 "rush_att": 2,
 "rush_td_lengths": [
 2
@@ -91,7 +91,7 @@
 },
 "SF": {
 "sacks": 0,
-"int": 2,
+"int": 3,
 "fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
