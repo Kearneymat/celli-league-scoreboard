@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 5:24",
+"clock": "Q4 14:46",
 "score": {
 "BUF": 13,
 "MIN": 6
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 15,
-"pass_yds": 170,
+"pass_cmp": 18,
+"pass_yds": 204,
 "int": 1,
 "pass_td_lengths": [
 25
@@ -33,13 +33,13 @@
 "defenses": {
 "BUF": {
 "sacks": 1,
-"int": 1,
+"int": 2,
 "fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "MIN": {
-"sacks": 3,
+"sacks": 4,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,
