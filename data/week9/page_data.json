@@ -2235,7 +2235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -2339,7 +2339,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 262,
+"total": 265,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2556,7 +2556,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -2564,11 +2564,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -2630,7 +2634,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 328,
+"total": 331,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2884,7 +2888,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -2892,11 +2896,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -3257,7 +3265,7 @@
 12
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -3816,7 +3824,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -4245,7 +4253,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 253,
+"total": 248,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4529,12 +4537,12 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 18,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
 "3 sacks",
@@ -4549,7 +4557,7 @@
 0
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 }
 ]
@@ -5431,7 +5439,7 @@
 12
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -5662,7 +5670,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -6089,7 +6097,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 233,
+"total": 236,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -6219,7 +6227,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -6306,7 +6314,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -6314,11 +6322,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -6697,7 +6709,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 250,
+"total": 253,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -6929,7 +6941,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -6937,11 +6949,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -7006,7 +7022,7 @@
 -5
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -7144,7 +7160,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -8110,7 +8126,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -8492,7 +8508,7 @@
 12
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -8698,7 +8714,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -8845,7 +8861,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 250,
+"total": 253,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -9073,7 +9089,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -9081,11 +9097,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -9145,7 +9165,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 255,
+"total": 258,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -9389,7 +9409,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -9397,11 +9417,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -10430,7 +10454,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 239,
+"total": 242,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -10586,7 +10610,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -10678,7 +10702,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -10686,11 +10710,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -11903,7 +11931,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -12513,7 +12541,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -12838,7 +12866,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -12918,7 +12946,7 @@
 12
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -13553,7 +13581,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 279,
+"total": 282,
 "comm": null,
 "prev": 1992,
 "alive": false,
@@ -13783,7 +13811,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 7,
+"pts": 10,
 "comm": null,
 "bd": [
 [
@@ -13791,11 +13819,15 @@
 6
 ],
 [
+"25-yd FG",
+3
+],
+[
 "1 XP",
 1
 ]
 ],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -15397,7 +15429,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 10 @ MIN 6 \u00b7 Q3 13:03",
+"game": "BUF 13 @ MIN 6 \u00b7 Q3 5:24",
 "on": true
 },
 {
@@ -15603,8 +15635,8 @@
 "live": false
 },
 {
-"t": "BUF 10 @ MIN 6",
-"s": "Q3 13:03",
+"t": "BUF 13 @ MIN 6",
+"s": "Q3 5:24",
 "live": true
 }
 ]

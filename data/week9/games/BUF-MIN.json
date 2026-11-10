@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 13:03",
+"clock": "Q3 5:24",
 "score": {
-"BUF": 10,
+"BUF": 13,
 "MIN": 6
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 13,
-"pass_yds": 122,
+"pass_cmp": 15,
+"pass_yds": 170,
 "int": 1,
 "pass_td_lengths": [
 25
@@ -18,7 +18,8 @@
 "kickers": {
 "Tyler Bass": {
 "fg_made_dist": [
-39
+39,
+25
 ],
 "xp_made": 1
 },
