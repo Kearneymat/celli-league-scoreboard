@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 2:00",
+"status": "final",
+"clock": "Final",
 "score": {
 "BUF": 23,
 "MIN": 6
@@ -8,7 +8,7 @@
 "players": {
 "Josh Allen": {
 "pass_cmp": 21,
-"pass_yds": 235,
+"pass_yds": 234,
 "int": 1,
 "pass_td_lengths": [
 25

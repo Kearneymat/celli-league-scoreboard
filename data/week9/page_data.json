@@ -2235,8 +2235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2576,8 +2575,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2912,8 +2910,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3273,8 +3270,7 @@
 12
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3832,8 +3828,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4261,7 +4256,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 245,
+"total": 240,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4545,7 +4540,7 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 10,
+"pts": 5,
 "comm": null,
 "bd": [
 [
@@ -4561,12 +4556,11 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 }
 ]
 },
@@ -5447,8 +5441,7 @@
 12
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5678,8 +5671,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6235,8 +6227,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6342,8 +6333,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6973,8 +6963,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7034,7 +7023,7 @@
 6
 ],
 [
-"235 pass yds",
+"234 pass yds",
 8
 ],
 [
@@ -7046,8 +7035,7 @@
 -5
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7184,8 +7172,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8150,8 +8137,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8532,8 +8518,7 @@
 12
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8738,8 +8723,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9133,8 +9117,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9457,8 +9440,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10642,8 +10624,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10754,8 +10735,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11967,8 +11947,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12577,8 +12556,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12902,8 +12880,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12982,8 +12959,7 @@
 12
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13867,8 +13843,7 @@
 2
 ]
 ],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -15469,8 +15444,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 23 @ MIN 6 \u00b7 Q4 2:00",
-"on": true
+"game": "BUF 23 @ MIN 6 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -15676,8 +15650,8 @@
 },
 {
 "t": "BUF 23 @ MIN 6",
-"s": "Q4 2:00",
-"live": true
+"s": "Final",
+"live": false
 }
 ]
 }
