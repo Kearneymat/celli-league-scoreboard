@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "End Q1",
+"clock": "Q2 8:38",
 "score": {
 "BUF": 3,
 "MIN": 0
@@ -21,7 +21,7 @@
 },
 "defenses": {
 "BUF": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 1,
 "safeties": 0,
