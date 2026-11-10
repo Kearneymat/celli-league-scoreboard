@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 8:38",
+"clock": "Q2 3:09",
 "score": {
 "BUF": 3,
-"MIN": 0
+"MIN": 3
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 5,
-"pass_yds": 43,
+"pass_cmp": 8,
+"pass_yds": 60,
 "int": 1
 }
 },
@@ -16,6 +16,11 @@
 "Tyler Bass": {
 "fg_made_dist": [
 39
+]
+},
+"Will Reichard": {
+"fg_made_dist": [
+43
 ]
 }
 },
@@ -28,7 +33,7 @@
 "def_st_td_lengths": []
 },
 "MIN": {
-"sacks": 1,
+"sacks": 3,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

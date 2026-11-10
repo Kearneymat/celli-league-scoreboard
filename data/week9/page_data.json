@@ -2235,7 +2235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -2564,7 +2564,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -2888,7 +2888,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -2962,7 +2962,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 336,
+"total": 345,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -3237,10 +3237,15 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"bd": [
+[
+"43-yd FG",
+9
+]
+],
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -3799,7 +3804,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -4228,7 +4233,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 254,
+"total": 258,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4512,7 +4517,7 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
@@ -4520,19 +4525,15 @@
 15
 ],
 [
-"1 sacks",
-2
+"3 sacks",
+6
 ],
 [
 "1 INT",
 2
-],
-[
-"Trailing",
-0
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 }
 ]
@@ -5169,7 +5170,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 285,
+"total": 294,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5402,10 +5403,15 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"bd": [
+[
+"43-yd FG",
+9
+]
+],
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -5636,7 +5642,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -6193,7 +6199,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -6288,7 +6294,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -6907,7 +6913,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -6968,7 +6974,7 @@
 -5
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -7106,7 +7112,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -8072,7 +8078,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -8256,7 +8262,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 160,
+"total": 169,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8442,10 +8448,15 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"bd": [
+[
+"43-yd FG",
+9
+]
+],
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -8651,7 +8662,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -9034,7 +9045,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -9346,7 +9357,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -10531,7 +10542,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -10631,7 +10642,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -11844,7 +11855,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -12454,7 +12465,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -12611,7 +12622,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 239,
+"total": 248,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -12779,7 +12790,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -12847,10 +12858,15 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"bd": [
+[
+"43-yd FG",
+9
+]
+],
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -13723,7 +13739,7 @@
 6
 ]
 ],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -15325,7 +15341,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 0 \u00b7 Q2 8:38",
+"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
 "on": true
 },
 {
@@ -15531,8 +15547,8 @@
 "live": false
 },
 {
-"t": "BUF 3 @ MIN 0",
-"s": "Q2 8:38",
+"t": "BUF 3 @ MIN 3",
+"s": "Q2 3:09",
 "live": true
 }
 ]
