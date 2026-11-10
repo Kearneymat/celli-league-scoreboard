@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:06",
+"clock": "Q3 13:03",
 "score": {
 "BUF": 10,
 "MIN": 6
@@ -32,7 +32,7 @@
 "defenses": {
 "BUF": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
