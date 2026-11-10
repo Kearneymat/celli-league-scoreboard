@@ -2235,7 +2235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -2559,7 +2559,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -2878,7 +2878,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -3230,7 +3230,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -3789,7 +3789,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -4218,7 +4218,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 257,
+"total": 259,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4502,7 +4502,7 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
@@ -4512,9 +4512,13 @@
 [
 "1 sacks",
 2
+],
+[
+"1 INT",
+2
 ]
 ],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 }
 ]
@@ -5387,7 +5391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -5618,7 +5622,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -6175,7 +6179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -6265,7 +6269,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -6879,7 +6883,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -6923,7 +6927,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 199,
+"total": 194,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6932,10 +6936,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": -5,
 "comm": null,
-"bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"bd": [
+[
+"1 INT",
+-5
+]
+],
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -7073,7 +7082,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -8039,7 +8048,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -8412,7 +8421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -8618,7 +8627,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -8996,7 +9005,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -9303,7 +9312,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -10488,7 +10497,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -10583,7 +10592,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -11796,7 +11805,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -12406,7 +12415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -12731,7 +12740,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -12802,7 +12811,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -13670,7 +13679,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -15272,7 +15281,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 5:25",
 "on": true
 },
 {
@@ -15479,7 +15488,7 @@
 },
 {
 "t": "BUF 0 @ MIN 0",
-"s": "Q1 11:33",
+"s": "Q1 5:25",
 "live": true
 }
 ]
