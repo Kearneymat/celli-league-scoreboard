@@ -1,0 +1,32 @@
+{
+"status": "live",
+"clock": "Q1 11:33",
+"score": {
+"BUF": 0,
+"MIN": 0
+},
+"players": {
+"Josh Allen": {
+"pass_cmp": 0,
+"pass_yds": 0
+}
+},
+"kickers": {},
+"defenses": {
+"BUF": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"MIN": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "Sportradar (team totals; receiver yardage unavailable)"
+}

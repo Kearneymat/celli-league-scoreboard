@@ -2235,8 +2235,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -2559,8 +2559,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -2878,8 +2878,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -3230,8 +3230,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3789,8 +3789,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "TE",
@@ -4218,7 +4218,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 235,
+"total": 257,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4502,11 +4502,20 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"1 sacks",
+2
+]
+],
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 }
 ]
 },
@@ -5378,8 +5387,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -5609,8 +5618,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -6166,8 +6175,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -6256,8 +6265,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -6870,8 +6879,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6926,8 +6935,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "QB",
@@ -7064,8 +7073,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "TE",
@@ -8030,8 +8039,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -8403,8 +8412,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -8609,8 +8618,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -8987,8 +8996,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -9294,8 +9303,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -10479,8 +10488,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -10574,8 +10583,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -11787,8 +11796,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -12397,8 +12406,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "WR",
@@ -12722,8 +12731,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "TE",
@@ -12793,8 +12802,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "DEF",
@@ -13661,8 +13670,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "K",
@@ -15263,8 +15272,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF @ MIN \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "BUF 0 @ MIN 0 \u00b7 Q1 11:33",
+"on": true
 },
 {
 "pos": "TE",
@@ -15469,9 +15478,9 @@
 "live": false
 },
 {
-"t": "BUF @ MIN",
-"s": "Mon 8:15 ET",
-"live": false
+"t": "BUF 0 @ MIN 0",
+"s": "Q1 11:33",
+"live": true
 }
 ]
 }
