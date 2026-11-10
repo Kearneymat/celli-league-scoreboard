@@ -1,18 +1,24 @@
 {
 "status": "live",
-"clock": "Q1 5:25",
+"clock": "End Q1",
 "score": {
-"BUF": 0,
+"BUF": 3,
 "MIN": 0
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 3,
-"pass_yds": 24,
+"pass_cmp": 5,
+"pass_yds": 43,
 "int": 1
 }
 },
-"kickers": {},
+"kickers": {
+"Tyler Bass": {
+"fg_made_dist": [
+39
+]
+}
+},
 "defenses": {
 "BUF": {
 "sacks": 0,
