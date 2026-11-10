@@ -2235,7 +2235,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -2339,7 +2339,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 261,
+"total": 262,
 "comm": null,
 "prev": 2249,
 "alive": false,
@@ -2556,15 +2556,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -2626,7 +2630,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 327,
+"total": 328,
 "comm": null,
 "prev": 2218,
 "alive": false,
@@ -2880,15 +2884,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -2962,7 +2970,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 345,
+"total": 357,
 "comm": null,
 "prev": 2245,
 "alive": false,
@@ -3237,15 +3245,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 9,
+"pts": 21,
 "comm": null,
 "bd": [
 [
 "43-yd FG",
 9
+],
+[
+"53-yd FG",
+12
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -3804,7 +3816,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -4233,7 +4245,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 258,
+"total": 253,
 "comm": null,
 "prev": 2178,
 "alive": false,
@@ -4517,12 +4529,12 @@
 "pos": "DEF",
 "name": "Vikings D",
 "team": "MIN",
-"pts": 23,
+"pts": 18,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
 "3 sacks",
@@ -4531,9 +4543,13 @@
 [
 "1 INT",
 2
+],
+[
+"Trailing",
+0
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 }
 ]
@@ -5170,7 +5186,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 294,
+"total": 306,
 "comm": null,
 "prev": 2199,
 "alive": false,
@@ -5403,15 +5419,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 9,
+"pts": 21,
 "comm": null,
 "bd": [
 [
 "43-yd FG",
 9
+],
+[
+"53-yd FG",
+12
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -5642,7 +5662,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -6069,7 +6089,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 232,
+"total": 233,
 "comm": null,
 "prev": 2395,
 "alive": false,
@@ -6199,7 +6219,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -6286,15 +6306,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -6673,7 +6697,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 249,
+"total": 250,
 "comm": null,
 "prev": 1876,
 "alive": false,
@@ -6905,15 +6929,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -6957,7 +6985,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 194,
+"total": 202,
 "comm": null,
 "prev": 1721,
 "alive": false,
@@ -6966,15 +6994,19 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": -5,
+"pts": 3,
 "comm": null,
 "bd": [
+[
+"25-yd TD pass",
+8
+],
 [
 "1 INT",
 -5
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -7112,7 +7144,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -8078,7 +8110,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -8262,7 +8294,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 169,
+"total": 181,
 "comm": null,
 "prev": 1703,
 "alive": false,
@@ -8448,15 +8480,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 9,
+"pts": 21,
 "comm": null,
 "bd": [
 [
 "43-yd FG",
 9
+],
+[
+"53-yd FG",
+12
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -8662,7 +8698,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -8809,7 +8845,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 249,
+"total": 250,
 "comm": null,
 "prev": 2114,
 "alive": false,
@@ -9037,15 +9073,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -9105,7 +9145,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 254,
+"total": 255,
 "comm": null,
 "prev": 2299,
 "alive": false,
@@ -9349,15 +9389,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -10386,7 +10430,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 238,
+"total": 239,
 "comm": null,
 "prev": 2166,
 "alive": false,
@@ -10542,7 +10586,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -10634,15 +10678,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -11855,7 +11903,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -12465,7 +12513,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -12622,7 +12670,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 248,
+"total": 260,
 "comm": null,
 "prev": 2133,
 "alive": false,
@@ -12790,7 +12838,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -12858,15 +12906,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 9,
+"pts": 21,
 "comm": null,
 "bd": [
 [
 "43-yd FG",
 9
+],
+[
+"53-yd FG",
+12
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -13501,7 +13553,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 278,
+"total": 279,
 "comm": null,
 "prev": 1992,
 "alive": false,
@@ -13731,15 +13783,19 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "39-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -15341,7 +15397,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BUF 3 @ MIN 3 \u00b7 Q2 3:09",
+"game": "BUF 10 @ MIN 6 \u00b7 Q2 0:06",
 "on": true
 },
 {
@@ -15547,8 +15603,8 @@
 "live": false
 },
 {
-"t": "BUF 3 @ MIN 3",
-"s": "Q2 3:09",
+"t": "BUF 10 @ MIN 6",
+"s": "Q2 0:06",
 "live": true
 }
 ]

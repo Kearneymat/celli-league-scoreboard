@@ -1,26 +1,31 @@
 {
 "status": "live",
-"clock": "Q2 3:09",
+"clock": "Q2 0:06",
 "score": {
-"BUF": 3,
-"MIN": 3
+"BUF": 10,
+"MIN": 6
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 8,
-"pass_yds": 60,
-"int": 1
+"pass_cmp": 13,
+"pass_yds": 122,
+"int": 1,
+"pass_td_lengths": [
+25
+]
 }
 },
 "kickers": {
 "Tyler Bass": {
 "fg_made_dist": [
 39
-]
+],
+"xp_made": 1
 },
 "Will Reichard": {
 "fg_made_dist": [
-43
+43,
+53
 ]
 }
 },
