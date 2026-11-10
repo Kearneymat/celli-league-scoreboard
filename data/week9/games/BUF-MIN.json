@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 14:46",
+"clock": "Q4 6:17",
 "score": {
-"BUF": 13,
+"BUF": 19,
 "MIN": 6
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 18,
-"pass_yds": 204,
+"pass_cmp": 21,
+"pass_yds": 228,
 "int": 1,
 "pass_td_lengths": [
 25
