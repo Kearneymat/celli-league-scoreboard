@@ -99,3 +99,18 @@ PL.update({
  'mcglauglin': ('Chase McLaughlin', 'TB'), 'bas': ('Tyler Bass', 'BUF'), 'hollins': ('Mack Hollins', 'NE'),
 })
 DF.update({'sf': 'SF', 'denver': 'DEN'})
+
+# Week 10 shorthands
+PL.update({
+ 'moody': ('Jake Moody', 'BAL'), 'patterson': ('Riley Patterson', 'BAL'), 'pattersonravens': ('Riley Patterson', 'BAL'),
+ 'rhyland': ('Chad Ryland', 'ARI'), 'smythsaints': ('Charlie Smyth', 'NO'), 'shough': ('Tyler Shough', 'NO'),
+ 'charbonnet': ('Zach Charbonnet', 'SEA'), 'ejihnson': ('Emmett Johnson', 'KC'), 'ejohnson': ('Emmett Johnson', 'KC'),
+ 'ejohnsonkc': ('Emmett Johnson', 'KC'), 'skateboo': ('Cam Skattebo', 'NYG'),
+ 'TE:dulcich': ('Greg Dulcich', 'MIA'), 'TE:parkinson': ('Colby Parkinson', 'LAR'), 'TE:twaren': ('Tyler Warren', 'IND'),
+ 'TE:twarren': ('Tyler Warren', 'IND'), 'TE:warrem': ('Tyler Warren', 'IND'),
+ 'dulcich': ('Greg Dulcich', 'MIA'), 'parkinson': ('Colby Parkinson', 'LAR'), 'twaren': ('Tyler Warren', 'IND'), 'twarren': ('Tyler Warren', 'IND'), 'warrem': ('Tyler Warren', 'IND'),
+ 'astbrown': ('Amon-Ra St. Brown', 'DET'), 'atwell': ('Tutu Atwell', 'LAR'), 'boutee': ('Kayshon Boutte', 'HOU'),
+ 'flornoy': ('Ryan Flournoy', 'DAL'), 'jtyson': ('Jordyn Tyson', 'NO'), 'tyson': ('Jordyn Tyson', 'NO'), 'tysonsaints': ('Jordyn Tyson', 'NO'),
+ 'kcconc': ('KC Concepcion', 'CLE'), 'qjohnson': ('Quentin Johnston', 'LAC'), 'tdell': ('Tank Dell', 'HOU'),
+})
+DF.update({'miami': 'MIA'})
