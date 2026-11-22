@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 2:46",
+"clock": "Q4 1:02",
 "score": {
-"BUF": 23,
+"BUF": 26,
 "MIA": 9
 },
 "players": {
 "Josh Allen": {
 "pass_cmp": 27,
-"pass_yds": 303,
+"pass_yds": 304,
 "int": 2,
 "pass_td_lengths": [
 4
@@ -16,7 +16,7 @@
 },
 "James Cook": {
 "rush_att": 22,
-"rush_yds": 90,
+"rush_yds": 89,
 "rec": 2,
 "rec_yds": 3,
 "rush_td_lengths": [
@@ -24,7 +24,7 @@
 ]
 },
 "Khalil Shakir": {
-"rush_att": 1,
+"rush_att": 2,
 "rush_yds": 2,
 "rec": 5,
 "rec_yds": 101
@@ -42,7 +42,8 @@
 "fg_made_dist": [
 43,
 54,
-40
+40,
+28
 ],
 "fg_missed_dist": [
 54

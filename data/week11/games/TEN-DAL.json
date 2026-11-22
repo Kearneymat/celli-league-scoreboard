@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 4:59",
+"clock": "Q4 1:21",
 "score": {
 "DAL": 51,
 "TEN": 23
 },
 "players": {
 "Cam Ward": {
-"pass_cmp": 15,
-"pass_yds": 188,
+"pass_cmp": 20,
+"pass_yds": 236,
 "rush_att": 2,
 "rush_yds": 3,
 "fl": 1,

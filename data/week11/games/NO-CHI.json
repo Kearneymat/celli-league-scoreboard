@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 7:58",
+"clock": "Q4 2:00",
 "score": {
 "CHI": 21,
 "NO": 10
@@ -13,13 +13,13 @@
 "rec_yds": 6
 },
 "Chris Olave": {
-"rec": 6,
-"rec_yds": 74
+"rec": 8,
+"rec_yds": 98
 },
 "Juwan Johnson": {},
 "Caleb Williams": {
-"pass_cmp": 13,
-"pass_yds": 163,
+"pass_cmp": 15,
+"pass_yds": 181,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 13,
@@ -45,8 +45,8 @@
 "rec_yds": 10
 },
 "Colston Loveland": {
-"rec": 2,
-"rec_yds": 27,
+"rec": 3,
+"rec_yds": 29,
 "rec_td_lengths": [
 15
 ]
@@ -72,7 +72,7 @@
 "def_st_td_lengths": []
 },
 "CHI": {
-"sacks": 4,
+"sacks": 5,
 "int": 1,
 "fum_rec": 1,
 "safeties": 1,
