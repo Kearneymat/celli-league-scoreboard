@@ -1,16 +1,16 @@
 {
-"status": "live",
-"clock": "Q4 1:55",
+"status": "final",
+"clock": "Final",
 "score": {
 "DET": 31,
-"TB": 14
+"TB": 21
 },
 "players": {
 "Bucky Irving": {
 "rush_att": 18,
 "rush_yds": 68,
-"rec": 2,
-"rec_yds": 25,
+"rec": 3,
+"rec_yds": 32,
 "rush_td_lengths": [
 1
 ]
@@ -41,7 +41,7 @@
 "Chase McLaughlin": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Jake Bates": {

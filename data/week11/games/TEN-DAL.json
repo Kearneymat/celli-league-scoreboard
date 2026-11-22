@@ -1,14 +1,14 @@
 {
-"status": "live",
-"clock": "Q4 1:21",
+"status": "final",
+"clock": "Final",
 "score": {
 "DAL": 51,
-"TEN": 23
+"TEN": 30
 },
 "players": {
 "Cam Ward": {
-"pass_cmp": 20,
-"pass_yds": 236,
+"pass_cmp": 21,
+"pass_yds": 248,
 "rush_att": 2,
 "rush_yds": 3,
 "fl": 1,
@@ -16,7 +16,8 @@
 1
 ],
 "pass_td_lengths": [
-59
+59,
+12
 ]
 },
 "Tony Pollard": {
@@ -37,8 +38,8 @@
 "Dak Prescott": {
 "pass_cmp": 28,
 "pass_yds": 325,
-"rush_att": 3,
-"rush_yds": 10,
+"rush_att": 4,
+"rush_yds": 9,
 "pass_td_lengths": [
 8,
 10,
@@ -90,7 +91,7 @@
 28
 ],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Brandon Aubrey": {

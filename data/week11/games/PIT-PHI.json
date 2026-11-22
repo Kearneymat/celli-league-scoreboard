@@ -1,9 +1,9 @@
 {
-"status": "live",
-"clock": "Q4 1:56",
+"status": "final",
+"clock": "Final",
 "score": {
 "PHI": 19,
-"PIT": 9
+"PIT": 16
 },
 "players": {
 "Jaylen Warren": {
@@ -13,8 +13,8 @@
 "rec_yds": 1
 },
 "DeVonta Smith": {
-"rec": 4,
-"rec_yds": 34
+"rec": 5,
+"rec_yds": 41
 }
 },
 "kickers": {
@@ -25,7 +25,7 @@
 52
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },

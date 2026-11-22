@@ -1,0 +1,38 @@
+{
+"status": "live",
+"clock": "Q1 11:08",
+"score": {
+"LAC": 0,
+"NYJ": 3
+},
+"players": {
+"Garrett Wilson": {}
+},
+"kickers": {
+"Jason Sanders": {
+"fg_made_dist": [
+50
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"NYJ": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"LAC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

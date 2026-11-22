@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 6:01",
+"clock": "Q4 1:44",
 "score": {
-"CAR": 32,
+"CAR": 35,
 "BAL": 33
 },
 "players": {
@@ -17,8 +17,8 @@
 "rec_yds": 5
 },
 "Chuba Hubbard": {
-"rush_att": 24,
-"rush_yds": 114,
+"rush_att": 27,
+"rush_yds": 120,
 "rush_td_lengths": [
 18,
 1
@@ -26,19 +26,19 @@
 "two_pt": 1
 },
 "Tetairoa McMillan": {
-"rec": 5,
-"rec_yds": 58,
+"rec": 6,
+"rec_yds": 71,
 "rec_td_lengths": [
 7
 ]
 },
+"Jalen Coker": {
+"rec": 4,
+"rec_yds": 47
+},
 "Darren Waller": {
 "rec": 3,
 "rec_yds": 42
-},
-"Jalen Coker": {
-"rec": 2,
-"rec_yds": 41
 }
 },
 "kickers": {
@@ -52,7 +52,8 @@
 },
 "Ryan Fitzgerald": {
 "fg_made_dist": [
-33
+33,
+37
 ],
 "fg_missed_dist": [],
 "xp_made": 3,

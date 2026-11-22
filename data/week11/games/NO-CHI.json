@@ -1,9 +1,9 @@
 {
-"status": "live",
-"clock": "Q4 2:00",
+"status": "final",
+"clock": "Final",
 "score": {
 "CHI": 21,
-"NO": 10
+"NO": 13
 },
 "players": {
 "Jordyn Tyson": {
@@ -13,16 +13,16 @@
 "rec_yds": 6
 },
 "Chris Olave": {
-"rec": 8,
-"rec_yds": 98
+"rec": 9,
+"rec_yds": 102
 },
 "Juwan Johnson": {},
 "Caleb Williams": {
 "pass_cmp": 15,
 "pass_yds": 181,
 "int": 1,
-"rush_att": 2,
-"rush_yds": 13,
+"rush_att": 4,
+"rush_yds": 11,
 "pass_td_lengths": [
 3,
 15
@@ -72,7 +72,7 @@
 "def_st_td_lengths": []
 },
 "CHI": {
-"sacks": 5,
+"sacks": 6,
 "int": 1,
 "fum_rec": 1,
 "safeties": 1,

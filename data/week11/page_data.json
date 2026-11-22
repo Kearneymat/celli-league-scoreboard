@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 232,
+"total": 241,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -55,23 +55,22 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -86,7 +85,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -105,8 +104,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -160,8 +158,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -180,8 +177,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -209,8 +205,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -236,7 +231,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -252,12 +247,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -286,7 +280,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 246,
+"total": 253,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -337,8 +331,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -360,8 +353,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -379,8 +371,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -452,8 +443,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -481,8 +471,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -491,14 +480,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -514,18 +503,17 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Ryan Fitzgerald",
 "team": "CAR",
-"pts": 9,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -533,11 +521,15 @@
 6
 ],
 [
+"37-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -577,7 +569,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 235,
+"total": 240,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -628,8 +620,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -651,8 +642,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -670,8 +660,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -725,8 +714,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -754,7 +742,7 @@
 9
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -773,8 +761,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -832,7 +819,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -848,12 +835,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
@@ -899,8 +885,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -926,8 +911,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -977,8 +961,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1006,8 +989,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1029,8 +1011,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1039,8 +1020,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "TE",
@@ -1049,7 +1030,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -1068,8 +1049,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1118,7 +1098,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 159,
+"total": 164,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -1167,8 +1147,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1199,8 +1178,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1218,7 +1196,7 @@
 9
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -1251,8 +1229,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1280,8 +1257,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1347,7 +1323,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1363,19 +1339,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 212,
+"total": 218,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1426,8 +1401,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1453,8 +1427,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1508,8 +1481,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1538,8 +1510,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -1575,7 +1546,7 @@
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1591,12 +1562,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -1624,7 +1594,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1640,19 +1610,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 165,
+"total": 177,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1717,8 +1686,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1744,8 +1712,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1817,8 +1784,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1864,11 +1830,16 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1888,8 +1859,8 @@
 "comm": null,
 "bd": [
 [
-"23 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "5 sacks",
@@ -1900,19 +1871,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Snipes",
 "champ": false,
-"total": 258,
+"total": 264,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -1963,8 +1933,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2014,8 +1983,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2057,8 +2025,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2076,8 +2043,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2105,14 +2071,13 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2128,12 +2093,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2167,8 +2131,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2196,7 +2159,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2212,19 +2175,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Bronson",
 "champ": false,
-"total": 216,
+"total": 222,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2275,8 +2237,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2302,8 +2263,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2321,8 +2281,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2362,8 +2321,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2392,8 +2350,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2429,7 +2386,7 @@
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2445,12 +2402,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2478,7 +2434,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2494,19 +2450,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Hummer",
 "champ": false,
-"total": 182,
+"total": 195,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2557,8 +2512,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2580,8 +2534,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2645,8 +2598,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2665,8 +2617,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2684,8 +2635,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2701,26 +2651,30 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2759,7 +2713,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 263,
+"total": 268,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -2800,8 +2754,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2847,8 +2800,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -2874,8 +2826,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2897,8 +2848,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2930,8 +2880,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2985,8 +2934,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2995,8 +2943,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -3012,7 +2960,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3028,12 +2976,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3062,7 +3009,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 183,
+"total": 190,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3117,8 +3064,7 @@
 -3
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3180,8 +3126,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3219,8 +3164,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3238,29 +3182,27 @@
 11
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -3274,10 +3216,13 @@
 [
 "52-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3313,7 +3258,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3329,19 +3274,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 227,
+"total": 244,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3406,8 +3350,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3425,8 +3368,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3498,8 +3440,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3545,18 +3486,22 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -3572,7 +3517,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3588,12 +3533,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3603,8 +3547,8 @@
 "comm": null,
 "bd": [
 [
-"23 pts allowed",
-0
+"30 pts allowed",
+-5
 ],
 [
 "5 sacks",
@@ -3615,19 +3559,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Romano",
 "champ": false,
-"total": 232,
+"total": 246,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -3668,27 +3611,30 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "QB",
 "name": "Cam Ward",
 "team": "TEN",
-"pts": 28,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"20 completions",
-5
+"21 completions",
+6
 ],
 [
-"236 pass yds",
-8
+"248 pass yds",
+9
 ],
 [
 "59-yd TD pass",
 12
+],
+[
+"12-yd TD pass",
+7
 ],
 [
 "1-yd TD run",
@@ -3699,8 +3645,7 @@
 -3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3738,8 +3683,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3771,8 +3715,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3791,8 +3734,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3846,8 +3788,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -3885,7 +3826,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3901,19 +3842,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "J Cell",
 "champ": false,
-"total": 226,
+"total": 235,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -3964,8 +3904,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4005,23 +3944,22 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -4036,7 +3974,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -4059,8 +3997,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4079,8 +4016,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4166,7 +4102,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4182,19 +4118,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 249,
+"total": 254,
 "comm": null,
 "prev": 2752,
 "alive": true,
@@ -4245,8 +4180,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4268,8 +4202,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4287,8 +4220,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4332,8 +4264,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4351,8 +4282,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4432,8 +4362,7 @@
 4
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4469,7 +4398,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4485,19 +4414,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 216,
+"total": 222,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4538,8 +4466,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4567,8 +4494,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4652,8 +4578,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4681,8 +4606,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -4698,7 +4622,7 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -4712,16 +4636,19 @@
 [
 "52-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4737,12 +4664,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4771,7 +4697,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 243,
+"total": 247,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -4822,23 +4748,22 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -4853,7 +4778,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -4872,8 +4797,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4927,8 +4851,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4946,8 +4869,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4965,8 +4887,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -4975,7 +4896,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -5005,8 +4926,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
@@ -5053,7 +4974,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 218,
+"total": 225,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -5104,8 +5025,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5123,8 +5043,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5172,8 +5091,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5195,8 +5113,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5224,8 +5141,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5234,8 +5150,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5260,11 +5175,16 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -5273,7 +5193,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -5302,7 +5222,7 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -5318,19 +5238,18 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Paradis",
 "champ": false,
-"total": 265,
+"total": 279,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -5399,8 +5318,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5418,8 +5336,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5459,7 +5376,7 @@
 9
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -5469,8 +5386,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5498,8 +5414,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5527,8 +5442,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -5562,33 +5476,37 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 29,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"5 sacks",
-10
+"6 sacks",
+12
 ],
 [
 "1 INT",
@@ -5603,12 +5521,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5637,7 +5554,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 196,
+"total": 200,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -5702,23 +5619,22 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -5733,7 +5649,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -5778,8 +5694,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5808,8 +5723,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -5818,7 +5732,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -5927,8 +5841,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5946,8 +5859,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6001,8 +5913,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6021,8 +5932,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6040,8 +5950,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6060,7 +5969,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -6097,8 +6006,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6137,7 +6045,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 208,
+"total": 217,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6186,16 +6094,16 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -6210,7 +6118,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -6237,8 +6145,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6282,8 +6189,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6292,8 +6198,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6322,7 +6227,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -6341,8 +6246,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6369,8 +6273,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
@@ -6398,7 +6302,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6414,19 +6318,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 127,
+"total": 132,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -6461,8 +6364,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6488,8 +6390,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6560,8 +6461,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6589,8 +6489,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6599,8 +6498,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -6626,8 +6525,7 @@
 -9
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6655,7 +6553,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6671,19 +6569,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Pacman",
 "champ": false,
-"total": 287,
+"total": 299,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -6724,8 +6621,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -6741,16 +6637,16 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -6765,7 +6661,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -6784,8 +6680,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6839,8 +6734,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6872,8 +6766,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -6899,7 +6792,7 @@
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6915,12 +6808,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -6942,23 +6834,22 @@
 4
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 29,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"5 sacks",
-10
+"6 sacks",
+12
 ],
 [
 "1 INT",
@@ -6973,18 +6864,17 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -7000,19 +6890,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Svendson",
 "champ": false,
-"total": 242,
+"total": 246,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -7063,23 +6952,22 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -7094,7 +6982,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -7117,8 +7005,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7172,8 +7059,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7182,8 +7068,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7192,8 +7077,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7212,7 +7096,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -7257,8 +7141,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -7297,7 +7180,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 186,
+"total": 185,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -7348,8 +7231,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7393,23 +7275,22 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -7424,7 +7305,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -7454,8 +7335,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "WR",
@@ -7464,8 +7345,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7504,8 +7384,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7533,7 +7413,7 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -7549,12 +7429,11 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 }
 ]
 },
@@ -7596,8 +7475,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7645,8 +7523,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7668,8 +7545,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7720,8 +7596,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7739,8 +7614,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -7768,8 +7642,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7869,8 +7742,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7928,8 +7800,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7948,8 +7819,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7981,8 +7851,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8010,8 +7879,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8029,8 +7897,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8064,8 +7931,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8193,8 +8059,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8212,8 +8077,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8273,8 +8137,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8283,8 +8146,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8302,8 +8164,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8331,8 +8192,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8381,7 +8241,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 280,
+"total": 289,
 "comm": null,
 "prev": 2966,
 "alive": true,
@@ -8432,8 +8292,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8459,23 +8318,22 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -8490,7 +8348,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -8531,8 +8389,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8551,8 +8408,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8561,8 +8417,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8590,8 +8445,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8609,8 +8463,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8644,8 +8497,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8673,7 +8525,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8689,19 +8541,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 220,
+"total": 226,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -8752,8 +8603,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8797,8 +8647,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8817,8 +8666,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8840,8 +8688,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8879,8 +8726,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8906,7 +8752,7 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -8920,10 +8766,13 @@
 [
 "52-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8951,7 +8800,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8967,12 +8816,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
@@ -9076,8 +8924,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9115,8 +8962,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9144,8 +8990,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9205,8 +9050,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9255,7 +9099,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 166,
+"total": 171,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -9294,23 +9138,22 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -9325,7 +9168,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -9374,8 +9217,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9393,8 +9235,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9442,7 +9283,7 @@
 7
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -9452,23 +9293,21 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Chase McLaughlin",
 "team": "TB",
-"pts": 2,
+"pts": 3,
 "comm": null,
 "bd": [
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9477,7 +9316,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -9556,8 +9395,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9607,8 +9445,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9630,8 +9467,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9660,8 +9496,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9697,8 +9532,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -9734,8 +9568,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9794,7 +9627,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 210,
+"total": 222,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -9859,8 +9692,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9878,8 +9710,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9941,8 +9772,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9960,8 +9790,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9980,7 +9809,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -9997,11 +9826,16 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -10019,8 +9853,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10059,7 +9892,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 223,
+"total": 222,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -10130,8 +9963,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10159,23 +9991,22 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -10190,7 +10021,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -10266,8 +10097,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10276,8 +10106,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -10295,7 +10125,7 @@
 4
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -10332,7 +10162,7 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -10348,19 +10178,18 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "TJP",
 "champ": false,
-"total": 228,
+"total": 224,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -10401,8 +10230,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10434,8 +10262,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10509,8 +10336,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10546,7 +10372,7 @@
 "pos": "K",
 "name": "Chris Boswell",
 "team": "PIT",
-"pts": 24,
+"pts": 25,
 "comm": null,
 "bd": [
 [
@@ -10560,10 +10386,13 @@
 [
 "52-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10597,14 +10426,13 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 8,
+"pts": 3,
 "comm": null,
 "bd": [
 [
@@ -10620,12 +10448,11 @@
 2
 ],
 [
-"Trailing",
-0
+"Loss",
+-5
 ]
 ],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10654,7 +10481,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 228,
+"total": 234,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -10705,8 +10532,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10728,8 +10554,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -10770,8 +10595,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "WR",
@@ -10793,8 +10618,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10822,8 +10646,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10841,8 +10664,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -10858,7 +10680,7 @@
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -10874,12 +10696,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -10917,7 +10738,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -10933,19 +10754,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 226,
+"total": 237,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -11000,8 +10820,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11019,23 +10838,22 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -11050,7 +10868,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -11077,8 +10895,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11110,8 +10927,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11130,8 +10946,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11149,8 +10964,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11178,8 +10992,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -11195,7 +11008,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -11211,27 +11024,26 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 29,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"5 sacks",
-10
+"6 sacks",
+12
 ],
 [
 "1 INT",
@@ -11246,12 +11058,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 }
 ]
 },
@@ -11341,8 +11152,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11364,8 +11174,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11384,8 +11193,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11403,8 +11211,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11489,7 +11296,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 195,
+"total": 207,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -11558,8 +11365,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11623,8 +11429,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11652,8 +11457,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11671,8 +11475,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11688,11 +11491,16 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
@@ -11761,7 +11569,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 209,
+"total": 215,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -11830,8 +11638,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11915,8 +11722,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11954,14 +11760,13 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -11977,12 +11782,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12010,7 +11814,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12026,19 +11830,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Adam",
 "champ": false,
-"total": 235,
+"total": 257,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -12077,8 +11880,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12104,23 +11906,22 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 40,
+"pts": 44,
 "comm": null,
 "bd": [
 [
-"24 rushes",
-14
+"27 rushes",
+17
 ],
 [
-"114 rush yds",
-11
+"120 rush yds",
+12
 ],
 [
 "18-yd TD run",
@@ -12135,7 +11936,7 @@
 2
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -12180,8 +11981,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12210,8 +12010,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12229,8 +12028,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12239,24 +12037,29 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"50-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12272,12 +12075,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12313,7 +12115,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12329,19 +12131,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 186,
+"total": 191,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -12376,8 +12177,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12403,8 +12203,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12426,8 +12225,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12445,8 +12243,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12468,27 +12265,25 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Chris Olave",
 "team": "NO",
-"pts": 17,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"8 catches",
-8
+"9 catches",
+9
 ],
 [
-"98 rec yds",
-9
+"102 rec yds",
+10
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12497,7 +12292,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -12507,8 +12302,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12536,14 +12330,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12559,27 +12353,26 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 29,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"5 sacks",
-10
+"6 sacks",
+12
 ],
 [
 "1 INT",
@@ -12594,12 +12387,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12616,7 +12408,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 145,
+"total": 166,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -12651,8 +12443,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12706,8 +12497,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12735,8 +12525,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12745,8 +12534,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12768,8 +12556,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12787,8 +12574,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12814,7 +12600,7 @@
 "pos": "K",
 "name": "Joey Slye",
 "team": "TEN",
-"pts": 20,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12830,22 +12616,30 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"Leading",
+0
+]
+],
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "DEF",
@@ -12874,7 +12668,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 147,
+"total": 157,
 "comm": null,
 "prev": 2122,
 "alive": false,
@@ -12903,8 +12697,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12926,8 +12719,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12963,8 +12755,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12980,34 +12771,38 @@
 "pos": "WR",
 "name": "Tetairoa McMillan",
 "team": "CAR",
-"pts": 16,
+"pts": 19,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
 ],
 [
-"58 rec yds",
-5
+"71 rec yds",
+7
 ],
 [
 "7-yd TD catch",
 6
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
 "pos": "WR",
 "name": "DeVonta Smith",
 "team": "PHI",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "PIT 9 @ PHI 19 \u00b7 Q4 1:56",
-"on": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "PIT 16 @ PHI 19 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13038,8 +12833,7 @@
 6
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13057,8 +12851,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13076,8 +12869,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13110,16 +12902,16 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 29,
+"pts": 31,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"13 pts allowed",
+5
 ],
 [
-"5 sacks",
-10
+"6 sacks",
+12
 ],
 [
 "1 INT",
@@ -13134,12 +12926,11 @@
 5
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 }
 ]
 },
@@ -13197,8 +12988,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13248,8 +13038,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13281,8 +13070,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13310,7 +13098,7 @@
 9
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -13339,8 +13127,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13366,8 +13153,7 @@
 -9
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13416,7 +13202,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 268,
+"total": 273,
 "comm": null,
 "prev": 2443,
 "alive": false,
@@ -13475,8 +13261,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13502,8 +13287,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13525,8 +13309,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13544,8 +13327,7 @@
 11
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13563,8 +13345,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13605,8 +13386,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13615,8 +13395,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13643,8 +13422,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 51 \u00b7 Q4 1:21",
-"on": true
+"game": "TEN 30 @ DAL 51 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13678,8 +13456,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13715,7 +13492,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -13731,19 +13508,18 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 147,
+"total": 158,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -13782,8 +13558,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13809,8 +13584,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 31 \u00b7 Q4 1:55",
-"on": true
+"game": "TB 21 @ DET 31 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -13819,8 +13593,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "RB",
@@ -13851,7 +13625,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -13890,8 +13664,7 @@
 10
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13910,8 +13683,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 2:00",
-"on": true
+"game": "NO 13 @ CHI 21 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -13920,14 +13692,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ @ LAC \u00b7 Sun 4:05 ET",
-"yet": true
+"game": "NYJ 3 @ LAC 0 \u00b7 Q1 11:08",
+"on": true
 },
 {
 "pos": "K",
 "name": "Ryan Fitzgerald",
 "team": "CAR",
-"pts": 9,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -13935,11 +13707,15 @@
 6
 ],
 [
+"37-yd FG",
+6
+],
+[
 "3 XP",
 3
 ]
 ],
-"game": "BAL 33 @ CAR 32 \u00b7 Q4 6:01",
+"game": "BAL 33 @ CAR 35 \u00b7 Q4 1:44",
 "on": true
 },
 {
@@ -13968,7 +13744,7 @@
 "pos": "DEF",
 "name": "Bills D",
 "team": "BUF",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -13984,12 +13760,11 @@
 2
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "MIA 9 @ BUF 26 \u00b7 Q4 1:02",
-"on": true
+"game": "MIA 9 @ BUF 26 \u00b7 Final"
 }
 ]
 }
@@ -14006,39 +13781,39 @@
 "live": false
 },
 {
-"t": "NO 10 @ CHI 21",
-"s": "Q4 2:00",
-"live": true
+"t": "NO 13 @ CHI 21",
+"s": "Final",
+"live": false
 },
 {
-"t": "TB 14 @ DET 31",
-"s": "Q4 1:55",
-"live": true
+"t": "TB 21 @ DET 31",
+"s": "Final",
+"live": false
 },
 {
-"t": "TEN 23 @ DAL 51",
-"s": "Q4 1:21",
-"live": true
+"t": "TEN 30 @ DAL 51",
+"s": "Final",
+"live": false
 },
 {
-"t": "BAL 33 @ CAR 32",
-"s": "Q4 6:01",
+"t": "BAL 33 @ CAR 35",
+"s": "Q4 1:44",
 "live": true
 },
 {
 "t": "MIA 9 @ BUF 26",
-"s": "Q4 1:02",
-"live": true
-},
-{
-"t": "PIT 9 @ PHI 19",
-"s": "Q4 1:56",
-"live": true
-},
-{
-"t": "NYJ @ LAC",
-"s": "Sun 4:05 ET",
+"s": "Final",
 "live": false
+},
+{
+"t": "PIT 16 @ PHI 19",
+"s": "Final",
+"live": false
+},
+{
+"t": "NYJ 3 @ LAC 0",
+"s": "Q1 11:08",
+"live": true
 },
 {
 "t": "LV @ DEN",
