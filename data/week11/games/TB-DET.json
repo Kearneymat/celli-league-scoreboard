@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 2:41",
+"clock": "Q4 13:23",
 "score": {
 "DET": 17,
 "TB": 14
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 15,
-"rush_yds": 55,
+"rush_att": 16,
+"rush_yds": 64,
 "rec": 2,
 "rec_yds": 25,
 "rush_td_lengths": [
@@ -16,8 +16,8 @@
 ]
 },
 "Jahmyr Gibbs": {
-"rush_att": 10,
-"rush_yds": 36,
+"rush_att": 12,
+"rush_yds": 47,
 "rec": 2,
 "rec_yds": 4
 },
@@ -53,7 +53,7 @@
 },
 "defenses": {
 "TB": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

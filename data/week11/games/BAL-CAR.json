@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 7:38",
+"clock": "Q3 4:19",
 "score": {
 "CAR": 29,
 "BAL": 26
@@ -14,8 +14,8 @@
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 16,
-"rush_yds": 90,
+"rush_att": 17,
+"rush_yds": 91,
 "rush_td_lengths": [
 18,
 1
@@ -29,13 +29,13 @@
 7
 ]
 },
+"Darren Waller": {
+"rec": 3,
+"rec_yds": 42
+},
 "Jalen Coker": {
 "rec": 1,
 "rec_yds": 35
-},
-"Darren Waller": {
-"rec": 2,
-"rec_yds": 15
 }
 },
 "kickers": {
@@ -57,7 +57,7 @@
 "defenses": {
 "BAL": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 1,
 "def_st_td_lengths": [
@@ -65,7 +65,7 @@
 ]
 },
 "CAR": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 2,
 "safeties": 0,

@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 4:23",
+"clock": "Q4 15:00",
 "score": {
-"DAL": 34,
+"DAL": 41,
 "TEN": 23
 },
 "players": {
 "Cam Ward": {
-"pass_cmp": 9,
-"pass_yds": 145,
+"pass_cmp": 10,
+"pass_yds": 154,
 "rush_att": 2,
 "rush_yds": 3,
 "rush_td_lengths": [
@@ -19,8 +19,8 @@
 ]
 },
 "Tony Pollard": {
-"rush_att": 13,
-"rush_yds": 71
+"rush_att": 14,
+"rush_yds": 75
 },
 "Carnell Tate": {
 "rec": 2,
@@ -36,12 +36,15 @@
 "Dak Prescott": {
 "pass_cmp": 24,
 "pass_yds": 301,
-"rush_att": 2,
-"rush_yds": 4,
+"rush_att": 3,
+"rush_yds": 10,
 "pass_td_lengths": [
 8,
 10,
 11
+],
+"rush_td_lengths": [
+2
 ]
 },
 "Javonte Williams": {
@@ -91,7 +94,7 @@
 "Brandon Aubrey": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 4,
+"xp_made": 5,
 "xp_missed": 0
 }
 },
@@ -104,7 +107,7 @@
 "def_st_td_lengths": []
 },
 "DAL": {
-"sacks": 3,
+"sacks": 4,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
