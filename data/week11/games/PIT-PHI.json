@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q3 8:33",
+"clock": "Q3 4:48",
 "score": {
 "PHI": 16,
-"PIT": 6
+"PIT": 9
 },
 "players": {
 "Jaylen Warren": {
@@ -21,7 +21,8 @@
 "Chris Boswell": {
 "fg_made_dist": [
 25,
-40
+40,
+52
 ],
 "fg_missed_dist": [],
 "xp_made": 0,

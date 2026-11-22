@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 3:05",
+"clock": "Q4 14:54",
 "score": {
-"KC": 27,
+"KC": 34,
 "ARI": 7
 },
 "players": {
@@ -13,18 +13,19 @@
 "rec_yds": 26
 },
 "Patrick Mahomes": {
-"pass_cmp": 21,
-"pass_yds": 233,
+"pass_cmp": 27,
+"pass_yds": 324,
 "pass_td_lengths": [
 8,
-22
+22,
+18
 ]
 },
 "Emmett Johnson": {
-"rush_att": 19,
-"rush_yds": 75,
-"rec": 3,
-"rec_yds": 26,
+"rush_att": 20,
+"rush_yds": 81,
+"rec": 4,
+"rec_yds": 38,
 "rush_td_lengths": [
 3
 ]

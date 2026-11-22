@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 7:16",
+"clock": "Q3 1:27",
 "score": {
 "CHI": 19,
 "NO": 10
@@ -13,13 +13,13 @@
 "rec_yds": 6
 },
 "Chris Olave": {
-"rec": 3,
-"rec_yds": 48
+"rec": 5,
+"rec_yds": 63
 },
 "Juwan Johnson": {},
 "Caleb Williams": {
 "pass_cmp": 13,
-"pass_yds": 162,
+"pass_yds": 163,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 13,
@@ -39,7 +39,7 @@
 },
 "Luther Burden": {
 "rush_att": 1,
-"rush_yds": 4,
+"rush_yds": 3,
 "rec": 2,
 "rec_yds": 10
 },

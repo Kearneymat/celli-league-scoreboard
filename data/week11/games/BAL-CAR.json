@@ -1,34 +1,37 @@
 {
 "status": "live",
-"clock": "Q3 12:12",
+"clock": "Q3 7:38",
 "score": {
-"CAR": 22,
+"CAR": 29,
 "BAL": 26
 },
 "players": {
 "Zay Flowers": {
+"rush_att": 1,
+"rush_yds": -13,
 "rec": 6,
 "rec_yds": 79
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 12,
-"rush_yds": 61,
+"rush_att": 16,
+"rush_yds": 90,
 "rush_td_lengths": [
-18
+18,
+1
 ],
 "two_pt": 1
+},
+"Tetairoa McMillan": {
+"rec": 5,
+"rec_yds": 58,
+"rec_td_lengths": [
+7
+]
 },
 "Jalen Coker": {
 "rec": 1,
 "rec_yds": 35
-},
-"Tetairoa McMillan": {
-"rec": 3,
-"rec_yds": 17,
-"rec_td_lengths": [
-7
-]
 },
 "Darren Waller": {
 "rec": 2,
@@ -47,7 +50,7 @@
 "Ryan Fitzgerald": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 }
 },
