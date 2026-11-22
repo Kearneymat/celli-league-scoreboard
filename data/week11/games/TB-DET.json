@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 9:05",
 "score": {
-"DET": 0,
+"DET": 7,
 "TB": 0
 },
 "players": {
@@ -11,12 +11,19 @@
 "rush_yds": 9
 },
 "Jahmyr Gibbs": {
-"rush_att": 4,
-"rush_yds": 14
+"rush_att": 6,
+"rush_yds": 18
 },
 "Sam LaPorta": {
 "rec": 2,
 "rec_yds": 58
+},
+"Amon-Ra St. Brown": {
+"rec": 3,
+"rec_yds": 23,
+"rec_td_lengths": [
+14
+]
 }
 },
 "kickers": {
@@ -25,7 +32,7 @@
 "fg_missed_dist": [
 53
 ],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },

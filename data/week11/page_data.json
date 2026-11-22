@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 53,
+"total": 57,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -26,7 +26,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -36,7 +36,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -46,7 +46,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -65,7 +65,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -82,10 +82,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -105,7 +114,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -125,7 +134,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -168,26 +177,30 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -195,7 +208,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 52,
+"total": 57,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -217,7 +230,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -227,7 +240,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -237,7 +250,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -256,7 +269,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -291,10 +304,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -314,7 +336,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -324,7 +346,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -339,36 +361,45 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Ryan Fitzgerald",
 "team": "CAR",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -386,7 +417,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 53,
+"total": 57,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -408,7 +439,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -418,7 +449,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -428,7 +459,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -447,7 +478,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -464,10 +495,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -487,7 +527,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -497,7 +537,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -534,19 +574,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -569,7 +613,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -577,7 +621,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 32,
+"total": 49,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -596,10 +640,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -609,7 +658,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -628,7 +677,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -645,10 +694,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -668,17 +722,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -698,7 +761,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -713,7 +776,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -730,19 +793,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -760,7 +827,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 59,
+"total": 51,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -792,7 +859,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -811,7 +878,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -821,7 +888,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
@@ -831,7 +898,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -851,7 +918,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -871,7 +938,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -916,19 +983,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -951,7 +1022,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -959,7 +1030,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 59,
+"total": 63,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -981,7 +1052,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -991,7 +1062,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -1010,7 +1081,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1027,10 +1098,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1060,7 +1140,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -1105,26 +1185,30 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1147,7 +1231,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -1155,7 +1239,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 73,
+"total": 87,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1207,7 +1291,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -1222,7 +1306,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1241,7 +1325,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1276,10 +1360,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1346,7 +1439,7 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -1354,11 +1447,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 }
 ]
@@ -1366,7 +1463,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 80,
+"total": 92,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -1388,7 +1485,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1407,7 +1504,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1427,7 +1524,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1454,20 +1551,34 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -1487,7 +1598,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -1502,14 +1613,14 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -1519,28 +1630,36 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1563,7 +1682,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -1571,7 +1690,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 59,
+"total": 58,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -1593,7 +1712,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1603,7 +1722,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -1613,7 +1732,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1632,17 +1751,22 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -1672,7 +1796,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -1717,26 +1841,30 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1759,7 +1887,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -1767,7 +1895,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 31,
+"total": 35,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -1789,7 +1917,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1799,7 +1927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -1828,7 +1956,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1845,10 +1973,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1868,7 +2005,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -1878,7 +2015,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -1908,26 +2045,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -1945,7 +2086,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 59,
+"total": 69,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -1957,7 +2098,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -1992,7 +2133,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2002,17 +2143,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2029,10 +2179,15 @@
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD catch",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -2061,7 +2216,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2071,7 +2226,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2114,26 +2269,30 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -2141,7 +2300,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 88,
+"total": 100,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -2183,7 +2342,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2202,7 +2361,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2227,10 +2386,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2260,7 +2428,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2275,7 +2443,7 @@
 9
 ]
 ],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -2285,7 +2453,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -2295,7 +2463,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
@@ -2348,7 +2516,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -2356,7 +2524,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 84,
+"total": 98,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -2383,7 +2551,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2393,7 +2561,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -2403,7 +2571,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2422,7 +2590,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2457,10 +2625,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2498,7 +2675,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2541,14 +2718,14 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 15,
+"pts": 17,
 "comm": null,
 "bd": [
 [
@@ -2556,11 +2733,15 @@
 15
 ],
 [
+"1 sacks",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 }
 ]
@@ -2568,7 +2749,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 54,
+"total": 58,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -2580,7 +2761,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2590,7 +2771,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2620,7 +2801,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2637,10 +2818,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2660,7 +2850,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2689,7 +2879,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2704,7 +2894,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2721,19 +2911,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2756,7 +2950,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -2764,7 +2958,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 59,
+"total": 63,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -2786,7 +2980,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2805,7 +2999,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2815,7 +3009,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2825,17 +3019,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2855,7 +3058,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -2920,19 +3123,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -2955,7 +3162,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -2963,7 +3170,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 69,
+"total": 89,
 "comm": null,
 "prev": 2752,
 "alive": true,
@@ -2985,7 +3192,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -2995,7 +3202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -3005,7 +3212,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3024,27 +3231,41 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -3109,15 +3330,19 @@
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 53-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -3170,7 +3395,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -3178,7 +3403,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 53,
+"total": 57,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -3190,7 +3415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3210,7 +3435,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3229,7 +3454,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3276,10 +3501,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3299,7 +3533,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -3319,7 +3553,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
@@ -3342,26 +3576,30 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -3369,7 +3607,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 42,
+"total": 61,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -3391,7 +3629,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3401,7 +3639,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -3411,7 +3649,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3430,7 +3668,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3447,20 +3685,34 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -3470,7 +3722,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3480,7 +3732,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -3558,7 +3810,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 50,
+"total": 51,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -3580,7 +3832,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3590,7 +3842,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3609,7 +3861,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3619,17 +3871,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3646,10 +3907,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -3659,7 +3925,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -3698,38 +3964,42 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 19,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "2 sacks",
@@ -3740,7 +4010,7 @@
 0
 ]
 ],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 }
 ]
@@ -3748,7 +4018,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 82,
+"total": 77,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -3765,7 +4035,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3785,7 +4055,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -3795,7 +4065,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3814,7 +4084,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3824,7 +4094,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -3834,7 +4104,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -3854,7 +4124,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -3874,14 +4144,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -3891,9 +4161,13 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -3910,7 +4184,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -3922,30 +4196,38 @@
 4
 ],
 [
+"1 fum rec",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -3953,7 +4235,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 37,
+"total": 41,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -3980,7 +4262,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -3990,7 +4272,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -4000,7 +4282,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4019,17 +4301,26 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4059,7 +4350,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4069,7 +4360,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4106,19 +4397,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4136,7 +4431,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 38,
+"total": 55,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -4155,10 +4450,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -4168,7 +4468,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4187,7 +4487,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4204,10 +4504,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4227,17 +4536,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -4257,7 +4571,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4290,26 +4604,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4327,7 +4645,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 85,
+"total": 77,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -4379,7 +4697,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4389,7 +4707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -4408,7 +4726,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4418,7 +4736,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4428,7 +4746,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4458,7 +4776,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4468,7 +4786,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4503,19 +4821,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4538,7 +4860,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -4546,7 +4868,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 62,
+"total": 54,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -4568,7 +4890,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4578,7 +4900,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -4607,7 +4929,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4647,7 +4969,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4667,7 +4989,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4692,26 +5014,30 @@
 9
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4734,7 +5060,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -4742,7 +5068,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 62,
+"total": 77,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -4754,7 +5080,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4774,7 +5100,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4784,7 +5110,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4803,7 +5129,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -4823,7 +5149,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4840,10 +5166,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4878,29 +5213,33 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 53-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -4912,11 +5251,15 @@
 4
 ],
 [
+"1 fum rec",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -4939,7 +5282,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -4947,7 +5290,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 52,
+"total": 57,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -4969,7 +5312,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -4979,7 +5322,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4989,7 +5332,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -5008,7 +5351,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -5025,10 +5368,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5038,7 +5390,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5048,7 +5400,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5068,7 +5420,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -5085,7 +5437,7 @@
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -5095,9 +5447,13 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -5114,19 +5470,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -5134,7 +5494,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 50,
+"total": 32,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -5156,7 +5516,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5175,7 +5535,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -5185,7 +5545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -5195,7 +5555,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -5235,7 +5595,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5282,31 +5642,35 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 19,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "2 sacks",
@@ -5317,7 +5681,7 @@
 0
 ]
 ],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 }
 ]
@@ -5325,7 +5689,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 32,
+"total": 24,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -5347,7 +5711,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5366,7 +5730,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -5376,7 +5740,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -5386,7 +5750,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -5425,7 +5789,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5435,7 +5799,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5460,7 +5824,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5487,19 +5851,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -5507,7 +5875,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 84,
+"total": 89,
 "comm": null,
 "prev": 2758,
 "alive": true,
@@ -5529,7 +5897,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5558,7 +5926,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -5568,7 +5936,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -5588,7 +5956,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5605,10 +5973,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5628,7 +6005,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5643,14 +6020,14 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -5660,9 +6037,13 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -5699,19 +6080,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -5719,7 +6104,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 68,
+"total": 72,
 "comm": null,
 "prev": 2747,
 "alive": true,
@@ -5776,7 +6161,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5786,7 +6171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5831,10 +6216,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5844,7 +6238,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5854,7 +6248,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -5879,7 +6273,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5906,19 +6300,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -5926,7 +6324,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 75,
+"total": 68,
 "comm": null,
 "prev": 2966,
 "alive": true,
@@ -5948,7 +6346,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -5958,7 +6356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -5968,7 +6366,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -5987,7 +6385,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -5997,7 +6395,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6017,7 +6415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6027,7 +6425,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6047,7 +6445,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6062,14 +6460,14 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -6079,28 +6477,36 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6123,7 +6529,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -6131,7 +6537,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 53,
+"total": 57,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -6153,7 +6559,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6172,7 +6578,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6182,7 +6588,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6202,17 +6608,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6242,7 +6657,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6272,26 +6687,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6314,7 +6733,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -6349,7 +6768,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6378,7 +6797,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6388,7 +6807,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6415,10 +6834,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -6438,7 +6862,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6457,14 +6881,14 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -6474,9 +6898,13 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6493,19 +6921,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6523,7 +6955,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 37,
+"total": 42,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -6542,10 +6974,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6555,7 +6992,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -6574,7 +7011,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6589,17 +7026,22 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -6639,7 +7081,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -6649,7 +7091,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6659,7 +7101,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -6669,7 +7111,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -6686,19 +7128,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -6706,7 +7152,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 69,
+"total": 79,
 "comm": null,
 "prev": 2732,
 "alive": true,
@@ -6725,10 +7171,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6757,7 +7208,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6767,17 +7218,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6807,7 +7267,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6817,7 +7277,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6827,7 +7287,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -6860,7 +7320,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6897,19 +7357,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -6917,7 +7381,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 43,
+"total": 42,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -6944,7 +7408,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6954,7 +7418,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -6964,7 +7428,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -6983,7 +7447,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -6998,7 +7462,7 @@
 5
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7008,17 +7472,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -7038,7 +7507,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7073,26 +7542,30 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7110,7 +7583,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 92,
+"total": 85,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -7152,7 +7625,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7172,7 +7645,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7182,7 +7655,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7249,7 +7722,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -7266,15 +7739,19 @@
 "pos": "K",
 "name": "Riley Patterson",
 "team": "BAL",
-"pts": 1,
+"pts": 4,
 "comm": null,
 "bd": [
+[
+"28-yd FG",
+3
+],
 [
 "1 XP",
 1
 ]
 ],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7311,12 +7788,12 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 19,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "2 sacks",
@@ -7327,7 +7804,7 @@
 0
 ]
 ],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 }
 ]
@@ -7335,7 +7812,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 71,
+"total": 54,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -7347,7 +7824,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7367,7 +7844,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -7396,7 +7873,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7426,7 +7903,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7466,14 +7943,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -7483,21 +7960,25 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 19,
+"pts": 9,
 "comm": null,
 "bd": [
 [
-"6 pts allowed",
-15
+"13 pts allowed",
+5
 ],
 [
 "2 sacks",
@@ -7508,26 +7989,30 @@
 0
 ]
 ],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -7535,7 +8020,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 59,
+"total": 70,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -7557,7 +8042,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7567,7 +8052,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -7596,7 +8081,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7613,10 +8098,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7633,10 +8127,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -7646,7 +8145,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -7671,7 +8170,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7688,19 +8187,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7723,7 +8226,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -7731,7 +8234,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 73,
+"total": 75,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -7773,7 +8276,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -7783,7 +8286,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7793,7 +8296,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7803,7 +8306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -7823,7 +8326,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7843,7 +8346,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -7853,7 +8356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -7878,7 +8381,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -7911,14 +8414,14 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -7930,11 +8433,15 @@
 4
 ],
 [
+"1 fum rec",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 }
 ]
@@ -7969,7 +8476,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7988,7 +8495,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -7998,7 +8505,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8008,7 +8515,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -8028,7 +8535,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8038,7 +8545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8058,7 +8565,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8116,7 +8623,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 88,
+"total": 99,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -8168,7 +8675,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -8187,7 +8694,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8214,10 +8721,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8234,10 +8750,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -8247,7 +8768,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8314,19 +8835,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -8334,7 +8859,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 66,
+"total": 58,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -8361,7 +8886,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8371,7 +8896,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -8390,7 +8915,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8440,7 +8965,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8475,7 +9000,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8490,26 +9015,30 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8532,7 +9061,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -8540,7 +9069,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 70,
+"total": 88,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -8559,10 +9088,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -8572,7 +9106,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -8582,7 +9116,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -8601,17 +9135,26 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8641,7 +9184,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8651,7 +9194,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8661,7 +9204,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -8686,7 +9229,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8739,7 +9282,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -8747,7 +9290,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 30,
+"total": 44,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -8769,7 +9312,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8779,7 +9322,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -8789,7 +9332,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -8799,17 +9342,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -8819,7 +9371,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8829,7 +9381,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -8839,7 +9391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8883,14 +9435,14 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -8902,11 +9454,15 @@
 4
 ],
 [
+"1 fum rec",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8924,7 +9480,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 37,
+"total": 42,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -8946,7 +9502,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -8965,7 +9521,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -8985,7 +9541,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -9002,10 +9558,15 @@
 "pos": "WR",
 "name": "Amon-Ra St. Brown",
 "team": "DET",
-"pts": 0,
+"pts": 7,
 "comm": null,
-"bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"bd": [
+[
+"14-yd TD catch",
+7
+]
+],
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -9015,17 +9576,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD catch",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9035,7 +9601,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -9070,7 +9636,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9087,19 +9653,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 }
 ]
@@ -9107,7 +9677,7 @@
 {
 "owner": "Lee",
 "champ": false,
-"total": 37,
+"total": 51,
 "comm": null,
 "prev": 2122,
 "alive": false,
@@ -9116,10 +9686,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9129,7 +9704,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -9154,7 +9729,7 @@
 6
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9174,7 +9749,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -9184,7 +9759,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 0 @ PHI 6 \u00b7 Q1 1:19",
+"game": "PIT 0 @ PHI 13 \u00b7 Q2 11:41",
 "on": true
 },
 {
@@ -9200,10 +9775,15 @@
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD catch",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9222,7 +9802,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9237,7 +9817,7 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9271,7 +9851,7 @@
 "pos": "DEF",
 "name": "Bears D",
 "team": "CHI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
@@ -9283,11 +9863,15 @@
 4
 ],
 [
+"1 fum rec",
+2
+],
+[
 "Leading",
 0
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 }
 ]
@@ -9295,7 +9879,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 40,
+"total": 44,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -9317,7 +9901,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9336,7 +9920,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -9356,7 +9940,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9373,10 +9957,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9396,7 +9989,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -9416,7 +10009,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -9431,7 +10024,7 @@
 9
 ]
 ],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -9448,19 +10041,23 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -9478,7 +10075,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 101,
+"total": 120,
 "comm": null,
 "prev": 2443,
 "alive": false,
@@ -9517,10 +10114,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9530,7 +10132,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -9540,7 +10142,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -9550,7 +10152,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9560,7 +10162,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9586,10 +10188,19 @@
 "pos": "WR",
 "name": "CeeDee Lamb",
 "team": "DAL",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"71 rec yds",
+7
+]
+],
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
@@ -9599,7 +10210,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9623,14 +10234,14 @@
 1
 ]
 ],
-"game": "TEN 3 @ DAL 13 \u00b7 Q1 1:35",
+"game": "TEN 3 @ DAL 13 \u00b7 Q2 13:09",
 "on": true
 },
 {
 "pos": "K",
 "name": "Tyler Bass",
 "team": "BUF",
-"pts": 21,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -9640,9 +10251,13 @@
 [
 "54-yd FG",
 12
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9695,7 +10310,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -9703,7 +10318,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 53,
+"total": 52,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -9722,10 +10337,15 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 0,
+"pts": 6,
 "comm": null,
-"bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"bd": [
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9735,7 +10355,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TB 0 @ DET 0 \u00b7 Q2 15:00",
+"game": "TB 0 @ DET 7 \u00b7 Q2 9:05",
 "on": true
 },
 {
@@ -9764,7 +10384,7 @@
 6
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -9774,7 +10394,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -9804,7 +10424,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 },
 {
@@ -9824,7 +10444,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 0 @ CHI 3 \u00b7 Q1 0:40",
+"game": "NO 0 @ CHI 3 \u00b7 Q2 12:40",
 "on": true
 },
 {
@@ -9841,29 +10461,38 @@
 "pos": "K",
 "name": "Ryan Fitzgerald",
 "team": "CAR",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "BAL 9 @ CAR 0 \u00b7 Q1 2:57",
+"bd": [
+[
+"1 XP",
+1
+]
+],
+"game": "BAL 12 @ CAR 7 \u00b7 Q2 15:00",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 20,
+"pts": 12,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
+"7 pts allowed",
+10
+],
+[
+"1 sacks",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "ARI 0 @ KC 14 \u00b7 Q1 0:48",
+"game": "ARI 7 @ KC 14 \u00b7 Q2 9:48",
 "on": true
 },
 {
@@ -9886,7 +10515,7 @@
 0
 ]
 ],
-"game": "MIA 0 @ BUF 6 \u00b7 Q1 2:34",
+"game": "MIA 0 @ BUF 13 \u00b7 Q2 13:16",
 "on": true
 }
 ]
@@ -9899,38 +10528,38 @@
 "live": false
 },
 {
-"t": "ARI 0 @ KC 14",
-"s": "Q1 0:48",
+"t": "ARI 7 @ KC 14",
+"s": "Q2 9:48",
 "live": true
 },
 {
 "t": "NO 0 @ CHI 3",
-"s": "Q1 0:40",
+"s": "Q2 12:40",
 "live": true
 },
 {
-"t": "TB 0 @ DET 0",
-"s": "Q2 15:00",
+"t": "TB 0 @ DET 7",
+"s": "Q2 9:05",
 "live": true
 },
 {
 "t": "TEN 3 @ DAL 13",
-"s": "Q1 1:35",
+"s": "Q2 13:09",
 "live": true
 },
 {
-"t": "BAL 9 @ CAR 0",
-"s": "Q1 2:57",
+"t": "BAL 12 @ CAR 7",
+"s": "Q2 15:00",
 "live": true
 },
 {
-"t": "MIA 0 @ BUF 6",
-"s": "Q1 2:34",
+"t": "MIA 0 @ BUF 13",
+"s": "Q2 13:16",
 "live": true
 },
 {
-"t": "PIT 0 @ PHI 6",
-"s": "Q1 1:19",
+"t": "PIT 0 @ PHI 13",
+"s": "Q2 11:41",
 "live": true
 },
 {
