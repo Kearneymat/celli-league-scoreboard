@@ -1,22 +1,22 @@
 {
 "status": "live",
-"clock": "Q4 9:52",
+"clock": "Q4 2:46",
 "score": {
 "BUF": 23,
 "MIA": 9
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 25,
-"pass_yds": 283,
+"pass_cmp": 27,
+"pass_yds": 303,
 "int": 2,
 "pass_td_lengths": [
 4
 ]
 },
 "James Cook": {
-"rush_att": 17,
-"rush_yds": 53,
+"rush_att": 22,
+"rush_yds": 90,
 "rec": 2,
 "rec_yds": 3,
 "rush_td_lengths": [
@@ -30,8 +30,8 @@
 "rec_yds": 101
 },
 "DJ Moore": {
-"rec": 7,
-"rec_yds": 79,
+"rec": 8,
+"rec_yds": 91,
 "rec_td_lengths": [
 4
 ]

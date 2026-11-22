@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 7:26",
+"clock": "Q4 3:22",
 "score": {
-"DET": 17,
+"DET": 24,
 "TB": 14
 },
 "players": {
@@ -16,10 +16,13 @@
 ]
 },
 "Jahmyr Gibbs": {
-"rush_att": 15,
-"rush_yds": 60,
+"rush_att": 18,
+"rush_yds": 68,
 "rec": 4,
-"rec_yds": 20
+"rec_yds": 20,
+"rush_td_lengths": [
+1
+]
 },
 "Sam LaPorta": {
 "rec": 3,
@@ -47,7 +50,7 @@
 "fg_missed_dist": [
 53
 ],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 }
 },
@@ -60,7 +63,7 @@
 "def_st_td_lengths": []
 },
 "DET": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

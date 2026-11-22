@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 202,
+"total": 224,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -23,16 +23,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -47,27 +47,31 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -82,26 +86,26 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -124,8 +128,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -157,7 +160,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -177,7 +180,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -202,7 +205,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -249,14 +252,14 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -268,19 +271,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Ben",
 "champ": false,
-"total": 213,
+"total": 242,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -299,16 +301,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -323,53 +325,57 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -392,8 +398,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -443,7 +448,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -468,7 +473,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -478,7 +483,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -505,7 +510,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -524,14 +529,14 @@
 3
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -543,12 +548,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -565,7 +569,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 198,
+"total": 227,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -584,16 +588,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -608,53 +612,57 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -677,8 +685,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -710,7 +717,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -739,7 +746,7 @@
 7
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -754,7 +761,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -791,7 +798,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -803,12 +810,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -834,7 +840,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -842,7 +848,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 148,
+"total": 167,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -861,16 +867,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -881,26 +887,30 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -923,8 +933,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -952,7 +961,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -981,7 +990,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1004,7 +1013,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1024,14 +1033,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -1039,11 +1048,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1060,7 +1069,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1072,12 +1081,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -1094,7 +1102,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 120,
+"total": 136,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -1123,19 +1131,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -1158,8 +1170,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1168,7 +1179,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
@@ -1187,7 +1198,7 @@
 7
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -1204,23 +1215,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1245,7 +1256,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -1290,7 +1301,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1302,12 +1313,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -1333,7 +1343,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -1341,7 +1351,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 175,
+"total": 198,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1360,16 +1370,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -1384,30 +1394,38 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -1430,8 +1448,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1463,7 +1480,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1493,7 +1510,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -1550,14 +1567,14 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -1569,12 +1586,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -1600,7 +1616,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -1608,7 +1624,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 152,
+"total": 166,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1657,38 +1673,38 @@
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"66 rush yds",
+"67 rush yds",
 6
 ],
 [
@@ -1700,7 +1716,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1723,8 +1739,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1774,7 +1789,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1841,7 +1856,7 @@
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 8,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -1849,15 +1864,19 @@
 0
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 }
 ]
@@ -1865,7 +1884,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 230,
+"total": 250,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -1884,16 +1903,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -1908,11 +1927,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -1935,8 +1958,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1952,19 +1974,19 @@
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2007,7 +2029,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2026,7 +2048,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -2051,7 +2073,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -2078,7 +2100,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2109,14 +2131,14 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2128,12 +2150,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2159,7 +2180,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -2167,7 +2188,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 173,
+"total": 202,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2186,16 +2207,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -2210,49 +2231,57 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2275,8 +2304,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2294,7 +2322,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -2324,7 +2352,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -2381,14 +2409,14 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2400,12 +2428,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2431,7 +2458,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -2439,7 +2466,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 155,
+"total": 178,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2458,16 +2485,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -2482,34 +2509,38 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -2542,8 +2573,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2575,7 +2605,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2595,7 +2625,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -2610,7 +2640,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -2645,14 +2675,14 @@
 2
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2664,12 +2694,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2686,7 +2715,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 217,
+"total": 244,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -2695,16 +2724,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -2719,11 +2748,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2750,15 +2783,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"66 rush yds",
+"67 rush yds",
 6
 ],
 [
@@ -2770,26 +2803,30 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -2812,7 +2849,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -2829,23 +2866,23 @@
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"79 rec yds",
-7
+"91 rec yds",
+9
 ],
 [
 "4-yd TD catch",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -2882,8 +2919,7 @@
 8
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2897,7 +2933,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -2944,14 +2980,14 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -2963,12 +2999,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
@@ -3030,7 +3065,7 @@
 -3
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -3053,8 +3088,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3094,7 +3128,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3129,7 +3163,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -3148,7 +3182,7 @@
 11
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -3163,7 +3197,7 @@
 2
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -3186,7 +3220,7 @@
 12
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
@@ -3243,7 +3277,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -3251,7 +3285,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 204,
+"total": 223,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3294,49 +3328,48 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3359,8 +3392,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3410,7 +3442,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3453,7 +3485,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -3500,14 +3532,14 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Cowboys D",
 "team": "DAL",
-"pts": 8,
+"pts": 12,
 "comm": null,
 "bd": [
 [
@@ -3515,15 +3547,19 @@
 0
 ],
 [
-"4 sacks",
-8
+"5 sacks",
+10
+],
+[
+"1 fum rec",
+2
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 }
 ]
@@ -3531,7 +3567,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 201,
+"total": 219,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -3540,16 +3576,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -3564,18 +3600,22 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "QB",
 "name": "Cam Ward",
 "team": "TEN",
-"pts": 18,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -3585,9 +3625,13 @@
 [
 "1-yd TD run",
 6
+],
+[
+"1 lost fumble",
+-3
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3614,19 +3658,19 @@
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3659,7 +3703,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3679,7 +3723,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -3716,14 +3760,13 @@
 8
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -3731,11 +3774,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3752,7 +3795,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -3764,12 +3807,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3795,7 +3837,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -3803,7 +3845,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 201,
+"total": 223,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -3822,16 +3864,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -3846,11 +3888,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3873,33 +3919,13 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"93 rush yds",
-9
-]
-],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
-"on": true
-},
-{
-"pos": "RB",
-"name": "Chuba Hubbard",
-"team": "CAR",
-"pts": 35,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -3907,8 +3933,27 @@
 11
 ],
 [
-"98 rush yds",
-9
+"110 rush yds",
+11
+]
+],
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
+"on": true
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 37,
+"comm": null,
+"bd": [
+[
+"22 rushes",
+12
+],
+[
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -3923,7 +3968,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -3946,7 +3991,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -3966,7 +4011,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -4031,7 +4076,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4043,12 +4088,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -4074,7 +4118,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -4082,7 +4126,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 224,
+"total": 249,
 "comm": null,
 "prev": 2752,
 "alive": true,
@@ -4101,16 +4145,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -4125,53 +4169,57 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4194,8 +4242,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4217,7 +4264,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4236,7 +4283,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -4301,7 +4348,7 @@
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -4313,11 +4360,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -4374,7 +4421,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -4382,7 +4429,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 191,
+"total": 211,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4391,16 +4438,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -4415,11 +4462,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4436,19 +4487,19 @@
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4471,8 +4522,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -4534,7 +4584,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4559,7 +4609,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -4592,7 +4642,7 @@
 12
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
@@ -4619,14 +4669,14 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -4638,19 +4688,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 223,
+"total": 240,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -4669,16 +4718,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -4693,27 +4742,31 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -4728,26 +4781,26 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4770,8 +4823,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4803,7 +4855,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4822,7 +4874,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -4841,7 +4893,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -4851,7 +4903,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -4929,7 +4981,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 173,
+"total": 204,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -4948,16 +5000,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -4972,30 +5024,34 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5018,26 +5074,29 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -5060,7 +5119,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5089,7 +5148,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -5099,7 +5158,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -5138,14 +5197,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -5157,27 +5216,26 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"19 pts allowed",
 0
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 fum rec",
@@ -5188,7 +5246,7 @@
 0
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 }
 ]
@@ -5196,7 +5254,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 217,
+"total": 237,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -5229,8 +5287,7 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -5246,38 +5303,42 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5300,8 +5361,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5319,7 +5379,7 @@
 7
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -5329,7 +5389,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -5358,7 +5418,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5383,7 +5443,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -5414,7 +5474,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -5459,14 +5519,14 @@
 0
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -5478,19 +5538,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 178,
+"total": 194,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -5533,46 +5592,45 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -5587,7 +5645,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -5610,8 +5668,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5633,7 +5690,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5663,7 +5720,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -5673,7 +5730,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -5710,7 +5767,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -5722,12 +5779,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5744,7 +5800,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 142,
+"total": 158,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -5763,16 +5819,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -5783,26 +5839,26 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5825,8 +5881,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5858,7 +5913,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -5878,7 +5933,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -5897,7 +5952,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -5917,7 +5972,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -5942,7 +5997,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -5950,18 +6005,18 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -5973,12 +6028,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -5995,7 +6049,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 168,
+"total": 186,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6044,16 +6098,16 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -6068,26 +6122,30 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -6110,30 +6168,29 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -6143,7 +6200,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -6173,7 +6230,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -6188,7 +6245,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -6223,7 +6280,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6235,12 +6292,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6266,7 +6322,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -6274,7 +6330,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 94,
+"total": 108,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -6309,26 +6365,30 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -6361,8 +6421,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6401,7 +6460,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -6426,7 +6485,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -6463,14 +6522,14 @@
 -9
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -6482,12 +6541,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -6513,7 +6571,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -6521,7 +6579,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 261,
+"total": 281,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -6530,16 +6588,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -6554,11 +6612,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -6575,16 +6637,16 @@
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -6599,26 +6661,26 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -6641,8 +6703,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6658,23 +6719,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -6707,7 +6768,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -6754,14 +6815,14 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jake Bates",
 "team": "DET",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6773,11 +6834,11 @@
 -1
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -6812,7 +6873,7 @@
 0
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -6839,7 +6900,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -6847,7 +6908,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 212,
+"total": 237,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -6866,16 +6927,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -6890,27 +6951,31 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -6925,30 +6990,30 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -6971,8 +7036,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7004,7 +7068,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7014,7 +7078,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7024,7 +7088,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -7044,7 +7108,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -7085,7 +7149,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -7102,7 +7166,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -7114,19 +7178,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Tansey",
 "champ": false,
-"total": 157,
+"total": 184,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -7145,16 +7208,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -7169,11 +7232,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7196,46 +7263,45 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -7250,7 +7316,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -7290,7 +7356,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7337,7 +7403,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -7349,27 +7415,26 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"19 pts allowed",
 0
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 fum rec",
@@ -7380,7 +7445,7 @@
 0
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 }
 ]
@@ -7388,7 +7453,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 125,
+"total": 151,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -7423,7 +7488,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -7446,49 +7511,52 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
 6
-]
-],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
-"on": true
-},
-{
-"pos": "RB",
-"name": "James Cook",
-"team": "BUF",
-"pts": 18,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"53 rush yds",
-5
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
+"on": true
+},
+{
+"pos": "RB",
+"name": "James Cook",
+"team": "BUF",
+"pts": 27,
+"comm": null,
+"bd": [
+[
+"22 rushes",
+12
+],
+[
+"90 rush yds",
+9
+],
+[
+"1-yd TD run",
+6
+]
+],
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -7524,23 +7592,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7555,7 +7623,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -7572,7 +7640,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -7580,11 +7648,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7611,7 +7679,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -7623,19 +7691,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Keoni",
 "champ": false,
-"total": 222,
+"total": 246,
 "comm": null,
 "prev": 2758,
 "alive": true,
@@ -7654,16 +7721,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -7678,11 +7745,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7715,26 +7786,29 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -7754,7 +7828,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -7787,7 +7861,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7812,14 +7886,14 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -7827,11 +7901,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -7862,7 +7936,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -7899,7 +7973,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -7911,19 +7985,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Shane H",
 "champ": false,
-"total": 150,
+"total": 163,
 "comm": null,
 "prev": 2747,
 "alive": true,
@@ -7972,15 +8045,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"66 rush yds",
+"67 rush yds",
 6
 ],
 [
@@ -7992,26 +8065,26 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8072,7 +8145,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8082,7 +8155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8097,7 +8170,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8114,7 +8187,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -8122,11 +8195,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8153,7 +8226,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8165,19 +8238,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 229,
+"total": 255,
 "comm": null,
 "prev": 2966,
 "alive": true,
@@ -8196,16 +8268,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -8220,46 +8292,54 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -8274,7 +8354,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -8297,8 +8377,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8316,7 +8395,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8336,7 +8415,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8346,7 +8425,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8371,14 +8450,14 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -8386,11 +8465,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8421,14 +8500,14 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8440,12 +8519,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8471,7 +8549,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -8479,7 +8557,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 193,
+"total": 216,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -8498,16 +8576,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -8522,11 +8600,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8549,30 +8631,29 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -8592,7 +8673,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8615,7 +8696,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -8650,7 +8731,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8693,14 +8774,14 @@
 12
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -8712,12 +8793,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -8743,7 +8823,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -8751,7 +8831,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 201,
+"total": 215,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -8794,8 +8874,7 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -8827,30 +8906,29 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -8889,7 +8967,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -8914,7 +8992,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -8941,8 +9019,7 @@
 8
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8972,7 +9049,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -8989,7 +9066,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -9001,12 +9078,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9023,7 +9099,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 151,
+"total": 163,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -9042,16 +9118,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -9062,23 +9138,23 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -9093,7 +9169,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -9116,22 +9192,21 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"66 rush yds",
+"67 rush yds",
 6
 ],
 [
@@ -9143,7 +9218,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9162,7 +9237,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -9211,7 +9286,7 @@
 7
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -9221,7 +9296,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -9236,7 +9311,7 @@
 2
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -9246,7 +9321,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -9263,7 +9338,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -9275,19 +9350,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Lynn",
 "champ": false,
-"total": 192,
+"total": 210,
 "comm": null,
 "prev": 2732,
 "alive": true,
@@ -9306,16 +9380,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -9326,7 +9400,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -9359,26 +9433,25 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9401,7 +9474,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9431,27 +9504,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Trey McBride",
 "team": "ARI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"8 catches",
-15
+"9 catches",
+17
 ],
 [
-"50 rec yds",
+"54 rec yds",
 9
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -9465,7 +9537,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -9490,7 +9562,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -9498,11 +9570,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9539,7 +9611,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -9551,19 +9623,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Hurls",
 "champ": false,
-"total": 188,
+"total": 211,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -9606,49 +9677,48 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9671,8 +9741,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9690,30 +9759,29 @@
 5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9732,7 +9800,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -9752,7 +9820,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -9779,7 +9847,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -9787,18 +9855,18 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -9810,12 +9878,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -9832,7 +9899,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 195,
+"total": 214,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -9871,16 +9938,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -9895,11 +9962,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -9916,26 +9987,7 @@
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"93 rush yds",
-9
-]
-],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
-"on": true
-},
-{
-"pos": "RB",
-"name": "Chuba Hubbard",
-"team": "CAR",
-"pts": 35,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -9943,8 +9995,27 @@
 11
 ],
 [
-"98 rush yds",
-9
+"110 rush yds",
+11
+]
+],
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
+"on": true
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 37,
+"comm": null,
+"bd": [
+[
+"22 rushes",
+12
+],
+[
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -9959,7 +10030,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -10031,7 +10102,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -10060,7 +10131,7 @@
 3
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -10097,16 +10168,16 @@
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"19 pts allowed",
 0
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 fum rec",
@@ -10117,7 +10188,7 @@
 0
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 }
 ]
@@ -10125,7 +10196,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 199,
+"total": 226,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -10134,16 +10205,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -10158,11 +10229,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10179,23 +10254,23 @@
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -10228,8 +10303,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10255,23 +10329,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10324,7 +10398,7 @@
 12
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
@@ -10355,23 +10429,23 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Steelers D",
 "team": "PIT",
-"pts": 6,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"16 pts allowed",
+"19 pts allowed",
 0
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "1 fum rec",
@@ -10382,14 +10456,14 @@
 0
 ]
 ],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -10401,19 +10475,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 201,
+"total": 224,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -10432,16 +10505,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -10456,34 +10529,38 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -10516,8 +10593,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10549,7 +10625,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10578,7 +10654,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -10593,7 +10669,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -10630,7 +10706,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10647,7 +10723,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -10659,12 +10735,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -10690,7 +10765,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -10698,7 +10773,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 182,
+"total": 202,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -10753,33 +10828,14 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"93 rush yds",
-9
-]
-],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
-"on": true
-},
-{
-"pos": "RB",
-"name": "Chuba Hubbard",
-"team": "CAR",
-"pts": 35,
+"pts": 22,
 "comm": null,
 "bd": [
 [
@@ -10787,8 +10843,27 @@
 11
 ],
 [
-"98 rush yds",
-9
+"110 rush yds",
+11
+]
+],
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
+"on": true
+},
+{
+"pos": "RB",
+"name": "Chuba Hubbard",
+"team": "CAR",
+"pts": 37,
+"comm": null,
+"bd": [
+[
+"22 rushes",
+12
+],
+[
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -10803,26 +10878,30 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -10839,23 +10918,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10875,7 +10954,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -10890,7 +10969,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -10907,7 +10986,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -10915,11 +10994,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -10956,7 +11035,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -10991,7 +11070,7 @@
 0
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 }
 ]
@@ -10999,7 +11078,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 154,
+"total": 171,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -11042,8 +11121,7 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11065,49 +11143,48 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "RB",
 "name": "James Cook",
 "team": "BUF",
-"pts": 18,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"22 rushes",
+12
 ],
 [
-"53 rush yds",
-5
+"90 rush yds",
+9
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -11127,7 +11204,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -11146,7 +11223,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -11163,20 +11240,19 @@
 "pos": "TE",
 "name": "Trey McBride",
 "team": "ARI",
-"pts": 24,
+"pts": 26,
 "comm": null,
 "bd": [
 [
-"8 catches",
-15
+"9 catches",
+17
 ],
 [
-"50 rec yds",
+"54 rec yds",
 9
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11233,7 +11309,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 162,
+"total": 176,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -11282,19 +11358,23 @@
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -11317,8 +11397,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11360,7 +11439,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -11389,7 +11468,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -11404,7 +11483,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -11471,7 +11550,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -11483,19 +11562,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Dogga",
 "champ": false,
-"total": 178,
+"total": 195,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -11538,26 +11616,29 @@
 7
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -11580,8 +11661,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11627,23 +11707,23 @@
 "pos": "WR",
 "name": "George Pickens",
 "team": "DAL",
-"pts": 22,
+"pts": 24,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"90 rec yds",
-9
+"102 rec yds",
+10
 ],
 [
 "10-yd TD catch",
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -11670,7 +11750,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -11678,11 +11758,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -11709,14 +11789,14 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -11728,12 +11808,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -11759,7 +11838,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -11767,7 +11846,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 198,
+"total": 213,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -11786,16 +11865,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -11806,42 +11885,46 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Chuba Hubbard",
 "team": "CAR",
-"pts": 35,
+"pts": 37,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"22 rushes",
+12
 ],
 [
-"98 rush yds",
-9
+"103 rush yds",
+10
 ],
 [
 "18-yd TD run",
@@ -11856,7 +11939,7 @@
 2
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -11879,8 +11962,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11902,7 +11984,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -11932,7 +12014,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -11947,7 +12029,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -11957,7 +12039,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -11994,7 +12076,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12051,7 +12133,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -12059,7 +12141,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 141,
+"total": 167,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -12094,68 +12176,72 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
 6
-]
-],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
-"on": true
-},
-{
-"pos": "RB",
-"name": "James Cook",
-"team": "BUF",
-"pts": 18,
-"comm": null,
-"bd": [
-[
-"17 rushes",
-7
-],
-[
-"53 rush yds",
-5
 ],
 [
 "1-yd TD run",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
+"on": true
+},
+{
+"pos": "RB",
+"name": "James Cook",
+"team": "BUF",
+"pts": 27,
+"comm": null,
+"bd": [
+[
+"22 rushes",
+12
+],
+[
+"90 rush yds",
+9
+],
+[
+"1-yd TD run",
+6
+]
+],
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12178,26 +12264,26 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "WR",
 "name": "Chris Olave",
 "team": "NO",
-"pts": 11,
+"pts": 13,
 "comm": null,
 "bd": [
 [
-"5 catches",
-5
+"6 catches",
+6
 ],
 [
-"63 rec yds",
-6
+"74 rec yds",
+7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12207,7 +12293,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -12217,7 +12303,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12273,7 +12359,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12308,7 +12394,7 @@
 0
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12326,7 +12412,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 132,
+"total": 140,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -12361,7 +12447,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12384,8 +12470,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12417,7 +12502,7 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -12446,7 +12531,7 @@
 7
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -12456,30 +12541,30 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"79 rec yds",
-7
+"91 rec yds",
+9
 ],
 [
 "4-yd TD catch",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -12494,7 +12579,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12541,7 +12626,7 @@
 2
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12558,7 +12643,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -12570,19 +12655,18 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Lee",
 "champ": false,
-"total": 136,
+"total": 145,
 "comm": null,
 "prev": 2122,
 "alive": false,
@@ -12591,16 +12675,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -12611,7 +12695,7 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -12634,7 +12718,7 @@
 -5
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -12651,15 +12735,15 @@
 "pos": "RB",
 "name": "Javonte Williams",
 "team": "DAL",
-"pts": 26,
+"pts": 27,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"18 rushes",
+8
 ],
 [
-"66 rush yds",
+"67 rush yds",
 6
 ],
 [
@@ -12671,7 +12755,7 @@
 7
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12704,7 +12788,7 @@
 6
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -12714,7 +12798,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "PIT 9 @ PHI 16 \u00b7 Q4 10:25",
+"game": "PIT 9 @ PHI 19 \u00b7 Q4 4:19",
 "on": true
 },
 {
@@ -12730,23 +12814,23 @@
 "pos": "WR",
 "name": "DJ Moore",
 "team": "BUF",
-"pts": 20,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"7 catches",
-7
+"8 catches",
+8
 ],
 [
-"79 rec yds",
-7
+"91 rec yds",
+9
 ],
 [
 "4-yd TD catch",
 6
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -12765,14 +12849,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -12780,11 +12864,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12846,7 +12930,7 @@
 0
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 }
 ]
@@ -12854,7 +12938,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 171,
+"total": 191,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -12873,16 +12957,16 @@
 "pos": "QB",
 "name": "Dak Prescott",
 "team": "DAL",
-"pts": 53,
+"pts": 62,
 "comm": null,
 "bd": [
 [
-"26 completions",
-11
+"28 completions",
+13
 ],
 [
-"311 pass yds",
-16
+"325 pass yds",
+17
 ],
 [
 "8-yd TD pass",
@@ -12897,11 +12981,15 @@
 7
 ],
 [
+"2-yd TD pass",
+6
+],
+[
 "2-yd TD run",
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12924,8 +13012,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12941,19 +13028,19 @@
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -12986,7 +13073,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -13015,7 +13102,7 @@
 7
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -13040,7 +13127,7 @@
 7
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -13067,7 +13154,7 @@
 -9
 ]
 ],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -13084,7 +13171,7 @@
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -13096,12 +13183,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13118,7 +13204,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 231,
+"total": 251,
 "comm": null,
 "prev": 2443,
 "alive": false,
@@ -13157,16 +13243,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -13177,26 +13263,30 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -13219,26 +13309,26 @@
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Tony Pollard",
 "team": "TEN",
-"pts": 16,
+"pts": 22,
 "comm": null,
 "bd": [
 [
-"17 rushes",
-7
+"21 rushes",
+11
 ],
 [
-"93 rush yds",
-9
+"110 rush yds",
+11
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -13257,7 +13347,7 @@
 12
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -13299,7 +13389,7 @@
 6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -13309,7 +13399,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -13325,7 +13415,7 @@
 "pos": "K",
 "name": "Brandon Aubrey",
 "team": "DAL",
-"pts": 14,
+"pts": 15,
 "comm": null,
 "bd": [
 [
@@ -13333,11 +13423,11 @@
 9
 ],
 [
-"5 XP",
-5
+"6 XP",
+6
 ]
 ],
-"game": "TEN 23 @ DAL 44 \u00b7 Q4 10:15",
+"game": "TEN 23 @ DAL 51 \u00b7 Q4 4:59",
 "on": true
 },
 {
@@ -13368,7 +13458,7 @@
 2
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -13425,7 +13515,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -13433,7 +13523,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 115,
+"total": 133,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -13452,16 +13542,16 @@
 "pos": "QB",
 "name": "Josh Allen",
 "team": "BUF",
-"pts": 19,
+"pts": 23,
 "comm": null,
 "bd": [
 [
-"25 completions",
-10
+"27 completions",
+12
 ],
 [
-"283 pass yds",
-13
+"303 pass yds",
+15
 ],
 [
 "4-yd TD pass",
@@ -13472,26 +13562,30 @@
 -10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jahmyr Gibbs",
 "team": "DET",
-"pts": 11,
+"pts": 20,
 "comm": null,
 "bd": [
 [
-"15 rushes",
-5
+"18 rushes",
+8
 ],
 [
-"60 rush yds",
+"68 rush yds",
+6
+],
+[
+"1-yd TD run",
 6
 ]
 ],
-"game": "TB 14 @ DET 17 \u00b7 Q4 7:26",
+"game": "TB 14 @ DET 24 \u00b7 Q4 3:22",
 "on": true
 },
 {
@@ -13524,8 +13618,7 @@
 6
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13534,7 +13627,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
@@ -13573,7 +13666,7 @@
 10
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 },
 {
@@ -13593,7 +13686,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NO 10 @ CHI 21 \u00b7 Q4 12:46",
+"game": "NO 10 @ CHI 21 \u00b7 Q4 7:58",
 "on": true
 },
 {
@@ -13622,14 +13715,14 @@
 3
 ]
 ],
-"game": "BAL 26 @ CAR 32 \u00b7 Q4 15:00",
+"game": "BAL 26 @ CAR 32 \u00b7 Q4 11:34",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Chiefs D",
 "team": "KC",
-"pts": 16,
+"pts": 21,
 "comm": null,
 "bd": [
 [
@@ -13641,12 +13734,11 @@
 6
 ],
 [
-"Leading",
-0
+"Win",
+5
 ]
 ],
-"game": "ARI 7 @ KC 34 \u00b7 Q4 4:00",
-"on": true
+"game": "ARI 7 @ KC 34 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -13672,7 +13764,7 @@
 0
 ]
 ],
-"game": "MIA 9 @ BUF 23 \u00b7 Q4 9:52",
+"game": "MIA 9 @ BUF 23 \u00b7 Q4 2:46",
 "on": true
 }
 ]
@@ -13686,37 +13778,37 @@
 },
 {
 "t": "ARI 7 @ KC 34",
-"s": "Q4 4:00",
-"live": true
+"s": "Final",
+"live": false
 },
 {
 "t": "NO 10 @ CHI 21",
-"s": "Q4 12:46",
+"s": "Q4 7:58",
 "live": true
 },
 {
-"t": "TB 14 @ DET 17",
-"s": "Q4 7:26",
+"t": "TB 14 @ DET 24",
+"s": "Q4 3:22",
 "live": true
 },
 {
-"t": "TEN 23 @ DAL 44",
-"s": "Q4 10:15",
+"t": "TEN 23 @ DAL 51",
+"s": "Q4 4:59",
 "live": true
 },
 {
 "t": "BAL 26 @ CAR 32",
-"s": "Q4 15:00",
+"s": "Q4 11:34",
 "live": true
 },
 {
 "t": "MIA 9 @ BUF 23",
-"s": "Q4 9:52",
+"s": "Q4 2:46",
 "live": true
 },
 {
-"t": "PIT 9 @ PHI 16",
-"s": "Q4 10:25",
+"t": "PIT 9 @ PHI 19",
+"s": "Q4 4:19",
 "live": true
 },
 {
