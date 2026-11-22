@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 10:29",
+"clock": "Q2 6:43",
 "score": {
 "DEN": 17,
-"LV": 0
+"LV": 3
 },
 "players": {
 "Jonah Coleman": {
@@ -20,6 +20,14 @@
 }
 },
 "kickers": {
+"Matt Gay": {
+"fg_made_dist": [
+28
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
 "Wil Lutz": {
 "fg_made_dist": [
 38

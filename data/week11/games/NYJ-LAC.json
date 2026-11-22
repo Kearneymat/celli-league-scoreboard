@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 0:06",
+"clock": "Halftime",
 "score": {
-"LAC": 3,
+"LAC": 10,
 "NYJ": 17
 },
 "players": {
@@ -33,7 +33,7 @@
 52
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },
