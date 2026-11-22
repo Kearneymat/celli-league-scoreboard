@@ -1,12 +1,15 @@
 {
 "status": "live",
-"clock": "Q1 5:25",
+"clock": "Q2 15:00",
 "score": {
-"LAC": 0,
+"LAC": 3,
 "NYJ": 3
 },
 "players": {
-"Garrett Wilson": {},
+"Garrett Wilson": {
+"rec": 1,
+"rec_yds": 8
+},
 "Omarion Hampton": {
 "rush_att": 4,
 "rush_yds": 16
@@ -16,6 +19,14 @@
 "Jason Sanders": {
 "fg_made_dist": [
 50
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
+"Cameron Dicker": {
+"fg_made_dist": [
+52
 ],
 "fg_missed_dist": [],
 "xp_made": 0,

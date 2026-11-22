@@ -1,0 +1,34 @@
+{
+"status": "live",
+"clock": "Q1 10:57",
+"score": {
+"DEN": 0,
+"LV": 0
+},
+"players": {
+"Jonah Coleman": {
+"rush_att": 1,
+"rush_yds": 3,
+"rec": 2,
+"rec_yds": 4
+}
+},
+"kickers": {},
+"defenses": {
+"LV": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"DEN": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

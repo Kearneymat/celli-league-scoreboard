@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 241,
+"total": 250,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -185,8 +185,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -210,11 +210,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -279,7 +284,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 253,
+"total": 273,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -555,11 +560,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
@@ -842,7 +852,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 181,
+"total": 210,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -938,8 +948,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -1016,7 +1026,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -1050,11 +1060,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1082,11 +1097,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
@@ -1232,8 +1252,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -1288,8 +1308,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
@@ -1452,8 +1472,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -1513,8 +1533,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -1533,8 +1553,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "K",
@@ -1797,8 +1817,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -1832,7 +1852,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -1958,8 +1978,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -1996,8 +2016,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -2046,8 +2066,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -2353,8 +2373,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -2363,8 +2383,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "K",
@@ -2455,7 +2475,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 195,
+"total": 215,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2537,8 +2557,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -2638,8 +2658,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -2653,7 +2673,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -2696,18 +2716,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
 {
 "owner": "Cobb",
 "champ": false,
-"total": 268,
+"total": 280,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -2767,8 +2792,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "RB",
@@ -2934,10 +2959,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -2947,8 +2977,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3025,8 +3055,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "RB",
@@ -3035,8 +3065,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -3129,8 +3159,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -3461,8 +3491,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -3494,7 +3524,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -3658,8 +3688,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "RB",
@@ -3791,8 +3821,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
@@ -3847,7 +3877,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 235,
+"total": 244,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -4028,8 +4058,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "TE",
@@ -4038,8 +4068,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -4063,11 +4093,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -4518,8 +4553,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -4580,8 +4615,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -4690,7 +4725,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 247,
+"total": 279,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -4897,8 +4932,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -4907,17 +4942,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -4954,11 +4994,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
@@ -5159,8 +5204,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -5174,7 +5219,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -5412,8 +5457,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -5479,7 +5524,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -5543,7 +5588,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 200,
+"total": 229,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -5729,18 +5774,23 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -5778,18 +5828,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 158,
+"total": 178,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -5877,8 +5932,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -5946,8 +6001,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -6020,18 +6075,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
 {
 "owner": "Finger",
 "champ": false,
-"total": 217,
+"total": 229,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6202,8 +6262,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -6254,10 +6314,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -6313,7 +6378,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 132,
+"total": 144,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -6383,8 +6448,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -6454,8 +6519,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -6479,10 +6544,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -6758,8 +6828,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -6884,7 +6954,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 246,
+"total": 275,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -7068,8 +7138,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -7084,11 +7154,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -7128,11 +7203,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7161,7 +7241,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 185,
+"total": 206,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -7315,7 +7395,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7334,8 +7414,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -7351,20 +7431,30 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -7420,7 +7510,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 169,
+"total": 189,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -7553,8 +7643,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -7638,11 +7728,20 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"Leading",
+0
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -7731,8 +7830,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -7970,7 +8069,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 168,
+"total": 197,
 "comm": null,
 "prev": 2747,
 "alive": true,
@@ -8066,8 +8165,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -8153,8 +8252,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -8178,21 +8277,31 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
@@ -8405,8 +8514,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -8635,8 +8744,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -8714,8 +8823,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -8806,7 +8915,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 222,
+"total": 251,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -8858,8 +8967,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -9035,11 +9144,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -9067,18 +9181,27 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"Leading",
+0
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 }
 ]
 },
 {
 "owner": "Moser",
 "champ": false,
-"total": 171,
+"total": 191,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -9232,8 +9355,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -9299,11 +9422,20 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"Leading",
+0
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -9380,8 +9512,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -9603,7 +9735,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 222,
+"total": 242,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -9794,8 +9926,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -9809,7 +9941,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -9856,18 +9988,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
 {
 "owner": "King",
 "champ": false,
-"total": 222,
+"total": 234,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -10077,10 +10214,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -10244,8 +10386,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -10286,8 +10428,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -10338,8 +10480,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -10536,8 +10678,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -10568,7 +10710,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -10738,7 +10880,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 237,
+"total": 246,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -10945,8 +11087,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -10970,11 +11112,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -11041,7 +11188,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 170,
+"total": 210,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -11220,8 +11367,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -11240,28 +11387,42 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+],
+[
+"Leading",
+0
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
@@ -11368,8 +11529,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -11456,8 +11617,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "K",
@@ -11471,7 +11632,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -11641,8 +11802,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -11713,8 +11874,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "K",
@@ -12022,7 +12183,7 @@
 12
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -12112,7 +12273,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 191,
+"total": 203,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -12296,10 +12457,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -12377,7 +12543,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 166,
+"total": 161,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -12595,19 +12761,15 @@
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 20,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"0 pts allowed",
-20
-],
-[
-"Leading",
-0
+"3 pts allowed",
+15
 ]
 ],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -12733,8 +12895,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "WR",
@@ -12905,7 +13067,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 200,
+"total": 229,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -12987,8 +13149,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 },
 {
 "pos": "RB",
@@ -13075,8 +13237,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -13126,11 +13288,16 @@
 "pos": "K",
 "name": "Cam Little",
 "team": "JAX",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"42-yd FG",
+9
+]
+],
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "DEF",
@@ -13158,11 +13325,16 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "LV @ DEN \u00b7 Sun 4:25 ET",
-"yet": true
+"bd": [
+[
+"0 pts allowed",
+20
+]
+],
+"game": "LV 0 @ DEN 0 \u00b7 Q1 10:57",
+"on": true
 }
 ]
 },
@@ -13486,7 +13658,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 158,
+"total": 170,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -13560,7 +13732,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -13611,8 +13783,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "WR",
@@ -13639,8 +13811,8 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX @ NYG \u00b7 Sun 4:25 ET",
-"yet": true
+"game": "JAX 3 @ NYG 0 \u00b7 Q1 11:58",
+"on": true
 },
 {
 "pos": "TE",
@@ -13655,10 +13827,15 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 0,
+"pts": 12,
 "comm": null,
-"bd": [],
-"game": "NYJ 3 @ LAC 0 \u00b7 Q1 5:25",
+"bd": [
+[
+"52-yd FG",
+12
+]
+],
+"game": "NYJ 3 @ LAC 3 \u00b7 Q2 15:00",
 "on": true
 },
 {
@@ -13776,19 +13953,19 @@
 "live": false
 },
 {
-"t": "NYJ 3 @ LAC 0",
-"s": "Q1 5:25",
+"t": "NYJ 3 @ LAC 3",
+"s": "Q2 15:00",
 "live": true
 },
 {
-"t": "LV @ DEN",
-"s": "Sun 4:25 ET",
-"live": false
+"t": "LV 0 @ DEN 0",
+"s": "Q1 10:57",
+"live": true
 },
 {
-"t": "JAX @ NYG",
-"s": "Sun 4:25 ET",
-"live": false
+"t": "JAX 3 @ NYG 0",
+"s": "Q1 11:58",
+"live": true
 },
 {
 "t": "MIN @ SF",
