@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 15:00",
+"clock": "Q4 10:15",
 "score": {
-"DAL": 41,
+"DAL": 44,
 "TEN": 23
 },
 "players": {
 "Cam Ward": {
-"pass_cmp": 10,
-"pass_yds": 154,
+"pass_cmp": 11,
+"pass_yds": 158,
 "rush_att": 2,
 "rush_yds": 3,
 "rush_td_lengths": [
@@ -19,8 +19,8 @@
 ]
 },
 "Tony Pollard": {
-"rush_att": 14,
-"rush_yds": 75
+"rush_att": 17,
+"rush_yds": 93
 },
 "Carnell Tate": {
 "rec": 2,
@@ -30,12 +30,12 @@
 ]
 },
 "Elic Ayomanor": {
-"rec": 1,
-"rec_yds": 12
+"rec": 2,
+"rec_yds": 16
 },
 "Dak Prescott": {
-"pass_cmp": 24,
-"pass_yds": 301,
+"pass_cmp": 26,
+"pass_yds": 311,
 "rush_att": 3,
 "rush_yds": 10,
 "pass_td_lengths": [
@@ -48,8 +48,8 @@
 ]
 },
 "Javonte Williams": {
-"rush_att": 14,
-"rush_yds": 54,
+"rush_att": 17,
+"rush_yds": 66,
 "rec": 3,
 "rec_yds": 24,
 "rush_td_lengths": [
@@ -69,8 +69,8 @@
 ]
 },
 "CeeDee Lamb": {
-"rec": 10,
-"rec_yds": 127,
+"rec": 11,
+"rec_yds": 132,
 "rec_td_lengths": [
 8
 ]
@@ -92,7 +92,9 @@
 "xp_missed": 0
 },
 "Brandon Aubrey": {
-"fg_made_dist": [],
+"fg_made_dist": [
+49
+],
 "fg_missed_dist": [],
 "xp_made": 5,
 "xp_missed": 0

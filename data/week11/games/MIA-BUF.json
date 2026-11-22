@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 14:56",
+"clock": "Q4 9:52",
 "score": {
 "BUF": 23,
 "MIA": 9
@@ -8,7 +8,7 @@
 "players": {
 "Josh Allen": {
 "pass_cmp": 25,
-"pass_yds": 284,
+"pass_yds": 283,
 "int": 2,
 "pass_td_lengths": [
 4
@@ -27,7 +27,7 @@
 "rush_att": 1,
 "rush_yds": 2,
 "rec": 5,
-"rec_yds": 102
+"rec_yds": 101
 },
 "DJ Moore": {
 "rec": 7,

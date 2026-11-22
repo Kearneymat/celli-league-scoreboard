@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 4:19",
+"clock": "Q4 15:00",
 "score": {
-"CAR": 29,
+"CAR": 32,
 "BAL": 26
 },
 "players": {
@@ -14,8 +14,8 @@
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 17,
-"rush_yds": 91,
+"rush_att": 21,
+"rush_yds": 98,
 "rush_td_lengths": [
 18,
 1
@@ -34,8 +34,8 @@
 "rec_yds": 42
 },
 "Jalen Coker": {
-"rec": 1,
-"rec_yds": 35
+"rec": 2,
+"rec_yds": 41
 }
 },
 "kickers": {
@@ -48,7 +48,9 @@
 "xp_missed": 0
 },
 "Ryan Fitzgerald": {
-"fg_made_dist": [],
+"fg_made_dist": [
+33
+],
 "fg_missed_dist": [],
 "xp_made": 3,
 "xp_missed": 0

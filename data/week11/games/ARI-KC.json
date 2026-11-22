@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 9:51",
+"clock": "Q4 4:00",
 "score": {
 "KC": 34,
 "ARI": 7
@@ -9,8 +9,8 @@
 "Trey McBride": {
 "rush_att": 1,
 "rush_yds": 4,
-"rec": 6,
-"rec_yds": 33
+"rec": 8,
+"rec_yds": 50
 },
 "Patrick Mahomes": {
 "pass_cmp": 27,

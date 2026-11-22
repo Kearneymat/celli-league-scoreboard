@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 13:51",
+"clock": "Q4 12:46",
 "score": {
-"CHI": 19,
+"CHI": 21,
 "NO": 10
 },
 "players": {
@@ -29,10 +29,11 @@
 ]
 },
 "D'Andre Swift": {
-"rush_att": 12,
-"rush_yds": 47,
+"rush_att": 13,
+"rush_yds": 51,
 "rec": 2,
 "rec_yds": 8,
+"fl": 1,
 "rec_td_lengths": [
 3
 ]
@@ -66,15 +67,15 @@
 "NO": {
 "sacks": 2,
 "int": 1,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "CHI": {
-"sacks": 3,
+"sacks": 4,
 "int": 1,
 "fum_rec": 1,
-"safeties": 0,
+"safeties": 1,
 "def_st_td_lengths": []
 }
 },
