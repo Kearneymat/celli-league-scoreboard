@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 5:45",
+"clock": "Q4 1:49",
 "score": {
-"LAC": 17,
+"LAC": 24,
 "NYJ": 27
 },
 "players": {
@@ -15,8 +15,8 @@
 "rec_yds": 25
 },
 "Omarion Hampton": {
-"rush_att": 13,
-"rush_yds": 85,
+"rush_att": 14,
+"rush_yds": 89,
 "rec": 1,
 "rec_yds": 4
 }
@@ -36,13 +36,13 @@
 52
 ],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 }
 },
 "defenses": {
 "NYJ": {
-"sacks": 5,
+"sacks": 6,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

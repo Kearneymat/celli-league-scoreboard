@@ -1,37 +1,38 @@
 {
 "status": "live",
-"clock": "Q3 9:09",
+"clock": "Q3 1:51",
 "score": {
 "NYG": 20,
 "JAX": 6
 },
 "players": {
 "Trevor Lawrence": {
-"pass_cmp": 10,
-"pass_yds": 106,
+"pass_cmp": 11,
+"pass_yds": 114,
 "int": 1,
 "rush_att": 3,
 "rush_yds": 7
 },
 "Bhayshul Tuten": {
-"rush_att": 7,
-"rush_yds": 14,
+"rush_att": 9,
+"rush_yds": 25,
 "rec": 2,
 "rec_yds": 19
 },
 "Parker Washington": {
-"rec": 3,
-"rec_yds": 47
+"rec": 4,
+"rec_yds": 55
 },
 "Brenton Strange": {
 "rec": 2,
 "rec_yds": 11
 },
 "Cam Skattebo": {
-"rush_att": 9,
-"rush_yds": 17,
+"rush_att": 10,
+"rush_yds": 18,
 "rec": 3,
-"rec_yds": 14
+"rec_yds": 14,
+"fl": 1
 },
 "Isaiah Likely": {
 "rec": 1,
@@ -53,7 +54,7 @@
 "JAX": {
 "sacks": 1,
 "int": 0,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },
