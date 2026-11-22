@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q1 10:57",
+"clock": "Q1 5:41",
 "score": {
-"DEN": 0,
+"DEN": 3,
 "LV": 0
 },
 "players": {
@@ -11,9 +11,21 @@
 "rush_yds": 3,
 "rec": 2,
 "rec_yds": 4
+},
+"J.K. Dobbins": {
+"rush_att": 1
 }
 },
-"kickers": {},
+"kickers": {
+"Wil Lutz": {
+"fg_made_dist": [
+38
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "LV": {
 "sacks": 0,
@@ -23,7 +35,7 @@
 "def_st_td_lengths": []
 },
 "DEN": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

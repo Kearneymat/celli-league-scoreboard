@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 12:01",
 "score": {
 "LAC": 3,
-"NYJ": 3
+"NYJ": 10
 },
 "players": {
 "Garrett Wilson": {
@@ -21,7 +21,7 @@
 50
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Cameron Dicker": {

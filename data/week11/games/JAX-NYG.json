@@ -1,20 +1,27 @@
 {
 "status": "live",
-"clock": "Q1 11:58",
+"clock": "Q1 6:52",
 "score": {
 "NYG": 0,
 "JAX": 3
 },
 "players": {
 "Trevor Lawrence": {
-"pass_cmp": 1,
-"pass_yds": 13
+"pass_cmp": 2,
+"pass_yds": 23,
+"int": 1
 },
 "Bhayshul Tuten": {
-"rush_att": 1,
-"rush_yds": 1
+"rush_att": 4,
+"rush_yds": 7
 },
-"Parker Washington": {}
+"Parker Washington": {
+"rec": 1,
+"rec_yds": 10
+},
+"Cam Skattebo": {
+"rush_att": 2
+}
 },
 "kickers": {
 "Cam Little": {
@@ -28,7 +35,7 @@
 },
 "defenses": {
 "JAX": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
@@ -36,7 +43,7 @@
 },
 "NYG": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
