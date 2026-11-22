@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 13:23",
+"clock": "Q3 9:09",
 "score": {
 "NYG": 20,
 "JAX": 6
@@ -14,8 +14,8 @@
 "rush_yds": 7
 },
 "Bhayshul Tuten": {
-"rush_att": 6,
-"rush_yds": 13,
+"rush_att": 7,
+"rush_yds": 14,
 "rec": 2,
 "rec_yds": 19
 },
@@ -28,10 +28,10 @@
 "rec_yds": 11
 },
 "Cam Skattebo": {
-"rush_att": 8,
+"rush_att": 9,
 "rush_yds": 17,
-"rec": 2,
-"rec_yds": 13
+"rec": 3,
+"rec_yds": 14
 },
 "Isaiah Likely": {
 "rec": 1,
