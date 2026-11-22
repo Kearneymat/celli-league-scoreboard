@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 13:23",
 "score": {
 "NYG": 20,
 "JAX": 6
@@ -28,12 +28,15 @@
 "rec_yds": 11
 },
 "Cam Skattebo": {
-"rush_att": 7,
-"rush_yds": 15,
+"rush_att": 8,
+"rush_yds": 17,
 "rec": 2,
 "rec_yds": 13
 },
-"Isaiah Likely": {}
+"Isaiah Likely": {
+"rec": 1,
+"rec_yds": 35
+}
 },
 "kickers": {
 "Cam Little": {

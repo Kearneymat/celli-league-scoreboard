@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 256,
+"total": 261,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -182,10 +182,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -222,7 +227,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -580,7 +585,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -965,7 +970,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -1043,7 +1048,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -1089,7 +1094,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -1134,7 +1139,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -1281,7 +1286,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -1346,7 +1351,7 @@
 2
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -1402,7 +1407,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 232,
+"total": 237,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1515,7 +1520,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -1573,10 +1578,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -1605,7 +1615,7 @@
 2
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -1687,7 +1697,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 182,
+"total": 188,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1866,10 +1876,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -1896,7 +1911,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -1908,11 +1923,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -1956,7 +1971,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 270,
+"total": 275,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -2043,7 +2058,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -2081,7 +2096,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -2128,10 +2143,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -2265,7 +2285,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 222,
+"total": 227,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2435,10 +2455,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -2448,7 +2473,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -2540,7 +2565,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 222,
+"total": 228,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2627,7 +2652,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -2725,17 +2750,22 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -2747,11 +2777,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -2810,7 +2840,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -2818,7 +2848,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 285,
+"total": 286,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -2878,7 +2908,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -3045,7 +3075,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -3053,11 +3083,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -3076,7 +3106,7 @@
 1
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -3159,7 +3189,7 @@
 -5
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -3174,7 +3204,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -3268,7 +3298,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -3418,7 +3448,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 249,
+"total": 255,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3597,10 +3627,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -3625,7 +3660,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -3637,11 +3672,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -3805,7 +3840,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -3947,7 +3982,7 @@
 2
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -4003,7 +4038,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 250,
+"total": 255,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -4184,17 +4219,22 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -4231,7 +4271,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -4583,7 +4623,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 228,
+"total": 233,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4688,7 +4728,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -4747,10 +4787,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -4860,7 +4905,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 284,
+"total": 290,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -5064,10 +5109,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -5086,14 +5136,14 @@
 2
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5101,11 +5151,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -5158,7 +5208,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -5166,7 +5216,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 230,
+"total": 236,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -5357,17 +5407,22 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -5379,11 +5434,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -5448,7 +5503,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 284,
+"total": 290,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -5618,10 +5673,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -5680,7 +5740,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -5692,11 +5752,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -5760,7 +5820,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 231,
+"total": 236,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -5943,10 +6003,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -5965,7 +6030,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -6020,7 +6085,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -6028,7 +6093,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 180,
+"total": 185,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -6121,7 +6186,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -6187,10 +6252,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -6280,7 +6350,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -6288,7 +6358,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 230,
+"total": 231,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6459,7 +6529,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -6511,7 +6581,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6519,11 +6589,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -6579,7 +6649,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 151,
+"total": 157,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -6654,7 +6724,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -6722,10 +6792,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -6750,7 +6825,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -6758,11 +6833,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -6844,7 +6919,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 299,
+"total": 304,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -7035,10 +7110,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -7164,7 +7244,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 277,
+"total": 282,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -7345,10 +7425,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -7376,7 +7461,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -7433,7 +7518,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -7463,7 +7548,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 213,
+"total": 219,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -7617,7 +7702,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -7633,10 +7718,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -7665,14 +7755,14 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -7680,11 +7770,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -7873,7 +7963,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -7974,7 +8064,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -8069,7 +8159,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -8404,7 +8494,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -8491,7 +8581,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -8528,7 +8618,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -8551,7 +8641,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -8581,7 +8671,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 289,
+"total": 294,
 "comm": null,
 "prev": 2966,
 "alive": true,
@@ -8762,10 +8852,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -8891,7 +8986,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 232,
+"total": 237,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9000,7 +9095,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -9076,10 +9171,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -9228,7 +9328,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -9417,7 +9517,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -9462,7 +9562,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 }
 ]
@@ -9624,7 +9724,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -9707,7 +9807,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -9790,7 +9890,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -10013,7 +10113,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 243,
+"total": 249,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -10201,17 +10301,22 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -10223,11 +10328,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -10290,7 +10395,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -10298,7 +10403,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 235,
+"total": 236,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -10508,7 +10613,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10516,11 +10621,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -10602,7 +10707,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 230,
+"total": 235,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -10689,7 +10794,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -10731,7 +10836,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -10780,10 +10885,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -10986,7 +11096,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -11018,7 +11128,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -11188,7 +11298,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 252,
+"total": 257,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -11392,10 +11502,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -11432,7 +11547,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -11500,7 +11615,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 196,
+"total": 201,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -11676,10 +11791,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -11708,7 +11828,7 @@
 2
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -11731,7 +11851,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -11754,7 +11874,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -11762,7 +11882,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 218,
+"total": 219,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -11867,7 +11987,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -11955,14 +12075,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -11974,11 +12094,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -12048,7 +12168,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 221,
+"total": 226,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -12153,7 +12273,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -12222,10 +12342,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -12325,7 +12450,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 262,
+"total": 263,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -12526,7 +12651,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 17,
+"pts": 18,
 "comm": null,
 "bd": [
 [
@@ -12538,11 +12663,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -12632,7 +12757,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 204,
+"total": 205,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -12816,7 +12941,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -12824,11 +12949,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -12906,7 +13031,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 162,
+"total": 154,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13124,23 +13249,23 @@
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 16,
+"pts": 8,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
-"3 sacks",
-6
+"4 sacks",
+8
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -13266,7 +13391,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -13438,7 +13563,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 237,
+"total": 242,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -13525,7 +13650,7 @@
 6
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 },
 {
@@ -13610,10 +13735,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -13676,7 +13806,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -13721,7 +13851,7 @@
 0
 ]
 ],
-"game": "LV 10 @ DEN 17 \u00b7 Halftime",
+"game": "LV 10 @ DEN 17 \u00b7 Q3 12:36",
 "on": true
 }
 ]
@@ -14046,7 +14176,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 179,
+"total": 185,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -14121,11 +14251,11 @@
 "comm": null,
 "bd": [
 [
-"83 rush yds",
+"84 rush yds",
 8
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -14176,7 +14306,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -14201,10 +14331,15 @@
 "pos": "TE",
 "name": "Isaiah Likely",
 "team": "NYG",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "JAX 6 @ NYG 20 \u00b7 Halftime",
+"bd": [
+[
+"35 rec yds",
+5
+]
+],
+"game": "JAX 6 @ NYG 20 \u00b7 Q3 13:23",
 "on": true
 },
 {
@@ -14220,7 +14355,7 @@
 "pos": "K",
 "name": "Cameron Dicker",
 "team": "LAC",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -14228,11 +14363,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 20 @ LAC 10 \u00b7 Q4 15:00",
+"game": "NYJ 27 @ LAC 17 \u00b7 Q4 9:46",
 "on": true
 },
 {
@@ -14350,18 +14485,18 @@
 "live": false
 },
 {
-"t": "NYJ 20 @ LAC 10",
-"s": "Q4 15:00",
+"t": "NYJ 27 @ LAC 17",
+"s": "Q4 9:46",
 "live": true
 },
 {
 "t": "LV 10 @ DEN 17",
-"s": "Halftime",
+"s": "Q3 12:36",
 "live": true
 },
 {
 "t": "JAX 6 @ NYG 20",
-"s": "Halftime",
+"s": "Q3 13:23",
 "live": true
 },
 {
