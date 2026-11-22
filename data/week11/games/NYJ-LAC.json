@@ -1,14 +1,18 @@
 {
 "status": "live",
-"clock": "Q2 12:01",
+"clock": "Q2 6:36",
 "score": {
 "LAC": 3,
 "NYJ": 10
 },
 "players": {
 "Garrett Wilson": {
+"rec": 2,
+"rec_yds": 20
+},
+"Mason Taylor": {
 "rec": 1,
-"rec_yds": 8
+"rec_yds": 19
 },
 "Omarion Hampton": {
 "rush_att": 4,
@@ -35,14 +39,14 @@
 },
 "defenses": {
 "NYJ": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "LAC": {
-"sacks": 0,
+"sacks": 1,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

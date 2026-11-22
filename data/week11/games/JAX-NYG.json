@@ -1,15 +1,17 @@
 {
 "status": "live",
-"clock": "Q1 6:52",
+"clock": "Q1 4:59",
 "score": {
-"NYG": 0,
+"NYG": 3,
 "JAX": 3
 },
 "players": {
 "Trevor Lawrence": {
 "pass_cmp": 2,
 "pass_yds": 23,
-"int": 1
+"int": 1,
+"rush_att": 1,
+"rush_yds": 1
 },
 "Bhayshul Tuten": {
 "rush_att": 4,
@@ -42,7 +44,7 @@
 "def_st_td_lengths": []
 },
 "NYG": {
-"sacks": 1,
+"sacks": 2,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,
