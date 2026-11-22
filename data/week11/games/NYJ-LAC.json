@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 2:00",
+"clock": "Q2 0:06",
 "score": {
 "LAC": 3,
 "NYJ": 17
@@ -15,8 +15,8 @@
 "rec_yds": 19
 },
 "Omarion Hampton": {
-"rush_att": 4,
-"rush_yds": 16
+"rush_att": 8,
+"rush_yds": 40
 }
 },
 "kickers": {
@@ -39,7 +39,7 @@
 },
 "defenses": {
 "NYJ": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,
