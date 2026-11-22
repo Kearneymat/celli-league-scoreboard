@@ -1,0 +1,45 @@
+{
+"status": "live",
+"clock": "Q1 2:57",
+"score": {
+"CAR": 0,
+"BAL": 9
+},
+"players": {
+"Zay Flowers": {
+"rec": 2,
+"rec_yds": 21
+},
+"Mark Andrews": {},
+"Chuba Hubbard": {
+"rush_att": 4,
+"rush_yds": 16
+},
+"Tetairoa McMillan": {}
+},
+"kickers": {
+"Riley Patterson": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
+},
+"defenses": {
+"BAL": {
+"sacks": 1,
+"int": 0,
+"fum_rec": 0,
+"safeties": 1,
+"def_st_td_lengths": []
+},
+"CAR": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

@@ -1,0 +1,65 @@
+{
+"status": "live",
+"clock": "Q1 0:40",
+"score": {
+"CHI": 3,
+"NO": 0
+},
+"players": {
+"Jordyn Tyson": {
+"rush_att": 1,
+"rush_yds": 4
+},
+"Chris Olave": {
+"rec": 1,
+"rec_yds": 14
+},
+"Caleb Williams": {
+"pass_cmp": 6,
+"pass_yds": 65,
+"rush_att": 2,
+"rush_yds": 13
+},
+"D'Andre Swift": {
+"rush_att": 6,
+"rush_yds": 18,
+"rec": 1,
+"rec_yds": 5
+},
+"Colston Loveland": {
+"rec": 1,
+"rec_yds": 12
+},
+"Luther Burden": {
+"rec": 2,
+"rec_yds": 10
+}
+},
+"kickers": {
+"Cairo Santos": {
+"fg_made_dist": [
+41
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
+"defenses": {
+"NO": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"CHI": {
+"sacks": 2,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

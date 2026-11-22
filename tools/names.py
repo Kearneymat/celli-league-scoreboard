@@ -114,3 +114,9 @@ PL.update({
  'kcconc': ('KC Concepcion', 'CLE'), 'qjohnson': ('Quentin Johnston', 'LAC'), 'tdell': ('Tank Dell', 'HOU'),
 })
 DF.update({'miami': 'MIA'})
+
+# Week 11 shorthands
+PL.update({'mcghlaughlin': ('Chase McLaughlin', 'TB'), 'ward': ('Cam Ward', 'TEN'), 'hampton': ('Omarion Hampton', 'LAC'),
+ 'TE:okangwo': ('Chig Okonkwo', 'WAS'), 'okangwo': ('Chig Okonkwo', 'WAS'), 'ayomanor': ('Elic Ayomanor', 'TEN'), 'collins': ('Nico Collins', 'HOU'),
+ 'jjefferson': ('Justin Jefferson', 'MIN'), 'tate': ('Carnell Tate', 'TEN')})
+DF.update({'billls': 'BUF'})

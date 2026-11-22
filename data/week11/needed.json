@@ -1,0 +1,462 @@
+{
+"CIN": [
+[
+"DEF",
+"Bengals D"
+],
+[
+"K",
+"Evan McPherson"
+],
+[
+"QB",
+"Joe Burrow"
+],
+[
+"TE",
+"Mike Gesicki"
+],
+[
+"WR",
+"Ja'Marr Chase"
+],
+[
+"WR",
+"Tee Higgins"
+]
+],
+"DAL": [
+[
+"DEF",
+"Cowboys D"
+],
+[
+"K",
+"Brandon Aubrey"
+],
+[
+"QB",
+"Dak Prescott"
+],
+[
+"RB",
+"Javonte Williams"
+],
+[
+"TE",
+"Jake Ferguson"
+],
+[
+"WR",
+"CeeDee Lamb"
+],
+[
+"WR",
+"George Pickens"
+],
+[
+"WR",
+"Ryan Flournoy"
+]
+],
+"CAR": [
+[
+"K",
+"Ryan Fitzgerald"
+],
+[
+"RB",
+"Chuba Hubbard"
+],
+[
+"TE",
+"Darren Waller"
+],
+[
+"WR",
+"Jalen Coker"
+],
+[
+"WR",
+"Tetairoa McMillan"
+]
+],
+"TEN": [
+[
+"K",
+"Joey Slye"
+],
+[
+"QB",
+"Cam Ward"
+],
+[
+"RB",
+"Tony Pollard"
+],
+[
+"WR",
+"Carnell Tate"
+],
+[
+"WR",
+"Elic Ayomanor"
+]
+],
+"KC": [
+[
+"DEF",
+"Chiefs D"
+],
+[
+"QB",
+"Patrick Mahomes"
+],
+[
+"RB",
+"Emmett Johnson"
+],
+[
+"TE",
+"Travis Kelce"
+],
+[
+"WR",
+"Rashee Rice"
+]
+],
+"MIN": [
+[
+"K",
+"Will Reichard"
+],
+[
+"TE",
+"T.J. Hockenson"
+],
+[
+"WR",
+"Justin Jefferson"
+]
+],
+"NO": [
+[
+"TE",
+"Juwan Johnson"
+],
+[
+"WR",
+"Chris Olave"
+],
+[
+"WR",
+"Jordyn Tyson"
+]
+],
+"NYG": [
+[
+"RB",
+"Cam Skattebo"
+],
+[
+"TE",
+"Isaiah Likely"
+]
+],
+"CHI": [
+[
+"DEF",
+"Bears D"
+],
+[
+"K",
+"Cairo Santos"
+],
+[
+"QB",
+"Caleb Williams"
+],
+[
+"RB",
+"D'Andre Swift"
+],
+[
+"TE",
+"Colston Loveland"
+],
+[
+"WR",
+"Luther Burden"
+]
+],
+"JAX": [
+[
+"DEF",
+"Jaguars D"
+],
+[
+"K",
+"Cam Little"
+],
+[
+"QB",
+"Trevor Lawrence"
+],
+[
+"RB",
+"Bhayshul Tuten"
+],
+[
+"TE",
+"Brenton Strange"
+],
+[
+"WR",
+"Parker Washington"
+]
+],
+"BUF": [
+[
+"DEF",
+"Bills D"
+],
+[
+"K",
+"Tyler Bass"
+],
+[
+"QB",
+"Josh Allen"
+],
+[
+"RB",
+"James Cook"
+],
+[
+"TE",
+"Dalton Kincaid"
+],
+[
+"WR",
+"DJ Moore"
+],
+[
+"WR",
+"Khalil Shakir"
+]
+],
+"HOU": [
+[
+"DEF",
+"Texans D"
+],
+[
+"K",
+"Ka'imi Fairbairn"
+],
+[
+"QB",
+"C.J. Stroud"
+],
+[
+"TE",
+"Dalton Schultz"
+],
+[
+"WR",
+"Nico Collins"
+]
+],
+"BAL": [
+[
+"K",
+"Jake Moody"
+],
+[
+"K",
+"Riley Patterson"
+],
+[
+"K",
+"Tyler Loop"
+],
+[
+"TE",
+"Mark Andrews"
+],
+[
+"WR",
+"Zay Flowers"
+]
+],
+"DEN": [
+[
+"DEF",
+"Broncos D"
+],
+[
+"K",
+"Wil Lutz"
+],
+[
+"RB",
+"J.K. Dobbins"
+],
+[
+"RB",
+"Jonah Coleman"
+]
+],
+"WAS": [
+[
+"K",
+"Drew Stevens"
+],
+[
+"QB",
+"Jayden Daniels"
+],
+[
+"TE",
+"Chig Okonkwo"
+],
+[
+"WR",
+"Stefon Diggs"
+]
+],
+"SF": [
+[
+"K",
+"Eddy Pineiro"
+],
+[
+"RB",
+"Christian McCaffrey"
+],
+[
+"TE",
+"George Kittle"
+]
+],
+"DET": [
+[
+"K",
+"Jake Bates"
+],
+[
+"RB",
+"Jahmyr Gibbs"
+],
+[
+"TE",
+"Sam LaPorta"
+],
+[
+"WR",
+"Amon-Ra St. Brown"
+]
+],
+"NYJ": [
+[
+"DEF",
+"Jets D"
+],
+[
+"K",
+"Jason Sanders"
+],
+[
+"TE",
+"Mason Taylor"
+],
+[
+"WR",
+"Garrett Wilson"
+]
+],
+"PIT": [
+[
+"DEF",
+"Steelers D"
+],
+[
+"K",
+"Chris Boswell"
+],
+[
+"RB",
+"Jaylen Warren"
+]
+],
+"LV": [
+[
+"K",
+"Matt Gay"
+],
+[
+"TE",
+"Michael Mayer"
+]
+],
+"TB": [
+[
+"K",
+"Chase McLaughlin"
+],
+[
+"RB",
+"Bucky Irving"
+]
+],
+"LAC": [
+[
+"K",
+"Cameron Dicker"
+],
+[
+"RB",
+"Omarion Hampton"
+]
+],
+"IND": [
+[
+"WR",
+"Josh Downs"
+]
+],
+"ARI": [
+[
+"TE",
+"Trey McBride"
+]
+],
+"": [
+[
+"TE",
+"Rob Gronkowski (retired)"
+]
+],
+"PHI": [
+[
+"WR",
+"DeVonta Smith"
+]
+],
+"GB": [
+[
+"TE",
+"Tucker Kraft"
+],
+[
+"WR",
+"Christian Watson"
+]
+],
+"LAR": [
+[
+"DEF",
+"Rams D"
+]
+]
+}

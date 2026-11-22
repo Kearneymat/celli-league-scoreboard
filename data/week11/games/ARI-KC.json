@@ -1,0 +1,55 @@
+{
+"status": "live",
+"clock": "Q1 0:48",
+"score": {
+"KC": 14,
+"ARI": 0
+},
+"players": {
+"Patrick Mahomes": {
+"pass_cmp": 11,
+"pass_yds": 94,
+"pass_td_lengths": [
+8
+]
+},
+"Emmett Johnson": {
+"rush_att": 11,
+"rush_yds": 55,
+"rec": 2,
+"rec_yds": 17,
+"rush_td_lengths": [
+3
+]
+},
+"Rashee Rice": {
+"rec": 5,
+"rec_yds": 47
+},
+"Travis Kelce": {
+"rec": 3,
+"rec_yds": 26,
+"rec_td_lengths": [
+8
+]
+}
+},
+"kickers": {},
+"defenses": {
+"ARI": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"KC": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}

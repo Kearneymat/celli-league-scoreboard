@@ -1,0 +1,74 @@
+{
+"status": "live",
+"clock": "Q1 1:35",
+"score": {
+"DAL": 13,
+"TEN": 3
+},
+"players": {
+"Cam Ward": {
+"pass_cmp": 2,
+"pass_yds": 30
+},
+"Tony Pollard": {
+"rush_att": 3,
+"rush_yds": 15
+},
+"Carnell Tate": {},
+"Dak Prescott": {
+"pass_cmp": 6,
+"pass_yds": 82,
+"rush_att": 1,
+"rush_yds": 2
+},
+"Javonte Williams": {
+"rush_att": 7,
+"rush_yds": 18,
+"rush_td_lengths": [
+1
+]
+},
+"CeeDee Lamb": {
+"rec": 3,
+"rec_yds": 31
+},
+"Ryan Flournoy": {
+"rec": 1,
+"rec_yds": 11
+},
+"George Pickens": {}
+},
+"kickers": {
+"Joey Slye": {
+"fg_made_dist": [
+38
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+},
+"Brandon Aubrey": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
+},
+"defenses": {
+"TEN": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"DAL": {
+"sacks": 0,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}
