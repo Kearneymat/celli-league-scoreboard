@@ -1,12 +1,16 @@
 {
 "status": "live",
-"clock": "Q1 11:08",
+"clock": "Q1 5:25",
 "score": {
 "LAC": 0,
 "NYJ": 3
 },
 "players": {
-"Garrett Wilson": {}
+"Garrett Wilson": {},
+"Omarion Hampton": {
+"rush_att": 4,
+"rush_yds": 16
+}
 },
 "kickers": {
 "Jason Sanders": {
