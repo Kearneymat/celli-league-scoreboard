@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 13:43",
 "score": {
-"DEN": 3,
+"DEN": 10,
 "LV": 0
 },
 "players": {
@@ -22,7 +22,7 @@
 38
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 }
 },

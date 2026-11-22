@@ -185,7 +185,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -218,7 +218,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -576,7 +576,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -956,7 +956,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -1034,7 +1034,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -1076,7 +1076,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -1121,7 +1121,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -1129,7 +1129,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 170,
+"total": 171,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -1268,7 +1268,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -1321,15 +1321,19 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "38-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -1385,7 +1389,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 224,
+"total": 225,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1493,7 +1497,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -1554,7 +1558,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -1571,15 +1575,19 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "38-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -1661,7 +1669,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 178,
+"total": 179,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1843,7 +1851,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -1870,7 +1878,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -1878,11 +1886,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2008,7 +2016,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -2046,7 +2054,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -2096,7 +2104,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -2403,7 +2411,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -2413,7 +2421,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -2505,7 +2513,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 218,
+"total": 219,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2587,7 +2595,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -2688,14 +2696,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -2703,11 +2711,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -2766,7 +2774,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -2834,7 +2842,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -3009,7 +3017,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3019,7 +3027,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -3102,7 +3110,7 @@
 -5
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -3112,7 +3120,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -3206,7 +3214,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -3356,7 +3364,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 245,
+"total": 246,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3538,7 +3546,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -3563,7 +3571,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -3571,11 +3579,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -3645,7 +3653,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 252,
+"total": 253,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -3739,7 +3747,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -3869,15 +3877,19 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "38-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -4114,7 +4126,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -4124,7 +4136,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -4157,7 +4169,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -4609,7 +4621,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -4671,7 +4683,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -4781,7 +4793,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 287,
+"total": 288,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -4988,22 +5000,26 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "38-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -5018,7 +5034,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5071,7 +5087,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -5079,7 +5095,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 226,
+"total": 227,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -5273,14 +5289,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5288,11 +5304,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5357,7 +5373,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 280,
+"total": 281,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -5530,7 +5546,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -5589,7 +5605,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -5597,11 +5613,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -5851,7 +5867,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -5866,7 +5882,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -5921,7 +5937,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -6017,7 +6033,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -6086,7 +6102,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -6176,7 +6192,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -6355,7 +6371,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -6415,7 +6431,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6541,7 +6557,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -6612,7 +6628,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -6645,7 +6661,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -6921,7 +6937,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7231,7 +7247,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7255,7 +7271,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7312,7 +7328,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -7496,7 +7512,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7515,7 +7531,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7540,7 +7556,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7555,7 +7571,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -7744,7 +7760,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7841,7 +7857,7 @@
 2
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -7931,7 +7947,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -8266,7 +8282,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -8353,7 +8369,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -8386,7 +8402,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -8409,7 +8425,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -8623,7 +8639,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -8853,7 +8869,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -8932,7 +8948,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -9076,7 +9092,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -9261,7 +9277,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -9302,7 +9318,7 @@
 2
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 }
 ]
@@ -9464,7 +9480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -9543,7 +9559,7 @@
 2
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -9621,7 +9637,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -9844,7 +9860,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 245,
+"total": 246,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -10035,14 +10051,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -10050,11 +10066,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -10117,7 +10133,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -10343,7 +10359,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -10507,7 +10523,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -10549,7 +10565,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -10601,7 +10617,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -10799,7 +10815,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -10831,7 +10847,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11208,7 +11224,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -11241,7 +11257,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -11309,7 +11325,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 215,
+"total": 216,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -11488,7 +11504,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -11505,15 +11521,19 @@
 "pos": "K",
 "name": "Wil Lutz",
 "team": "DEN",
-"pts": 6,
+"pts": 7,
 "comm": null,
 "bd": [
 [
 "38-yd FG",
 6
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -11532,7 +11552,7 @@
 2
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -11555,7 +11575,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -11563,7 +11583,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 208,
+"total": 209,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -11663,7 +11683,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -11751,14 +11771,14 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -11766,11 +11786,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -11940,7 +11960,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -12012,7 +12032,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -12112,7 +12132,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 258,
+"total": 259,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -12313,7 +12333,7 @@
 "pos": "K",
 "name": "Jason Sanders",
 "team": "NYJ",
-"pts": 13,
+"pts": 14,
 "comm": null,
 "bd": [
 [
@@ -12321,11 +12341,11 @@
 12
 ],
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12607,7 +12627,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -12919,7 +12939,7 @@
 0
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13045,7 +13065,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -13299,7 +13319,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 },
 {
@@ -13387,7 +13407,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -13446,7 +13466,7 @@
 9
 ]
 ],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -13491,7 +13511,7 @@
 0
 ]
 ],
-"game": "LV 0 @ DEN 3 \u00b7 Q2 15:00",
+"game": "LV 0 @ DEN 10 \u00b7 Q2 13:43",
 "on": true
 }
 ]
@@ -13890,7 +13910,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -13941,7 +13961,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -13969,7 +13989,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 3 @ NYG 3 \u00b7 Q1 4:59",
+"game": "JAX 3 @ NYG 3 \u00b7 Q1 2:39",
 "on": true
 },
 {
@@ -13993,7 +14013,7 @@
 12
 ]
 ],
-"game": "NYJ 10 @ LAC 3 \u00b7 Q2 6:36",
+"game": "NYJ 17 @ LAC 3 \u00b7 Q2 2:00",
 "on": true
 },
 {
@@ -14111,18 +14131,18 @@
 "live": false
 },
 {
-"t": "NYJ 10 @ LAC 3",
-"s": "Q2 6:36",
+"t": "NYJ 17 @ LAC 3",
+"s": "Q2 2:00",
 "live": true
 },
 {
-"t": "LV 0 @ DEN 3",
-"s": "Q2 15:00",
+"t": "LV 0 @ DEN 10",
+"s": "Q2 13:43",
 "live": true
 },
 {
 "t": "JAX 3 @ NYG 3",
-"s": "Q1 4:59",
+"s": "Q1 2:39",
 "live": true
 },
 {
