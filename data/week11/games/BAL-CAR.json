@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 2:22",
+"clock": "Q2 0:33",
 "score": {
 "CAR": 22,
-"BAL": 25
+"BAL": 26
 },
 "players": {
 "Zay Flowers": {
@@ -12,8 +12,8 @@
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 8,
-"rush_yds": 46,
+"rush_att": 9,
+"rush_yds": 51,
 "rush_td_lengths": [
 18
 ],
@@ -24,15 +24,15 @@
 "rec_yds": 35
 },
 "Tetairoa McMillan": {
-"rec": 2,
+"rec": 3,
 "rec_yds": 17,
 "rec_td_lengths": [
 7
 ]
 },
 "Darren Waller": {
-"rec": 1,
-"rec_yds": 8
+"rec": 2,
+"rec_yds": 15
 }
 },
 "kickers": {
@@ -41,7 +41,7 @@
 28
 ],
 "fg_missed_dist": [],
-"xp_made": 2,
+"xp_made": 3,
 "xp_missed": 0
 },
 "Ryan Fitzgerald": {

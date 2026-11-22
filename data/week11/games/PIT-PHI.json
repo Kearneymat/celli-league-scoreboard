@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 14:50",
 "score": {
 "PHI": 13,
 "PIT": 3
@@ -31,7 +31,7 @@
 "PIT": {
 "sacks": 2,
 "int": 0,
-"fum_rec": 0,
+"fum_rec": 1,
 "safeties": 0,
 "def_st_td_lengths": []
 },

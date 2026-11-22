@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 1:04",
+"clock": "Halftime",
 "score": {
 "CHI": 16,
-"NO": 7
+"NO": 10
 },
 "players": {
 "Jordyn Tyson": {
@@ -16,6 +16,7 @@
 "rec": 2,
 "rec_yds": 38
 },
+"Juwan Johnson": {},
 "Caleb Williams": {
 "pass_cmp": 10,
 "pass_yds": 113,
@@ -67,7 +68,7 @@
 "def_st_td_lengths": []
 },
 "CHI": {
-"sacks": 2,
+"sacks": 3,
 "int": 1,
 "fum_rec": 1,
 "safeties": 0,
