@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 13:08",
+"clock": "Q3 8:16",
 "score": {
-"DAL": 27,
+"DAL": 34,
 "TEN": 16
 },
 "players": {
@@ -16,8 +16,8 @@
 ]
 },
 "Tony Pollard": {
-"rush_att": 12,
-"rush_yds": 57
+"rush_att": 13,
+"rush_yds": 71
 },
 "Elic Ayomanor": {
 "rec": 1,
@@ -28,27 +28,33 @@
 "rec_yds": -1
 },
 "Dak Prescott": {
-"pass_cmp": 16,
-"pass_yds": 182,
+"pass_cmp": 21,
+"pass_yds": 240,
 "rush_att": 1,
 "rush_yds": 2,
 "pass_td_lengths": [
 8,
-10
+10,
+11
 ]
 },
 "Javonte Williams": {
-"rush_att": 10,
-"rush_yds": 30,
+"rush_att": 12,
+"rush_yds": 43,
+"rec": 2,
+"rec_yds": 17,
 "rush_td_lengths": [
 1
+],
+"rec_td_lengths": [
+11
 ]
 },
 "George Pickens": {
 "rush_att": 1,
 "rush_yds": 6,
-"rec": 3,
-"rec_yds": 22,
+"rec": 5,
+"rec_yds": 60,
 "rec_td_lengths": [
 10
 ]
@@ -79,7 +85,7 @@
 "Brandon Aubrey": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 3,
+"xp_made": 4,
 "xp_missed": 0
 }
 },

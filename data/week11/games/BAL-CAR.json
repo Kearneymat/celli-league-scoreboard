@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 12:12",
 "score": {
 "CAR": 22,
 "BAL": 26
@@ -12,8 +12,8 @@
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 9,
-"rush_yds": 51,
+"rush_att": 12,
+"rush_yds": 61,
 "rush_td_lengths": [
 18
 ],

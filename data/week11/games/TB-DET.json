@@ -1,20 +1,20 @@
 {
 "status": "live",
-"clock": "Q3 11:17",
+"clock": "Q3 7:18",
 "score": {
-"DET": 10,
+"DET": 17,
 "TB": 7
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 9,
-"rush_yds": 12,
+"rush_att": 11,
+"rush_yds": 23,
 "rec": 1,
 "rec_yds": 16
 },
 "Jahmyr Gibbs": {
-"rush_att": 8,
-"rush_yds": 30,
+"rush_att": 10,
+"rush_yds": 36,
 "rec": 2,
 "rec_yds": 4
 },
@@ -44,7 +44,7 @@
 "fg_missed_dist": [
 53
 ],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },

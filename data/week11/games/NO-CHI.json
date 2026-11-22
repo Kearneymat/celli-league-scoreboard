@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 13:37",
+"clock": "Q3 7:16",
 "score": {
-"CHI": 16,
+"CHI": 19,
 "NO": 10
 },
 "players": {
@@ -18,8 +18,8 @@
 },
 "Juwan Johnson": {},
 "Caleb Williams": {
-"pass_cmp": 10,
-"pass_yds": 113,
+"pass_cmp": 13,
+"pass_yds": 162,
 "int": 1,
 "rush_att": 2,
 "rush_yds": 13,
@@ -29,13 +29,19 @@
 ]
 },
 "D'Andre Swift": {
-"rush_att": 8,
-"rush_yds": 26,
+"rush_att": 12,
+"rush_yds": 47,
 "rec": 2,
 "rec_yds": 8,
 "rec_td_lengths": [
 3
 ]
+},
+"Luther Burden": {
+"rush_att": 1,
+"rush_yds": 4,
+"rec": 2,
+"rec_yds": 10
 },
 "Colston Loveland": {
 "rec": 2,
@@ -43,16 +49,13 @@
 "rec_td_lengths": [
 15
 ]
-},
-"Luther Burden": {
-"rec": 2,
-"rec_yds": 10
 }
 },
 "kickers": {
 "Cairo Santos": {
 "fg_made_dist": [
-41
+41,
+35
 ],
 "fg_missed_dist": [],
 "xp_made": 1,
@@ -61,7 +64,7 @@
 },
 "defenses": {
 "NO": {
-"sacks": 1,
+"sacks": 2,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,

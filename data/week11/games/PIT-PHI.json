@@ -1,20 +1,20 @@
 {
 "status": "live",
-"clock": "Q3 12:52",
+"clock": "Q3 8:33",
 "score": {
-"PHI": 13,
+"PHI": 16,
 "PIT": 6
 },
 "players": {
 "Jaylen Warren": {
-"rush_att": 7,
-"rush_yds": 12,
+"rush_att": 8,
+"rush_yds": 17,
 "rec": 2,
 "rec_yds": 1
 },
 "DeVonta Smith": {
-"rec": 2,
-"rec_yds": 21
+"rec": 4,
+"rec_yds": 34
 }
 },
 "kickers": {
