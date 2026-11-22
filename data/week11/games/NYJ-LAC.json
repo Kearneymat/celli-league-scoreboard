@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q3 3:31",
+"clock": "Q4 15:00",
 "score": {
 "LAC": 10,
-"NYJ": 17
+"NYJ": 20
 },
 "players": {
 "Mason Taylor": {
@@ -15,14 +15,17 @@
 "rec_yds": 20
 },
 "Omarion Hampton": {
-"rush_att": 9,
-"rush_yds": 43
+"rush_att": 11,
+"rush_yds": 83,
+"rec": 1,
+"rec_yds": 4
 }
 },
 "kickers": {
 "Jason Sanders": {
 "fg_made_dist": [
-50
+50,
+24
 ],
 "fg_missed_dist": [],
 "xp_made": 2,

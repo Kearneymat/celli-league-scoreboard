@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 1:07",
+"clock": "Halftime",
 "score": {
 "DEN": 17,
 "LV": 10
@@ -40,7 +40,7 @@
 "defenses": {
 "LV": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

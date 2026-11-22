@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 0:31",
+"clock": "Halftime",
 "score": {
-"NYG": 17,
+"NYG": 20,
 "JAX": 6
 },
 "players": {
@@ -10,8 +10,8 @@
 "pass_cmp": 10,
 "pass_yds": 106,
 "int": 1,
-"rush_att": 2,
-"rush_yds": 8
+"rush_att": 3,
+"rush_yds": 7
 },
 "Bhayshul Tuten": {
 "rush_att": 6,
