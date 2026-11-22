@@ -1,22 +1,22 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 11:02",
 "score": {
 "LAC": 10,
 "NYJ": 17
 },
 "players": {
+"Mason Taylor": {
+"rec": 2,
+"rec_yds": 25
+},
 "Garrett Wilson": {
 "rec": 2,
 "rec_yds": 20
 },
-"Mason Taylor": {
-"rec": 1,
-"rec_yds": 19
-},
 "Omarion Hampton": {
-"rush_att": 8,
-"rush_yds": 40
+"rush_att": 9,
+"rush_yds": 43
 }
 },
 "kickers": {
@@ -39,7 +39,7 @@
 },
 "defenses": {
 "NYJ": {
-"sacks": 2,
+"sacks": 3,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

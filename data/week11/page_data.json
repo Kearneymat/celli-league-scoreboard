@@ -185,7 +185,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -222,7 +222,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -288,7 +288,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 270,
+"total": 267,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -564,23 +564,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -864,7 +864,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 219,
+"total": 216,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -965,7 +965,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -1043,7 +1043,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -1089,7 +1089,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -1118,23 +1118,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -1281,7 +1281,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -1346,7 +1346,7 @@
 2
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -1515,7 +1515,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -1576,7 +1576,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -1605,7 +1605,7 @@
 2
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -1869,7 +1869,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -1908,7 +1908,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -2039,7 +2039,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -2077,7 +2077,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -2127,7 +2127,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -2434,7 +2434,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -2444,7 +2444,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -2536,7 +2536,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 220,
+"total": 217,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2623,7 +2623,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -2724,7 +2724,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -2743,7 +2743,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -2786,23 +2786,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -2810,7 +2810,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 284,
+"total": 285,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -2870,7 +2870,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -3049,22 +3049,26 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 3,
+"pts": 4,
 "comm": null,
 "bd": [
 [
 "28-yd FG",
 3
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -3147,7 +3151,7 @@
 -5
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -3162,7 +3166,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -3256,7 +3260,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -3588,7 +3592,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -3625,7 +3629,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -3789,7 +3793,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -3931,7 +3935,7 @@
 2
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -4168,7 +4172,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -4178,7 +4182,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -4215,7 +4219,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -4672,7 +4676,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -4734,7 +4738,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -4844,7 +4848,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 285,
+"total": 282,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -5051,7 +5055,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -5070,7 +5074,7 @@
 2
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -5089,7 +5093,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -5126,23 +5130,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -5344,7 +5348,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -5363,7 +5367,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -5601,7 +5605,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -5672,7 +5676,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -5736,7 +5740,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 232,
+"total": 229,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -5922,7 +5926,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -5941,7 +5945,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -5980,23 +5984,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -6004,7 +6008,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 181,
+"total": 178,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -6097,7 +6101,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -6166,7 +6170,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -6240,23 +6244,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -6435,7 +6439,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -6499,7 +6503,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -6630,7 +6634,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -6701,7 +6705,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -6738,7 +6742,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -7014,7 +7018,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7140,7 +7144,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 278,
+"total": 275,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -7324,7 +7328,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7352,7 +7356,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7393,23 +7397,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -7593,7 +7597,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -7612,7 +7616,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7641,7 +7645,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7660,7 +7664,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -7716,7 +7720,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 181,
+"total": 171,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -7849,7 +7853,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -7934,12 +7938,12 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 12,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -7950,7 +7954,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -8045,7 +8049,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -8284,7 +8288,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 200,
+"total": 197,
 "comm": null,
 "prev": 2747,
 "alive": true,
@@ -8380,7 +8384,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -8467,7 +8471,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -8504,30 +8508,30 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -8741,7 +8745,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -8976,7 +8980,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -9055,7 +9059,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -9147,7 +9151,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 255,
+"total": 245,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -9204,7 +9208,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -9393,7 +9397,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -9422,12 +9426,12 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 12,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -9438,7 +9442,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 }
 ]
@@ -9446,7 +9450,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 183,
+"total": 173,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -9600,7 +9604,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -9667,12 +9671,12 @@
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 12,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -9683,7 +9687,7 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -9766,7 +9770,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -9989,7 +9993,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 241,
+"total": 238,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -10180,7 +10184,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -10199,7 +10203,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -10246,23 +10250,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -10492,7 +10496,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -10661,7 +10665,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -10703,7 +10707,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -10755,7 +10759,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -10958,7 +10962,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -10990,7 +10994,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -11367,7 +11371,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -11404,7 +11408,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -11472,7 +11476,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 207,
+"total": 194,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -11651,7 +11655,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -11680,19 +11684,19 @@
 2
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Jaguars D",
 "team": "JAX",
-"pts": 12,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"10 pts allowed",
-10
+"17 pts allowed",
+0
 ],
 [
 "1 sacks",
@@ -11703,30 +11707,30 @@
 0
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -11839,7 +11843,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -11927,7 +11931,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -11946,7 +11950,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -12121,7 +12125,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -12193,7 +12197,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -12506,7 +12510,7 @@
 2
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -12792,7 +12796,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -12870,7 +12874,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 160,
+"total": 162,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13088,7 +13092,7 @@
 "pos": "DEF",
 "name": "Jets D",
 "team": "NYJ",
-"pts": 14,
+"pts": 16,
 "comm": null,
 "bd": [
 [
@@ -13096,15 +13100,15 @@
 10
 ],
 [
-"2 sacks",
-4
+"3 sacks",
+6
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -13230,7 +13234,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -13402,7 +13406,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 238,
+"total": 235,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -13489,7 +13493,7 @@
 6
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 },
 {
@@ -13577,7 +13581,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -13640,7 +13644,7 @@
 6
 ]
 ],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -13669,23 +13673,23 @@
 "pos": "DEF",
 "name": "Broncos D",
 "team": "DEN",
-"pts": 17,
+"pts": 14,
 "comm": null,
 "bd": [
 [
-"3 pts allowed",
-15
+"10 pts allowed",
+10
 ],
 [
-"1 sacks",
-2
+"2 sacks",
+4
 ],
 [
 "Leading",
 0
 ]
 ],
-"game": "LV 3 @ DEN 17 \u00b7 Q2 6:43",
+"game": "LV 10 @ DEN 17 \u00b7 Q2 2:40",
 "on": true
 }
 ]
@@ -14084,7 +14088,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -14135,7 +14139,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -14163,7 +14167,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 6 @ NYG 10 \u00b7 Q2 11:23",
+"game": "JAX 6 @ NYG 17 \u00b7 Q2 6:04",
 "on": true
 },
 {
@@ -14191,7 +14195,7 @@
 1
 ]
 ],
-"game": "NYJ 17 @ LAC 10 \u00b7 Halftime",
+"game": "NYJ 17 @ LAC 10 \u00b7 Q3 11:02",
 "on": true
 },
 {
@@ -14310,17 +14314,17 @@
 },
 {
 "t": "NYJ 17 @ LAC 10",
-"s": "Halftime",
+"s": "Q3 11:02",
 "live": true
 },
 {
-"t": "LV 3 @ DEN 17",
-"s": "Q2 6:43",
+"t": "LV 10 @ DEN 17",
+"s": "Q2 2:40",
 "live": true
 },
 {
-"t": "JAX 6 @ NYG 10",
-"s": "Q2 11:23",
+"t": "JAX 6 @ NYG 17",
+"s": "Q2 6:04",
 "live": true
 },
 {
