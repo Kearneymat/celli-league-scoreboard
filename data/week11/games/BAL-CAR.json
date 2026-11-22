@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 10:01",
+"clock": "Q2 6:55",
 "score": {
 "CAR": 14,
-"BAL": 12
+"BAL": 19
 },
 "players": {
 "Zay Flowers": {
@@ -25,6 +25,10 @@
 "Tetairoa McMillan": {
 "rec": 1,
 "rec_yds": 10
+},
+"Darren Waller": {
+"rec": 1,
+"rec_yds": 8
 }
 },
 "kickers": {
@@ -33,7 +37,7 @@
 28
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 },
 "Ryan Fitzgerald": {
@@ -49,7 +53,9 @@
 "int": 0,
 "fum_rec": 0,
 "safeties": 1,
-"def_st_td_lengths": []
+"def_st_td_lengths": [
+86
+]
 },
 "CAR": {
 "sacks": 0,

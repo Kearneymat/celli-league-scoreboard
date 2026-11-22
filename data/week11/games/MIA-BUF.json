@@ -1,21 +1,24 @@
 {
 "status": "live",
-"clock": "Q2 9:38",
+"clock": "Q2 2:17",
 "score": {
-"BUF": 13,
+"BUF": 20,
 "MIA": 3
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 8,
-"pass_yds": 105,
+"pass_cmp": 13,
+"pass_yds": 153,
 "pass_td_lengths": [
 4
 ]
 },
 "James Cook": {
-"rush_att": 10,
-"rush_yds": 22
+"rush_att": 13,
+"rush_yds": 36,
+"rush_td_lengths": [
+1
+]
 },
 "Khalil Shakir": {
 "rush_att": 1,
@@ -24,8 +27,8 @@
 "rec_yds": 32
 },
 "DJ Moore": {
-"rec": 4,
-"rec_yds": 27,
+"rec": 5,
+"rec_yds": 41,
 "rec_td_lengths": [
 4
 ]
@@ -38,7 +41,7 @@
 54
 ],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },

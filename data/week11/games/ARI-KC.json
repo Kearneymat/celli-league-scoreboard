@@ -1,43 +1,45 @@
 {
 "status": "live",
-"clock": "Q2 4:26",
+"clock": "Q2 1:17",
 "score": {
-"KC": 17,
+"KC": 24,
 "ARI": 7
 },
 "players": {
 "Trey McBride": {
 "rush_att": 1,
 "rush_yds": 4,
-"rec": 1,
-"rec_yds": 6
+"rec": 3,
+"rec_yds": 17
 },
 "Patrick Mahomes": {
-"pass_cmp": 14,
-"pass_yds": 141,
+"pass_cmp": 16,
+"pass_yds": 175,
 "pass_td_lengths": [
-8
+8,
+22
 ]
 },
 "Emmett Johnson": {
-"rush_att": 15,
-"rush_yds": 63,
+"rush_att": 16,
+"rush_yds": 66,
 "rec": 2,
 "rec_yds": 17,
 "rush_td_lengths": [
 3
 ]
 },
+"Travis Kelce": {
+"rec": 6,
+"rec_yds": 74,
+"rec_td_lengths": [
+8,
+22
+]
+},
 "Rashee Rice": {
 "rec": 5,
 "rec_yds": 47
-},
-"Travis Kelce": {
-"rec": 4,
-"rec_yds": 40,
-"rec_td_lengths": [
-8
-]
 }
 },
 "kickers": {},

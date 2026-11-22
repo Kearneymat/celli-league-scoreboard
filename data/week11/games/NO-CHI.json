@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 8:51",
+"clock": "Q2 3:34",
 "score": {
-"CHI": 10,
-"NO": 0
+"CHI": 16,
+"NO": 7
 },
 "players": {
 "Jordyn Tyson": {
@@ -13,16 +13,17 @@
 "rec_yds": 6
 },
 "Chris Olave": {
-"rec": 1,
-"rec_yds": 14
+"rec": 2,
+"rec_yds": 38
 },
 "Caleb Williams": {
-"pass_cmp": 9,
-"pass_yds": 98,
+"pass_cmp": 10,
+"pass_yds": 113,
 "rush_att": 2,
 "rush_yds": 13,
 "pass_td_lengths": [
-3
+3,
+15
 ]
 },
 "D'Andre Swift": {
@@ -35,8 +36,11 @@
 ]
 },
 "Colston Loveland": {
-"rec": 1,
-"rec_yds": 12
+"rec": 2,
+"rec_yds": 27,
+"rec_td_lengths": [
+15
+]
 },
 "Luther Burden": {
 "rec": 2,
@@ -50,7 +54,7 @@
 ],
 "fg_missed_dist": [],
 "xp_made": 1,
-"xp_missed": 0
+"xp_missed": 1
 }
 },
 "defenses": {
