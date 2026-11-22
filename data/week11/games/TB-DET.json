@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 14:15",
+"clock": "Q3 11:17",
 "score": {
 "DET": 10,
 "TB": 7
@@ -13,8 +13,8 @@
 "rec_yds": 16
 },
 "Jahmyr Gibbs": {
-"rush_att": 7,
-"rush_yds": 20,
+"rush_att": 8,
+"rush_yds": 30,
 "rec": 2,
 "rec_yds": 4
 },

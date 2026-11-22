@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 0:08",
+"clock": "Halftime",
 "score": {
 "BUF": 20,
 "MIA": 6
 },
 "players": {
 "Josh Allen": {
-"pass_cmp": 15,
-"pass_yds": 173,
+"pass_cmp": 16,
+"pass_yds": 193,
 "int": 2,
 "pass_td_lengths": [
 4
@@ -28,8 +28,8 @@
 "rec_yds": 32
 },
 "DJ Moore": {
-"rec": 6,
-"rec_yds": 59,
+"rec": 7,
+"rec_yds": 79,
 "rec_td_lengths": [
 4
 ]

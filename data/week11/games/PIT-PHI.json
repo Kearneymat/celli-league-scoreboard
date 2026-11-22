@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q3 14:50",
+"clock": "Q3 12:52",
 "score": {
 "PHI": 13,
-"PIT": 3
+"PIT": 6
 },
 "players": {
 "Jaylen Warren": {
@@ -20,7 +20,8 @@
 "kickers": {
 "Chris Boswell": {
 "fg_made_dist": [
-25
+25,
+40
 ],
 "fg_missed_dist": [],
 "xp_made": 0,

@@ -1,20 +1,23 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 13:08",
 "score": {
 "DAL": 27,
-"TEN": 9
+"TEN": 16
 },
 "players": {
 "Cam Ward": {
-"pass_cmp": 6,
-"pass_yds": 55,
-"rush_att": 1,
-"rush_yds": 2
+"pass_cmp": 8,
+"pass_yds": 86,
+"rush_att": 2,
+"rush_yds": 3,
+"rush_td_lengths": [
+1
+]
 },
 "Tony Pollard": {
-"rush_att": 11,
-"rush_yds": 56
+"rush_att": 12,
+"rush_yds": 57
 },
 "Elic Ayomanor": {
 "rec": 1,
@@ -70,7 +73,7 @@
 28
 ],
 "fg_missed_dist": [],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Brandon Aubrey": {
