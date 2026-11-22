@@ -1,22 +1,22 @@
 {
 "status": "live",
-"clock": "Q2 9:05",
+"clock": "Q2 3:11",
 "score": {
 "DET": 7,
 "TB": 0
 },
 "players": {
 "Bucky Irving": {
-"rush_att": 8,
-"rush_yds": 9
+"rush_att": 9,
+"rush_yds": 12
 },
 "Jahmyr Gibbs": {
 "rush_att": 6,
 "rush_yds": 18
 },
 "Sam LaPorta": {
-"rec": 2,
-"rec_yds": 58
+"rec": 3,
+"rec_yds": 62
 },
 "Amon-Ra St. Brown": {
 "rec": 3,
@@ -45,7 +45,7 @@
 "def_st_td_lengths": []
 },
 "DET": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

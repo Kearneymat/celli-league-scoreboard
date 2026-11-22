@@ -1,9 +1,9 @@
 {
 "status": "live",
-"clock": "Q2 13:16",
+"clock": "Q2 9:38",
 "score": {
 "BUF": 13,
-"MIA": 0
+"MIA": 3
 },
 "players": {
 "Josh Allen": {
@@ -14,8 +14,8 @@
 ]
 },
 "James Cook": {
-"rush_att": 9,
-"rush_yds": 19
+"rush_att": 10,
+"rush_yds": 22
 },
 "Khalil Shakir": {
 "rush_att": 1,

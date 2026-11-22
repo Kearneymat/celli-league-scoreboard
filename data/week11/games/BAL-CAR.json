@@ -1,19 +1,22 @@
 {
 "status": "live",
-"clock": "Q2 15:00",
+"clock": "Q2 10:01",
 "score": {
-"CAR": 7,
+"CAR": 14,
 "BAL": 12
 },
 "players": {
 "Zay Flowers": {
-"rec": 2,
-"rec_yds": 21
+"rec": 3,
+"rec_yds": 47
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
-"rush_att": 5,
-"rush_yds": 23
+"rush_att": 8,
+"rush_yds": 46,
+"rush_td_lengths": [
+18
+]
 },
 "Jalen Coker": {
 "rec": 1,
@@ -36,7 +39,7 @@
 "Ryan Fitzgerald": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 1,
+"xp_made": 2,
 "xp_missed": 0
 }
 },
@@ -51,7 +54,7 @@
 "CAR": {
 "sacks": 0,
 "int": 0,
-"fum_rec": 0,
+"fum_rec": 2,
 "safeties": 0,
 "def_st_td_lengths": []
 }
