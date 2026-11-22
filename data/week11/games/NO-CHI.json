@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 3:34",
+"clock": "Q2 1:04",
 "score": {
 "CHI": 16,
 "NO": 7
@@ -19,6 +19,7 @@
 "Caleb Williams": {
 "pass_cmp": 10,
 "pass_yds": 113,
+"int": 1,
 "rush_att": 2,
 "rush_yds": 13,
 "pass_td_lengths": [
@@ -60,7 +61,7 @@
 "defenses": {
 "NO": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []

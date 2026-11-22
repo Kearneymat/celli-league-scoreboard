@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q2 1:17",
+"clock": "Halftime",
 "score": {
-"KC": 24,
+"KC": 27,
 "ARI": 7
 },
 "players": {
@@ -13,8 +13,8 @@
 "rec_yds": 17
 },
 "Patrick Mahomes": {
-"pass_cmp": 16,
-"pass_yds": 175,
+"pass_cmp": 21,
+"pass_yds": 233,
 "pass_td_lengths": [
 8,
 22
@@ -23,8 +23,8 @@
 "Emmett Johnson": {
 "rush_att": 16,
 "rush_yds": 66,
-"rec": 2,
-"rec_yds": 17,
+"rec": 3,
+"rec_yds": 26,
 "rush_td_lengths": [
 3
 ]
@@ -38,8 +38,8 @@
 ]
 },
 "Rashee Rice": {
-"rec": 5,
-"rec_yds": 47
+"rec": 6,
+"rec_yds": 53
 }
 },
 "kickers": {},

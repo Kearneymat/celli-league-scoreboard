@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 2:17",
+"clock": "Q2 1:24",
 "score": {
 "BUF": 20,
 "MIA": 3
@@ -9,6 +9,7 @@
 "Josh Allen": {
 "pass_cmp": 13,
 "pass_yds": 153,
+"int": 1,
 "pass_td_lengths": [
 4
 ]
@@ -48,13 +49,13 @@
 "defenses": {
 "MIA": {
 "sacks": 1,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
 },
 "BUF": {
-"sacks": 1,
+"sacks": 2,
 "int": 0,
 "fum_rec": 0,
 "safeties": 0,

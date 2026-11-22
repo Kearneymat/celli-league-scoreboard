@@ -1,22 +1,32 @@
 {
 "status": "live",
-"clock": "Q2 1:55",
+"clock": "Halftime",
 "score": {
 "PHI": 13,
-"PIT": 0
+"PIT": 3
 },
 "players": {
 "Jaylen Warren": {
 "rush_att": 7,
 "rush_yds": 12,
-"rec": 1
+"rec": 2,
+"rec_yds": 1
 },
 "DeVonta Smith": {
 "rec": 2,
 "rec_yds": 21
 }
 },
-"kickers": {},
+"kickers": {
+"Chris Boswell": {
+"fg_made_dist": [
+25
+],
+"fg_missed_dist": [],
+"xp_made": 0,
+"xp_missed": 0
+}
+},
 "defenses": {
 "PIT": {
 "sacks": 2,

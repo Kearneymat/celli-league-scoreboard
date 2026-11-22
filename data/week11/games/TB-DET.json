@@ -1,14 +1,16 @@
 {
 "status": "live",
-"clock": "Q2 0:30",
+"clock": "Halftime",
 "score": {
 "DET": 10,
-"TB": 0
+"TB": 7
 },
 "players": {
 "Bucky Irving": {
 "rush_att": 9,
-"rush_yds": 12
+"rush_yds": 12,
+"rec": 1,
+"rec_yds": 16
 },
 "Jahmyr Gibbs": {
 "rush_att": 6,
@@ -29,6 +31,12 @@
 }
 },
 "kickers": {
+"Chase McLaughlin": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+},
 "Jake Bates": {
 "fg_made_dist": [
 56

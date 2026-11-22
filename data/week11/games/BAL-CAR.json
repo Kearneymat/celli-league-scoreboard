@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q2 6:55",
+"clock": "Q2 2:22",
 "score": {
-"CAR": 14,
-"BAL": 19
+"CAR": 22,
+"BAL": 25
 },
 "players": {
 "Zay Flowers": {
-"rec": 3,
-"rec_yds": 47
+"rec": 5,
+"rec_yds": 54
 },
 "Mark Andrews": {},
 "Chuba Hubbard": {
@@ -16,15 +16,19 @@
 "rush_yds": 46,
 "rush_td_lengths": [
 18
-]
+],
+"two_pt": 1
 },
 "Jalen Coker": {
 "rec": 1,
 "rec_yds": 35
 },
 "Tetairoa McMillan": {
-"rec": 1,
-"rec_yds": 10
+"rec": 2,
+"rec_yds": 17,
+"rec_td_lengths": [
+7
+]
 },
 "Darren Waller": {
 "rec": 1,
