@@ -1,15 +1,15 @@
 {
 "status": "live",
-"clock": "Q4 12:26",
+"clock": "Q4 10:17",
 "score": {
 "NYG": 20,
-"JAX": 6
+"JAX": 9
 },
 "players": {
 "Trevor Lawrence": {
 "pass_cmp": 16,
 "pass_yds": 154,
-"int": 1,
+"int": 2,
 "rush_att": 3,
 "rush_yds": 7
 },
@@ -28,8 +28,8 @@
 "rec_yds": 16
 },
 "Cam Skattebo": {
-"rush_att": 10,
-"rush_yds": 18,
+"rush_att": 11,
+"rush_yds": 21,
 "rec": 3,
 "rec_yds": 14,
 "fl": 1
@@ -43,7 +43,8 @@
 "Cam Little": {
 "fg_made_dist": [
 42,
-35
+35,
+31
 ],
 "fg_missed_dist": [],
 "xp_made": 0,
@@ -60,7 +61,7 @@
 },
 "NYG": {
 "sacks": 3,
-"int": 1,
+"int": 2,
 "fum_rec": 0,
 "safeties": 0,
 "def_st_td_lengths": []
