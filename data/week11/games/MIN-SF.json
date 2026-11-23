@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q3 8:46",
+"clock": "Q3 2:58",
 "score": {
 "SF": 28,
 "MIN": 10
@@ -18,13 +18,13 @@
 "rec_yds": 48
 },
 "Christian McCaffrey": {
-"rush_att": 10,
-"rush_yds": 40,
+"rush_att": 11,
+"rush_yds": 43,
 "rec": 1
 },
 "George Kittle": {
-"rec": 2,
-"rec_yds": 25,
+"rec": 3,
+"rec_yds": 34,
 "rec_td_lengths": [
 17,
 8

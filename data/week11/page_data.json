@@ -179,7 +179,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -273,7 +273,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -514,7 +514,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -816,7 +816,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -877,7 +877,7 @@
 4
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -1972,7 +1972,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -2607,7 +2607,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -2666,7 +2666,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -2927,7 +2927,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -3225,7 +3225,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -4009,7 +4009,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 270,
+"total": 280,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -4093,7 +4093,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -4178,9 +4178,17 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 13,
+"pts": 23,
 "comm": null,
 "bd": [
+[
+"3 catches",
+5
+],
+[
+"34 rec yds",
+5
+],
 [
 "17-yd TD catch",
 7
@@ -4190,7 +4198,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -4492,7 +4500,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -4800,7 +4808,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -5077,7 +5085,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -5168,7 +5176,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -6326,7 +6334,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -6421,7 +6429,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -7210,7 +7218,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -7536,7 +7544,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -8172,7 +8180,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -8538,7 +8546,7 @@
 4
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -9705,7 +9713,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -9764,7 +9772,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -10023,7 +10031,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -10368,7 +10376,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -10627,7 +10635,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -11153,7 +11161,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -11262,7 +11270,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -11536,7 +11544,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -11946,7 +11954,7 @@
 7
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -12488,7 +12496,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -12824,7 +12832,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -12918,7 +12926,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -13131,7 +13139,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -13448,7 +13456,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -13606,7 +13614,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 219,
+"total": 229,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -13771,9 +13779,17 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 13,
+"pts": 23,
 "comm": null,
 "bd": [
+[
+"3 catches",
+5
+],
+[
+"34 rec yds",
+5
+],
 [
 "17-yd TD catch",
 7
@@ -13783,7 +13799,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -13888,7 +13904,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 185,
+"total": 195,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13954,7 +13970,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -14060,9 +14076,17 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 13,
+"pts": 23,
 "comm": null,
 "bd": [
+[
+"3 catches",
+5
+],
+[
+"34 rec yds",
+5
+],
 [
 "17-yd TD catch",
 7
@@ -14072,7 +14096,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -14099,7 +14123,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -14237,7 +14261,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -14587,7 +14611,7 @@
 -3
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 2:58",
 "on": true
 },
 {
@@ -15428,7 +15452,7 @@
 },
 {
 "t": "MIN 10 @ SF 28",
-"s": "Q3 8:46",
+"s": "Q3 2:58",
 "live": true
 },
 {
