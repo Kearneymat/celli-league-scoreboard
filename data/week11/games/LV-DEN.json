@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q4 2:23",
+"clock": "Q4 1:31",
 "score": {
-"DEN": 31,
+"DEN": 38,
 "LV": 24
 },
 "players": {
@@ -39,7 +39,7 @@
 38
 ],
 "fg_missed_dist": [],
-"xp_made": 4,
+"xp_made": 5,
 "xp_missed": 0
 }
 },
@@ -53,10 +53,12 @@
 },
 "DEN": {
 "sacks": 3,
-"int": 0,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
-"def_st_td_lengths": []
+"def_st_td_lengths": [
+35
+]
 }
 },
 "src": "ESPN"
