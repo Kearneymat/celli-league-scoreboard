@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q4 13:26",
+"clock": "Q4 8:23",
 "score": {
 "SF": 35,
 "MIN": 10
@@ -9,13 +9,13 @@
 "Justin Jefferson": {
 "rush_att": 1,
 "rush_yds": 1,
-"rec": 5,
-"rec_yds": 72,
+"rec": 7,
+"rec_yds": 86,
 "fl": 1
 },
 "T.J. Hockenson": {
-"rec": 5,
-"rec_yds": 48
+"rec": 6,
+"rec_yds": 55
 },
 "Christian McCaffrey": {
 "rush_att": 12,
