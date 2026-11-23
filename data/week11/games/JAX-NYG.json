@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q3 0:23",
+"clock": "Q4 12:26",
 "score": {
 "NYG": 20,
 "JAX": 6
 },
 "players": {
 "Trevor Lawrence": {
-"pass_cmp": 11,
-"pass_yds": 114,
+"pass_cmp": 16,
+"pass_yds": 154,
 "int": 1,
 "rush_att": 3,
 "rush_yds": 7
@@ -16,16 +16,16 @@
 "Bhayshul Tuten": {
 "rush_att": 9,
 "rush_yds": 25,
-"rec": 2,
-"rec_yds": 19
+"rec": 3,
+"rec_yds": 20
 },
 "Parker Washington": {
-"rec": 4,
-"rec_yds": 55
+"rec": 6,
+"rec_yds": 66
 },
 "Brenton Strange": {
-"rec": 2,
-"rec_yds": 11
+"rec": 3,
+"rec_yds": 16
 },
 "Cam Skattebo": {
 "rush_att": 10,
