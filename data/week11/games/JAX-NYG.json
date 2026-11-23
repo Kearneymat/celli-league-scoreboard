@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 4:54",
+"clock": "Q4 2:00",
 "score": {
 "NYG": 23,
-"JAX": 15
+"JAX": 18
 },
 "players": {
 "Trevor Lawrence": {
-"pass_cmp": 23,
-"pass_yds": 266,
+"pass_cmp": 25,
+"pass_yds": 301,
 "int": 2,
 "rush_att": 3,
 "rush_yds": 7,
@@ -24,15 +24,15 @@
 },
 "Parker Washington": {
 "rec": 8,
-"rec_yds": 104
+"rec_yds": 103
 },
 "Brenton Strange": {
 "rec": 3,
 "rec_yds": 16
 },
 "Cam Skattebo": {
-"rush_att": 11,
-"rush_yds": 21,
+"rush_att": 14,
+"rush_yds": 34,
 "rec": 3,
 "rec_yds": 14,
 "fl": 1
@@ -47,7 +47,8 @@
 "fg_made_dist": [
 42,
 35,
-31
+31,
+26
 ],
 "fg_missed_dist": [],
 "xp_made": 0,

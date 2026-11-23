@@ -1,6 +1,6 @@
 {
-"status": "live",
-"clock": "Q4 1:31",
+"status": "final",
+"clock": "Final",
 "score": {
 "DEN": 38,
 "LV": 24
@@ -52,7 +52,7 @@
 "def_st_td_lengths": []
 },
 "DEN": {
-"sacks": 3,
+"sacks": 5,
 "int": 1,
 "fum_rec": 0,
 "safeties": 0,
