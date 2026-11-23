@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 279,
+"total": 288,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -163,10 +163,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -260,7 +273,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -316,7 +329,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 279,
+"total": 288,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -485,10 +498,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -623,7 +649,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 244,
+"total": 253,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -774,10 +800,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -838,7 +877,7 @@
 4
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -1780,7 +1819,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 188,
+"total": 197,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1917,10 +1956,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -2388,7 +2440,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 236,
+"total": 245,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2539,10 +2591,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -2601,7 +2666,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -2683,7 +2748,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 275,
+"total": 284,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2846,10 +2911,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -2986,7 +3064,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 286,
+"total": 295,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -3131,10 +3209,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -4002,7 +4093,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -4099,7 +4190,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -4217,7 +4308,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 264,
+"total": 273,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -4385,10 +4476,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -4511,7 +4615,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 254,
+"total": 263,
 "comm": null,
 "prev": 2752,
 "alive": true,
@@ -4680,10 +4784,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -4807,7 +4924,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 279,
+"total": 288,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4944,10 +5061,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -5038,7 +5168,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -6035,7 +6165,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 264,
+"total": 273,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -6180,10 +6310,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -6278,7 +6421,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -6922,7 +7065,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 195,
+"total": 204,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -7051,10 +7194,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -7205,7 +7361,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 304,
+"total": 313,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -7364,10 +7520,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -7846,7 +8015,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 229,
+"total": 238,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -7987,10 +8156,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -8356,7 +8538,7 @@
 4
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -9335,7 +9517,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 283,
+"total": 292,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9507,10 +9689,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -9569,7 +9764,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -9651,7 +9846,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 288,
+"total": 297,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -9812,10 +10007,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -9975,7 +10183,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 188,
+"total": 197,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -10144,10 +10352,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -10253,7 +10474,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 258,
+"total": 267,
 "comm": null,
 "prev": 2732,
 "alive": true,
@@ -10390,10 +10611,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -10839,7 +11073,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 237,
+"total": 246,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -10919,7 +11153,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -11012,10 +11246,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -11142,7 +11389,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 290,
+"total": 299,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -11273,10 +11520,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -11686,7 +11946,7 @@
 7
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -12101,7 +12361,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 211,
+"total": 220,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -12212,10 +12472,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -12376,7 +12649,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 265,
+"total": 274,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -12535,10 +12808,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -12632,7 +12918,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -12692,7 +12978,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 263,
+"total": 272,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -12829,10 +13115,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -12988,7 +13287,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 263,
+"total": 272,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -13133,10 +13432,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -13471,7 +13783,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -13642,7 +13954,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -13760,7 +14072,7 @@
 6
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -13787,7 +14099,7 @@
 1
 ]
 ],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -13925,7 +14237,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -14132,7 +14444,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 298,
+"total": 307,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -14259,10 +14571,23 @@
 "pos": "WR",
 "name": "Justin Jefferson",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "MIN 10 @ SF 28 \u00b7 Q3 13:36",
+"bd": [
+[
+"5 catches",
+5
+],
+[
+"72 rec yds",
+7
+],
+[
+"1 lost fumble",
+-3
+]
+],
+"game": "MIN 10 @ SF 28 \u00b7 Q3 8:46",
 "on": true
 },
 {
@@ -15103,7 +15428,7 @@
 },
 {
 "t": "MIN 10 @ SF 28",
-"s": "Q3 13:36",
+"s": "Q3 8:46",
 "live": true
 },
 {
