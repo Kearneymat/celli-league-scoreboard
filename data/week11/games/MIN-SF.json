@@ -1,18 +1,20 @@
 {
 "status": "live",
-"clock": "Q2 2:09",
+"clock": "Q2 0:51",
 "score": {
-"SF": 21,
+"SF": 28,
 "MIN": 10
 },
 "players": {
-"T.J. Hockenson": {
-"rec": 3,
-"rec_yds": 39
-},
 "Justin Jefferson": {
+"rush_att": 1,
+"rush_yds": 1,
 "rec": 2,
 "rec_yds": 36
+},
+"T.J. Hockenson": {
+"rec": 4,
+"rec_yds": 40
 },
 "Christian McCaffrey": {
 "rush_att": 7,
@@ -41,7 +43,7 @@
 "Eddy Pineiro": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 3,
+"xp_made": 4,
 "xp_missed": 0
 }
 },
@@ -54,11 +56,13 @@
 "def_st_td_lengths": []
 },
 "SF": {
-"sacks": 0,
-"int": 0,
+"sacks": 1,
+"int": 1,
 "fum_rec": 0,
 "safeties": 0,
-"def_st_td_lengths": []
+"def_st_td_lengths": [
+18
+]
 }
 },
 "src": "ESPN"
