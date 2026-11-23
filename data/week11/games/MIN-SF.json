@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Halftime",
+"clock": "Q3 13:36",
 "score": {
 "SF": 28,
 "MIN": 10
@@ -13,8 +13,8 @@
 "rec_yds": 36
 },
 "T.J. Hockenson": {
-"rec": 4,
-"rec_yds": 40
+"rec": 5,
+"rec_yds": 48
 },
 "Christian McCaffrey": {
 "rush_att": 9,
