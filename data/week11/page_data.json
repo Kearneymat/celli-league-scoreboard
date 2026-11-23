@@ -166,7 +166,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -252,7 +252,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -480,7 +480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -615,7 +615,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 241,
+"total": 242,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -769,7 +769,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -822,15 +822,15 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -1912,7 +1912,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -2534,7 +2534,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -2585,7 +2585,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -2833,7 +2833,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -3118,7 +3118,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -3902,7 +3902,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 264,
+"total": 270,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -3986,7 +3986,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -4071,15 +4071,19 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
 "17-yd TD catch",
 7
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -4368,7 +4372,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -4663,7 +4667,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -4927,7 +4931,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -5010,7 +5014,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -6155,7 +6159,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -6242,7 +6246,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -7018,7 +7022,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -7331,7 +7335,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -7954,7 +7958,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -8096,7 +8100,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 187,
+"total": 188,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -8312,15 +8316,15 @@
 "pos": "K",
 "name": "Eddy Pineiro",
 "team": "SF",
-"pts": 1,
+"pts": 2,
 "comm": null,
 "bd": [
 [
-"1 XP",
-1
+"2 XP",
+2
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -9474,7 +9478,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -9525,7 +9529,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -9771,7 +9775,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -10103,7 +10107,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -10349,7 +10353,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -10875,7 +10879,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -10971,7 +10975,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -11232,7 +11236,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -11638,7 +11642,7 @@
 5
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -12167,7 +12171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -12490,7 +12494,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -12576,7 +12580,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -12776,7 +12780,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13080,7 +13084,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13238,7 +13242,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 213,
+"total": 219,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -13403,15 +13407,19 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
 "17-yd TD catch",
 7
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13516,7 +13524,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 170,
+"total": 176,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13582,7 +13590,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13688,15 +13696,19 @@
 "pos": "TE",
 "name": "George Kittle",
 "team": "SF",
-"pts": 7,
+"pts": 13,
 "comm": null,
 "bd": [
 [
 "17-yd TD catch",
 7
+],
+[
+"8-yd TD catch",
+6
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13715,7 +13727,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -13853,7 +13865,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -14190,7 +14202,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
+"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
 "on": true
 },
 {
@@ -15030,8 +15042,8 @@
 "live": false
 },
 {
-"t": "MIN 7 @ SF 7",
-"s": "Q1 1:13",
+"t": "MIN 7 @ SF 14",
+"s": "Q2 12:32",
 "live": true
 },
 {
