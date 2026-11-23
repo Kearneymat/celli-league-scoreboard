@@ -1,8 +1,8 @@
 {
 "status": "live",
-"clock": "Q3 2:58",
+"clock": "Q4 13:26",
 "score": {
-"SF": 28,
+"SF": 35,
 "MIN": 10
 },
 "players": {
@@ -18,9 +18,13 @@
 "rec_yds": 48
 },
 "Christian McCaffrey": {
-"rush_att": 11,
-"rush_yds": 43,
-"rec": 1
+"rush_att": 12,
+"rush_yds": 49,
+"rec": 2,
+"rec_yds": 13,
+"rush_td_lengths": [
+6
+]
 },
 "George Kittle": {
 "rec": 3,
@@ -46,7 +50,7 @@
 "Eddy Pineiro": {
 "fg_made_dist": [],
 "fg_missed_dist": [],
-"xp_made": 4,
+"xp_made": 5,
 "xp_missed": 0
 }
 },
