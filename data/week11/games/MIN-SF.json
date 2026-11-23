@@ -1,6 +1,6 @@
 {
 "status": "live",
-"clock": "Q2 0:51",
+"clock": "Halftime",
 "score": {
 "SF": 28,
 "MIN": 10
@@ -17,8 +17,9 @@
 "rec_yds": 40
 },
 "Christian McCaffrey": {
-"rush_att": 7,
-"rush_yds": 30
+"rush_att": 9,
+"rush_yds": 40,
+"rec": 1
 },
 "George Kittle": {
 "rec": 2,
@@ -35,7 +36,8 @@
 48
 ],
 "fg_missed_dist": [
-55
+55,
+71
 ],
 "xp_made": 1,
 "xp_missed": 0
