@@ -1,16 +1,19 @@
 {
 "status": "live",
-"clock": "Q1 5:22",
+"clock": "Q1 1:13",
 "score": {
 "SF": 7,
-"MIN": 0
+"MIN": 7
 },
 "players": {
 "T.J. Hockenson": {
-"rec": 1,
-"rec_yds": 20
+"rec": 2,
+"rec_yds": 36
 },
-"Justin Jefferson": {},
+"Justin Jefferson": {
+"rec": 1,
+"rec_yds": 29
+},
 "Christian McCaffrey": {
 "rush_att": 3,
 "rush_yds": 8
@@ -29,7 +32,7 @@
 "fg_missed_dist": [
 55
 ],
-"xp_made": 0,
+"xp_made": 1,
 "xp_missed": 0
 },
 "Eddy Pineiro": {

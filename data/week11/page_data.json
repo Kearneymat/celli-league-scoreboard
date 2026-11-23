@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 269,
+"total": 270,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -166,7 +166,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -240,15 +240,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -476,7 +480,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -765,7 +769,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -826,7 +830,7 @@
 1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -1908,7 +1912,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -2376,7 +2380,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 226,
+"total": 227,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2530,7 +2534,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -2569,15 +2573,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -2825,7 +2833,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -3110,7 +3118,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -3978,7 +3986,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -4071,7 +4079,7 @@
 7
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -4360,7 +4368,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -4655,7 +4663,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -4779,7 +4787,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 269,
+"total": 270,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4919,7 +4927,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -4990,15 +4998,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -5995,7 +6007,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 254,
+"total": 255,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -6143,7 +6155,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -6218,15 +6230,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -7002,7 +7018,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -7315,7 +7331,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -7938,7 +7954,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -8304,7 +8320,7 @@
 1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -9283,7 +9299,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 273,
+"total": 274,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9458,7 +9474,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -9497,15 +9513,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -9751,7 +9771,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -10083,7 +10103,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -10329,7 +10349,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -10855,7 +10875,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -10951,7 +10971,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -11212,7 +11232,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -11402,7 +11422,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 277,
+"total": 282,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -11610,10 +11630,15 @@
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"bd": [
+[
+"36 rec yds",
+5
+]
+],
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -12142,7 +12167,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -12303,7 +12328,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 255,
+"total": 256,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -12465,7 +12490,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -12539,15 +12564,19 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -12747,7 +12776,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -13051,7 +13080,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -13382,7 +13411,7 @@
 7
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -13487,7 +13516,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 169,
+"total": 170,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13553,7 +13582,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -13667,22 +13696,26 @@
 7
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": -1,
+"pts": 0,
 "comm": null,
 "bd": [
 [
 "missed 55-yd FG",
 -1
+],
+[
+"1 XP",
+1
 ]
 ],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -13820,7 +13853,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -14157,7 +14190,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 0 @ SF 7 \u00b7 Q1 5:22",
+"game": "MIN 7 @ SF 7 \u00b7 Q1 1:13",
 "on": true
 },
 {
@@ -14997,8 +15030,8 @@
 "live": false
 },
 {
-"t": "MIN 0 @ SF 7",
-"s": "Q1 5:22",
+"t": "MIN 7 @ SF 7",
+"s": "Q1 1:13",
 "live": true
 },
 {
