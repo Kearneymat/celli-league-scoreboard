@@ -1,17 +1,35 @@
 {
 "status": "live",
-"clock": "Q1 14:55",
+"clock": "Q1 9:07",
 "score": {
-"SF": 0,
+"SF": 7,
 "MIN": 0
 },
 "players": {
+"T.J. Hockenson": {
+"rec": 1,
+"rec_yds": 20
+},
 "Christian McCaffrey": {
-"rush_att": 1,
-"rush_yds": 3
+"rush_att": 2,
+"rush_yds": 10
+},
+"George Kittle": {
+"rec": 1,
+"rec_yds": 17,
+"rec_td_lengths": [
+17
+]
 }
 },
-"kickers": {},
+"kickers": {
+"Eddy Pineiro": {
+"fg_made_dist": [],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
+},
 "defenses": {
 "MIN": {
 "sacks": 0,
