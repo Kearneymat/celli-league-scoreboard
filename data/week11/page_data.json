@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 270,
+"total": 279,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -166,7 +166,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -240,9 +240,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -252,7 +256,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -480,7 +484,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -769,7 +773,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -830,7 +834,7 @@
 2
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -1912,7 +1916,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -2380,7 +2384,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 227,
+"total": 236,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2534,7 +2538,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -2573,9 +2577,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -2585,7 +2593,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -2833,7 +2841,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -3118,7 +3126,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -3986,7 +3994,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -4083,7 +4091,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -4372,7 +4380,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -4667,7 +4675,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -4791,7 +4799,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 270,
+"total": 279,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4931,7 +4939,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -5002,9 +5010,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -5014,7 +5026,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -6011,7 +6023,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 255,
+"total": 264,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -6159,7 +6171,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -6234,9 +6246,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -6246,7 +6262,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -7022,7 +7038,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -7335,7 +7351,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -7958,7 +7974,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -8324,7 +8340,7 @@
 2
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -9303,7 +9319,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 274,
+"total": 283,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9478,7 +9494,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -9517,9 +9533,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -9529,7 +9549,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -9775,7 +9795,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -10107,7 +10127,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -10353,7 +10373,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -10879,7 +10899,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -10975,7 +10995,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -11236,7 +11256,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -11426,7 +11446,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 282,
+"total": 287,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -11634,15 +11654,19 @@
 "pos": "TE",
 "name": "T.J. Hockenson",
 "team": "MIN",
-"pts": 5,
+"pts": 10,
 "comm": null,
 "bd": [
 [
-"36 rec yds",
+"3 catches",
+5
+],
+[
+"39 rec yds",
 5
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -12171,7 +12195,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -12332,7 +12356,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 256,
+"total": 265,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -12494,7 +12518,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -12568,9 +12592,13 @@
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -12580,7 +12608,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -12780,7 +12808,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -13084,7 +13112,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -13419,7 +13447,7 @@
 6
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -13524,7 +13552,7 @@
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 176,
+"total": 185,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13590,7 +13618,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -13708,16 +13736,20 @@
 6
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
 "pos": "K",
 "name": "Will Reichard",
 "team": "MIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
 "bd": [
+[
+"48-yd FG",
+9
+],
 [
 "missed 55-yd FG",
 -1
@@ -13727,7 +13759,7 @@
 1
 ]
 ],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -13865,7 +13897,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -14202,7 +14234,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "MIN 7 @ SF 14 \u00b7 Q2 12:32",
+"game": "MIN 10 @ SF 14 \u00b7 Q2 6:38",
 "on": true
 },
 {
@@ -15042,8 +15074,8 @@
 "live": false
 },
 {
-"t": "MIN 7 @ SF 14",
-"s": "Q2 12:32",
+"t": "MIN 10 @ SF 14",
+"s": "Q2 6:38",
 "live": true
 },
 {
