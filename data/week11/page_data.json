@@ -190,7 +190,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -231,7 +231,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -577,7 +577,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -589,7 +589,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -873,7 +873,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 247,
+"total": 251,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -966,16 +966,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -990,7 +990,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -1117,7 +1117,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -1150,7 +1150,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -1162,7 +1162,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -1170,7 +1170,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 186,
+"total": 189,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -1306,19 +1306,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -1383,7 +1383,7 @@
 4
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -1439,7 +1439,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 272,
+"total": 276,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1544,16 +1544,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -1568,7 +1568,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -1634,7 +1634,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -1663,7 +1663,7 @@
 4
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -1932,7 +1932,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -2018,7 +2018,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 320,
+"total": 327,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -2097,16 +2097,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -2121,7 +2121,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -2156,19 +2156,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -2223,7 +2223,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -2535,7 +2535,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -2545,7 +2545,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -2637,7 +2637,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 251,
+"total": 255,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2716,16 +2716,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -2740,7 +2740,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -2846,7 +2846,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -2915,7 +2915,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -2927,7 +2927,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -2935,7 +2935,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 285,
+"total": 286,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -3000,7 +3000,7 @@
 -3
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -3185,7 +3185,7 @@
 "pos": "K",
 "name": "Matt Gay",
 "team": "LV",
-"pts": 5,
+"pts": 6,
 "comm": null,
 "bd": [
 [
@@ -3193,11 +3193,11 @@
 3
 ],
 [
-"2 XP",
-2
+"3 XP",
+3
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -3253,7 +3253,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 231,
+"total": 248,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3272,31 +3272,39 @@
 "pos": "QB",
 "name": "Trevor Lawrence",
 "team": "JAX",
-"pts": -10,
+"pts": 0,
 "comm": null,
 "bd": [
+[
+"20 completions",
+5
+],
+[
+"205 pass yds",
+5
+],
 [
 "2 INT",
 -10
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -3311,7 +3319,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -3402,19 +3410,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -3751,7 +3759,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -3955,7 +3963,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -4097,7 +4105,7 @@
 4
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -4334,7 +4342,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -4349,7 +4357,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -4390,7 +4398,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -4742,7 +4750,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 266,
+"total": 270,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4839,16 +4847,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -4863,7 +4871,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -4930,7 +4938,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -5252,7 +5260,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -5271,7 +5279,7 @@
 4
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -5330,7 +5338,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -5342,7 +5350,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -5549,7 +5557,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -5814,7 +5822,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -6143,7 +6151,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -6166,7 +6174,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -6209,7 +6217,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -6221,7 +6229,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -6229,7 +6237,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 208,
+"total": 212,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -6314,16 +6322,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -6338,7 +6346,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -6412,7 +6420,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -6490,7 +6498,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -6502,7 +6510,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -6510,7 +6518,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 244,
+"total": 247,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6678,19 +6686,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -6809,7 +6817,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 191,
+"total": 195,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -6876,16 +6884,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -6900,7 +6908,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -6976,7 +6984,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -7293,7 +7301,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -7608,7 +7616,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -7640,7 +7648,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -7685,7 +7693,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -7697,7 +7705,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -7904,7 +7912,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -7937,7 +7945,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8011,7 +8019,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 185,
+"total": 188,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -8141,19 +8149,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8242,7 +8250,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -8258,7 +8266,7 @@
 0
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8288,7 +8296,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 307,
+"total": 311,
 "comm": null,
 "prev": 2758,
 "alive": true,
@@ -8345,16 +8353,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -8369,7 +8377,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -8704,7 +8712,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8796,7 +8804,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8837,7 +8845,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -8848,7 +8856,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -8860,7 +8868,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -9079,7 +9087,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -9205,7 +9213,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 270,
+"total": 274,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9306,16 +9314,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -9330,7 +9338,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -9414,7 +9422,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -9506,7 +9514,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 286,
+"total": 290,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -9555,16 +9563,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -9579,7 +9587,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -9772,7 +9780,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -9805,7 +9813,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -9821,7 +9829,7 @@
 0
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 }
 ]
@@ -9829,7 +9837,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 187,
+"total": 190,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -9980,19 +9988,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -10063,7 +10071,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -10079,7 +10087,7 @@
 0
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -10109,7 +10117,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 254,
+"total": 258,
 "comm": null,
 "prev": 2732,
 "alive": true,
@@ -10154,16 +10162,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -10178,7 +10186,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -10597,7 +10605,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -10670,7 +10678,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -10682,7 +10690,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -10993,7 +11001,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 280,
+"total": 287,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -11072,16 +11080,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -11096,7 +11104,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -11135,19 +11143,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -11204,7 +11212,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -11320,7 +11328,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 273,
+"total": 277,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -11399,16 +11407,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -11423,7 +11431,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -11836,7 +11844,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -11877,7 +11885,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -12129,7 +12137,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -12158,7 +12166,7 @@
 4
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -12169,7 +12177,7 @@
 "comm": null,
 "bd": [
 [
-"20 pts allowed",
+"23 pts allowed",
 0
 ],
 [
@@ -12185,7 +12193,7 @@
 0
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -12196,7 +12204,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -12208,7 +12216,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -12216,7 +12224,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 252,
+"total": 256,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -12313,16 +12321,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -12337,7 +12345,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -12425,7 +12433,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -12517,7 +12525,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 259,
+"total": 263,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -12614,16 +12622,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -12638,7 +12646,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -12715,7 +12723,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -13753,7 +13761,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -13925,7 +13933,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 271,
+"total": 275,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -14004,16 +14012,16 @@
 "pos": "RB",
 "name": "Jonah Coleman",
 "team": "DEN",
-"pts": 39,
+"pts": 43,
 "comm": null,
 "bd": [
 [
-"21 rushes",
-11
+"24 rushes",
+14
 ],
 [
-"102 rush yds",
-10
+"111 rush yds",
+11
 ],
 [
 "1-yd TD run",
@@ -14028,7 +14036,7 @@
 6
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 },
 {
@@ -14121,7 +14129,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -14188,7 +14196,7 @@
 6
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -14221,7 +14229,7 @@
 "comm": null,
 "bd": [
 [
-"17 pts allowed",
+"24 pts allowed",
 0
 ],
 [
@@ -14233,7 +14241,7 @@
 0
 ]
 ],
-"game": "LV 17 @ DEN 31 \u00b7 Q4 5:41",
+"game": "LV 24 @ DEN 31 \u00b7 Q4 2:23",
 "on": true
 }
 ]
@@ -14558,7 +14566,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 198,
+"total": 201,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -14684,19 +14692,19 @@
 "pos": "WR",
 "name": "Parker Washington",
 "team": "JAX",
-"pts": 12,
+"pts": 15,
 "comm": null,
 "bd": [
 [
-"6 catches",
-6
+"7 catches",
+7
 ],
 [
-"66 rec yds",
-6
+"87 rec yds",
+8
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -14729,7 +14737,7 @@
 5
 ]
 ],
-"game": "JAX 9 @ NYG 20 \u00b7 Q4 10:17",
+"game": "JAX 9 @ NYG 23 \u00b7 Q4 7:20",
 "on": true
 },
 {
@@ -14879,13 +14887,13 @@
 "live": false
 },
 {
-"t": "LV 17 @ DEN 31",
-"s": "Q4 5:41",
+"t": "LV 24 @ DEN 31",
+"s": "Q4 2:23",
 "live": true
 },
 {
-"t": "JAX 9 @ NYG 20",
-"s": "Q4 10:17",
+"t": "JAX 9 @ NYG 23",
+"s": "Q4 7:20",
 "live": true
 },
 {

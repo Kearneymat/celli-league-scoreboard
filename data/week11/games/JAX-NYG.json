@@ -1,14 +1,14 @@
 {
 "status": "live",
-"clock": "Q4 10:17",
+"clock": "Q4 7:20",
 "score": {
-"NYG": 20,
+"NYG": 23,
 "JAX": 9
 },
 "players": {
 "Trevor Lawrence": {
-"pass_cmp": 16,
-"pass_yds": 154,
+"pass_cmp": 20,
+"pass_yds": 205,
 "int": 2,
 "rush_att": 3,
 "rush_yds": 7
@@ -20,8 +20,8 @@
 "rec_yds": 20
 },
 "Parker Washington": {
-"rec": 6,
-"rec_yds": 66
+"rec": 7,
+"rec_yds": 87
 },
 "Brenton Strange": {
 "rec": 3,
