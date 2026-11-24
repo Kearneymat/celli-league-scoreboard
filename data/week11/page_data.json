@@ -4,7 +4,7 @@
 {
 "owner": "D Maze",
 "champ": false,
-"total": 291,
+"total": 339,
 "comm": null,
 "prev": 3130,
 "alive": true,
@@ -13,11 +13,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -131,11 +147,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -327,7 +347,7 @@
 {
 "owner": "Ben",
 "champ": false,
-"total": 291,
+"total": 339,
 "comm": null,
 "prev": 3153,
 "alive": true,
@@ -336,11 +356,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -464,11 +500,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -646,7 +686,7 @@
 {
 "owner": "Ian",
 "champ": false,
-"total": 257,
+"total": 343,
 "comm": null,
 "prev": 3263,
 "alive": true,
@@ -655,11 +695,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -765,11 +821,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -855,11 +915,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -879,11 +947,23 @@
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"38-yd FG",
+6
+],
+[
+"56-yd FG",
+12
+],
+[
+"2 XP",
+2
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -938,7 +1018,7 @@
 {
 "owner": "Bella",
 "champ": false,
-"total": 274,
+"total": 322,
 "comm": null,
 "prev": 2934,
 "alive": true,
@@ -947,11 +1027,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -1079,11 +1175,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1244,7 +1344,7 @@
 {
 "owner": "Tuttle",
 "champ": false,
-"total": 193,
+"total": 285,
 "comm": null,
 "prev": 3107,
 "alive": true,
@@ -1253,21 +1353,49 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
 "name": "Jayden Daniels",
 "team": "WAS",
-"pts": 0,
+"pts": 26,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"23 completions",
+8
+],
+[
+"289 pass yds",
+13
+],
+[
+"55 rush yds",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1348,11 +1476,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1416,11 +1548,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1511,7 +1651,7 @@
 {
 "owner": "Danny Woodcock",
 "champ": false,
-"total": 277,
+"total": 352,
 "comm": null,
 "prev": 3120,
 "alive": true,
@@ -1520,11 +1660,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -1668,21 +1824,29 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -1711,11 +1875,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -1814,7 +1986,7 @@
 {
 "owner": "Cann Man",
 "champ": false,
-"total": 200,
+"total": 295,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -1853,11 +2025,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -1995,11 +2183,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -2019,21 +2211,41 @@
 "pos": "TE",
 "name": "Mike Gesicki",
 "team": "CIN",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+9
+],
+[
+"77 rec yds",
+13
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
 "name": "Evan McPherson",
 "team": "CIN",
-"pts": 0,
+"pts": 20,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"38-yd FG",
+6
+],
+[
+"56-yd FG",
+12
+],
+[
+"2 XP",
+2
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -2061,11 +2273,23 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"22 pts allowed",
+0
+],
+[
+"3 sacks",
+6
+],
+[
+"Loss",
+-5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -2098,7 +2322,7 @@
 {
 "owner": "Snipes",
 "champ": false,
-"total": 330,
+"total": 378,
 "comm": null,
 "prev": 2891,
 "alive": true,
@@ -2107,11 +2331,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2225,11 +2465,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2434,7 +2678,7 @@
 {
 "owner": "Bronson",
 "champ": false,
-"total": 248,
+"total": 296,
 "comm": null,
 "prev": 2886,
 "alive": true,
@@ -2443,11 +2687,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2575,11 +2835,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -2740,7 +3004,7 @@
 {
 "owner": "Hummer",
 "champ": false,
-"total": 287,
+"total": 335,
 "comm": null,
 "prev": 2955,
 "alive": true,
@@ -2749,11 +3013,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -2871,11 +3151,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3055,7 +3339,7 @@
 {
 "owner": "Cobb",
 "champ": false,
-"total": 298,
+"total": 341,
 "comm": null,
 "prev": 3019,
 "alive": true,
@@ -3102,11 +3386,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -3247,8 +3547,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3383,7 +3682,7 @@
 {
 "owner": "Nutting",
 "champ": false,
-"total": 273,
+"total": 321,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3392,11 +3691,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -3560,11 +3875,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -3703,7 +4022,7 @@
 {
 "owner": "Tar Heels",
 "champ": false,
-"total": 255,
+"total": 334,
 "comm": null,
 "prev": 2961,
 "alive": true,
@@ -3712,11 +4031,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -3832,11 +4167,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -3936,11 +4275,35 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": 31,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"36-yd FG",
+6
+],
+[
+"40-yd FG",
+9
+],
+[
+"25-yd FG",
+3
+],
+[
+"41-yd FG",
+9
+],
+[
+"26-yd FG",
+3
+],
+[
+"1 XP",
+1
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -3999,7 +4362,7 @@
 {
 "owner": "Romano",
 "champ": false,
-"total": 286,
+"total": 300,
 "comm": null,
 "prev": 2748,
 "alive": true,
@@ -4121,11 +4484,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4153,11 +4520,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4309,7 +4680,7 @@
 {
 "owner": "J Cell",
 "champ": false,
-"total": 276,
+"total": 324,
 "comm": null,
 "prev": 3094,
 "alive": true,
@@ -4318,11 +4689,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4458,11 +4845,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4615,7 +5006,7 @@
 {
 "owner": "Big Daddy",
 "champ": false,
-"total": 266,
+"total": 354,
 "comm": null,
 "prev": 2752,
 "alive": true,
@@ -4624,11 +5015,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -4774,11 +5181,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -4806,21 +5217,37 @@
 "pos": "TE",
 "name": "Mike Gesicki",
 "team": "CIN",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+9
+],
+[
+"77 rec yds",
+13
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -4923,7 +5350,7 @@
 {
 "owner": "Rich CH",
 "champ": true,
-"total": 291,
+"total": 348,
 "comm": null,
 "prev": 2860,
 "alive": true,
@@ -4970,11 +5397,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5050,11 +5493,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5082,11 +5529,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5247,7 +5698,7 @@
 {
 "owner": "Sleepy Joe",
 "champ": false,
-"total": 304,
+"total": 352,
 "comm": null,
 "prev": 3099,
 "alive": true,
@@ -5256,11 +5707,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -5374,11 +5841,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5562,7 +6033,7 @@
 {
 "owner": "Kearney",
 "champ": false,
-"total": 236,
+"total": 288,
 "comm": null,
 "prev": 2660,
 "alive": true,
@@ -5571,11 +6042,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -5707,11 +6194,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -5847,7 +6338,7 @@
 {
 "owner": "Paradis",
 "champ": false,
-"total": 290,
+"total": 338,
 "comm": null,
 "prev": 2956,
 "alive": true,
@@ -5886,11 +6377,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -5989,11 +6496,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6162,7 +6673,7 @@
 {
 "owner": "Boogie Man",
 "champ": false,
-"total": 276,
+"total": 328,
 "comm": null,
 "prev": 2858,
 "alive": true,
@@ -6171,11 +6682,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -6329,11 +6856,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6476,7 +7007,7 @@
 {
 "owner": "Duncanson",
 "champ": false,
-"total": 232,
+"total": 280,
 "comm": null,
 "prev": 2528,
 "alive": true,
@@ -6485,11 +7016,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -6613,11 +7160,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -6762,7 +7313,7 @@
 {
 "owner": "Finger",
 "champ": false,
-"total": 250,
+"total": 298,
 "comm": null,
 "prev": 3050,
 "alive": true,
@@ -6801,11 +7352,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -6920,11 +7487,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7060,7 +7631,7 @@
 {
 "owner": "Pork Chop",
 "champ": false,
-"total": 207,
+"total": 264,
 "comm": null,
 "prev": 2884,
 "alive": true,
@@ -7069,11 +7640,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7179,11 +7766,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7211,11 +7802,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7355,7 +7950,7 @@
 {
 "owner": "Pacman",
 "champ": false,
-"total": 316,
+"total": 382,
 "comm": null,
 "prev": 2726,
 "alive": true,
@@ -7402,11 +7997,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -7482,11 +8093,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -7572,11 +8187,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -7691,7 +8314,7 @@
 {
 "owner": "Svendson",
 "champ": false,
-"total": 301,
+"total": 349,
 "comm": null,
 "prev": 3146,
 "alive": true,
@@ -7700,11 +8323,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -7822,11 +8461,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8008,7 +8651,7 @@
 {
 "owner": "Tansey",
 "champ": false,
-"total": 241,
+"total": 307,
 "comm": null,
 "prev": 2607,
 "alive": true,
@@ -8017,11 +8660,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8139,11 +8798,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8203,11 +8866,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8306,7 +8977,7 @@
 {
 "owner": "Jori",
 "champ": false,
-"total": 191,
+"total": 265,
 "comm": null,
 "prev": 2259,
 "alive": true,
@@ -8315,11 +8986,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8417,11 +9104,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8494,11 +9185,19 @@
 "pos": "TE",
 "name": "Mike Gesicki",
 "team": "CIN",
-"pts": 0,
+"pts": 22,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+9
+],
+[
+"77 rec yds",
+13
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -8585,7 +9284,7 @@
 {
 "owner": "Keoni",
 "champ": false,
-"total": 311,
+"total": 386,
 "comm": null,
 "prev": 2758,
 "alive": true,
@@ -8594,11 +9293,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -8720,11 +9435,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8739,11 +9458,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -8771,11 +9494,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -8904,7 +9635,7 @@
 {
 "owner": "Shane H",
 "champ": false,
-"total": 223,
+"total": 271,
 "comm": null,
 "prev": 2747,
 "alive": true,
@@ -8943,11 +9674,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -9024,11 +9771,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9194,7 +9945,7 @@
 {
 "owner": "Al Cat",
 "champ": false,
-"total": 294,
+"total": 342,
 "comm": null,
 "prev": 2966,
 "alive": true,
@@ -9203,11 +9954,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9347,11 +10114,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9508,7 +10279,7 @@
 {
 "owner": "Tre/Connor",
 "champ": false,
-"total": 295,
+"total": 343,
 "comm": null,
 "prev": 2991,
 "alive": true,
@@ -9517,11 +10288,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9670,11 +10457,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -9835,7 +10626,7 @@
 {
 "owner": "Gavin",
 "champ": false,
-"total": 300,
+"total": 357,
 "comm": null,
 "prev": 2588,
 "alive": true,
@@ -9844,11 +10635,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -9958,21 +10765,29 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10171,7 +10986,7 @@
 {
 "owner": "Moser",
 "champ": false,
-"total": 200,
+"total": 252,
 "comm": null,
 "prev": 2737,
 "alive": true,
@@ -10180,11 +10995,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10312,11 +11143,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10461,7 +11296,7 @@
 {
 "owner": "Lynn",
 "champ": false,
-"total": 270,
+"total": 318,
 "comm": null,
 "prev": 2732,
 "alive": true,
@@ -10470,11 +11305,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10620,11 +11471,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -10764,7 +11619,7 @@
 {
 "owner": "Hurls",
 "champ": false,
-"total": 259,
+"total": 307,
 "comm": null,
 "prev": 2837,
 "alive": true,
@@ -10773,11 +11628,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -10933,11 +11804,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11059,7 +11934,7 @@
 {
 "owner": "King",
 "champ": false,
-"total": 255,
+"total": 269,
 "comm": null,
 "prev": 2348,
 "alive": true,
@@ -11216,21 +12091,29 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11378,7 +12261,7 @@
 {
 "owner": "TJP",
 "champ": false,
-"total": 302,
+"total": 368,
 "comm": null,
 "prev": 2963,
 "alive": true,
@@ -11425,11 +12308,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -11571,21 +12470,33 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -11714,7 +12625,7 @@
 {
 "owner": "Macbeth",
 "champ": false,
-"total": 297,
+"total": 376,
 "comm": null,
 "prev": 2590,
 "alive": true,
@@ -11723,11 +12634,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -11876,11 +12803,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -11966,11 +12897,35 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": 31,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"36-yd FG",
+6
+],
+[
+"40-yd FG",
+9
+],
+[
+"25-yd FG",
+3
+],
+[
+"41-yd FG",
+9
+],
+[
+"26-yd FG",
+3
+],
+[
+"1 XP",
+1
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "DEF",
@@ -12025,7 +12980,7 @@
 {
 "owner": "Kawazoe",
 "champ": false,
-"total": 266,
+"total": 275,
 "comm": null,
 "prev": 2563,
 "alive": true,
@@ -12163,8 +13118,7 @@
 "pts": 0,
 "comm": null,
 "bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12192,11 +13146,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12348,7 +13306,7 @@
 {
 "owner": "Paul Dej",
 "champ": false,
-"total": 223,
+"total": 306,
 "comm": null,
 "prev": 2613,
 "alive": true,
@@ -12357,11 +13315,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -12508,11 +13482,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -12550,11 +13528,35 @@
 "pos": "K",
 "name": "Drew Stevens",
 "team": "WAS",
-"pts": 0,
+"pts": 31,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"36-yd FG",
+6
+],
+[
+"40-yd FG",
+9
+],
+[
+"25-yd FG",
+3
+],
+[
+"41-yd FG",
+9
+],
+[
+"26-yd FG",
+3
+],
+[
+"1 XP",
+1
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "K",
@@ -12635,7 +13637,7 @@
 {
 "owner": "Putin",
 "champ": false,
-"total": 277,
+"total": 325,
 "comm": null,
 "prev": 2646,
 "alive": true,
@@ -12674,11 +13676,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "RB",
@@ -12762,11 +13780,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -12962,7 +13984,7 @@
 {
 "owner": "Dogga",
 "champ": false,
-"total": 275,
+"total": 350,
 "comm": null,
 "prev": 2842,
 "alive": true,
@@ -12971,11 +13993,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13089,11 +14127,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13121,11 +14163,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13153,11 +14199,19 @@
 "pos": "TE",
 "name": "Chig Okonkwo",
 "team": "WAS",
-"pts": 0,
+"pts": 18,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"4 catches",
+7
+],
+[
+"66 rec yds",
+11
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "TE",
@@ -13270,7 +14324,7 @@
 {
 "owner": "Adam",
 "champ": false,
-"total": 275,
+"total": 327,
 "comm": null,
 "prev": 2712,
 "alive": true,
@@ -13279,11 +14333,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13437,11 +14507,15 @@
 "pos": "WR",
 "name": "Tee Higgins",
 "team": "CIN",
-"pts": 0,
+"pts": 9,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"31-yd TD catch",
+9
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -13588,7 +14662,7 @@
 {
 "owner": "Chi Chi",
 "champ": false,
-"total": 229,
+"total": 273,
 "comm": null,
 "prev": 2527,
 "alive": false,
@@ -13597,11 +14671,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13866,18 +14956,30 @@
 "pos": "DEF",
 "name": "Bengals D",
 "team": "CIN",
-"pts": 0,
+"pts": 1,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"22 pts allowed",
+0
+],
+[
+"3 sacks",
+6
+],
+[
+"Loss",
+-5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 }
 ]
 },
 {
 "owner": "Max Cat",
 "champ": false,
-"total": 201,
+"total": 249,
 "comm": null,
 "prev": 2713,
 "alive": false,
@@ -13886,11 +14988,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -13976,11 +15094,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14447,7 +15569,7 @@
 {
 "owner": "Pizzi",
 "champ": false,
-"total": 310,
+"total": 358,
 "comm": null,
 "prev": 2668,
 "alive": false,
@@ -14456,11 +15578,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -14618,11 +15756,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -14783,7 +15925,7 @@
 {
 "owner": "Maffeo",
 "champ": false,
-"total": 273,
+"total": 278,
 "comm": null,
 "prev": 2443,
 "alive": false,
@@ -14941,11 +16083,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -15100,7 +16246,7 @@
 {
 "owner": "Matt CH",
 "champ": false,
-"total": 204,
+"total": 252,
 "comm": null,
 "prev": 2453,
 "alive": false,
@@ -15109,11 +16255,27 @@
 "pos": "QB",
 "name": "Joe Burrow",
 "team": "CIN",
-"pts": 0,
+"pts": 43,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"28 completions",
+13
+],
+[
+"300 pass yds",
+15
+],
+[
+"31-yd TD pass",
+9
+],
+[
+"4-yd TD pass",
+6
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "QB",
@@ -15216,11 +16378,15 @@
 "pos": "WR",
 "name": "Ja'Marr Chase",
 "team": "CIN",
-"pts": 0,
+"pts": 5,
 "comm": null,
-"bd": [],
-"game": "CIN @ WAS \u00b7 Mon 8:15 ET",
-"yet": true
+"bd": [
+[
+"5 catches",
+5
+]
+],
+"game": "CIN 20 @ WAS 22 \u00b7 Final"
 },
 {
 "pos": "WR",
@@ -15434,8 +16600,8 @@
 "live": false
 },
 {
-"t": "CIN @ WAS",
-"s": "Mon 8:15 ET",
+"t": "CIN 20 @ WAS 22",
+"s": "Final",
 "live": false
 }
 ]

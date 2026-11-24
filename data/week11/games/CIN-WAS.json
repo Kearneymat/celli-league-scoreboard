@@ -1,0 +1,89 @@
+{
+"status": "final",
+"clock": "Final",
+"score": {
+"WAS": 22,
+"CIN": 20
+},
+"players": {
+"Joe Burrow": {
+"pass_cmp": 28,
+"pass_yds": 300,
+"rush_att": 2,
+"rush_yds": -1,
+"pass_td_lengths": [
+31,
+4
+]
+},
+"Ja'Marr Chase": {
+"rec": 5,
+"rec_yds": 31
+},
+"Tee Higgins": {
+"rec": 2,
+"rec_yds": 43,
+"rec_td_lengths": [
+31
+]
+},
+"Mike Gesicki": {
+"rec": 5,
+"rec_yds": 77
+},
+"Jayden Daniels": {
+"pass_cmp": 23,
+"pass_yds": 289,
+"rush_att": 6,
+"rush_yds": 55
+},
+"Stefon Diggs": {
+"rec": 4,
+"rec_yds": 45
+},
+"Chig Okonkwo": {
+"rec": 4,
+"rec_yds": 66
+}
+},
+"kickers": {
+"Evan McPherson": {
+"fg_made_dist": [
+38,
+56
+],
+"fg_missed_dist": [],
+"xp_made": 2,
+"xp_missed": 0
+},
+"Drew Stevens": {
+"fg_made_dist": [
+36,
+40,
+25,
+41,
+26
+],
+"fg_missed_dist": [],
+"xp_made": 1,
+"xp_missed": 0
+}
+},
+"defenses": {
+"CIN": {
+"sacks": 3,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+},
+"WAS": {
+"sacks": 3,
+"int": 0,
+"fum_rec": 0,
+"safeties": 0,
+"def_st_td_lengths": []
+}
+},
+"src": "ESPN"
+}
