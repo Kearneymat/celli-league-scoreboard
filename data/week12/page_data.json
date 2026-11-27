@@ -1,0 +1,3967 @@
+{
+"week": 12,
+"teams": [
+{
+"owner": "D Maze",
+"champ": false,
+"total": 129,
+"comm": 129,
+"prev": 3468,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Ben",
+"champ": false,
+"total": 17,
+"comm": 17,
+"prev": 3492,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DJ Moore",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Ian",
+"champ": false,
+"total": 154,
+"comm": 154,
+"prev": 3606,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Dalton Kincaid",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "BUF \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Bella",
+"champ": false,
+"total": 143,
+"comm": 143,
+"prev": 3256,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Patrick Mahomes",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 49,
+"comm": 49,
+"bd": [
+[
+"Official score",
+49
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Cairo Santos",
+"team": "CHI",
+"pts": 13,
+"comm": 13,
+"bd": [
+[
+"Official score",
+13
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Tuttle",
+"champ": false,
+"total": 97,
+"comm": 97,
+"prev": 3392,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"champ": false,
+"total": 96,
+"comm": 96,
+"prev": 3472,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "DET \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Cann Man",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2908,
+"alive": true,
+"lineup": []
+},
+{
+"owner": "Snipes",
+"champ": false,
+"total": 132,
+"comm": 132,
+"prev": 3269,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Brock Bowers",
+"team": "LV",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LV \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Bronson",
+"champ": false,
+"total": 147,
+"comm": 147,
+"prev": 3182,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 49,
+"comm": 49,
+"bd": [
+[
+"Official score",
+49
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DJ Moore",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "BUF \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Hummer",
+"champ": false,
+"total": 150,
+"comm": 150,
+"prev": 3290,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Javonte Williams",
+"team": "DAL",
+"pts": 49,
+"comm": 49,
+"bd": [
+[
+"Official score",
+49
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon McManus",
+"team": "LAR",
+"pts": 35,
+"comm": 35,
+"bd": [
+[
+"Official score",
+35
+]
+],
+"game": "LAR \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Cobb",
+"champ": false,
+"total": 77,
+"comm": 77,
+"prev": 3360,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Nutting",
+"champ": false,
+"total": 95,
+"comm": 95,
+"prev": 3282,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Blake Corum",
+"team": "LAR",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "LAR \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Tar Heels",
+"champ": false,
+"total": 90,
+"comm": 90,
+"prev": 3280,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Romano",
+"champ": false,
+"total": 71,
+"comm": 71,
+"prev": 3048,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "J Cell",
+"champ": false,
+"total": 212,
+"comm": 212,
+"prev": 3417,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Big Daddy",
+"champ": false,
+"total": 97,
+"comm": 97,
+"prev": 3106,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Jameson Williams",
+"team": "DET",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Rich CH",
+"champ": true,
+"total": 120,
+"comm": 120,
+"prev": 3208,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Sleepy Joe",
+"champ": false,
+"total": 137,
+"comm": 137,
+"prev": 3450,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Jameson Williams",
+"team": "DET",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Kearney",
+"champ": false,
+"total": 130,
+"comm": 130,
+"prev": 2948,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Rome Odunze",
+"team": "CHI",
+"pts": 30,
+"comm": 30,
+"bd": [
+[
+"Official score",
+30
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Tyler Higbee",
+"team": "LAR",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "LAR \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Paradis",
+"champ": false,
+"total": 132,
+"comm": 132,
+"prev": 3294,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Boogie Man",
+"champ": false,
+"total": 152,
+"comm": 152,
+"prev": 3185,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Duncanson",
+"champ": false,
+"total": 121,
+"comm": 121,
+"prev": 2808,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Finger",
+"champ": false,
+"total": 72,
+"comm": 72,
+"prev": 3347,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Patrick Mahomes",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Adam",
+"champ": false,
+"total": 111,
+"comm": 111,
+"prev": 3038,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Pacman",
+"champ": false,
+"total": 150,
+"comm": 150,
+"prev": 3107,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "DEF",
+"name": "Cowboys D",
+"team": "DAL",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Svendson",
+"champ": false,
+"total": 146,
+"comm": 146,
+"prev": 3494,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Tansey",
+"champ": false,
+"total": 131,
+"comm": 131,
+"prev": 2913,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Rome Odunze",
+"team": "CHI",
+"pts": 30,
+"comm": 30,
+"bd": [
+[
+"Official score",
+30
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DeVonta Smith",
+"team": "PHI",
+"pts": 53,
+"comm": 53,
+"bd": [
+[
+"Official score",
+53
+]
+],
+"game": "PHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Macbeth",
+"champ": false,
+"total": 148,
+"comm": 148,
+"prev": 2966,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Keoni",
+"champ": false,
+"total": 97,
+"comm": 97,
+"prev": 3144,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Paul Dej",
+"champ": false,
+"total": 165,
+"comm": 165,
+"prev": 2919,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DeVonta Smith",
+"team": "PHI",
+"pts": 53,
+"comm": 53,
+"bd": [
+[
+"Official score",
+53
+]
+],
+"game": "PHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Al Cat",
+"champ": false,
+"total": 132,
+"comm": 132,
+"prev": 3307,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"champ": false,
+"total": 84,
+"comm": 84,
+"prev": 3334,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jordan Love",
+"team": "GB",
+"pts": -4,
+"comm": -4,
+"bd": [
+[
+"Official score",
+-4
+]
+],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Gavin",
+"champ": false,
+"total": 53,
+"comm": 53,
+"prev": 2945,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "BUF \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Putin",
+"champ": false,
+"total": 192,
+"comm": 192,
+"prev": 2971,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Brandon Aubrey",
+"team": "DAL",
+"pts": 14,
+"comm": 14,
+"bd": [
+[
+"Official score",
+14
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Lynn",
+"champ": false,
+"total": 77,
+"comm": 77,
+"prev": 3050,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Hurls",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 3144,
+"alive": true,
+"lineup": []
+},
+{
+"owner": "Dogga",
+"champ": false,
+"total": 109,
+"comm": 109,
+"prev": 2192,
+"alive": true,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "TJP",
+"champ": false,
+"total": 72,
+"comm": 72,
+"prev": 3331,
+"alive": true,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Jori",
+"champ": false,
+"total": 123,
+"comm": 123,
+"prev": 2529,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Kawazoe",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2837,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Shane H",
+"champ": false,
+"total": 132,
+"comm": 132,
+"prev": 3018,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Moser",
+"champ": false,
+"total": 112,
+"comm": 112,
+"prev": 2988,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "King",
+"champ": false,
+"total": 78,
+"comm": 78,
+"prev": 2616,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Patrick Mahomes",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Blake Corum",
+"team": "LAR",
+"pts": 46,
+"comm": 46,
+"bd": [
+[
+"Official score",
+46
+]
+],
+"game": "LAR \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Kenneth Walker",
+"team": "KC",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Matthew Golden",
+"team": "GB",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "GB \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Khalil Shakir",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Jameson Williams",
+"team": "DET",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Pork Chop",
+"champ": false,
+"total": 178,
+"comm": 178,
+"prev": 3148,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Chi Chi",
+"champ": false,
+"total": 143,
+"comm": 143,
+"prev": 2800,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Saquon Barkley",
+"team": "PHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Khalil Shakir",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Cairo Santos",
+"team": "CHI",
+"pts": 13,
+"comm": 13,
+"bd": [
+[
+"Official score",
+13
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Max Cat",
+"champ": false,
+"total": 153,
+"comm": 153,
+"prev": 2962,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DJ Moore",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Amon-Ra St. Brown",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Luther Burden",
+"team": "CHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "CHI \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Lee",
+"champ": false,
+"total": 0,
+"comm": 0,
+"prev": 2279,
+"alive": false,
+"lineup": []
+},
+{
+"owner": "Pizzi",
+"champ": false,
+"total": 147,
+"comm": 147,
+"prev": 3026,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Caleb Williams",
+"team": "CHI",
+"pts": 52,
+"comm": 52,
+"bd": [
+[
+"Official score",
+52
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DeVonta Smith",
+"team": "PHI",
+"pts": 53,
+"comm": 53,
+"bd": [
+[
+"Official score",
+53
+]
+],
+"game": "PHI \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "BUF \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Maffeo",
+"champ": false,
+"total": 138,
+"comm": 138,
+"prev": 2726,
+"alive": false,
+"lineup": [
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "D'Andre Swift",
+"team": "CHI",
+"pts": 31,
+"comm": 31,
+"bd": [
+[
+"Official score",
+31
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Sam LaPorta",
+"team": "DET",
+"pts": 21,
+"comm": 21,
+"bd": [
+[
+"Official score",
+21
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Jake Bates",
+"team": "DET",
+"pts": 6,
+"comm": 6,
+"bd": [
+[
+"Official score",
+6
+]
+],
+"game": "DET \u00b7 Week 12 final"
+}
+]
+},
+{
+"owner": "Matt CH",
+"champ": false,
+"total": 213,
+"comm": 213,
+"prev": 2705,
+"alive": false,
+"lineup": [
+{
+"pos": "QB",
+"name": "Dak Prescott",
+"team": "DAL",
+"pts": 32,
+"comm": 32,
+"bd": [
+[
+"Official score",
+32
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "QB",
+"name": "Jared Goff",
+"team": "DET",
+"pts": 28,
+"comm": 28,
+"bd": [
+[
+"Official score",
+28
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Jahmyr Gibbs",
+"team": "DET",
+"pts": 60,
+"comm": 60,
+"bd": [
+[
+"Official score",
+60
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Emmett Johnson",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "RB",
+"name": "Saquon Barkley",
+"team": "PHI",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "PHI \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "DJ Moore",
+"team": "BUF",
+"pts": 0,
+"comm": 0,
+"bd": [],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "CeeDee Lamb",
+"team": "DAL",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "George Pickens",
+"team": "DAL",
+"pts": 11,
+"comm": 11,
+"bd": [
+[
+"Official score",
+11
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "WR",
+"name": "Jameson Williams",
+"team": "DET",
+"pts": 12,
+"comm": 12,
+"bd": [
+[
+"Official score",
+12
+]
+],
+"game": "DET \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Travis Kelce",
+"team": "KC",
+"pts": 20,
+"comm": 20,
+"bd": [
+[
+"Official score",
+20
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "TE",
+"name": "Colston Loveland",
+"team": "CHI",
+"pts": -3,
+"comm": -3,
+"bd": [
+[
+"Official score",
+-3
+]
+],
+"game": "CHI \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Tyler Bass",
+"team": "BUF",
+"pts": 25,
+"comm": 25,
+"bd": [
+[
+"Official score",
+25
+]
+],
+"game": "BUF \u00b7 Week 12 final"
+},
+{
+"pos": "K",
+"name": "Harrison Butker",
+"team": "KC",
+"pts": 1,
+"comm": 1,
+"bd": [
+[
+"Official score",
+1
+]
+],
+"game": "KC \u00b7 Week 12 final"
+},
+{
+"pos": "DEF",
+"name": "Cowboys D",
+"team": "DAL",
+"pts": -8,
+"comm": -8,
+"bd": [
+[
+"Official score",
+-8
+]
+],
+"game": "DAL \u00b7 Week 12 final"
+},
+{
+"pos": "DEF",
+"name": "Lions D",
+"team": "DET",
+"pts": -5,
+"comm": -5,
+"bd": [
+[
+"Official score",
+-5
+]
+],
+"game": "DET \u00b7 Week 12 final"
+}
+]
+}
+],
+"games": [
+{
+"t": "Week 12",
+"s": "Official",
+"live": false
+}
+]
+}

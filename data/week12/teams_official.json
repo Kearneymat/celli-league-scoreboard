@@ -1,0 +1,1653 @@
+[
+{
+"owner": "D Maze",
+"alive": true,
+"total": 129,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Ben",
+"alive": true,
+"total": 17,
+"lineup": [
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "DJ Moore",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Ian",
+"alive": true,
+"total": 154,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Kincaid",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 25
+}
+]
+},
+{
+"owner": "Bella",
+"alive": true,
+"total": 143,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"pts": 49
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AST Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+},
+{
+"pos": "K",
+"raw": "Santos",
+"pts": 13
+}
+]
+},
+{
+"owner": "Tuttle",
+"alive": true,
+"total": 97,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Danny Woodcock",
+"alive": true,
+"total": 96,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bates",
+"pts": 6
+}
+]
+},
+{
+"owner": "Cann Man",
+"alive": true,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Snipes",
+"alive": true,
+"total": 132,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Bowers",
+"pts": 0
+}
+]
+},
+{
+"owner": "Bronson",
+"alive": true,
+"total": 147,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"pts": 49
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Dj Moore",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 25
+}
+]
+},
+{
+"owner": "Hummer",
+"alive": true,
+"total": 150,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Jav Will",
+"pts": 49
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Mcmanus",
+"pts": 35
+}
+]
+},
+{
+"owner": "Cobb",
+"alive": true,
+"total": 77,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Nutting",
+"alive": true,
+"total": 95,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Corum",
+"pts": 46
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Tar Heels",
+"alive": true,
+"total": 90,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AST Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Romano",
+"alive": true,
+"total": 71,
+"lineup": [
+{
+"pos": "RB",
+"raw": "E johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "J Cell",
+"alive": true,
+"total": 212,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Ast Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "Big Daddy",
+"alive": true,
+"total": 97,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Rich CH(2025 champ)",
+"alive": true,
+"total": 120,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Sleepy Joe",
+"alive": true,
+"total": 137,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Love",
+"pts": -4
+},
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"pts": 12
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Kearney",
+"alive": true,
+"total": 130,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Odunze",
+"pts": 30
+},
+{
+"pos": "TE",
+"raw": "Higbee",
+"pts": 0
+}
+]
+},
+{
+"owner": "Paradis",
+"alive": true,
+"total": 132,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+}
+]
+},
+{
+"owner": "Boogie Man",
+"alive": true,
+"total": 152,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+}
+]
+},
+{
+"owner": "Duncanson",
+"alive": true,
+"total": 121,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Finger",
+"alive": true,
+"total": 72,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AST Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 0
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "Adam",
+"alive": true,
+"total": 111,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "Pacman",
+"alive": true,
+"total": 150,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "DEF",
+"raw": "Cowboys",
+"pts": 0
+}
+]
+},
+{
+"owner": "Svendson",
+"alive": true,
+"total": 146,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "Tansey",
+"alive": true,
+"total": 131,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Odunze",
+"pts": 30
+},
+{
+"pos": "WR",
+"raw": "D Smith",
+"pts": 53
+}
+]
+},
+{
+"owner": "Macbeth",
+"alive": true,
+"total": 148,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+}
+]
+},
+{
+"owner": "Keoni",
+"alive": true,
+"total": 97,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Paul Dej",
+"alive": true,
+"total": 165,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Dev Smith",
+"pts": 53
+}
+]
+},
+{
+"owner": "Al Cat",
+"alive": true,
+"total": 132,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+}
+]
+},
+{
+"owner": "Tre/Connor",
+"alive": true,
+"total": 84,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Love",
+"pts": -4
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Gavin",
+"alive": true,
+"total": 53,
+"lineup": [
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 25
+}
+]
+},
+{
+"owner": "Putin",
+"alive": true,
+"total": 192,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "A ST Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Aubrey",
+"pts": 14
+}
+]
+},
+{
+"owner": "Lynn",
+"alive": true,
+"total": 77,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Hurls",
+"alive": true,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Dogga",
+"alive": true,
+"total": 109,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "St Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "TJP",
+"alive": true,
+"total": 72,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "E  Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+}
+]
+},
+{
+"owner": "Jori",
+"alive": false,
+"total": 123,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+}
+]
+},
+{
+"owner": "Kawazoe",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Shane H",
+"alive": false,
+"total": 132,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+}
+]
+},
+{
+"owner": "Moser",
+"alive": false,
+"total": 112,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+}
+]
+},
+{
+"owner": "King",
+"alive": false,
+"total": 78,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Mahomes",
+"pts": 0
+},
+{
+"pos": "RB",
+"raw": "Corum",
+"pts": 46
+},
+{
+"pos": "RB",
+"raw": "K Walker",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Golden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Shakir",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Jam Williams",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+}
+]
+},
+{
+"owner": "Pork Chop",
+"alive": false,
+"total": 178,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "A ST Brown",
+"pts": 21
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+}
+]
+},
+{
+"owner": "Chi Chi",
+"alive": false,
+"total": 143,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "Barkley",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "AST Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Shakir",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Santos",
+"pts": 13
+}
+]
+},
+{
+"owner": "Max Cat",
+"alive": false,
+"total": 153,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "WR",
+"raw": "Dj Moore",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "AS Brown",
+"pts": 21
+},
+{
+"pos": "WR",
+"raw": "Burden",
+"pts": 0
+}
+]
+},
+{
+"owner": "Lee",
+"alive": false,
+"total": 0,
+"lineup": []
+},
+{
+"owner": "Pizzi",
+"alive": false,
+"total": 147,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Caleb",
+"pts": 52
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Dev Smith",
+"pts": 53
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 25
+}
+]
+},
+{
+"owner": "Maffeo",
+"alive": false,
+"total": 138,
+"lineup": [
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "Swift",
+"pts": 31
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Laporta",
+"pts": 21
+},
+{
+"pos": "K",
+"raw": "Bates",
+"pts": 6
+}
+]
+},
+{
+"owner": "Matt CH",
+"alive": false,
+"total": 213,
+"lineup": [
+{
+"pos": "QB",
+"raw": "Dak",
+"pts": 32
+},
+{
+"pos": "QB",
+"raw": "Goff",
+"pts": 28
+},
+{
+"pos": "RB",
+"raw": "Gibbs",
+"pts": 60
+},
+{
+"pos": "RB",
+"raw": "E Johnson",
+"pts": 20
+},
+{
+"pos": "RB",
+"raw": "Barkley",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Dj Moore",
+"pts": 0
+},
+{
+"pos": "WR",
+"raw": "Lamb",
+"pts": 20
+},
+{
+"pos": "WR",
+"raw": "Pickens",
+"pts": 11
+},
+{
+"pos": "WR",
+"raw": "Jam Will",
+"pts": 12
+},
+{
+"pos": "TE",
+"raw": "Kelce",
+"pts": 20
+},
+{
+"pos": "TE",
+"raw": "Loveland",
+"pts": -3
+},
+{
+"pos": "K",
+"raw": "Bass",
+"pts": 25
+},
+{
+"pos": "K",
+"raw": "Butker",
+"pts": 1
+},
+{
+"pos": "DEF",
+"raw": "Cowboys",
+"pts": -8
+},
+{
+"pos": "DEF",
+"raw": "Lions",
+"pts": -5
+}
+]
+}
+]

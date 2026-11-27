@@ -120,3 +120,4 @@ PL.update({'mcghlaughlin': ('Chase McLaughlin', 'TB'), 'ward': ('Cam Ward', 'TEN
  'TE:okangwo': ('Chig Okonkwo', 'WAS'), 'okangwo': ('Chig Okonkwo', 'WAS'), 'ayomanor': ('Elic Ayomanor', 'TEN'), 'collins': ('Nico Collins', 'HOU'),
  'jjefferson': ('Justin Jefferson', 'MIN'), 'tate': ('Carnell Tate', 'TEN')})
 DF.update({'billls': 'BUF'})
+PL.update({'dsmith': ('DeVonta Smith', 'PHI')})
